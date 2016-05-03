@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_fb170a88-294b-41b5-b002-95dbf3ffb284" source="Tamboti" refid="" href="i_fb170a88-294b-41b5-b002-95dbf3ffb284.jpg">
+        <rightsSet dataDate="2015-11-23T10:12:43.627+01:00">
+            <display dataDate="2015-11-23T10:12:43.627+01:00"/>
+            <notes dataDate="2015-11-23T10:12:43.627+01:00"/>
+            <rights dataDate="2015-11-23T10:12:43.627+01:00" pref="false" source="http://hwalther.home.xs4all.nl/" type="copyrighted">
+                <rightsHolder dataDate="2015-11-23T10:12:43.627+01:00">Walt Disney Studios</rightsHolder>
+                <text dataDate="2015-11-23T10:12:43.627+01:00"/>
+            </rights>
+        </rightsSet>
+        <sourceSet dataDate="2015-11-23T10:13:15.611+01:00">
+            <display dataDate="2015-11-23T10:13:15.611+01:00"/>
+            <notes dataDate="2015-11-23T10:13:15.611+01:00"/>
+            <source dataDate="2015-11-23T10:13:15.611+01:00" pref="false">
+                <refid dataDate="2015-11-23T10:13:15.611+01:00" type="URI">http://hwalther.home.xs4all.nl/images/opc-turtle.gif</refid>
+                <name dataDate="2015-11-23T10:13:15.611+01:00" type="electronic">Hans Walther's Animation Art Collection</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_061.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_0955fdd7-ad82-40ac-a582-a901157f0b30" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

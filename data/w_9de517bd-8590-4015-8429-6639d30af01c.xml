@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_9de517bd-8590-4015-8429-6639d30af01c" source="Kurs" refid="c_5a6a56fe-b4c1-439a-a9d3-c46bc1d87496">
+        <agentSet dataDate="2015-11-16T10:51:14.743+01:00">
+            <display dataDate="2015-11-16T10:51:14.743+01:00"/>
+            <notes dataDate="2015-11-16T10:51:14.743+01:00"/>
+            <agent dataDate="2015-11-16T10:51:14.743+01:00" pref="true" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints">
+                <attribution dataDate="2015-11-16T10:51:14.743+01:00"/>
+                <culture dataDate="2015-11-16T10:51:14.743+01:00">French</culture>
+                <dates dataDate="2015-11-16T10:51:14.743+01:00"/>
+                <name dataDate="2015-11-16T10:51:14.743+01:00" refid="124436763" type="corporate" vocab="viaf">Neurdein frères</name>
+                <role dataDate="2015-11-16T10:51:14.743+01:00" type="code" vocab="marcrelator">pht</role>
+            </agent>
+        </agentSet>
+        <dateSet dataDate="2015-11-16T11:18:31.568+01:00">
+            <display dataDate="2015-11-16T11:03:54.495+01:00">ca. 1889</display>
+            <notes dataDate="2015-11-16T11:03:54.495+01:00"/>
+            <date dataDate="2015-11-16T11:18:31.568+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" type="creation" circa="true">
+                <earliestDate dataDate="2015-11-16T11:03:54.495+01:00">
+                    <date dataDate="2015-11-16T11:18:31.568+01:00" circa="false" type="about">1884</date>
+                </earliestDate>
+                <latestDate dataDate="2015-11-16T11:03:54.495+01:00">
+                    <date dataDate="2015-11-16T11:18:31.568+01:00" circa="false" type="about">1894</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet dataDate="2015-11-16T11:05:07.354+01:00">
+            <display dataDate="2015-11-16T11:05:07.354+01:00"/>
+            <notes dataDate="2015-11-16T11:05:07.354+01:00"/>
+            <description dataDate="2015-11-16T11:05:07.354+01:00" pref="false" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">
+                <text dataDate="2015-11-16T11:05:07.354+01:00">Mounted souvenir views of Paris and environs issued by Neurdein Frères for visitors to the 1889 Exposition universelle. Collection includes panoramas of Paris and views of its main avenues and monuments as well as views of Versailles and the Parc de Saint-Cloud. These images were probably printed from existing ones in the Neurdein Frères inventory. Six views of the Exposition universelle include a panoramic view taken from the Trocadero, a view of the Parc du Champ de Mars, and an exterior view of the Algerian pavilion.</text>
+                <author dataDate="2015-11-16T11:05:07.354+01:00">
+                    <name dataDate="2015-11-16T11:05:07.354+01:00" refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role dataDate="2015-11-16T11:05:07.354+01:00" type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet dataDate="2015-11-16T12:28:13+01:00">
+            <display dataDate="2015-11-16T12:28:13+01:00"/>
+            <notes dataDate="2015-11-16T12:28:13+01:00"/>
+            <inscription dataDate="2015-11-16T12:28:13+01:00" pref="false">
+                <author dataDate="2015-11-16T12:28:13+01:00" refid="131347215" vocab="viaf">Visual Resources Association</author>
+                <position dataDate="2015-11-16T12:28:13+01:00"/>
+                <text dataDate="2015-11-16T12:28:13+01:00">captions in French, printed on mount above and below image.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet dataDate="2015-11-16T11:49:05.077+01:00">
+            <display dataDate="2015-11-16T11:09:55.939+01:00"/>
+            <notes dataDate="2015-11-16T11:09:55.939+01:00"/>
+            <location dataDate="2015-11-16T11:39:24.562+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" type="site">
+                <refid dataDate="2015-11-16T11:39:24.562+01:00" type="accession"/>
+                <name dataDate="2015-11-16T11:49:05.077+01:00" refid="1103061" type="geographic" vocab="tgn">Saint-Cloud, Parc de</name>
+                <point dataDate="2015-11-16T11:39:24.562+01:00">
+                    <lat dataDate="2015-11-16T11:39:24.562+01:00"/>
+                    <long dataDate="2015-11-16T11:39:24.562+01:00"/>
+                </point>
+            </location>
+            <location dataDate="2015-11-16T11:48:28.677+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" type="site">
+                <refid dataDate="2015-11-16T11:39:24.562+01:00" type="accession"/>
+                <name dataDate="2015-11-16T11:49:05.077+01:00" refid="1100363" type="geographic" vocab="tgn">Versailles, Château de</name>
+                <point dataDate="2015-11-16T11:39:24.562+01:00">
+                    <lat dataDate="2015-11-16T11:39:24.562+01:00"/>
+                    <long dataDate="2015-11-16T11:39:24.562+01:00"/>
+                </point>
+            </location>
+            <location dataDate="2015-11-16T11:49:05.077+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" type="repository">
+                <refid dataDate="2015-11-16T11:25:11.511+01:00" type="accession">93-F101</refid>
+                <name dataDate="2015-11-16T11:49:05.077+01:00" refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <point dataDate="2015-11-16T11:25:11.511+01:00">
+                    <lat dataDate="2015-11-16T11:25:11.511+01:00"/>
+                    <long dataDate="2015-11-16T11:25:11.511+01:00"/>
+                </point>
+            </location>
+            <location dataDate="2015-11-16T11:49:05.077+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" type="site">
+                <refid dataDate="2015-11-16T11:10:35.315+01:00" type="accession"/>
+                <name dataDate="2015-11-16T11:49:05.077+01:00" refid="7008038" type="geographic" vocab="tgn">Paris</name>
+                <point dataDate="2015-11-16T11:10:35.315+01:00">
+                    <lat dataDate="2015-11-16T11:10:35.315+01:00"/>
+                    <long dataDate="2015-11-16T11:10:35.315+01:00"/>
+                </point>
+            </location>
+        </locationSet>
+        <measurementsSet dataDate="2015-11-16T12:21:41.067+01:00">
+            <display dataDate="2015-11-16T12:21:41.067+01:00">37 photographic prints : albumen : image 13 x 19 cm., on sheet 19 x 25 cm</display>
+            <notes dataDate="2015-11-16T12:21:41.067+01:00"/>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" pref="false" type="count" unit="photographic prints" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">37</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="images" pref="false" shape="rectangle" type="height" unit="cm" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551"> 13</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="images" pref="false" shape="rectangle" type="width" unit="cm" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">19</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="images" pref="false" shape="rectangle" type="height" unit="in" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">5 1/8</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="images" pref="false" shape="rectangle" type="width" unit="in" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">7 1/2</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="sheet" pref="false" shape="rectangle" type="height" unit="cm" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">19</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="sheet" pref="false" shape="rectangle" type="width" unit="cm" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">25</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="sheet" pref="false" shape="rectangle" type="height" unit="in" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">7 1/2</measurements>
+            <measurements dataDate="2015-11-16T12:21:41.067+01:00" extent="sheet" pref="false" shape="rectangle" type="width" unit="in" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">9 7/8</measurements>
+        </measurementsSet>
+        <sourceSet dataDate="2015-11-16T12:15:17.942+01:00">
+            <display dataDate="2015-11-16T12:15:17.942+01:00"/>
+            <notes dataDate="2015-11-16T12:15:17.942+01:00"/>
+            <source dataDate="2015-11-16T12:15:17.942+01:00" pref="false">
+                <refid dataDate="2015-11-16T12:15:17.942+01:00" type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints</refid>
+                <name dataDate="2015-11-16T12:15:17.942+01:00" type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source dataDate="2015-11-16T12:15:17.942+01:00" pref="false">
+                <refid dataDate="2015-11-16T12:15:17.942+01:00" type="URI">http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551</refid>
+                <name dataDate="2015-11-16T12:15:17.942+01:00" type="electronic">Getty Research Institute</name>
+            </source>
+            <source dataDate="2015-11-16T12:15:17.942+01:00" pref="false">
+                <refid dataDate="2015-11-16T12:15:17.942+01:00" type="URI">http://www.loc.gov/pictures/collection/coll/item/2002724907/</refid>
+                <name dataDate="2015-11-16T12:15:17.942+01:00" type="electronic">Library of Congress</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+    <display dataDate="2015-11-16T11:29:27.516+01:00"/>
+    <notes dataDate="2015-11-16T11:29:27.516+01:00"/>
+    <subject dataDate="2016-02-04-10-39-22" pref="false" refid="300128222" source="http://www.loc.gov/pictures/collection/coll/item/2002724907/" vocab="aat">
+        <term dataDate="2015-11-16T12:24:04.223+01:00" type="descriptiveTopic">aerial photographs</term>
+    </subject>
+    <subject dataDate="2015-11-16T12:24:04.223+01:00" pref="false" refid="uuid-edaed86f-e92d-536e-a129-4f33ab8e9df9" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" vocab="local">
+        <term dataDate="2015-11-16T12:24:04.223+01:00" type="conceptTopic"/>
+    </subject>
+    <subject dataDate="2015-11-16T12:24:04.223+01:00" pref="false" refid="uuid-b99ae838-4fed-5920-9bf0-19b37b379e09" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" vocab="local">
+        <term dataDate="2015-11-16T12:24:04.223+01:00" type="otherTopic">Universal Exhibition Paris 1889</term>
+    </subject>
+    <subject dataDate="2015-11-16T12:24:04.223+01:00" pref="false" refid="uuid-aa9ffbff-1540-5374-949e-2cfab8cc9be0" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" vocab="local">
+        <term dataDate="2015-11-16T12:24:04.223+01:00" type="geographicPlace">Paris (inhabited place)</term>
+    </subject>
+    <subject dataDate="2015-11-16T12:24:04.223+01:00" pref="false" refid="300015424" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" vocab="aat">
+        <term dataDate="2015-11-16T12:24:04.223+01:00" type="descriptiveTopic">views</term>
+    </subject>
+    <subject dataDate="2015-11-16T12:02:41.439+01:00" pref="false" refid="300263552" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints" vocab="aat">
+        <term dataDate="2015-11-16T12:02:41.439+01:00" type="descriptiveTopic">architecture</term>
+    </subject>
+</subjectSet>
+        <techniqueSet dataDate="2015-11-16T12:22:47.753+01:00">
+            <display dataDate="2015-11-16T12:22:47.753+01:00"/>
+            <notes dataDate="2015-11-16T12:22:47.753+01:00"/>
+            <technique dataDate="2015-11-16T12:22:47.753+01:00" pref="false" refid="300133274" vocab="aat">albumen process</technique>
+        </techniqueSet>
+        <titleSet dataDate="2015-11-16T11:02:04.985+01:00">
+            <display dataDate="2015-11-16T11:02:04.985+01:00"/>
+            <notes dataDate="2015-11-16T11:02:04.985+01:00"/>
+            <title dataDate="2015-11-16T11:02:04.985+01:00" type="repository" pref="false" source="http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551">Views of Paris and Environs and the Exposition Universelle</title>
+        </titleSet>
+        <relationSet dataDate="2015-11-17T11:43:10.387+01:00">
+            <display dataDate="2015-11-16T12:14:04.214+01:00"/>
+            <notes dataDate="2015-11-16T12:14:04.214+01:00"/>
+            <relation dataDate="2015-11-17T11:43:10.387+01:00" type="relatedTo" relids="i_c4b701ce-d2e4-4b3a-9533-84437ca08d08" source="Tamboti" pref="false" href="w_19665035-0612-4201-a7d1-e9268215db28">anderer turm view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="true" relids="i_c4b701ce-d2e4-4b3a-9533-84437ca08d08" source="Tamboti" type="imageIs">Eiffel Tower</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_7ed0a888-7891-44c3-9727-278edf94c900" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_488922c0-dcec-4817-9a89-9040158b0a45" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_8219f480-2225-402b-b740-2ed4225840bb" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_60bb5cd4-8a85-4404-a112-a26d2e44db87" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_3512af46-dfe9-4dbb-bcee-690328269236" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_ba7abaf1-e726-4a58-9cfe-cca0b520291f" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_10e7fb08-cd51-4b74-9ce2-5fec3628d50c" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_1bba8f1d-2f94-49d5-910e-09151caf8e7c" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_d5d14cde-b434-4c36-a84b-5ae197c2707f" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_b6ee441d-aee0-43f5-b48c-9d30119b71b4" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_991c0e30-f326-4cb2-ae36-6cc5459d6fbd" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_4f298677-511d-4065-930a-9505b1d8e085" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_f52d0a6e-1583-4e57-967f-f9c3fd15e92f" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_28f4a2f5-1efe-4d16-8042-c0c9a564f4d9" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_6b4b2a29-3ef8-467b-90f2-1a003307c6ad" source="Tamboti" type="imageIs">general view</relation>
+            <relation dataDate="2015-11-16T12:14:04.214+01:00" pref="false" relids="i_16972a15-40ce-4a20-aefc-3db996064eea" source="Tamboti" type="imageIs">general view</relation>
+        </relationSet>
+        <worktypeSet dataDate="2015-11-16T12:23:26.102+01:00">
+            <display dataDate="2015-11-16T12:23:26.102+01:00"/>
+            <notes dataDate="2015-11-16T12:23:26.102+01:00"/>
+            <worktype dataDate="2015-11-16T12:23:26.102+01:00" pref="false" refid="300046300" vocab="aat">photographs</worktype>
+            <worktype dataDate="2015-11-16T12:23:26.102+01:00" pref="false" refid="300127121" vocab="aat">albumen prints</worktype>
+        </worktypeSet>
+    </work>
+</vra>

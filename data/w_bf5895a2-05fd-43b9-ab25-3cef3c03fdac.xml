@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_bf5895a2-05fd-43b9-ab25-3cef3c03fdac" source="Kurs" refid="c_77f76cb9-1600-4ccb-9b57-19b2cdde058b">
+        <agentSet>
+    <display/>
+    <notes/>
+    
+    <agent dataDate="2016-03-31-15-36-15" pref="true">
+        <attribution/>
+        <culture/>
+        <dates type="life">
+            <earliestDate circa="false" type="">1703</earliestDate>
+            <latestDate circa="false" type="">1770</latestDate>
+        </dates>
+        <name refid="66517093" source="viaf" type="personal" vocab="viaf">Boucher, François</name>
+        <role type="code" vocab="marcrelator">drm</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext pref="false">French</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2015-05-13-13-52-50" pref="true" type="creation">
+                                <earliestDate>
+                                    <date circa="false" type="">1764</date>
+                                    <alternativeNotation type=""/>
+                                </earliestDate>
+                                <latestDate>
+                                    <date circa="false" type=""/>
+                                    <alternativeNotation type=""/>
+                                </latestDate>
+                            </date>
+            <date extent="NGA Washington" pref="false" source="NGA Washington" type="exhibition">
+                                <earliestDate>
+                                    <date circa="false" type="">1978</date>
+                                    <alternativeNotation type=""/>
+                                </earliestDate>
+                                <latestDate>
+                                    <date circa="false" type=""/>
+                                    <alternativeNotation type=""/>
+                                </latestDate>
+                            </date>
+            <date dataDate="2015-05-13-13-55-10" extent="NGA Washington" pref="false" source="NGA Washington" type="exhibition">
+                                <earliestDate>
+                                    <date circa="false" type="">1997</date>
+                                    <alternativeNotation type=""/>
+                                </earliestDate>
+                                <latestDate>
+                                    <date circa="false" type=""/>
+                                    <alternativeNotation type=""/>
+                                </latestDate>
+                            </date>
+</dateSet>
+        <inscriptionSet>
+    <display/>
+    <notes/>
+    <inscription pref="false">
+                                <author refid="66517093" source="viaf" type="personal" vocab="viaf">Boucher, François</author>
+                                <position>lower center</position>
+                                <text type="signature">fBoucher</text>
+                            </inscription>
+            <inscription dataDate="2015-05-13-14-04-00" pref="false">
+        <author refid="66517093" source="viaf" type="personal" vocab="viaf">Boucher, François</author>
+        <position>lower center</position>
+        <text type="date">1764</text>
+    </inscription>
+</inscriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2015-05-13-13-58-32" pref="true" type="repository">
+                                <refid type="accession">1942.9.657</refid>
+                                <name type="corporate">National Gallery of Art, Washington</name>
+                                <point epsg="4326">
+                                    <lat>38.89147</lat>
+                                    <long>-77.02001</long>
+                                </point>
+                            </location>
+            <location dataDate="2015-05-13-13-58-30" pref="false" type="exhibition">
+        <refid type="accession">1942.9.657</refid>
+        <name type="corporate">National Gallery of Art, Washington</name>
+        <point epsg="4326">
+            <lat>38.89147</lat>
+            <long>-77.02001</long>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    <material pref="false" refid="300080058" source="getty" type="medium" vocab="aat">black chalk</material>
+            <material pref="false" refid="300014184" source="getty" type="support" vocab="aat">laid paper</material>
+</materialSet>
+        <measurementsSet>
+    <display/>
+    <notes/>
+    <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="cm">33.5</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="cm">23.1</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="in">13 3/16</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="in">9 1/8</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="cm">38.4</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="cm">28.2</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="in">15 1/8</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="in">11 1/8</measurements>
+</measurementsSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject pref="false" refid="300189808" source="getty" vocab="aat">
+                                <term type="descriptiveTopic">figures</term>
+                            </subject>
+            <subject dataDate="2015-05-13-13-58-51" pref="false">
+                                <term type="descriptiveTopic">landscapes</term>
+                            </subject>
+            <subject dataDate="2015-05-13-13-59-34" pref="false" refid="300188621" source="getty" vocab="aat">
+        <term type="descriptiveTopic">lovers</term>
+    </subject>
+</subjectSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title pref="true" type="">Téte à téte</title>
+            <title href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="repository">Tête-à-tête</title>
+</titleSet>
+        <vra:relationSet xmlns:vra="http://www.vraweb.org/vracore4.htm">
+            <vra:relation type="imageIs" relids="i_fa1f6ebd-fc89-40f1-af69-20ef83b11d8d" source="Tamboti" pref="true">general view</vra:relation>
+        </vra:relationSet>
+    </work>
+</vra>

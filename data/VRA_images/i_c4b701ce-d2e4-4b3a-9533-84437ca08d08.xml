@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_c4b701ce-d2e4-4b3a-9533-84437ca08d08" source="Tamboti" refid="" href="i_c4b701ce-d2e4-4b3a-9533-84437ca08d08.jpg">
+        <agentSet dataDate="2015-11-16T10:46:59.754+01:00">
+            <display dataDate="2015-11-16T10:41:25.64+01:00"/>
+            <notes dataDate="2015-11-16T10:41:25.64+01:00"/>
+            <agent dataDate="2015-11-16T10:41:25.64+01:00" pref="true">
+                <attribution dataDate="2015-11-16T10:41:25.64+01:00"/>
+                <culture dataDate="2015-11-16T10:41:25.64+01:00"/>
+                <dates dataDate="2015-11-16T10:41:25.64+01:00"/>
+                <name dataDate="2015-11-16T10:41:25.64+01:00" refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                <role dataDate="2015-11-16T10:41:25.64+01:00" type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <dateSet dataDate="2015-11-16T10:47:50.377+01:00">
+            <display dataDate="2015-11-16T10:47:50.377+01:00"/>
+            <notes dataDate="2015-11-16T10:47:50.377+01:00"/>
+            <date dataDate="2015-11-16T10:47:50.377+01:00" pref="false" type="other">
+                <earliestDate dataDate="2015-11-16T10:47:50.377+01:00">
+                    <date dataDate="2015-11-16T10:47:50.377+01:00" circa="false">2015-03-16</date>
+                </earliestDate>
+                <latestDate dataDate="2015-11-16T10:47:50.377+01:00">
+                    <date dataDate="2015-11-16T10:47:50.377+01:00" circa="false">2015-03-16</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <rightsSet dataDate="2015-11-16T10:48:01.774+01:00">
+            <display dataDate="2015-11-16T10:42:44.974+01:00"/>
+            <notes dataDate="2015-11-16T10:42:44.974+01:00"/>
+            <rights dataDate="2015-11-16T10:42:44.974+01:00" pref="false" source="http://www.loc.gov/pictures/item/2002723525/" type="undetermined">
+                <rightsHolder dataDate="2015-11-16T10:42:44.974+01:00">Library of Congress, Washington D.C.</rightsHolder>
+                <text dataDate="2015-11-16T10:42:44.974+01:00"/>
+            </rights>
+        </rightsSet>
+        <sourceSet dataDate="2015-11-16T10:46:41.842+01:00">
+            <display dataDate="2015-11-16T10:46:41.842+01:00"/>
+            <notes dataDate="2015-11-16T10:46:41.842+01:00"/>
+            <source dataDate="2015-11-16T10:46:41.842+01:00" pref="false">
+                <refid dataDate="2015-11-16T10:46:41.842+01:00" type="URI">http://www.loc.gov/pictures/item/2002723525/</refid>
+                <name dataDate="2015-11-16T10:46:41.842+01:00" type="electronic">Library of Congress, Washington D.C.</name>
+            </source>
+        </sourceSet>
+        <titleSet dataDate="2015-11-16T12:27:09.699+01:00">
+            <display dataDate="2015-11-16T12:27:09.699+01:00"/>
+            <notes dataDate="2015-11-16T12:27:09.699+01:00"/>
+            <title dataDate="2015-11-16T12:27:09.699+01:00" type="descriptive" pref="false">Eiffel Tower</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_9de517bd-8590-4015-8429-6639d30af01c" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

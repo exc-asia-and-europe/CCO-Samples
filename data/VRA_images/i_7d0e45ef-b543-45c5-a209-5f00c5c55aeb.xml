@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb" source="Tamboti" refid="" href="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb.jpg">
+        <agentSet dataDate="2015-11-16T12:50:58.205+01:00">
+            <display dataDate="2015-11-16T12:50:58.205+01:00"/>
+            <notes dataDate="2015-11-16T12:50:58.205+01:00"/>
+            <agent dataDate="2015-11-16T12:50:58.205+01:00" pref="true" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">
+                <attribution dataDate="2015-11-16T12:50:58.205+01:00"/>
+                <culture dataDate="2015-11-16T12:50:58.205+01:00"/>
+                <dates dataDate="2015-11-16T12:50:58.205+01:00"/>
+                <name dataDate="2015-11-16T12:50:58.205+01:00" refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                <role dataDate="2015-11-16T12:50:58.205+01:00" type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <rightsSet dataDate="2015-11-16T12:54:45.458+01:00">
+            <display dataDate="2015-11-16T12:54:45.458+01:00"/>
+            <notes dataDate="2015-11-16T12:54:45.458+01:00"/>
+            <rights dataDate="2015-11-16T12:54:45.458+01:00" pref="false" type="publicDomain">
+                <rightsHolder dataDate="2015-11-16T12:54:45.458+01:00">The Metropolitan Museum of Art</rightsHolder>
+                <text dataDate="2015-11-16T12:54:45.458+01:00">Part of the Metropolitan's Open Access for Scholarly Content (OASC) Programm. Purchase, Francis M. Weld Gift, 1950.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet dataDate="2015-11-16T12:55:38.265+01:00">
+            <display dataDate="2015-11-16T12:55:38.265+01:00"/>
+            <notes dataDate="2015-11-16T12:55:38.265+01:00"/>
+            <source dataDate="2015-11-16T12:55:38.265+01:00" pref="false">
+                <refid dataDate="2015-11-16T12:55:38.265+01:00" type="URI">http://www.metmuseum.org/collection/the-collection-online/search/451023</refid>
+                <name dataDate="2015-11-16T12:55:38.265+01:00" type="electronic">The Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_063--CCO_fig015-1.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_4ebbfd87-98ae-4f06-b3f5-f8440db8a467" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

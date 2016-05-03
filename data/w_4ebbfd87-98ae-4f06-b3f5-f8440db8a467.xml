@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_4ebbfd87-98ae-4f06-b3f5-f8440db8a467" source="Kurs" refid="c_58a76612-f8c3-4917-927b-837c96b3aa84">
+        <agentSet dataDate="2015-11-16T12:57:20.692+01:00">
+            <display dataDate="2015-11-16T12:57:20.692+01:00"/>
+            <notes dataDate="2015-11-16T12:57:20.692+01:00"/>
+            <agent dataDate="2015-11-16T12:57:20.692+01:00" pref="true" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination">
+                <attribution dataDate="2015-11-16T12:57:20.692+01:00"/>
+                <culture dataDate="2015-11-16T12:57:20.692+01:00"/>
+                <dates dataDate="2015-11-16T12:57:20.692+01:00" type="life">
+                    <earliestDate dataDate="2015-11-16T12:57:20.692+01:00" circa="false">approximately 1570</earliestDate>
+                    <latestDate dataDate="2015-11-16T12:57:20.692+01:00" circa="false">1635?</latestDate>
+                </dates>
+                <name dataDate="2015-11-16T12:57:20.692+01:00" refid="4833075" type="personal" vocab="viaf">Riza Abbasi</name>
+                <role dataDate="2015-11-16T12:57:20.692+01:00" type="code" vocab="marcrelator">ilu</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet dataDate="2015-11-16T13:23:05.011+01:00">
+            <display dataDate="2015-11-16T13:23:05.011+01:00"/>
+            <notes dataDate="2015-11-16T13:23:05.011+01:00"/>
+            <culturalContext dataDate="2015-11-16T13:23:05.011+01:00" pref="false" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">Islamic</culturalContext>
+        </culturalContextSet>
+        <dateSet dataDate="2015-11-16T12:59:41.502+01:00">
+            <display dataDate="2015-11-16T12:59:41.502+01:00"/>
+            <notes dataDate="2015-11-16T12:59:41.502+01:00"/>
+            <date dataDate="2015-11-16T12:59:41.502+01:00" pref="false" type="creation" circa="false">
+                <earliestDate dataDate="2015-11-16T12:59:41.502+01:00">
+                    <alternativeNotation dataDate="2015-11-16T12:59:41.502+01:00">1039 anno Hegirae</alternativeNotation>
+                    <date dataDate="2015-11-16T12:59:41.502+01:00" circa="false">1630</date>
+                </earliestDate>
+                <latestDate dataDate="2015-11-16T12:59:41.502+01:00">
+                    <alternativeNotation dataDate="2015-11-16T12:59:41.502+01:00">1039 anno Hegirae</alternativeNotation>
+                    <date dataDate="2015-11-16T12:59:41.502+01:00" circa="false">1630</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet dataDate="2015-11-16T13:02:10.523+01:00">
+            <display dataDate="2015-11-16T13:02:10.523+01:00"/>
+            <notes dataDate="2015-11-16T13:02:10.523+01:00"/>
+            <description dataDate="2015-11-16T13:02:10.523+01:00" extent="museum label" pref="false" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">
+                <text dataDate="2015-11-16T13:02:10.523+01:00">The artist Riza‑yi 'Abbasi revolutionized Persian painting and drawing with his inventive use of calligraphic line and nusual palette. He painted The Lovers toward the end of a long, successful career at the Safavid court. The subject of a couple entwined reflects a newly relaxed attitude to sensuality introduced in the reign of Shah Safi (r. 1629–42). Here the figures are inextricably bound together, merged volumes confined within one outline.</text>
+                <author dataDate="2015-11-16T13:02:10.523+01:00">
+                    <name dataDate="2015-11-16T13:02:10.523+01:00" refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role dataDate="2015-11-16T13:02:10.523+01:00" type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description dataDate="2015-11-16T13:02:10.523+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination">
+                <text dataDate="2015-11-16T13:02:10.523+01:00">The artist was working at the court of Shah ‘Abbas the Great (reigned 1588-1629); this work shows his renowned inventive palette and calligraphic line. The lovers are drawn as inextricably bound together, merged volumes confined within one outline.</text>
+                <author dataDate="2015-11-16T13:02:10.523+01:00">
+                    <name dataDate="2015-11-16T13:02:10.523+01:00" refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role dataDate="2015-11-16T13:02:10.523+01:00" type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet dataDate="2015-11-16T13:22:12.493+01:00">
+            <display dataDate="2015-11-16T13:22:12.493+01:00"/>
+            <notes dataDate="2015-11-16T13:22:12.493+01:00"/>
+            <inscription dataDate="2015-11-16T13:22:12.493+01:00" pref="false" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">
+                <text dataDate="2015-11-16T13:22:12.493+01:00" lang="ara" script="Arab" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="signature">در روز 3 شنبه هشتم شهر شوال/ با إقبال سنهٔ 1039 به إتمام رسید. رقم کمینه رضاء عباسى/ ه </text>
+                <author dataDate="2015-11-16T13:22:12.493+01:00" refid="4833075" vocab="viaf">Riza Abbasi</author>
+                <position dataDate="2015-11-16T13:22:12.493+01:00">middle left</position>
+                <text dataDate="2015-11-16T13:22:12.493+01:00" lang="eng" script="Latn" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="translation">Completed on Tuesday, eighth of Shawwal, from the fortunate year of 
+A.H. 1039 [May 21, 1630 A.D.]. Painted by the humble Riza-yi ‘Abbasi</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet dataDate="2015-11-16T13:05:11.61+01:00">
+            <display dataDate="2015-11-16T13:05:11.61+01:00"/>
+            <notes dataDate="2015-11-16T13:05:11.61+01:00"/>
+            <location dataDate="2015-11-16T13:05:11.61+01:00" href="http://www.metmuseum.org/collection/the-collection-online/search/451023" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination" type="repository">
+                <refid dataDate="2015-11-16T13:05:11.61+01:00" type="accession">50.164</refid>
+                <name dataDate="2015-11-16T13:05:11.61+01:00" refid="126238294" vocab="viaf">Metropolitan Museum of Art</name>
+                <point dataDate="2015-11-16T13:05:11.61+01:00">
+                    <lat dataDate="2015-11-16T13:05:11.61+01:00"/>
+                    <long dataDate="2015-11-16T13:05:11.61+01:00"/>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet dataDate="2015-11-16T13:25:04.446+01:00">
+            <display dataDate="2015-11-16T13:25:04.446+01:00"/>
+            <notes dataDate="2015-11-16T13:25:04.446+01:00"/>
+            <material dataDate="2015-11-16T13:25:04.446+01:00" pref="false" refid="300015012" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="medium" vocab="aat">ink</material>
+            <material dataDate="2015-11-16T13:25:04.446+01:00" pref="false" refid="300011021" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="medium" vocab="aat">gold</material>
+            <material dataDate="2015-11-16T13:25:04.446+01:00" pref="false" refid="300015045" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="medium" vocab="aat">watercolor</material>
+            <material dataDate="2015-11-16T13:25:04.446+01:00" pref="false" refid="300014109" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet dataDate="2015-11-16T13:30:51.282+01:00">
+            <display dataDate="2015-11-16T13:30:51.282+01:00">Painting: H. 6 7/8 in. (17.5 cm) W. 4 3/8 in. (11.1 cm) Page: H. 7 1/2 in. (19.1 cm) W. 4 15/16 in. (12.5 cm) Mat: H. 19 1/4 in. (48.9 cm) W. 14 1/4 in. (36.2 cm)</display>
+            <notes dataDate="2015-11-16T13:30:51.282+01:00"/>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" pref="false" extent="painting" type="height" unit="in" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">6 7/8</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" pref="false" extent="painting" type="width" unit="in" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">4 3/8</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" pref="false" extent="painting" type="height" unit="cm" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">17.5</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="painting" pref="false" type="width" unit="cm" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">11.1</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="page" pref="false" type="height" unit="in" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">7 1/2</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="page" pref="false" type="width" unit="in" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">4 15/16</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="page" pref="false" type="height" unit="cm" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">19.1</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="page" pref="false" type="width" unit="cm" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">12.5</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="mat" pref="false" type="height" unit="in" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">19 1/4</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="mat" pref="false" type="width" unit="in" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">14 1/4</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="mat" pref="false" type="height" unit="cm" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">48.9</measurements>
+            <measurements dataDate="2015-11-16T13:30:51.282+01:00" extent="mat" pref="false" type="width" unit="cm" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">36.2</measurements>
+        </measurementsSet>
+        <sourceSet dataDate="2015-11-16T13:32:24.557+01:00">
+            <display dataDate="2015-11-16T13:32:24.557+01:00"/>
+            <notes dataDate="2015-11-16T13:32:24.557+01:00"/>
+            <source dataDate="2015-11-16T13:32:24.557+01:00" pref="false">
+                <refid dataDate="2015-11-16T13:32:24.557+01:00" type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination</refid>
+                <name dataDate="2015-11-16T13:32:24.557+01:00" type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source dataDate="2015-11-16T13:32:24.557+01:00" pref="false">
+                <refid dataDate="2015-11-16T13:32:24.557+01:00" type="URI">http://www.metmuseum.org/collection/the-collection-online/search/451023</refid>
+                <name dataDate="2015-11-16T13:32:24.557+01:00" type="electronic">The Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet dataDate="2015-11-16T13:33:24.246+01:00">
+            <display dataDate="2015-11-16T13:33:24.246+01:00"/>
+            <notes dataDate="2015-11-16T13:33:24.246+01:00"/>
+            <stylePeriod dataDate="2015-11-16T13:33:24.246+01:00" pref="false" refid="300021715" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" vocab="aat">Isfahan</stylePeriod>
+            <stylePeriod dataDate="2015-11-16T13:33:24.246+01:00" pref="false" refid="300380013" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" vocab="aat">Islamic</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet dataDate="2015-11-16T13:11:11.861+01:00">
+            <display dataDate="2015-11-16T13:11:11.861+01:00"/>
+            <notes dataDate="2015-11-16T13:11:11.861+01:00"/>
+            <subject dataDate="2015-11-16T13:11:11.861+01:00" pref="false" refid="300021715" vocab="aat" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">
+                <term dataDate="2015-11-16T13:11:11.861+01:00" type="conceptTopic">Isfahan</term>
+            </subject>
+            <subject dataDate="2015-11-16T13:11:11.861+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination">
+                <term dataDate="2015-11-16T13:11:11.861+01:00" type="descriptiveTopic"/>
+            </subject>
+            <subject dataDate="2015-11-16T13:11:11.861+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination">
+                <term dataDate="2015-11-16T13:11:11.861+01:00" type="descriptiveTopic"/>
+            </subject>
+            <subject dataDate="2015-11-16T13:11:11.861+01:00" pref="false" refid="300188621" vocab="aat" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination">
+                <term dataDate="2015-11-16T13:11:11.861+01:00" type="descriptiveTopic">lovers</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet dataDate="2015-11-16T13:34:26.034+01:00">
+            <display dataDate="2015-11-16T13:34:26.034+01:00"/>
+            <notes dataDate="2015-11-16T13:34:26.034+01:00"/>
+            <technique dataDate="2015-11-16T13:34:26.034+01:00" pref="false" refid="300220539" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination" vocab="aat">illumination</technique>
+            <technique dataDate="2015-11-16T13:34:26.034+01:00" pref="false" refid="300054216" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination" vocab="aat">painting</technique>
+        </techniqueSet>
+        <titleSet dataDate="2015-11-16T13:19:08.47+01:00">
+            <display dataDate="2015-11-16T13:19:08.47+01:00"/>
+            <notes dataDate="2015-11-16T13:19:08.47+01:00"/>
+            <title dataDate="2015-11-16T13:19:08.47+01:00" type="repository" pref="false" source="http://www.metmuseum.org/collection/the-collection-online/search/451023">The Lovers</title>
+            <title dataDate="2015-11-16T13:19:08.47+01:00" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination" type="descriptive">Two Lovers</title>
+        </titleSet>
+        <vra:relationSet xmlns:vra="http://www.vraweb.org/vracore4.htm">
+            <vra:relation type="imageIs" relids="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb" source="Tamboti" pref="true">general view</vra:relation>
+        </vra:relationSet>
+        <worktypeSet dataDate="2015-11-16T13:35:33.02+01:00">
+            <display dataDate="2015-11-16T13:35:33.02+01:00"/>
+            <notes dataDate="2015-11-16T13:35:33.02+01:00"/>
+            <worktype dataDate="2015-11-16T13:35:33.02+01:00" pref="false" refid="300264522" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination" vocab="aat">illuminations</worktype>
+        </worktypeSet>
+    </work>
+</vra>

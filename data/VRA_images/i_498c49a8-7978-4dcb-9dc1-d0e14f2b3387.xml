@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_498c49a8-7978-4dcb-9dc1-d0e14f2b3387" source="Tamboti" refid="" href="i_498c49a8-7978-4dcb-9dc1-d0e14f2b3387.jpg">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2016-04-26-11-13-57" pref="true">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+        <role type="code" vocab="marcrelator">col</role>
+    </agent>
+</agentSet>
+        <rightsSet>
+    <display/>
+    <notes/>
+    <rights dataDate="2015-05-04-12-26-24" href="http://creativecommons.org/licenses/by-sa/3.0" pref="false" type="copyrighted">
+        <rightsHolder>Rastaman3000</rightsHolder>
+        <text>CC BY-SA 3.0</text>
+    </rights>
+</rightsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2015-05-04-12-26-46" pref="false">
+        <refid type="URI">http://commons.wikimedia.org/wiki/File:Scrovegni.JPG</refid>
+        <name type="electronic">Wikimedia Commons</name>
+    </source>
+</sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_023.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_3182cae3-0b3e-4f21-b9a8-8d869fe9191e" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

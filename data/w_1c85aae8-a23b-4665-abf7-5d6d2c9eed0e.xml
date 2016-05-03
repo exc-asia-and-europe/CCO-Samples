@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_1c85aae8-a23b-4665-abf7-5d6d2c9eed0e" source="Kurs" refid="c_3fc42cb0-c9b1-4099-8fca-1dda49002e9c">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2015-11-05-15-03-39" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" source="CCO">
+                                <attribution/>
+                                <culture>French</culture>
+                                <dates type="life">
+                                    <earliestDate circa="false" type="">1866</earliestDate>
+                                    <latestDate circa="false" type="">1946</latestDate>
+                                </dates>
+                                <name refid="75244946" source="viaf" type="personal" vocab="viaf">Guérin, Jules</name>
+                                <role type="code" vocab="marcrelator">drm</role>
+                            </agent>
+            <agent dataDate="2015-11-05-15-04-01" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" source="CCO">
+        <attribution/>
+        <culture>American</culture>
+        <dates type="life">
+            <earliestDate circa="false" type="">1866</earliestDate>
+            <latestDate circa="false" type="">1924</latestDate>
+        </dates>
+        <name refid="68810776" source="viaf" type="personal" vocab="viaf">Bacon, Henry</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" source="CCO">American</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2015-11-05-15-06-41" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" source="CCO" type="creation">
+        <earliestDate>
+            <date circa="false" type="">1912</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type="">1912</date>
+        </latestDate>
+    </date>
+</dateSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2015-11-05-15-10-48" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" source="CCO" type="repository">
+                                <refid href="https://research.archives.gov/id/2581318" source="National Archives" type="accession">2581318</refid>
+                                <name type="corporate"> National Archives and Record Administration, Washington, District of Columbia</name>
+                                <point epsg="">
+                                    <lat/>
+                                    <long/>
+                                </point>
+                            </location>
+            <location dataDate="2015-11-05-15-08-52" href="https://en.wikipedia.org/wiki/Lincoln_Memorial" pref="false" source="Wikipedia" type="site">
+        <refid type=""/>
+        <name type="geographic">Lincoln Memorial</name>
+        <point epsg="4326">
+            <lat>38.8893</lat>
+            <long>-77.050111</long>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    
+    <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300015045" source="getty" type="medium" vocab="aat">watercolor</material>
+            <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300015012" source="getty" type="medium" vocab="aat">ink</material>
+    <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300014109" source="getty" type="support" vocab="aat">paper</material>
+</materialSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2015-11-05-15-12-26" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300034065" source="getty" vocab="aat">
+                                <term type="descriptiveTopic">elevations</term>
+                            </subject>
+            <subject dataDate="2015-11-05-15-11-36" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300263552" source="getty" vocab="aat">
+        <term type="descriptiveTopic">architecture</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300054196" source="getty" type="techniques" vocab="aat">drawing</technique>
+            <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300054216" source="getty" type="techniques" vocab="aat">painting</technique>
+</techniqueSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title href="https://research.archives.gov/id/2581318" pref="false" source="National Archives" type="repository">Henry Bacon's Competition Proposal for a Monument to Abraham Lincoln</title>
+            <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" source="CCO" type="descriptive">Temple Design for the Lincoln Memorial</title>
+</titleSet>
+        <relationSet>
+    <display/>
+    <notes/>
+    <relation pref="false" relids="w_e0d67090-5df9-408a-abf0-5befb69b83b2" type="depicts">Lincoln Memorial</relation>
+            <relation pref="true" relids="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26" source="Tamboti" type="imageIs">general view</relation>
+</relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300034381" source="getty" type="worktypes" vocab="aat">competition drawings</worktype>
+            <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing" pref="false" refid="300069413" source="getty" type="worktypes" vocab="aat">design drawings</worktype>
+</worktypeSet>
+    </work>
+</vra>

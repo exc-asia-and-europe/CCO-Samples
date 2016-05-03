@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_0ce55aa4-f14b-4ca9-922b-34d796803b00" source="Tamboti" refid="" href="i_0ce55aa4-f14b-4ca9-922b-34d796803b00.png">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2016-03-17-09-46-48" pref="true">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name extent="photographer: thatguyeric" refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+        <role type="code" vocab="marcrelator">col</role>
+    </agent>
+</agentSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2016-03-17-09-47-38" pref="false" type="publication">
+        <earliestDate>
+            <date circa="false" type="">2004-12-04</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type=""/>
+        </latestDate>
+    </date>
+</dateSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2016-03-17-09-48-35" pref="false" type="creation">
+        <refid type=""/>
+        <name refid="268692973" type="geographic" vocab="viaf">Museum of modern art (New York, N.Y.)</name>
+        <point epsg="">
+            <lat/>
+            <long/>
+        </point>
+    </location>
+</locationSet>
+        <rightsSet>
+    <display/>
+    <notes/>
+    <rights dataDate="2016-03-17-09-49-05" pref="false" type="copyrighted">
+        <rightsHolder>thatguyeric</rightsHolder>
+        <text>CC BY-NC-SA 2.0</text>
+    </rights>
+</rightsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2016-03-17-09-49-34" pref="false">
+        <refid type="URI">https://www.flickr.com/photos/thatguyeric/1898389/</refid>
+        <name type="electronic">Flickr</name>
+    </source>
+</sourceSet>
+        <titleSet>
+            <display/>
+            <title type="descriptive">Image record CCO_online_138.png</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_a9c90825-8739-45cd-a383-86bd4b5b6aba" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

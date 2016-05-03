@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_8e5358fd-a0cb-4380-a869-f7c34319c242" source="Tamboti" refid="" href="i_8e5358fd-a0cb-4380-a869-f7c34319c242.jpg">
+        <agentSet dataDate="2015-11-23T11:59:47.49+01:00">
+            <display dataDate="2015-11-23T11:59:47.49+01:00"/>
+            <notes dataDate="2015-11-23T11:59:47.49+01:00"/>
+            <agent dataDate="2015-11-23T11:59:47.49+01:00" pref="true">
+                <attribution dataDate="2015-11-23T11:59:47.49+01:00"/>
+                <culture dataDate="2015-11-23T11:59:47.49+01:00"/>
+                <dates dataDate="2015-11-23T11:59:47.49+01:00"/>
+                <name dataDate="2015-11-23T11:59:47.49+01:00" refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role dataDate="2015-11-23T11:59:47.49+01:00" type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <rightsSet dataDate="2015-11-23T12:00:22.367+01:00">
+            <display dataDate="2015-11-23T12:00:22.367+01:00"/>
+            <notes dataDate="2015-11-23T12:00:22.367+01:00"/>
+            <rights dataDate="2015-11-23T12:00:22.367+01:00" pref="false" source="http://www.getty.edu/about/opencontent.html" type="publicDomain">
+                <rightsHolder dataDate="2015-11-23T12:00:22.367+01:00">J. Paul Getty Museum</rightsHolder>
+                <text dataDate="2015-11-23T12:00:22.367+01:00">Digital image courtesy of the Getty's Open Content Program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet dataDate="2015-11-23T12:01:02.202+01:00">
+            <display dataDate="2015-11-23T12:01:02.202+01:00"/>
+            <notes dataDate="2015-11-23T12:01:02.202+01:00"/>
+            <source dataDate="2015-11-23T12:01:02.202+01:00" pref="false">
+                <refid dataDate="2015-11-23T12:01:02.202+01:00" type="URI">http://www.getty.edu/art/collection/objects/3124/unknown-maker-the-ascension-ottonian-about-1025-1050/</refid>
+                <name dataDate="2015-11-23T12:01:02.202+01:00" type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_064--CCO_fig022-1.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_ebfcb577-15ec-4a8c-b9a2-f88e0f31ca15" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

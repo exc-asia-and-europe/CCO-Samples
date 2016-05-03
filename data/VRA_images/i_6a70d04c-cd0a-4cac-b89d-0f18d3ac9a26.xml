@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_6a70d04c-cd0a-4cac-b89d-0f18d3ac9a26" source="Tamboti" refid="" href="i_6a70d04c-cd0a-4cac-b89d-0f18d3ac9a26.jpg">
+        <rightsSet dataDate="2015-11-18T17:01:54.984+01:00">
+            <display dataDate="2015-11-18T17:01:54.984+01:00"/>
+            <notes dataDate="2015-11-18T17:01:54.984+01:00"/>
+            <rights dataDate="2015-11-18T17:01:54.984+01:00" href="https://www.flickr.com/photos/hisgett/3773757247" pref="false" type="copyrighted">
+                <rightsHolder dataDate="2015-11-18T17:01:54.984+01:00">Tony Hisgett</rightsHolder>
+                <text dataDate="2015-11-18T17:01:54.984+01:00">CC BY 2.0</text>
+            </rights>
+        </rightsSet>
+        <sourceSet dataDate="2015-11-18T17:02:18.663+01:00">
+            <display dataDate="2015-11-18T17:02:18.663+01:00"/>
+            <notes dataDate="2015-11-18T17:02:18.663+01:00"/>
+            <source dataDate="2015-11-18T17:02:18.663+01:00" pref="false">
+                <refid dataDate="2015-11-18T17:02:18.663+01:00" type="URI">https://www.flickr.com/photos/hisgett/3773757247</refid>
+                <name dataDate="2015-11-18T17:02:18.663+01:00" type="electronic">flickr</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_150-1.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_767e9c48-ddf8-4cc1-9512-55d20298c7f5" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_c925ba01-3723-42d3-8755-da337b0bfbc3" source="Kurs" refid="c_e2bc1544-023a-439a-a654-78f524e6b970">
+        <titleSet>
+            <display/>
+            <title type="generalView">Work record CCO_online_123--related_003.jpg</title>
+        </titleSet>
+        <vra:relationSet xmlns:vra="http://www.vraweb.org/vracore4.htm">
+            <vra:relation type="imageIs" relids="i_8d30e7fa-f8be-417e-8dd3-9747e4662c13" source="Tamboti" pref="true">general view</vra:relation>
+        </vra:relationSet>
+    </work>
+</vra>

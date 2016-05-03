@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:hra="http://cluster-schemas.uni-hd.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_a942a880-bbc9-469d-ae7f-9477272064bb" source="Kurs" refid="c_46b367b2-bb53-4292-8ff4-259affad88d5">
+        <agentSet dataDate="2015-11-26T14:00:20.005+01:00">
+            <display dataDate="2015-11-26T14:00:20.005+01:00">Egyptian, reign of Nebheptere Mentuhotep</display>
+            <notes dataDate="2015-11-26T14:00:20.005+01:00"/>
+            <agent dataDate="2015-11-26T14:00:20.005+01:00" pref="true">
+                <attribution dataDate="2015-11-26T14:00:20.005+01:00"/>
+                <culture dataDate="2015-11-26T14:00:20.005+01:00"/>
+                <dates dataDate="2015-11-26T14:00:20.005+01:00" type="life"/>
+                <name dataDate="2015-11-26T14:00:20.005+01:00" refid="100627978" source="Gruening, Simon" type="personal" vocab="viaf">unknown Ancient Egyptian</name>
+                <role dataDate="2015-11-26T14:00:20.005+01:00" type="code" vocab="marcrelator">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet dataDate="2015-11-26T14:53:23.461+01:00">
+            <display dataDate="2015-11-26T14:53:09.591+01:00"/>
+            <notes dataDate="2015-11-26T14:53:09.591+01:00"/>
+            <culturalContext dataDate="2015-11-26T14:53:09.591+01:00" pref="false" source="AAT 300020251" extent="AAT 300020251">Egyptian (ancient)</culturalContext>
+        </culturalContextSet>
+        <dateSet dataDate="2015-11-26T14:03:18.866+01:00">
+            <display dataDate="2015-11-26T14:03:18.866+01:00">during or immediately after the reign of Nebhepetre Mentuhotep </display>
+            <notes dataDate="2015-11-26T14:03:18.866+01:00"/>
+            <date dataDate="2015-11-26T14:03:18.866+01:00" pref="false" type="creation">
+                <earliestDate dataDate="2015-11-26T14:03:18.866+01:00">
+                    <date dataDate="2015-11-26T14:03:18.866+01:00" circa="false">-2050</date>
+                </earliestDate>
+                <latestDate dataDate="2015-11-26T14:03:18.866+01:00">
+                    <date dataDate="2015-11-26T14:03:18.866+01:00" circa="false">-2000</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet dataDate="2015-11-26T14:25:27.317+01:00">
+            <display dataDate="2015-11-26T14:22:01.352+01:00"/>
+            <notes dataDate="2015-11-26T14:22:01.352+01:00"/>
+            <description dataDate="2015-11-26T14:25:27.317+01:00" pref="false" extent="label text" href="http://www.metmuseum.org/collection/the-collection-online/search/548212" source="The Metropolitan Museum of Art online">
+                <text dataDate="2015-11-26T14:25:27.317+01:00">King Nebhepetre Mentuhotep (Mentuhotep II) was revered by the Egyptians as the ruler who reunited Egypt after the era of disunity (the First Intermediate Period) that followed the end of the Old Kingdom. Descended from a family of Theban rulers the king built his tomb and mortuary temple at Deir el-Bahri in western Thebes. This relief was originally part of the decoration of the temple's main sanctuary that was added to the building at the end of the king's reign. The fine balance between figures and inscriptions on this block as well as the clear outline and regular proportions of the king's image with its individualized facial features exemplify the peak of a relief art that had developed over the decades while the vast temple complex was built and decorated. The figure of the goddess Hathor on the right of the block was chiselled away during the Amarna period, when King Akhenaten propagated the sole worship of the god Aten. Hathor was repaired in plaster in early Dynasty 19 and some of the paint on the whole block may also have been renewed at the time.</text>
+                <author dataDate="2015-11-26T14:25:27.317+01:00">
+                    <name dataDate="2015-11-26T14:25:27.317+01:00" refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role dataDate="2015-11-26T14:25:27.317+01:00" type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description dataDate="2015-11-26T14:22:01.352+01:00" pref="false">
+                <text dataDate="2015-11-26T14:22:01.352+01:00">Mentuhotep II was the founder of the Middle Kingdom, reuniting Egypt after the chaotic First Intermediate Period. This relief comes from his mortuary temple at Deir el-Bahri in western Thebes. The high standards of the royal Theban workshops are evident in the delicately modeled low relief and the finely painted details.</text>
+                <author dataDate="2015-11-26T14:22:01.352+01:00">
+                    <name dataDate="2015-11-26T14:22:01.352+01:00" refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role dataDate="2015-11-26T14:22:01.352+01:00" type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet dataDate="2015-11-26T14:56:53.288+01:00">
+            <display dataDate="2015-11-26T14:56:16.435+01:00"/>
+            <notes dataDate="2015-11-26T14:56:16.435+01:00"/>
+            <inscription dataDate="2015-11-26T14:56:16.435+01:00" pref="false">
+                <author dataDate="2015-11-26T14:56:16.435+01:00" refid="131347215" vocab="viaf">Visual Resources Association</author>
+                <position dataDate="2015-11-26T14:56:16.435+01:00"/>
+                <text dataDate="2015-11-26T14:56:53.288+01:00" type="other">In part, the hieroglyphics include the name Mentuhotep (“Montu [a local Theban god] is satisfied”), enclosed in the oval-shaped cartouche in front of his face; his Horus name, Sematawy (“Uniter of the Two Lands [Upper and Lower Egypt]”) is seen at the top of the rectangular device (a serekh) next to the cartouche.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet dataDate="2015-11-26T14:30:01.333+01:00">
+            <display dataDate="2015-11-26T14:29:50.522+01:00"/>
+            <notes dataDate="2015-11-26T14:29:50.522+01:00"/>
+            <location dataDate="2015-11-26T14:29:50.522+01:00" pref="false" type="repository">
+                <refid dataDate="2015-11-26T14:29:50.522+01:00" type="accession">07.230.2</refid>
+                <name dataDate="2015-11-26T14:29:50.522+01:00" refid="126238294" vocab="viaf">Metropolitan Museum of Art</name>
+                <point dataDate="2015-11-26T14:29:50.522+01:00">
+                    <lat dataDate="2015-11-26T14:29:50.522+01:00"/>
+                    <long dataDate="2015-11-26T14:29:50.522+01:00"/>
+                </point>
+            </location>
+            <location dataDate="2015-11-26T14:29:50.522+01:00" pref="false" type="creation">
+                <refid dataDate="2015-11-26T14:29:50.522+01:00"/>
+                <name dataDate="2015-11-26T14:29:50.522+01:00" extent="mortuary temple of Nebhepetre" refid="7525427" vocab="tgn">Dayr al Baḩrī</name>
+                <point dataDate="2015-11-26T14:29:50.522+01:00" epsg="4326">
+                    <lat dataDate="2015-11-26T14:29:50.522+01:00">25.738333</lat>
+                    <long dataDate="2015-11-26T14:29:50.522+01:00">32.607778</long>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet dataDate="2015-11-26T14:58:05.807+01:00">
+            <display dataDate="2015-11-26T14:58:05.807+01:00"/>
+            <notes dataDate="2015-11-26T14:58:05.807+01:00"/>
+            <material dataDate="2015-11-26T14:58:05.807+01:00" pref="false" refid="300015029" type="medium" vocab="aat">paint</material>
+            <material dataDate="2015-11-26T14:58:05.807+01:00" pref="false" type="support" refid="300011286" vocab="aat">limestone</material>
+        </materialSet>
+        <measurementsSet dataDate="2015-11-26T15:01:55.594+01:00">
+            <display dataDate="2015-11-26T15:01:55.594+01:00"/>
+            <notes dataDate="2015-11-26T15:01:55.594+01:00"/>
+            <measurements dataDate="2015-11-26T15:01:55.594+01:00" href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="The Metropolitan Museum of Art online" type="height" unit="cm">36</measurements>
+            <measurements dataDate="2015-11-26T15:01:55.594+01:00" href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="The Metropolitan Museum of Art online" type="width" unit="cm">98</measurements>
+            <measurements dataDate="2015-11-26T15:01:55.594+01:00" href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="The Metropolitan Museum of Art online" type="height" unit="in">14 3/16</measurements>
+            <measurements dataDate="2015-11-26T15:01:55.594+01:00" href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="The Metropolitan Museum of Art online" type="width" unit="in">38 9/16</measurements>
+        </measurementsSet>
+        <sourceSet dataDate="2015-11-26T13:47:18.673+01:00">
+            <display dataDate="2015-11-26T13:47:18.673+01:00"/>
+            <notes dataDate="2015-11-26T13:47:18.673+01:00"/>
+            <source dataDate="2015-11-26T13:47:18.673+01:00" pref="true">
+                <refid dataDate="2015-11-26T13:47:18.673+01:00" type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_66_egyptian_relief</refid>
+                <name dataDate="2015-11-26T13:47:18.673+01:00" type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source dataDate="2015-11-26T13:47:18.673+01:00" pref="false">
+                <refid dataDate="2015-11-26T13:47:18.673+01:00" type="URI">http://www.metmuseum.org/collection/the-collection-online/search/548212</refid>
+                <name dataDate="2015-11-26T13:47:18.673+01:00" type="electronic">The Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet dataDate="2015-11-26T15:15:53.492+01:00">
+            <display dataDate="2015-11-26T15:15:53.492+01:00"/>
+            <notes dataDate="2015-11-26T15:15:53.492+01:00"/>
+            <stylePeriod dataDate="2015-11-26T15:15:53.492+01:00" pref="false" refid="300020315" vocab="aat">Middle Kingdom</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet dataDate="2015-11-26T14:43:07.727+01:00">
+            <display dataDate="2015-11-26T14:43:07.727+01:00"/>
+            <notes dataDate="2015-11-26T14:43:07.727+01:00"/>
+            <subject dataDate="2015-11-26T14:43:07.727+01:00" pref="false" refid="300025928" vocab="aat">
+                <term dataDate="2015-11-26T14:43:07.727+01:00" type="descriptiveTopic">men</term>
+            </subject>
+            <subject dataDate="2015-11-26T14:43:07.727+01:00" pref="false" refid="300028721" vocab="aat">
+                <term dataDate="2015-11-26T14:43:07.727+01:00" type="descriptiveTopic">hieroglyphics</term>
+            </subject>
+            <subject dataDate="2015-11-26T14:43:07.727+01:00" pref="false" refid="300150507" vocab="aat">
+                <term dataDate="2015-11-26T14:43:07.727+01:00" type="descriptiveTopic">pharaohs</term>
+            </subject>
+            <subject dataDate="2015-11-26T14:43:07.727+01:00" pref="false" refid="300234126" vocab="aat">
+                <term dataDate="2015-11-26T14:43:07.727+01:00" type="descriptiveTopic">funerary objects</term>
+            </subject>
+            <subject dataDate="2015-11-26T14:43:07.727+01:00" pref="false" refid="300073708" vocab="aat">
+                <term dataDate="2015-11-26T14:43:07.727+01:00" type="descriptiveTopic">religions</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet dataDate="2015-11-26T15:16:12.218+01:00">
+            <display dataDate="2015-11-26T15:16:12.218+01:00"/>
+            <notes dataDate="2015-11-26T15:16:12.218+01:00"/>
+            <technique dataDate="2015-11-26T15:16:12.218+01:00" pref="false" refid="300053623" vocab="aat">bas-relief</technique>
+        </techniqueSet>
+        <titleSet dataDate="2015-11-26T14:52:19.381+01:00">
+            <display dataDate="2015-11-26T14:52:19.381+01:00"/>
+            <notes dataDate="2015-11-26T14:52:19.381+01:00"/>
+            <title dataDate="2015-11-26T14:52:19.381+01:00" type="other" pref="false">Relief of Nebhepetra Mentuhotep</title>
+            <title dataDate="2015-11-26T14:52:19.381+01:00" href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="The Metropolitan Museum of Art, N.Y." type="repository">Relief of Nebhepetre Mentuhotep II and the Goddess Hathor</title>
+        </titleSet>
+        <vra:relationSet xmlns:vra="http://www.vraweb.org/vracore4.htm">
+            <vra:relation type="imageIs" relids="i_ad083d66-6344-4e2a-a480-97102f0ffd24" source="Tamboti" pref="true">general view</vra:relation>
+        </vra:relationSet>
+        <worktypeSet dataDate="2015-11-26T15:18:20.5+01:00">
+            <display dataDate="2015-11-26T15:18:20.5+01:00"/>
+            <notes dataDate="2015-11-26T15:18:20.5+01:00"/>
+            <worktype dataDate="2015-11-26T15:18:20.5+01:00" pref="false" refid="300047230" vocab="aat">reliefs</worktype>
+            <worktype dataDate="2015-11-26T15:18:20.5+01:00" pref="false" refid="300184633" source="Gruening, Simon" vocab="aat">bas-reliefs</worktype>
+            <worktype dataDate="2015-11-26T15:18:20.5+01:00" pref="false" refid="300182732" vocab="aat">murals</worktype>
+            <worktype dataDate="2015-11-26T15:18:20.5+01:00" pref="false" refid="300047090" vocab="aat">sculpture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_5026e2a0-e681-4ee4-8d39-eb108bfa2d71" source="Kurs" refid="c_7d2a10e2-15ef-4a77-8841-0cc0253e35e4">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2016-02-02-14-28-32" pref="true">
+                                <attribution/>
+                                <culture/>
+                                <dates type="">
+                                    <earliestDate circa="false" type=""/>
+                                    <latestDate circa="false" type=""/>
+                                </dates>
+                                <name refid="100626916" type="personal" vocab="viaf">unknown Japanese</name>
+                                <role type="code" vocab="marcrelator">cre</role>
+                            </agent>
+            <agent dataDate="2016-02-02-14-26-39" pref="false">
+        <attribution>attributed to</attribution>
+        <culture/>
+        <dates type="life">
+            <earliestDate circa="false" type="">1305</earliestDate>
+            <latestDate circa="false" type="">1358</latestDate>
+        </dates>
+        <name refid="60410133" type="personal" vocab="viaf">Ashikaga, Takauji</name>
+        <role type="code" vocab="marcrelator">cre</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext extent="AAT 300018519" pref="false">Japanese</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display>yoroi: early 14th century; helmet: mid-14th century</display>
+    <notes/>
+    <date extent="yoroi" pref="false" type="creation">
+                                <earliestDate>
+                                    <date circa="false" type="">1300</date>
+                                </earliestDate>
+                                <latestDate>
+                                    <date circa="false" type="">1330</date>
+                                </latestDate>
+                            </date>
+            <date dataDate="2016-02-02-14-30-12" extent="helmet" pref="false" type="creation">
+        <earliestDate>
+            <date circa="false" type="">1330</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type="">1370</date>
+        </latestDate>
+    </date>
+</dateSet>
+        <descriptionSet>
+    <display/>
+    <notes/>
+    <description dataDate="2016-02-02-14-32-17" pref="false" type="">
+        <text>This rare example of a medieval yoroi is characterized by a cuirass that wraps around the body and is closed by a separate panel (waidate) on the right side and by a deep four-sided skirt. In use from around the tenth to the fourteenth century, yoroi were generally worn by warriors on horseback. This armor was originally laced in white silk and had diagonal bands of multicolored lacings at the edges of the skirt and the now-missing sode (shoulder guards). The colored lacings symbolized the rainbow, which represented both good fortune and fleeting beauty. The breastplate is covered with stenciled leather bearing the image of the powerful Buddhist deity Fudo Myo-o, whose fierce mien and attributes of calmness and inner strength were highly prized by samurai. The helmet, long associated with this armor, dates from the mid-fourteenth century. This yoroi is traditionally believed to have been donated to the Shinomura Hachimangu, a shrine near Kyoto, by Ashikaga Takauji (1305-1358), founder of the Ashikaga shogunate.</text>
+        <author>
+            <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+            <role type="code" vocab="marcrelator">aut</role>
+        </author>
+    </description>
+</descriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2016-02-02-14-33-43" pref="false" type="repository">
+                                <refid type="accession">14.100.121a-e</refid>
+                                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                                <point epsg="">
+                                    <lat/>
+                                    <long/>
+                                </point>
+                            </location>
+            <location dataDate="2016-02-02-14-35-16" pref="false" type="formerSite">
+        <refid type=""/>
+        <name extent="Shinomura Hachimangu" refid="1080377" type="geographic" vocab="tgn">Kameoka</name>
+        <point epsg="">
+            <lat/>
+            <long/>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    <material extent="yoroi &amp; helmet" pref="false" refid="300243428" type="medium" vocab="aat">silk</material>
+    <material extent="[gilt] yoroi &amp; helmet" pref="false" refid="300011020" type="medium" vocab="aat">copper</material>
+    <material extent="yoroi &amp; helmet" pref="false" refid="300011845" type="medium" vocab="aat">leather</material>
+    <material extent="yoroi &amp; helmet" pref="false" refid="300014916" type="medium" vocab="aat">lacquer</material>
+    <material extent="yoroi &amp; helmet" pref="false" refid="300011002" type="medium" vocab="aat">iron</material>
+</materialSet>
+        <measurementsSet>
+    <display>Yoroi: H. 37 1/2 in. (95.3 cm); W. 22 in. (55.9 cm); Wt. 25 lb. 15 oz. (11.77 kg); Helmet: H. of bowl 6 1/16 in. (15.4 cm); L. of bowl 11 1/16 in. (28.1 cm); W. of bowl 10 5/16 in. (26.2 cm); W. of neck defense 24 1/4 in. (61.6 cm); overall L. with neck defense 17 1/2 in. (45.4 cm)</display>
+    <notes/>
+    <measurements extent="yoroi" href="http://www.metmuseum.org/collection/the-collection-online/search/22506" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="height" unit="in">37 1/2</measurements>
+            <measurements extent="yoroi" href="http://www.metmuseum.org/collection/the-collection-online/search/22506" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="width" unit="in">22</measurements>
+            <measurements extent="yoroi" href="http://www.metmuseum.org/collection/the-collection-online/search/22506" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="weight" unit="oz">415</measurements>
+            <measurements extent="yoroi" href="http://www.metmuseum.org/collection/the-collection-online/search/22506" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="height" unit="cm">95.3</measurements>
+            <measurements extent="yoroi" href="http://www.metmuseum.org/collection/the-collection-online/search/22506" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="width" unit="cm">55.9</measurements>
+            <measurements extent="yoroi" href="http://www.metmuseum.org/collection/the-collection-online/search/22506" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="weight" unit="kg">11.77</measurements>
+            <measurements extent="bowl" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="height" unit="in">6 1/16</measurements>
+            <measurements extent="bowl" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="length" unit="in">11 1/16</measurements>
+            <measurements extent="bowl" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="width" unit="in">10 5/16</measurements>
+            <measurements extent="neck defense" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="width" unit="in">24 1/4</measurements>
+            <measurements extent="overall with neck defense" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="length" unit="in">17 1/2</measurements>
+            <measurements extent="bowl" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="height" unit="cm">15.4</measurements>
+            <measurements extent="bowl" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="length" unit="cm">28.1</measurements>
+            <measurements extent="bowl" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="width" unit="cm">26.2</measurements>
+            <measurements extent="neck defense" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="width" unit="cm">61.6</measurements>
+            <measurements extent="overall with neck defense" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" shape="" source="Metropolitan Museum of Art - The Collection Online" type="length" unit="cm">45.4</measurements>
+</measurementsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2016-02-02-15-38-01" pref="true">
+        <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_113_japanese_armor</refid>
+        <name type="electronic">Cataloging Cultural Objects Commons</name>
+    </source>
+    <source extent="yoroi" pref="false">
+        <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/22506</refid>
+        <name type="electronic">Metropolitan Museum of Art - The Collection Online</name>
+    </source>
+    <source extent="helmet" pref="false">
+        <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/27272</refid>
+        <name type="electronic">Metropolitan Museum of Art - The Collection Online</name>
+    </source>
+</sourceSet>
+        <stylePeriodSet>
+    <display/>
+    <notes/>
+    <stylePeriod pref="false" refid="300266074" vocab="aat">Late Kamakura</stylePeriod>
+</stylePeriodSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2016-02-02-14-39-00" pref="false" refid="300234117" vocab="aat">
+                                <term type="descriptiveTopic">ceremonial objects</term>
+                            </subject>
+            <subject pref="false" refid="300178802" vocab="aat">
+                                <term type="conceptTopic">costume</term>
+                            </subject>
+            <subject pref="false">
+                                <term type="descriptiveTopic">armor (protective wear)</term>
+                            </subject>
+            <subject pref="false">
+                                <term type="descriptiveTopic">apparels</term>
+                            </subject>
+            <subject pref="false" refid="300261945" vocab="aat">
+        <term type="conceptTopic">warriors</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique pref="false" refid="300053789" vocab="aat">gilding</technique>
+            <technique pref="false" refid="300053433" vocab="aat">stenciling</technique>
+</techniqueSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title pref="false" type="descriptive">Armor (Yoroi)</title>
+</titleSet>
+        <relationSet>
+    <display/>
+    <notes/>
+    <relation pref="true" relids="i_f33b61c3-6636-4bd0-a249-047688824568" source="Tamboti" type="imageIs">helmet</relation>
+    <relation pref="false" relids="i_bf71007b-9636-45c8-ab0f-41a4cc15bed4" source="Tamboti" type="imageIs">armor (yoroi)</relation>
+</relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype pref="false" refid="300036745" vocab="aat">armor</worktype>
+            <worktype pref="false">yoroi</worktype>
+            <worktype pref="false">costume</worktype>
+</worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_54f6e6b0-8131-4719-9bef-d55ccb51076a" source="Tamboti" refid="" href="i_54f6e6b0-8131-4719-9bef-d55ccb51076a.jpg">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2016-04-26-10-50-29" pref="true">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name extent="uploaded by Escarlati" refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+        <role type="code" vocab="marcrelator">col</role>
+    </agent>
+</agentSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2016-04-26-10-51-16" pref="false" type="publication">
+        <earliestDate>
+            <date circa="false" type="">28-10-2007</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type=""/>
+        </latestDate>
+    </date>
+</dateSet>
+        <rightsSet>
+    <display/>
+    <notes/>
+    <rights dataDate="2016-04-26-10-51-56" pref="false" type="publicDomain">
+        <rightsHolder>Escarlati</rightsHolder>
+        <text/>
+    </rights>
+</rightsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2015-05-04-12-02-16" pref="false">
+        <refid type="URI">http://commons.wikimedia.org/wiki/File:El_nombre_de_Dios_adorado_por_los_angeles.jpg</refid>
+        <name type="electronic">Wikimedia Commons</name>
+    </source>
+</sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_022.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_72c717e2-d9dd-4d3c-8701-436aad532cd4" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

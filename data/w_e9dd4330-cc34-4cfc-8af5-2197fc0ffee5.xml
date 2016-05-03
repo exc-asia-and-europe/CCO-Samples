@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_e9dd4330-cc34-4cfc-8af5-2197fc0ffee5" source="Kurs" refid="c_da18e525-ff9a-4f7e-972e-26ef2131bf30">
+        <agentSet>
+    <display>architect and engineer: begun by Bonanno Pisano (Italian, active late 12th century) or Gherardo di Gherardo (Italian, active late 12th century); continued by Giovanni Pisano (Italian, born ca. 1240, died before 1320) and Giovanni di Simone (Italian, active ca. 1260-ca. 1286); finished by Tommaso Pisano (Italian, died after 1372)</display>
+    <notes/>
+    <agent dataDate="2016-03-03-12-15-28" pref="false">
+                                <attribution>begun by</attribution>
+                                <culture>Italian</culture>
+                                <dates type="activity">
+                                    <earliestDate circa="false" type="">1150</earliestDate>
+                                    <latestDate circa="false" type="">1200</latestDate>
+                                </dates>
+                                <name refid="95743493" type="personal" vocab="viaf">Bonanno Pisano</name>
+                                <role type="code" vocab="marcrelator">arc</role>
+                            </agent>
+            <agent dataDate="2016-03-03-12-24-24" pref="false">
+                                <attribution>begun by</attribution>
+                                <culture>Italian</culture>
+                                <dates type="activity">
+                                    <earliestDate circa="false" type="">1170</earliestDate>
+                                    <latestDate circa="false" type="">1200</latestDate>
+                                </dates>
+                                <name refid="96565702" type="personal" vocab="viaf">Gherardo di Gherardo</name>
+                                <role type="code" vocab="marcrelator">arc</role>
+                            </agent>
+            <agent pref="false">
+                                <attribution>continued by</attribution>
+                                <culture>Italian</culture>
+                                <dates type="life">
+                                    <earliestDate circa="true" type="about">1240</earliestDate>
+                                    <latestDate circa="true" type="before">1320</latestDate>
+                                </dates>
+                                <name refid="100174152" type="personal" vocab="viaf">Pisano, Giovanni</name>
+                                <role type="code" vocab="marcrelator">arc</role>
+                            </agent>
+            <agent dataDate="2016-03-03-12-33-58" pref="false">
+                                <attribution>continued by</attribution>
+                                <culture>Italian</culture>
+                                <dates type="life">
+                                    <earliestDate circa="false" type=""/>
+                                    <latestDate circa="false" type="">1284</latestDate>
+                                </dates>
+                                <name refid="95801444" type="personal" vocab="viaf">Giovanni di Simone</name>
+                                <role type="code" vocab="marcrelator">arc</role>
+                            </agent>
+            <agent dataDate="2016-03-03-12-52-50" pref="false">
+        <attribution>finished by</attribution>
+        <culture>Italian</culture>
+        <dates type="life">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="true" type="after">1372</latestDate>
+        </dates>
+        <name refid="96537147" type="personal" vocab="viaf">Tommaso Pisano</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext pref="false" source="AAT 300111198">Italian (culture or style)</culturalContext>
+            <culturalContext pref="false" source="AAT 300020756">Medieval (European)</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display>tower was begun in 1173 and completed in the 14th century</display>
+    <notes/>
+    <date dataDate="2016-03-03-16-27-33" pref="false" type="creation">
+        <earliestDate>
+            <date circa="false" type="">1179</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type="">1399</date>
+        </latestDate>
+    </date>
+</dateSet>
+        <descriptionSet>
+    <display/>
+    <notes/>
+    <description dataDate="2016-03-03-17-05-10" pref="false" type="">
+        <text>Historian Giorgio Vasari reports that the tower was begun by Bonanno Pisano, but modern research indicates the plan may have been by Gherardo di Gherardo. The uneven settling of the campanile’s foundations during its construction caused the tower to lean. Work was continued by Giovanni Pisano and Giovanni di Simone in 1275, with the addition of another three floors in a direction that bent opposite to the inclination to compensate for the flaw; but the added weight caused the tower to lean even more. According to Vasari, Tommaso di Andrea Pisano completed the belfry between 1350 and 1372. Modern efforts are underway to prevent the further leaning and ultimate collapse of the tower.
+[Touring Club Italiano: Toscana (1984), p. 117 ff.; Soprintendenza ai Beni Ambientali Architettonici Artistici e Storici per le provincie di Pisa Livorno Lucca Massa Carrara online (accessed 4 February 2004).]</text>
+        <author>
+            <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+            <role type="code" vocab="marcrelator">aut</role>
+        </author>
+    </description>
+</descriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2016-03-08-17-32-28" pref="false" source="Simon Grüning" type="site">
+        <refid type=""/>
+        <name refid="7059154" type="geographic" vocab="tgn">Piazza dei Miracoli</name>
+        <point epsg="">
+            <lat/>
+            <long/>
+        </point>
+    </location>
+    <location dataDate="2016-03-03-16-53-57" pref="false" type="site">
+        <refid type=""/>
+        <name refid="7006082" type="geographic" vocab="tgn">Pisa</name>
+        <point epsg="">
+            <lat/>
+            <long/>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display>bearing masonry, cut stone construction, round plan, white marble inlaid on the exterior with colored marble</display>
+    <notes/>
+    <material pref="true" refid="300011443" type="medium" vocab="aat">marble</material>
+            <material pref="false" refid="300011571" source="Simon Gruening" type="medium" vocab="aat">white marble</material>
+</materialSet>
+        <measurementsSet>
+    <display/>
+    <notes/>
+    <measurements pref="false" shape="" type="count" unit="stories">8</measurements>
+            <measurements pref="false" shape="" type="height" unit="m">56</measurements>
+            <measurements pref="false" shape="" type="height" unit="ft">185</measurements>
+            <measurements extent="inclination; off the perpendicular" pref="false" shape="" type="other" unit="m">4.9</measurements>
+            <measurements extent="inclination; off the perpendicular" pref="false" shape="" type="other" unit="ft">16</measurements>
+</measurementsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2016-03-03-17-08-08" pref="false">
+        <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_149_romanesque_tower_component</refid>
+        <name type="electronic">Cataloging Cultural Objects Commons</name>
+    </source>
+</sourceSet>
+        <stylePeriodSet>
+    <display/>
+    <notes/>
+    <stylePeriod pref="false" refid="300020768" vocab="aat">Romanesque</stylePeriod>
+</stylePeriodSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2016-03-03-17-03-24" pref="false" refid="300343664" vocab="aat">
+                                <term type="descriptiveTopic">circular plan</term>
+                            </subject>
+            <subject pref="false" refid="300070045" vocab="aat">
+                                <term type="descriptiveTopic">dimension stone</term>
+                            </subject>
+            <subject pref="false" refid="300002557" vocab="aat">
+                                <term type="descriptiveTopic">bearing walls</term>
+                            </subject>
+            <subject dataDate="2016-03-03-16-29-28" pref="false" refid="300004848" vocab="aat">
+        <term type="descriptiveTopic">bell towers</term>
+    </subject>
+    <subject pref="false" refid="300073708" vocab="aat">
+        <term type="conceptTopic">religions (concept)</term>
+    </subject>
+    <subject pref="false" refid="300263552" vocab="aat">
+        <term type="descriptiveTopic">architecture (object genre)</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique pref="false" refid="300386948" source="Simon Gruening" vocab="aat">stonemasonry</technique>
+            <technique pref="false" refid="300053850" vocab="aat">inlay</technique>
+</techniqueSet>
+        <textrefSet>
+    <display/>
+    <notes/>
+    <textref dataDate="2016-03-03-17-08-57" pref="false">
+        <name type="electronic">Cultural Objects Names Authority [CONA]</name>
+        <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000100</refid>
+    </textref>
+</textrefSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title pref="true" type="popular">Leaning Tower of Pisa</title>
+            <title pref="" type="other">Campanile</title>
+            <title pref="false" type="other">Torre Pedente</title>
+</titleSet>
+        <relationSet>
+    <display/>
+    <notes/>
+    <relation href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002011" pref="false" relids="700002011" source="CONA 700002011" type="partOf">Cathedral of Pisa</relation>
+            <relation pref="true" relids="i_61d3251f-bdc5-4142-8d68-c2f39cbded36" source="Tamboti" type="imageIs">general view</relation>
+</relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype pref="false" refid="300004847" vocab="aat">towers</worktype>
+            <worktype pref="true" refid="300132457" vocab="aat">campaniles</worktype>
+</worktypeSet>
+    </work>
+</vra>

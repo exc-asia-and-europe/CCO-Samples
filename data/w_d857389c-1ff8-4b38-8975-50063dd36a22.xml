@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_d857389c-1ff8-4b38-8975-50063dd36a22" source="Kurs" refid="c_dc49d9cb-5e9e-4dee-ae64-94ced10882c1">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2015-04-27-11-52-32" pref="true">
+        <attribution/>
+        <culture>Italian</culture>
+        <dates type="life">
+            <earliestDate circa="true" type="about">1220</earliestDate>
+            <latestDate circa="false" type="">1257</latestDate>
+        </dates>
+        <name refid="96565566" source="viaf" type="personal" vocab="viaf">Guidetto da Como</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+    <agent pref="false" source="Simon Gruening">
+        <attribution>pulpit decorations</attribution>
+        <culture>Italian</culture>
+        <dates type="life">
+            <earliestDate circa="false" type="">1386?</earliestDate>
+            <latestDate circa="false" type="">1466</latestDate>
+        </dates>
+        <name extent="pulpit" refid="22171330" source="viaf" type="personal" vocab="viaf">Donatello</name>
+        <role type="code" vocab="marcrelator">scl</role>
+    </agent>
+    <agent dataDate="2016-04-12-12-08-20" pref="false" source="Simon Gruening">
+        <attribution>pulpit</attribution>
+        <culture>Italian</culture>
+        <dates type="life">
+            <earliestDate circa="true" type="about">1396</earliestDate>
+            <latestDate circa="false" type="">1472</latestDate>
+        </dates>
+        <name extent="pulpit" refid="40170664" source="viaf" type="personal" vocab="viaf">Michelozzo</name>
+        <role type="code" vocab="marcrelator">scl</role>
+    </agent>
+    <agent pref="false">
+        <attribution/>
+        <culture/>
+        <dates type="life">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="100627125" source="viaf" type="personal" vocab="viaf">unknown</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+</agentSet>
+        <dateSet>
+    <display> original church dates from 10th century, current church was begun in 12th century, façade and
+campanile date from 12th-15th century</display>
+    <notes/>
+    <date dataDate="2016-04-12-12-08-54" pref="false" type="creation">
+        <earliestDate>
+            <date circa="false" type="">1100</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type="">1499</date>
+        </latestDate>
+    </date>
+</dateSet>
+        <descriptionSet>
+    <display/>
+    <notes/>
+    <description dataDate="2016-04-12-12-10-10" pref="false" type="">
+        <text>The current church is an enlargement of a 10th-century parish church. The cathedral was a pilgrimage site noted for the relic of the Virgin Mary's belt, the Sacro Cingolo, and important 15th-century frescoes.
+
+The original church dates from 10th century, the current church was begun in 12th century, the façade and the
+campanile date from 12th-15th century</text>
+        <author>
+            <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+            <role type="code" vocab="marcrelator">aut</role>
+        </author>
+    </description>
+</descriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2016-04-12-12-15-42" pref="false" type="site">
+                                <refid type=""/>
+                                <name extent="Piazza del Duomo" refid="7006161" type="geographic" vocab="tgn">Prato</name>
+                                <point epsg="4326">
+                                    <lat>43.881926</lat>
+                                    <long>11.097984</long>
+                                </point>
+                            </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    <material extent="facade, striped pattern" pref="false" refid="300011443" type="medium" vocab="aat">marble</material>
+    <material pref="false" refid="300015332" source="getty" type="medium" vocab="aat">masonry</material>
+</materialSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2015-04-27-11-57-44" pref="false">
+        <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_7-Class.pdf#page=9</refid>
+        <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 180.</name>
+    </source>
+</sourceSet>
+        <stylePeriodSet>
+    <display/>
+    <notes/>
+    <stylePeriod pref="false" refid="300020775" source="getty" type="styleperiods" vocab="aat">Gothic</stylePeriod>
+            <stylePeriod pref="false" refid="300020768" source="getty" type="styleperiods" vocab="aat">Romanesque</stylePeriod>
+</stylePeriodSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2016-04-12-12-10-40" pref="false" refid="300263552" vocab="aat">
+                                <term type="descriptiveTopic">architecture (object genre)</term>
+                            </subject>
+            <subject dataDate="2015-04-27-11-55-14" pref="false" refid="300002557" source="getty" vocab="aat">
+        <term type="descriptiveTopic">bearing walls</term>
+    </subject>
+    <subject dataDate="2015-04-27-11-42-15" pref="false" refid="300056005" source="getty" vocab="aat">
+        <term type="conceptTopic">worship</term>
+    </subject>
+    <subject pref="false" refid="300007501" source="getty" vocab="aat">
+        <term type="descriptiveTopic">cathedrals</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique pref="false" refid="300386948" source="getty" type="techniques" vocab="aat">stonemasonry</technique>
+</techniqueSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title pref="true" type="descriptive">Prato Cathedral</title>
+    <title pref="false" type="descriptive">Duomo di Prato</title>
+    <title pref="false" type="descriptive">Cattedrale di Santo Stefano</title>
+    <title pref="false" type="former">Santo Stefano di Borgo al Cornio</title>
+</titleSet>
+        <vra:relationSet xmlns:vra="http://www.vraweb.org/vracore4.htm">
+            <vra:relation type="imageIs" relids="i_48ea8a21-19d9-429a-9c1a-192cebdcc447" source="Tamboti" pref="true">general view</vra:relation>
+        </vra:relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype pref="false" refid="300170443" source="getty" type="worktypes" vocab="aat">basilicas</worktype>
+            <worktype pref="false" refid="300263552" source="getty" type="worktypes" vocab="aat">architecture</worktype>
+</worktypeSet>
+    </work>
+</vra>

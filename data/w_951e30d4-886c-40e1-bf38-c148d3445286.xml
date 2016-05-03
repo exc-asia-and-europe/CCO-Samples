@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_951e30d4-886c-40e1-bf38-c148d3445286" source="Kurs" refid="c_a3a634f2-460c-41de-b3fe-01a2e153f831">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2015-04-08-15-04-36" pref="false">
+        <attribution/>
+        <culture/>
+        <dates type="life">
+            <earliestDate circa="false" type="">1925</earliestDate>
+            <latestDate circa="false" type="">2010</latestDate>
+        </dates>
+        <name refid="58260947" source="viaf" type="personal" vocab="viaf">Graham, Bruce</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+    <agent dataDate="2015-04-08-15-03-55" pref="false">
+        <attribution/>
+        <culture/>
+        <dates type="life">
+            <earliestDate circa="false" type="">1929</earliestDate>
+            <latestDate circa="false" type="">1982</latestDate>
+        </dates>
+        <name refid="60016681" source="viaf" type="personal" vocab="viaf">Khan, Fazlur R.</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+    <agent dataDate="2015-04-08-15-00-39" pref="false">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="132223814" source="viaf" type="corporate" vocab="viaf">Sears, Roebuck and Company.</name>
+        <role type="code" vocab="marcrelator">pat</role>
+    </agent>
+    <agent dataDate="2015-04-08-15-04-54" pref="true">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="149712040" source="viaf" type="corporate" vocab="viaf">Skidmore, Owings &amp; Merrill</name>
+        <role type="code" vocab="marcrelator">cre</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext pref="false" source="AAT 300107956">American (North American)</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2015-04-08-15-10-21" pref="false" type="commission">
+                                <earliestDate>
+                                    <date circa="false" type="">1969</date>
+                                    <alternativeNotation type=""/>
+                                </earliestDate>
+                                <latestDate>
+                                    <date circa="false" type=""/>
+                                    <alternativeNotation type=""/>
+                                </latestDate>
+                            </date>
+            <date dataDate="2015-04-08-15-07-43" extent="construction" pref="false" type="creation">
+        <earliestDate>
+            <date circa="false" type="">1970</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type="">1973</date>
+        </latestDate>
+    </date>
+</dateSet>
+        <descriptionSet>
+    <display/>
+    <notes/>
+    <description dataDate="2015-04-08-15-50-00" pref="false" type="">
+        <text>Steel frame, clad in bronze-tinted glass and stainless aluminum.
+Overlooks the west side of Chicago’s downtown Loop.</text>
+        <author>
+            <name type=""/>
+            <role type=""/>
+        </author>
+    </description>
+</descriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2016-03-17-15-36-29" pref="false" type="site">
+                                <refid type=""/>
+                                <name refid="7013596" type="geographic" vocab="tgn">Chicago</name>
+                                <point epsg="4326">
+                                    <lat>41.8789</lat>
+                                    <long>-87.6358</long>
+                                </point>
+                            </location>
+            <location dataDate="2015-04-08-15-28-04" pref="false" type="site">
+        <refid type=""/>
+        <name type="geographic">233 South Wacker Drive, Chicago, Illinois</name>
+        <point epsg="4326">
+            <lat>41.8789</lat>
+            <long>-87.6358</long>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    
+    <material pref="false" refid="300011015" source="getty" type="medium" vocab="aat">aluminum</material>
+    <material pref="false" type="medium">glass</material>
+    <material pref="false" refid="300133751" source="getty" type="medium" vocab="aat">steel</material>
+</materialSet>
+        <measurementsSet>
+    <display/>
+    <notes/>
+    <measurements extent="of office and commercial space" pref="false" shape="" type="size" unit="sq ft">4.500.000</measurements>
+    <measurements extent="of office and commercial space" pref="false" shape="" type="size" unit="sqm">418.064</measurements>
+    <measurements pref="false" shape="" type="count" unit="stories">110</measurements>
+    <measurements extent="height to the highest occupied floor" pref="false" shape="" type="height" unit="ft">1431</measurements>
+    <measurements extent="to the top of the roof" pref="false" shape="" type="height" unit="ft">1450</measurements>
+    <measurements extent="height to the highest occupied floor" pref="false" shape="" type="height" unit="m">436</measurements>
+    <measurements extent="to the top of the roof" pref="false" shape="" type="height" unit="m">442</measurements>
+</measurementsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2016-03-17-15-32-44" pref="false">
+        <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_158_skyscraper</refid>
+        <name type="electronic">Cataloging Cultural Objects Commons</name>
+    </source>
+</sourceSet>
+        <stylePeriodSet>
+    <display/>
+    <notes/>
+    <stylePeriod pref="false" refid="300264736" source="getty" type="styleperiods" vocab="aat">Modern</stylePeriod>
+</stylePeriodSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2015-04-08-15-48-52" pref="false" refid="300002563" vocab="aat">
+        <term type="descriptiveTopic">curtain walls</term>
+    </subject>
+    <subject dataDate="2015-04-08-15-15-38" pref="false" refid="300004810" vocab="aat">
+        <term type="descriptiveTopic">high-rise buildings</term>
+    </subject>
+    <subject pref="false" refid="300004809" vocab="aat">
+        <term type="descriptiveTopic">skyscrapers</term>
+    </subject>
+    <subject pref="false" refid="300007046" vocab="aat">
+        <term type="descriptiveTopic">office towers</term>
+    </subject>
+    <subject pref="false" refid="300007043" vocab="aat">
+        <term type="descriptiveTopic">office buildings</term>
+    </subject>
+    <subject pref="false" refid="300054343" vocab="aat">
+        <term type="conceptTopic">business</term>
+    </subject>
+    <subject dataDate="2016-03-17-16-02-54" pref="false" refid="300263552" vocab="aat">
+        <term type="descriptiveTopic">architecture</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique pref="false" refid="300015341" vocab="aat">steel frame construction</technique>
+</techniqueSet>
+        <textrefSet>
+    <display/>
+    <notes/>
+    <textref dataDate="2016-03-17-15-35-04" pref="false">
+        <name type="electronic">CONA</name>
+        <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000053</refid>
+    </textref>
+</textrefSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title href="http://en.wikipedia.org/wiki/Willis_Tower#Naming_rights" pref="true" type="owner">Willis Tower</title>
+    <title pref="false" source="http://en.wikipedia.org/wiki/Willis_Tower#Naming_rights" type="former">Sears Tower</title>
+</titleSet>
+        <vra:relationSet xmlns:vra="http://www.vraweb.org/vracore4.htm">
+            <vra:relation type="imageIs" relids="i_3b27d1cb-8a1e-4c79-bd1f-108606024d6a" source="Tamboti" pref="true">general view</vra:relation>
+        </vra:relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype pref="false" refid="300263552" source="getty" type="worktypes" vocab="aat">architecture</worktype>
+            <worktype pref="false" refid="300004809" source="getty" type="worktypes" vocab="aat">skyscrapers</worktype>
+</worktypeSet>
+    </work>
+</vra>

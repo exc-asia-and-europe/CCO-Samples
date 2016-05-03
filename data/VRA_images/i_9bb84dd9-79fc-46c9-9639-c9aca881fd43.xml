@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_9bb84dd9-79fc-46c9-9639-c9aca881fd43" source="Tamboti" refid="" href="i_9bb84dd9-79fc-46c9-9639-c9aca881fd43.jpg">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2016-04-26-09-47-00" pref="false">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+        <role type="code" vocab="marcrelator">cre</role>
+    </agent>
+</agentSet>
+        <rightsSet>
+    <display/>
+    <notes/>
+    <rights dataDate="2016-04-26-09-46-42" pref="false" type="publicDomain">
+        <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+        <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Alfred Stieglitz Collection, 1949.</text>
+    </rights>
+</rightsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2015-05-04-10-05-41" pref="false">
+        <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/488315</refid>
+        <name type="electronic">The Metropolitan Museum of Art. The Online Collection.</name>
+    </source>
+</sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_017--CCO_fig040-1.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_423123f2-8bd2-463b-9739-716b100d44ed" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

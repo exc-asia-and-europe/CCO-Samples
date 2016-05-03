@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_ba242fd5-8c1a-4b3e-8044-89d29999c338" source="Kurs" refid="c_352a414f-fb1a-4b07-91cc-b629c8e6a7d6">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2015-11-12-11-39-22" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints">
+        <attribution/>
+        <culture>Japanese</culture>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="173788257" source="viaf" type="corporate" vocab="viaf">Nishimura Eijudo</name>
+        <role type="code" vocab="marcrelator">pbl</role>
+    </agent>
+    <agent dataDate="2015-11-12-11-44-20" pref="true" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints">
+        <attribution/>
+        <culture>Japanese</culture>
+        <dates type="life">
+            <earliestDate circa="false" type="">1760</earliestDate>
+            <latestDate circa="false" type="">1849</latestDate>
+        </dates>
+        <name refid="69033717" source="viaf" type="personal" vocab="viaf">Hishikawa, Sori</name>
+        <role type="code" vocab="marcrelator">prm</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints">Japanese</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2015-11-12-11-44-10" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="creation">
+        <earliestDate>
+            <date circa="false" type="">1827</date>
+            <alternativeNotation type=""/>
+        </earliestDate>
+        <latestDate>
+            <date circa="false" type="">1837</date>
+            <alternativeNotation type=""/>
+        </latestDate>
+    </date>
+</dateSet>
+        <descriptionSet>
+    <display/>
+    <notes/>
+    <description dataDate="2015-11-12-11-44-02" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="">
+        <text>Despite the title, this series actually comprises 46 prints total. Hokusai produced two other sequential series of views.</text>
+        <author>
+            <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+            <role type="code" vocab="marcrelator">aut</role>
+        </author>
+    </description>
+</descriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2015-11-12-11-43-53" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="site">
+        <refid type=""/>
+        <name source="TGN 1107685" type="geographic">Fuji San</name>
+        <point epsg="4326">
+            <lat>35.358056</lat>
+            <long>138.731111</long>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    
+    <material pref="false" refid="300264870" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="medium" vocab="aat">color</material>
+            <material pref="false" refid="300015012" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="medium" vocab="aat">ink</material>
+    <material pref="false" refid="300014109" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="support" vocab="aat">paper</material>
+</materialSet>
+        <measurementsSet>
+    <display/>
+    <notes/>
+    <measurements pref="false" shape="" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="count" unit="prints">46</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="height" unit="cm">24</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="width" unit="cm">37</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="height" unit="in">9 1/2</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="width" unit="in">14 5/8</measurements>
+</measurementsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2015-11-12-12-07-57" pref="false">
+        <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints</refid>
+        <name type="electronic">Cataloging Cultural Objects Commons</name>
+    </source>
+</sourceSet>
+        <stylePeriodSet>
+    <display/>
+    <notes/>
+    <stylePeriod pref="false" refid="300106643" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series" type="styleperiods" vocab="aat">Edo</stylePeriod>
+</stylePeriodSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2015-11-12-11-46-14" pref="false" refid="300264872" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" vocab="aat">
+                                <term type="iconographicTopic">meisho-e</term>
+                            </subject>
+            <subject dataDate="2015-11-12-11-45-46" pref="false" refid="300139140" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" vocab="aat">
+                                <term type="descriptiveTopic">genre</term>
+                            </subject>
+            <subject pref="false" refid="300008687" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" vocab="aat">
+                                <term type="descriptiveTopic">oceans</term>
+                            </subject>
+            <subject dataDate="2015-11-12-11-52-13" pref="false" refid="300117546" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" vocab="aat">
+        <term type="descriptiveTopic">seascapes</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique pref="false" refid="300053296" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="techniques" vocab="aat">woodcut</technique>
+</techniqueSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title lang="eng" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="translated">Thirty-six Views of Mount Fuji: First Series</title>
+            <title lang="eng" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="other">First Series: Mt. Fuji Views</title>
+            <title lang="jpn" pref="false" script="Jpan" source="https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji" type="other">富嶽三十六景</title>
+            <title lang="jpn" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="other">Fugaku sanjurokkei</title>
+</titleSet>
+        <relationSet>
+    <display/>
+    <notes/>
+    <relation pref="false" relids="w_cef53ec7-0794-482d-8d85-3d0287b8a05f" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="largerContextFor">Great Wave at Kanagawa</relation>
+    <relation pref="true" relids="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c" source="Tamboti" type="imageIs">general view</relation>
+    <relation pref="false" relids="i_946b1e74-3393-480a-b06e-717e44a79d11" source="Tamboti" type="imageIs">general view</relation>
+    <relation pref="false" relids="i_18801aba-65bb-43ee-9f74-e80a1a2814a2" source="Tamboti" type="imageIs">general view</relation>
+</relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype pref="false" refid="300041273" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="worktypes" vocab="aat">prints</worktype>
+            <worktype pref="false" refid="300041412" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="worktypes" vocab="aat">color woodcuts</worktype>
+</worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hra="http://cluster-schemas.uni-hd.de" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_87a809ef-3ab1-4ed4-8136-92dd4cd7dc64" source="Kurs" refid="c_ac31a8a0-da33-4005-a818-3d22a35f3086">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2015-11-05-15-24-22" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" source="CCO">
+        <attribution/>
+        <culture>Italian</culture>
+        <dates type="life">
+            <earliestDate circa="false" type="">1475</earliestDate>
+            <latestDate circa="false" type="">1564</latestDate>
+        </dates>
+        <name refid="24585191" source="viaf" type="personal" vocab="viaf">Buonarroti, Michelangelo</name>
+        <role type="code" vocab="marcrelator">arc</role>
+    </agent>
+</agentSet>
+        <culturalContextSet>
+    <display/>
+    <notes/>
+    <culturalContext href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false">Italian</culturalContext>
+</culturalContextSet>
+        <dateSet>
+    <display/>
+    <notes/>
+    <date dataDate="2015-11-05-15-26-00" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" type="creation">
+        <earliestDate>
+            <date circa="true" type="after">1545</date>
+        </earliestDate>
+        <latestDate>
+            <date circa="true" type="before">1555</date>
+        </latestDate>
+    </date>
+</dateSet>
+        <descriptionSet>
+    <display/>
+    <notes/>
+    <description dataDate="2015-11-05-15-27-33" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" source="CCO" type="">
+        <text>This is probably one of the two models described by Michelangelo in a letter to his brother, Lionardo, in September 1555. His designs for the façade had begun in 1515.</text>
+        <author>
+            <name refid="12343590" source="viaf" type="personal" vocab="viaf">Millon, Henry A.</name>
+            <role type="code" vocab="marcrelator">aut</role>
+        </author>
+    </description>
+</descriptionSet>
+        <locationSet>
+    <display/>
+    <notes/>
+    <location dataDate="2015-11-05-15-31-14" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" source="CCO" type="repository">
+                                <refid type=""/>
+                                <name type="corporate">Casa Buonarroti (Florence, Italy)</name>
+                                <point epsg="">
+                                    <lat/>
+                                    <long/>
+                                </point>
+                            </location>
+            <location href="https://en.wikipedia.org/wiki/Basilica_of_San_Lorenzo,_Florence" pref="false" source="Wikipedia" type="site">
+        <refid type=""/>
+        <name type="geographic">San Lorenzo, Florence</name>
+        <point epsg="4326">
+            <lat>43.7749</lat>
+            <long>11.2539</long>
+        </point>
+    </location>
+</locationSet>
+        <materialSet>
+    <display/>
+    <notes/>
+    <material extent="traces of" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300014952" source="getty" type="medium" vocab="aat">gesso</material>
+            <material extent="traces of; white" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300015052" source="getty" type="medium" vocab="aat">lead-based paint</material>
+            <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300011914" source="getty" type="medium" vocab="aat">wood</material>
+            <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300012620" source="getty" type="medium" vocab="aat">pine</material>
+            <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300012540" source="getty" type="medium" vocab="aat">cypress</material>
+            <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300012363" source="getty" type="medium" vocab="aat">poplar</material>
+</materialSet>
+        <measurementsSet>
+    <display/>
+    <notes/>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="scale" unit="">1:12</measurements>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="height" unit="cm">216</measurements>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="width" unit="cm">283</measurements>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="depth" unit="cm">50</measurements>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="height" unit="ft">7' 3''</measurements>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="width" unit="ft">9' 3''</measurements>
+    <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" shape="" type="depth" unit="ft">1' 7''</measurements>
+</measurementsSet>
+        <stylePeriodSet>
+    <display/>
+    <notes/>
+    <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300021140" source="getty" type="styleperiods" vocab="aat">Renaissance</stylePeriod>
+</stylePeriodSet>
+        <subjectSet>
+    <display/>
+    <notes/>
+    <subject dataDate="2015-11-05-15-32-58" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300047753" source="getty" vocab="aat">
+                                <term type="descriptiveTopic">models</term>
+                            </subject>
+            <subject dataDate="2015-11-05-15-32-26" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300002526" source="getty" vocab="aat">
+                                <term type="descriptiveTopic">façades</term>
+                            </subject>
+            <subject dataDate="2015-11-05-15-33-18" href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300263552" source="getty" vocab="aat">
+        <term type="descriptiveTopic">architecture</term>
+    </subject>
+</subjectSet>
+        <techniqueSet>
+    <display/>
+    <notes/>
+    <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300054083" source="getty" type="techniques" vocab="aat">woodworking</technique>
+</techniqueSet>
+        <titleSet>
+    <display/>
+    <notes/>
+    <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" source="CCO" type="descriptive">Wooden Model for the Façade of San Lorenzo, Florence</title>
+</titleSet>
+        <relationSet>
+    <display/>
+    <notes/>
+    <relation pref="false" relids="d1" type="depicts">San Lorenzo, Florence, Italy</relation>
+            <relation pref="true" relids="i_f6b91f1a-332e-49c9-b9ad-b7bd2470a632" source="Tamboti" type="imageIs">general view</relation>
+</relationSet>
+        <worktypeSet>
+    <display/>
+    <notes/>
+    <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" refid="300047753" source="getty" type="worktypes" vocab="aat">models</worktype>
+</worktypeSet>
+    </work>
+</vra>

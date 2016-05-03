@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_fd648307-e83b-49ba-8f75-358e5c46c971" source="Tamboti" refid="" href="i_fd648307-e83b-49ba-8f75-358e5c46c971.jpg">
+        <agentSet>
+    <display/>
+    <notes/>
+    <agent dataDate="2016-04-26-12-58-58" pref="true">
+        <attribution/>
+        <culture/>
+        <dates type="">
+            <earliestDate circa="false" type=""/>
+            <latestDate circa="false" type=""/>
+        </dates>
+        <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+        <role type="code" vocab="marcrelator">cre</role>
+    </agent>
+</agentSet>
+        <rightsSet>
+    <display/>
+    <notes/>
+    <rights dataDate="2015-05-06-13-12-34" href="www.philamuseum.org" pref="false" type="copyrighted">
+        <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+        <text>Philadelphia Museum of Art. Purchased with Museum funds, 1931.</text>
+    </rights>
+</rightsSet>
+        <sourceSet>
+    <display/>
+    <notes/>
+    <source dataDate="2015-05-06-13-10-36" pref="false">
+        <refid type="URI">http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1</refid>
+        <name type="electronic">Philadelphia Museum of Art. Online Collection.</name>
+    </source>
+</sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_025.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_62efc5b2-222f-4d3f-87fe-c284dcc0073a" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

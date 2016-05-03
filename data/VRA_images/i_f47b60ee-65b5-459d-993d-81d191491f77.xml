@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_f47b60ee-65b5-459d-993d-81d191491f77" source="Tamboti" refid="" href="i_f47b60ee-65b5-459d-993d-81d191491f77.jpg">
+        <agentSet dataDate="2015-11-26T12:11:18.109+01:00">
+            <display dataDate="2015-11-26T12:11:18.109+01:00"/>
+            <notes dataDate="2015-11-26T12:11:18.109+01:00"/>
+            <agent dataDate="2015-11-26T12:11:18.109+01:00" pref="false">
+                <attribution dataDate="2015-11-26T12:11:18.109+01:00"/>
+                <culture dataDate="2015-11-26T12:11:18.109+01:00"/>
+                <dates dataDate="2015-11-26T12:11:18.109+01:00"/>
+                <name dataDate="2015-11-26T12:11:18.109+01:00" refid="265208613" type="corporate" vocab="viaf">United States.</name>
+                <role dataDate="2015-11-26T12:11:18.109+01:00" type="code" vocab="marcrelator"/>
+            </agent>
+        </agentSet>
+        <rightsSet dataDate="2015-11-26T12:12:41.975+01:00">
+            <display dataDate="2015-11-26T12:12:41.975+01:00"/>
+            <notes dataDate="2015-11-26T12:12:41.975+01:00"/>
+            <rights dataDate="2015-11-26T12:12:41.975+01:00" pref="false" type="publicDomain">
+                <rightsHolder dataDate="2015-11-26T12:12:41.975+01:00">The U.S. National Archives and Records Administration</rightsHolder>
+                <text dataDate="2015-11-26T12:12:41.975+01:00"/>
+            </rights>
+        </rightsSet>
+        <sourceSet dataDate="2015-11-26T12:13:12.597+01:00">
+            <display dataDate="2015-11-26T12:13:12.597+01:00"/>
+            <notes dataDate="2015-11-26T12:13:12.597+01:00"/>
+            <source dataDate="2015-11-26T12:13:12.597+01:00" pref="false">
+                <refid dataDate="2015-11-26T12:13:12.597+01:00" type="URI">http://www.archives.gov/exhibits/charters/charters_downloads.html</refid>
+                <name dataDate="2015-11-26T12:13:12.597+01:00" type="electronic">The U.S. National Archives and Records Administration</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <display/>
+            <title type="generalView">Image record CCO_online_065.jpg</title>
+        </titleSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_57b05b6a-493f-4c9d-bf2e-2bcdd4ddc746" refid="" source="Tamboti">attachment</relation>
+        </relationSet>
+    </image>
+</vra>

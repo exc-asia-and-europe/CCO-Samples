@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="VRA cleanup tools" id="vra-cleanup" default="default" basedir=".">
+    <xmlproperty file="build.properties.xml" semanticAttributes="true" keepRoot="false"/>
+    
+    <target name="xslt-cleanup">
+        <mkdir dir="target"/>
+    
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup.xsl"
+              destDir="target"
+              force="yes"
+              basedir="${basedir}/data">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="default">
+        
+    </target>
+</project>

@@ -2,19 +2,36 @@
 <project name="VRA cleanup tools" id="vra-cleanup" default="default" basedir=".">
     <xmlproperty file="build.properties.xml" semanticAttributes="true" keepRoot="false"/>
     
-    <target name="xslt-cleanup">
-        <mkdir dir="target"/>
+    <target name="xslt-basic-cleanup">
+        <mkdir dir="target/basic"/>
     
-        <xslt style="${basedir}/tools/cleanup/xslt/cleanup.xsl"
-              destDir="target"
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-basic.xsl"
+              destDir="target/basic"
               force="yes"
-              basedir="${basedir}/data">
+              basedir="${basedir}/data"
+            extension=".xml">
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath refid="transform.class.path"/>
         </xslt>
     </target>
     
-    <target name="default">
+    <target name="xslt-type-cleanup">
+        <mkdir dir="target/type"/>
         
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-types.xsl"
+              destDir="target/type"
+              force="yes"
+              basedir="${basedir}/target/basic"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup">
+    
+    </target>
+    <target name="clean">
+        <delete dir="target"/>
     </target>
 </project>

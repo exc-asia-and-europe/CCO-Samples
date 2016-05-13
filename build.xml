@@ -28,7 +28,33 @@
         </xslt>
     </target>
     
-    <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup">
+     <target name="xslt-sort-cleanup">
+        <mkdir dir="target/sort"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-sort.xsl"
+              destDir="target/sort"
+              force="yes"
+              basedir="${basedir}/target/type"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="xslt-dates-cleanup">
+        <mkdir dir="target/dates"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-dates.xsl"
+              destDir="target/dates"
+              force="yes"
+              basedir="${basedir}/target/sort"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup, xslt-sort-cleanup, xslt-dates-cleanup">
     
     </target>
     <target name="clean">

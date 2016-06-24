@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="VRA cleanup tools" id="vra-cleanup" default="default" basedir=".">
+    <xmlproperty file="build.properties.xml" semanticAttributes="true" keepRoot="false"/>
+    
+    <target name="xslt-basic-cleanup">
+        <mkdir dir="target/basic"/>
+    
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-basic.xsl"
+              destDir="target/basic"
+              force="yes"
+              basedir="${basedir}/data"
+            extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="xslt-type-cleanup">
+        <mkdir dir="target/type"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-types.xsl"
+              destDir="target/type"
+              force="yes"
+              basedir="${basedir}/target/basic"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="xslt-source-cleanup">
+        <mkdir dir="target/source"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-source.xsl"
+              destDir="target/source"
+              force="yes"
+              basedir="${basedir}/target/type"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+     <target name="xslt-sort-cleanup">
+        <mkdir dir="target/sort"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-sort.xsl"
+              destDir="target/sort"
+              force="yes"
+              basedir="${basedir}/target/source"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="xslt-dates-cleanup">
+        <mkdir dir="target/dates"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-dates.xsl"
+              destDir="target/dates"
+              force="yes"
+              basedir="${basedir}/target/sort"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="xslt-sets-cleanup">
+        <mkdir dir="target/sets"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-sets.xsl"
+              destDir="target/sets"
+              force="yes"
+              basedir="${basedir}/target/dates"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup, xslt-source-cleanup, xslt-sort-cleanup, xslt-dates-cleanup, xslt-sets-cleanup">
+        <mkdir dir="cleaned"/>
+        <move toDir="${basedir}/cleaned">
+            <fileset dir="${basedir}/target/dates">
+                <include name="**/*.xml"/>
+            </fileset>
+        </move>
+        <antcall target="clean" />
+    </target>
+    
+    <target name="clean">
+        <delete dir="target"/>
+    </target>
+</project>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_0b8b70ad-56c3-4ef2-891e-cd257b801e26"
+         refid="c_97b2ba1d-8597-4ae3-b831-63bd9d72af09"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-17-16-20-56">
+            <culture>American</culture>
+            <dates type="life">
+               <earliestDate circa="false">1934</earliestDate>
+            </dates>
+            <name refid="98048351" type="personal" vocab="viaf">Meier, Richard</name>
+            <role type="code" vocab="marcrelator">arc</role>
+         </agent>
+         <agent pref="false" dataDate="2015-04-20-09-35-26">
+            <culture>American</culture>
+            <name refid="261492506" type="corporate" vocab="viaf">Richard Meier &amp; Partners</name>
+            <role type="code" vocab="marcrelator">oth</role>
+         </agent>
+         <agent extent="founded 1953" pref="false" dataDate="2016-03-17-16-22-13">
+            <culture>American</culture>
+            <dates type="other">
+               <earliestDate circa="false">1953</earliestDate>
+            </dates>
+            <name refid="156706556" type="corporate" vocab="viaf">J. Paul Getty Trust</name>
+            <role type="code" vocab="marcrelator">cli</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300107956">American (North American)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-04-20-09-44-18">
+            <earliestDate>
+               <date>1991</date>
+            </earliestDate>
+            <latestDate>
+               <date>1997</date>
+            </latestDate>
+         </date>
+         <date pref="false" type="design" dataDate="2015-04-20-09-41-53">
+            <earliestDate>
+               <date>1984</date>
+            </earliestDate>
+            <latestDate>
+               <date>1991</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description extent="http://www.getty.edu/visit/center/architecture.html"
+                      pref="false"
+                      dataDate="2016-03-17-16-29-58">
+            <text>Six-building hillside complex. The site is extensively landscaped. Buildings are clad in cleft-cut Italian travertine and white enamel panels; campus is organized around a central arrival plaza. These non-load-bearing slabs have visible joints and are held in place by stainless steel anchors. The angular grid of the design is mitigated by curvilinear design elements and a large garden. The Getty Center sits on a hilltop in the Santa Monica Mountains, just off the San Diego Freeway. From there, visitors can take in the disparate aspects of Los Angeles’ landscape-the Pacific Ocean, the San Gabriel Mountains, and the vast street-grid of the city.
+[Description Source: J. Paul Getty Museum online. www.getty.edu (accessed 2 September 2006)]</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-03-17-16-27-23">
+            <name refid="7023900" type="geographic" vocab="tgn">Los Angeles</name>
+         </location>
+         <location pref="false" type="site" dataDate="2015-04-20-09-55-39">
+            <name type="geographic">1200 Getty Center Dr, Los Angeles, CA 90049, USA</name>
+            <point epsg="4326">
+               <lat>34.077065</lat>
+               <long>-118.474025</long>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300011329" type="medium" vocab="aat">travertine</material>
+         <material pref="false" refid="300014910" type="medium" vocab="aat">enamel</material>
+         <material pref="false" refid="300010900" type="medium" vocab="aat">metal</material>
+         <material pref="false" refid="300010797" type="medium" vocab="aat">glass</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements pref="false" type="count" unit="buildings">6</measurements>
+         <measurements pref="false" type="area" unit="hectare">44.51</measurements>
+         <measurements pref="false" type="area" unit="sqm">139,354.56</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_f865856c-0516-41ca-ad18-d66cb494fa17"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-17-16-37-46">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_163_contemporary_building_complex</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300263552"
+                  vocab="aat"
+                  dataDate="2016-03-17-16-23-08">
+            <term type="descriptiveTopic">architecture (object genre)</term>
+         </subject>
+         <subject pref="false" refid="300264847" vocab="aat">
+            <term type="descriptiveTopic">art museums</term>
+         </subject>
+         <subject pref="false" refid="300054687" vocab="aat">
+            <term type="conceptTopic">research</term>
+         </subject>
+         <subject pref="false"
+                  refid="300380247"
+                  vocab="aat"
+                  source="Simon Gruening"
+                  dataDate="2016-03-17-16-25-39">
+            <term type="descriptiveTopic">art libraries</term>
+         </subject>
+         <subject pref="false" refid="300005135" vocab="aat">
+            <term type="descriptiveTopic">cultural centers</term>
+         </subject>
+         <subject pref="false" refid="300000202" vocab="aat">
+            <term type="descriptiveTopic">complexes</term>
+         </subject>
+         <subject pref="false"
+                  refid="300312241"
+                  vocab="aat"
+                  dataDate="2016-03-17-16-23-32">
+            <term type="descriptiveTopic">libraries</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300015341" vocab="aat"/>
+      </techniqueSet>
+      <textrefSet>
+         <textref pref="false" dataDate="2016-03-17-16-33-28">
+            <name type="electronic">CONA</name>
+            <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700001994</refid>
+         </textref>
+      </textrefSet>
+      <titleSet>
+         <title pref="false" type="descriptive">Getty Center</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300263552" vocab="aat"/>
+         <worktype pref="false" refid="300005138" vocab="aat"/>
+         <worktype pref="false" refid="300000202" vocab="aat"/>
+      </worktypeSet>
+   </work>
+</vra>

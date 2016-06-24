@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_c8615808-1c56-4d96-8917-a3542816c8d3"
+          href="i_c8615808-1c56-4d96-8917-a3542816c8d3.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-02-18-16-50-57">
+            <name extent="creator: Harmonia Amanda"
+                  refid="137022054"
+                  type="corporate"
+                  vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_5908e333-e66d-4fac-a952-33729bcbd87f"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-02-18-12-10-38">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Cathedrale_nd_chartres_nord018.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_140.jpg</title>
+      </titleSet>
+   </image>
+</vra>

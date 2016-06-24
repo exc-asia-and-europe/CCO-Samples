@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_5c2db432-d7d5-4cfd-af8c-83a0200a87d7"
+          href="i_5c2db432-d7d5-4cfd-af8c-83a0200a87d7.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="false" dataDate="2016-03-17-16-40-25">
+            <name extent="photographer: mwanasimba"
+                  refid="137022054"
+                  type="corporate"
+                  vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2016-03-17-16-40-41">
+            <earliestDate>
+               <date>2006-08-13</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <locationSet>
+         <location href="geo:51.500327,-0.120034"
+                   pref="false"
+                   type="creation"
+                   dataDate="2016-03-17-16-41-54">
+            <name refid="7011781" vocab="tgn">London</name>
+            <point epsg="4326">
+               <lat>51.500327</lat>
+               <long>-0.120034</long>
+            </point>
+         </location>
+      </locationSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_e2fabc51-32c4-4486-b348-af9742eda5e3"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-22-12-58-18">
+            <refid type="URI">http://commons.wikimedia.org/wiki/File:The_Houses_of_Parliament,_London_(2848413682).jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title pref="false" type="descriptive">View from Westminster Bridge</title>
+      </titleSet>
+   </image>
+</vra>

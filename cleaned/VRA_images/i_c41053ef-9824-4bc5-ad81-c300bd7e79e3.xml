@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_c41053ef-9824-4bc5-ad81-c300bd7e79e3"
+          href="i_c41053ef-9824-4bc5-ad81-c300bd7e79e3.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-28-17-37-33">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_678b2612-fff9-44ba-9836-0b4a37009f26"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-13-12-21-27">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/</refid>
+            <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_030.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_106d5ebb-423f-421e-b0e1-8a710a6dd9bf"
+         refid="c_4ff6a6b0-347b-4e07-956d-c6792a06afa8"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2015-04-29-14-08-00">
+            <dates type="life">
+               <earliestDate circa="false">1682</earliestDate>
+               <latestDate circa="false">1749</latestDate>
+            </dates>
+            <name refid="12577068" type="personal" vocab="viaf">Huysum, Jan van</name>
+            <role type="code" vocab="marcrelator">art</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300111175">Dutch (culture or style)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2016-04-21-11-11-45">
+            <earliestDate>
+               <date>1722</date>
+            </earliestDate>
+            <latestDate>
+               <date>1722</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-04-21-11-28-57">
+            <text>Description: The subject is a still life of flowers spilling onto a ledge, some decaying and being eaten by insects. It represents the senses of sight and smell; the decay and broken stems symbolize the transient nature of life, youth, and beauty; the ledge pushed up to the picture plane resembles the ledge seen in posthumous portraits, thus symbolizing death. The crown of thorns flower at the top symbolizes the Passion of Christ.
+[Sources: J. Paul Getty Museum. Handbook of the Collections. Los Angeles: J. Paul Getty Museum, 1991. Page: 115.]</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">edt</role>
+            </author>
+         </description>
+         <description href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/"
+                      pref="false"
+                      source="J. Paul Getty Museum"
+                      dataDate="2016-04-21-11-28-16">
+            <text>The Dutch fascination with nature is described in a riotous display of beautiful and exotic flowers. Arranged in a terracotta vase displaying an antique relief, Jan van Huysum included flowers from all seasons of the year--roses, anemones, hyacinths, tulips, and more--and painted them directly from life. The flowers' nearly overripe quality attests both to nature's bounty and its transience. The bouquet is ordered in a loose pyramidal shape, with flowers and greenery almost bursting to be free of the vase. Butterflies and other insects fly or crawl amongst the arrangement, and drops of water are visible on leafs and shiny petals. 
+
+Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture the brilliant colors and delicate textures of the blossoms. Because each flower could only be painted while in season, it sometimes took the artist several years to complete a single painting.</text>
+            <author>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <role type="code" vocab="marcrelator">rps</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/"
+                      pref="false"
+                      source="J. Paul Getty Museum"
+                      dataDate="2016-04-21-11-29-23">
+            <author refid="12577068" type="personal" vocab="viaf">Huysum, Jan van</author>
+            <position>lower right</position>
+            <text>Jan. Van. / Húÿsúm. fecit. 1722</text>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location pref="false" type="repository" dataDate="2016-04-21-11-23-05">
+            <refid type="accession">82.PB.70</refid>
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300015050" type="medium" vocab="aat">oil paint</material>
+         <material pref="false" refid="300014657" type="support" vocab="aat">panels</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="J. Paul Getty Museum">80.3</measurements>
+         <measurements href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/"
+                       pref="true"
+                       type="width"
+                       unit="cm"
+                       source="J. Paul Getty Museum">61</measurements>
+         <measurements href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="J. Paul Getty Museum">31 5/8</measurements>
+         <measurements href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="J. Paul Getty Museum">24</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_2354c674-cde7-4c99-8a71-afde9ee66a33"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/?dz=0.5000,0.6615,0.42</refid>
+            <name type="electronic">The J. Paul Getty Museum</name>
+         </source>
+         <source pref="false" dataDate="2016-04-26-08-51-58">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_10_still_life_painting</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <stylePeriod pref="false" refid="300021155" type="styleperiods" vocab="aat">Rococo</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300015638"
+                  vocab="aat"
+                  dataDate="2015-04-29-14-25-35">
+            <term type="iconographicTopic">still lifes</term>
+         </subject>
+         <subject pref="false" refid="300132399" vocab="aat">
+            <term type="descriptiveTopic">flowers</term>
+         </subject>
+         <subject pref="false" refid="300129425" vocab="aat">
+            <term type="descriptiveTopic">urns</term>
+         </subject>
+         <subject pref="false" refid="300003179" vocab="aat">
+            <term type="descriptiveTopic">sills</term>
+         </subject>
+         <subject pref="false" refid="300379705" vocab="aat">
+            <term type="descriptiveTopic">Tulipa</term>
+         </subject>
+         <subject pref="false" refid="300266246" vocab="aat">
+            <term type="descriptiveTopic">Rosa (genus)</term>
+         </subject>
+         <subject pref="false" refid="300380003" vocab="aat">
+            <term type="descriptiveTopic">nests</term>
+         </subject>
+         <subject pref="false" refid="300310470" vocab="aat">
+            <term type="descriptiveTopic">Insecta</term>
+         </subject>
+         <subject pref="false" refid="300055821" vocab="aat">
+            <term type="conceptTopic">beauty</term>
+         </subject>
+         <subject pref="false" refid="300055134" vocab="aat">
+            <term type="conceptTopic">life</term>
+         </subject>
+         <subject pref="false"
+                  refid="300151836"
+                  vocab="aat"
+                  dataDate="2015-04-29-14-13-05">
+            <term type="conceptTopic">deaths</term>
+         </subject>
+         <subject pref="false"
+                  refid="300055137"
+                  vocab="aat"
+                  dataDate="2016-04-21-11-27-38">
+            <term type="conceptTopic">senses</term>
+         </subject>
+         <subject pref="false" refid="300249151" vocab="aat">
+            <term type="iconographicTopic">vanitas</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false"
+                    refid="300054216"
+                    vocab="aat"
+                    source="Simon Gruening">painting</technique>
+         <technique pref="false"
+                    refid="300178684"
+                    vocab="aat"
+                    source="Simon Gruening"/>
+      </techniqueSet>
+      <textrefSet>
+         <textref pref="false" dataDate="2016-04-21-11-10-12">
+            <name type="electronic">CONA</name>
+            <refid type="other">700002104</refid>
+         </textref>
+      </textrefSet>
+      <titleSet>
+         <title pref="false" type="repository">Vase of Flowers</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false"
+                   refid="300033799"
+                   vocab="aat"
+                   source="Simon Gruening"/>
+         <worktype pref="false" refid="300033618" vocab="aat"/>
+      </worktypeSet>
+   </work>
+</vra>

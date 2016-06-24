@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_cef53ec7-0794-482d-8d85-3d0287b8a05f"
+         refid="c_188eb196-a8fa-42cd-be95-041fbd93f9e0"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true"
+                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                dataDate="2015-11-11-16-22-52">
+            <culture>Japanese</culture>
+            <dates type="life">
+               <earliestDate circa="false">1760</earliestDate>
+               <latestDate circa="false">1849</latestDate>
+            </dates>
+            <name refid="69033717" type="personal" vocab="viaf">Hishikawa, Sori</name>
+            <role type="code" vocab="marcrelator">prm</role>
+         </agent>
+         <agent pref="false"
+                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                dataDate="2015-11-11-16-23-37">
+            <culture>Japanese</culture>
+            <name refid="173788257" type="corporate" vocab="viaf">Nishimura Eijudo</name>
+            <role type="code" vocab="marcrelator">pbl</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false">Japanese</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false"
+               type="creation"
+               source="http://www.metmuseum.org/collection/the-collection-online/search/45434"
+               dataDate="2015-11-11-16-26-01">
+            <earliestDate>
+               <date type="about">1830</date>
+            </earliestDate>
+            <latestDate>
+               <date type="about">1832</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false"
+                      source="http://www.metmuseum.org/collection/the-collection-online/search/45434"
+                      dataDate="2015-11-11-16-28-39">
+            <text>The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue.</text>
+            <author>
+               <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+         <description pref="false"
+                      source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                      dataDate="2015-11-11-16-26-42">
+            <text>The large wave dominates the scene, with the small mountain in the background. It is said to have inspired both Debussy’s “La Mer” and Rilke’s “Der Berg.”</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription pref="false"
+                      source="http://www.metmuseum.org/collection/the-collection-online/search/45434"
+                      dataDate="2015-11-11-16-43-14">
+            <author refid="69033717" type="personal" vocab="viaf">Hishikawa, Sori</author>
+            <position>top left</position>
+            <text lang="jpn" script="Jpan" type="signature">前北斎為一筆</text>
+            <text type="signature">Zen Hokusai Iitsu hitsu</text>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location pref="false" type="site">
+            <name type="geographic" source="TGN 7016696">Kanagawa</name>
+            <point>
+               <lat>35.4175</lat>
+               <long>139.3388</long>
+            </point>
+         </location>
+         <location pref="false" type="site" dataDate="2015-11-11-16-34-03">
+            <name type="geographic" source="TGN 1107685">Fuji San</name>
+            <point>
+               <lat>35.3660</lat>
+               <long>138.7330</long>
+            </point>
+         </location>
+         <location pref="false"
+                   type="repository"
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                   dataDate="2015-11-11-16-29-41">
+            <refid type="accession">JP1847</refid>
+            <name type="corporate" source="ULAN 500125157">Metropolitan Museum of Art</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material extent="polychrome"
+                   href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                   pref="false"
+                   refid="300015012"
+                   type="medium"
+                   vocab="aat">ink</material>
+         <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                   pref="false"
+                   refid="300264870"
+                   type="medium"
+                   vocab="aat">color</material>
+         <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                   pref="false"
+                   refid="300014109"
+                   type="support"
+                   vocab="aat">paper</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="cm"
+                       source="http://www.metmuseum.org/collection/the-collection-online/search/45434">25.7</measurements>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="cm"
+                       source="http://www.metmuseum.org/collection/the-collection-online/search/45434">37.9</measurements>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="in"
+                       source="http://www.metmuseum.org/collection/the-collection-online/search/45434">10 1/8</measurements>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="in"
+                       source="http://www.metmuseum.org/collection/the-collection-online/search/45434">14 15/16</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation pref="false"
+                   relids="w_ba242fd5-8c1a-4b3e-8044-89d29999c338"
+                   type="partOf">1st in series: Katsushika Hokusai (Japanese, 1760-1849); Thirty-six Views of Mount Fuji: First Series; 1827-1837</relation>
+         <relation pref="true"
+                   relids="i_a6828de3-fe74-43ab-b2cf-0af10bf8467b"
+                   type="imageIs"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-11-11-16-44-28">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/45434</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+         <source pref="false">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <stateEditionSet>
+         <stateEdition pref="false"
+                       type="other"
+                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                       dataDate="2015-11-11-16-44-56">
+            <description>1st in series</description>
+         </stateEdition>
+      </stateEditionSet>
+      <stylePeriodSet>
+         <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                      pref="false"
+                      refid="300106643"
+                      type="styleperiods"
+                      vocab="aat">Edo</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                  pref="false"
+                  refid="300178749"
+                  vocab="aat"
+                  dataDate="2015-11-11-16-31-55">
+            <term type="descriptiveTopic">boats</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                  pref="false"
+                  refid="300025608"
+                  vocab="aat"
+                  dataDate="2015-11-11-16-31-28">
+            <term type="descriptiveTopic">fishermen</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                  pref="false"
+                  refid="300343616"
+                  vocab="aat">
+            <term type="descriptiveTopic">waves</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                  pref="false"
+                  refid="300117546"
+                  vocab="aat">
+            <term type="descriptiveTopic">seascapes</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                    pref="false"
+                    refid="300053319"
+                    vocab="aat"/>
+         <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                    pref="false"
+                    refid="300053296"
+                    vocab="aat"/>
+      </techniqueSet>
+      <titleSet>
+         <title pref="false"
+                type="other"
+                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series">Great Wave at Kanagawa</title>
+         <title pref="false"
+                type="other"
+                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series">In the Hollow of a Wave off the Coast at Kanagawa</title>
+         <title pref="false"
+                type="creator"
+                source="http://www.metmuseum.org/collection/the-collection-online/search/45434">富嶽三十六景　神奈川沖浪裏</title>
+         <title pref="false"
+                type="other"
+                source="http://www.metmuseum.org/collection/the-collection-online/search/45434">Kanagawa oki nami ura</title>
+         <title pref="false"
+                type="translated"
+                source="http://www.metmuseum.org/collection/the-collection-online/search/45434">Under the Wave off Kanagawa </title>
+      </titleSet>
+      <worktypeSet>
+         <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
+                   pref="false"
+                   refid="300041412"
+                   vocab="aat"/>
+      </worktypeSet>
+   </work>
+</vra>

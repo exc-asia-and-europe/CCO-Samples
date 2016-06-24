@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_51d86bf0-5748-4c58-a623-3bc3291b0ed7"
+         refid="c_01c427ed-d5bd-4148-9afd-fe222af87ea2"
+         source="Kurs">
+      <agentSet>
+         <agent pref="false"
+                source="http://search.getty.edu/gri/records/griobject?objectid=93888554"
+                dataDate="2015-11-11-09-32-48">
+            <dates type="life">
+               <earliestDate circa="false">1504</earliestDate>
+               <latestDate circa="false">1570</latestDate>
+            </dates>
+            <name refid="19687875" type="personal" vocab="viaf">Primaticcio, Francesco</name>
+            <role type="code" vocab="marcrelator">dsr</role>
+         </agent>
+         <agent pref="false"
+                source="http://search.getty.edu/gri/records/griobject?objectid=93888554"
+                dataDate="2015-11-11-09-32-14">
+            <dates type="life">
+               <earliestDate circa="false">1512</earliestDate>
+               <latestDate circa="false">1577</latestDate>
+            </dates>
+            <name refid="27339597" type="personal" vocab="viaf">Lafréry, Antoine</name>
+            <role type="code" vocab="marcrelator">pbl</role>
+         </agent>
+         <agent pref="false"
+                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                dataDate="2015-11-11-09-31-32">
+            <dates type="life">
+               <earliestDate circa="false">1520</earliestDate>
+               <latestDate circa="false">1582</latestDate>
+            </dates>
+            <name refid="41848430" type="personal" vocab="viaf">Ghisi, Giorgio</name>
+            <role type="code" vocab="marcrelator">prm</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false">European</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-11-11-09-33-54">
+            <earliestDate>
+               <date>1560</date>
+            </earliestDate>
+            <latestDate>
+               <date>1569</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false"
+                      source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                      dataDate="2015-11-11-09-34-46">
+            <text>The subject of this print comes from Ovid’s Metamorphoses, the musical competition between Pan and Apollo. The engraving is after a lost painting by Primaticcio in the vault of the fourth bay of the Galerie d’Ulysse at Fontainebleau. It is one of four prints based on compositions surrounding a central image of Venus and the three fates.</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false"
+                   type="repository"
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                   dataDate="2015-11-11-09-42-38">
+            <refid type="accession">2000.PR.2</refid>
+            <name extent="500353615 [ULAN]" type="corporate">Getty Research Institute, Research Library, Special Collections (Los Angeles, California, United States)</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material extent="black"
+                   href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                   pref="false"
+                   refid="300015012"
+                   type="medium"
+                   vocab="aat">ink</material>
+         <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                   pref="false"
+                   refid="300014184"
+                   type="support"
+                   vocab="aat">laid paper</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements extent="folio"
+                       pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="cm"
+                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">30.7</measurements>
+         <measurements extent="folio"
+                       pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="cm"
+                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">18.3</measurements>
+         <measurements extent="plate mark"
+                       pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="cm"
+                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">29.6</measurements>
+         <measurements extent="plate mark"
+                       pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="cm"
+                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">17</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation pref="false"
+                   relids="d1"
+                   type="copyAfter"
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">Francesco Primaticcio (Italian, 1504-1570); Apollo, Pan, and Putto, lost painting, formerly in a vault in Galerie d’Ulysse, Fontainebleau (Ile-de-France, France)</relation>
+         <relation pref="true"
+                   relids="i_280bdd69-2ae8-4049-8166-59d68a46278f"
+                   type="imageIs"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-11-11-10-51-42">
+            <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=93888554</refid>
+            <name type="electronic">Getty Open Content Program</name>
+         </source>
+         <source pref="false" dataDate="2015-11-11-10-51-23">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <stateEditionSet>
+         <stateEdition count="5"
+                       num="5"
+                       pref="false"
+                       type="state"
+                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                       dataDate="2015-11-11-10-52-29">
+            <description>5 of 5</description>
+         </stateEdition>
+      </stateEditionSet>
+      <subjectSet>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300224126"
+                  vocab="aat"
+                  dataDate="2015-11-11-10-35-46">
+            <term type="descriptiveTopic">lip-vibrated aerophones with conical bore: natural</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300054146"
+                  vocab="aat">
+            <term type="descriptiveTopic">music</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300025928"
+                  vocab="aat"
+                  dataDate="2015-11-11-10-13-05">
+            <term type="descriptiveTopic">men</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300054760"
+                  vocab="aat"
+                  dataDate="2015-11-11-10-08-18">
+            <term type="iconographicTopic">competitions</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300250465"
+                  vocab="aat"
+                  dataDate="2015-11-11-10-00-50">
+            <term type="descriptiveTopic">putti</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300015636"
+                  vocab="aat">
+            <term type="descriptiveTopic">landscapes</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300055985"
+                  vocab="aat">
+            <term type="conceptTopic">mythology</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                  pref="false"
+                  refid="300073708"
+                  vocab="aat"
+                  dataDate="2015-11-11-10-32-28">
+            <term type="conceptTopic">religions</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                    pref="false"
+                    refid="300053319"
+                    vocab="aat"/>
+         <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                    pref="false"
+                    refid="300190531"
+                    vocab="aat"/>
+      </techniqueSet>
+      <titleSet>
+         <title pref="false"
+                type="repository"
+                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">Apollo, Pan, and a Putto Blowing a Horn</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false">copper engravings</worktype>
+         <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
+                   pref="false"
+                   refid="300041340"
+                   vocab="aat"/>
+      </worktypeSet>
+   </work>
+</vra>

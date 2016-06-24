@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_5e5a8fd1-8d1a-47c7-a782-b8640839e910"
+         refid="c_6b90796c-f510-426a-a8fa-01d93171ee9b"
+         source="Kurs">
+      <agentSet>
+         <agent href="http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/"
+                pref="false"
+                source="J. Paul Getty Museum"
+                dataDate="2016-01-28-16-39-41">
+            <culture>Greek (Attic)</culture>
+            <dates type="activity">
+               <earliestDate circa="true" type="about">-0362</earliestDate>
+               <latestDate circa="true" type="about">-0362</latestDate>
+            </dates>
+            <name refid="96561811" type="personal" vocab="viaf">Nikodemos</name>
+            <role extent="potter" type="code" vocab="marcrelator">cre</role>
+         </agent>
+         <agent href="http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/"
+                pref="false"
+                source="J. Paul Getty Museum"
+                dataDate="2016-01-28-16-41-24">
+            <attribution>attributed to</attribution>
+            <culture>Greek (Attic)</culture>
+            <dates type="life">
+               <earliestDate circa="true" type="about">-0362</earliestDate>
+               <latestDate circa="true" type="about">-0362</latestDate>
+            </dates>
+            <name refid="96050866" type="personal" vocab="viaf">Maler des Hochzeitszugs</name>
+            <role extent="painter" type="code" vocab="marcrelator">art</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2016-01-28-16-42-24">
+            <earliestDate>
+               <date>-0363</date>
+            </earliestDate>
+            <latestDate>
+               <date>-0362</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-01-28-16-44-25">
+            <text>Side A: Athena Promachos; Side B: Nike Crowning the Victor, with the Judge on the Right and the Defeated Opponent on the Left. The figure of Athena is portrayed in an Archaistic style. The particular use of Nike figures atop the akanthos columns flanking Athena allow scholars to date this vase to precisely 363/362 BCE.</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+         <description href="http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/"
+                      pref="false"
+                      source="J. Paul Getty Museum"
+                      dataDate="2016-01-28-16-43-48">
+            <text>The Panathenaia, a state religious festival, honored Athena, the patron goddess of Athens. Held in its expanded form every four years, the festival included athletic, musical, and other competitions. Amphorae filled with oil pressed from olives from the sacred trees of Athena were given as prizes in the Panathenaic Games. These amphorae had a special form with narrow neck and foot and a standard fashion of decoration. One side showed Athena, the goddess of war, armed and striding forth between columns, and included the inscription "from the games at Athens." The other side showed the event for which the vase was a prize. Leading vase-painters, commissioned by the state, decorated these vessels, which continued to be decorated in the black-figure technique long after it had gone out of fashion for other vases, probably due to religious conservatism. The same conservatism applied to the depiction of Athena. 
+
+| On this example, the figure of Athena is portrayed in an Archaistic or old-fashioned style. The Nike figures atop akanthos columns flanking Athena are a detail that allows scholars to date this vase precisely to 363/2 B.C. The back of the vase depicts Nike, the goddess of victory, crowning the winner of a boxing match between young men, while an older, bearded judge looks on. The leather thongs held by the youths identify them as boxers; they were wrapped around the hands and served as the ancient equivalent of boxing gloves. In 370 B.C. the victor in youth boxing won forty amphorae of oil; the second place winner took home eight.</text>
+            <author>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="repository" dataDate="2016-01-28-16-48-48">
+            <refid type="accession">93.AE.55</refid>
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+         </location>
+         <location href="http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/"
+                   pref="false"
+                   type="creation"
+                   source="J. Paul Getty Museum"
+                   dataDate="2016-01-28-16-48-56">
+            <name refid="7001393" type="geographic" vocab="tgn">Athínai</name>
+         </location>
+      </locationSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_f08076c2-16ae-45eb-99f7-3c49085c9542"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300225692"
+                  vocab="aat"
+                  dataDate="2016-01-28-17-10-36">
+            <term type="descriptiveTopic">prizes</term>
+         </subject>
+         <subject pref="false">
+            <term type="descriptiveTopic">competitions</term>
+         </subject>
+         <subject extent="Athena Promachos, Nike"
+                  pref="false"
+                  refid="300025943"
+                  vocab="aat">
+            <term type="descriptiveTopic">women (female humans)</term>
+         </subject>
+         <subject pref="false"
+                  refid="300234117"
+                  vocab="aat"
+                  dataDate="2016-01-28-16-50-34">
+            <term type="descriptiveTopic">ceremonial objects</term>
+         </subject>
+         <subject pref="false" refid="300055985" vocab="aat">
+            <term type="iconographicTopic">mythology (literary genre)</term>
+         </subject>
+      </subjectSet>
+      <titleSet>
+         <title type="generalView">Work record CCO_online_095--CCO_fig010-1.jpg</title>
+      </titleSet>
+   </work>
+</vra>

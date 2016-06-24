@@ -33,12 +33,14 @@
             <xsl:apply-templates select ="vra:worktypeSet"/>
         </xsl:copy>
     </xsl:template>
-    
+    <!--
     <xsl:template match="vra:earliestDate|vra:latestDate">
         <xsl:copy>
             <xsl:copy-of select ="@*|text()|comment()"/>
             <xsl:copy-of select ="vra:date"/>
             <xsl:copy-of select ="vra:alternativeNotation"/>
+            <xsl:apply-templates select ="*"/>
         </xsl:copy>  
     </xsl:template>
+    -->
 </xsl:stylesheet>

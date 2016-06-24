@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_19665035-0612-4201-a7d1-e9268215db28"
+         refid="c_b6b5cd0b-355f-4665-9312-052e00a6fab7"
+         source="Kurs">
+      <agentSet>
+         <agent pref="false" dataDate="2015-04-22-10-55-08">
+            <dates type="life">
+               <earliestDate circa="false">1832</earliestDate>
+               <latestDate circa="false">1923</latestDate>
+            </dates>
+            <name refid="44407671" type="personal" vocab="viaf">Eiffel, Gustave</name>
+            <role type="code" vocab="marcrelator"/>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300020656">European</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-04-22-10-59-54">
+            <earliestDate>
+               <date>1887</date>
+            </earliestDate>
+            <latestDate>
+               <date>1889</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-03-22-10-00-56">
+            <text>Commission was awarded by competition; the competition sought a plan for a monument for the International Exposition of 1889, celebrating the centenary of the French Revolution. The tower is built almost entirely of open-lattice wrought iron. It was the entrance gateway to the exposition.</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-03-22-10-03-51">
+            <name refid="7008038" type="geographic" vocab="tgn">Paris</name>
+         </location>
+         <location pref="false" type="site" dataDate="2015-04-22-11-02-30">
+            <name type="geographic">Champ de Mars, 5 Avenue Anatole France, 75007 Paris, Frankreich</name>
+            <point epsg="4326">
+               <lat>48.858352</lat>
+               <long>2.294460</long>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300011010" type="medium" vocab="aat">structural iron</material>
+         <material pref="false" refid="300011012" type="medium" vocab="aat">wrought iron</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements pref="true" type="height" unit="m">300</measurements>
+         <measurements pref="false" type="height" unit="ft">984</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_6b0a0b56-1733-4291-aefb-59eedf3d5725"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-22-11-21-19">
+            <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_3-PhysicalCharacteristics.pdf#page=52</refid>
+            <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 152.</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <stylePeriod pref="false" refid="300264407" type="styleperiods" vocab="aat">belle époque</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300020656"
+                  vocab="aat"
+                  dataDate="2015-04-22-11-24-17">
+            <term type="otherTopic">European</term>
+         </subject>
+         <subject pref="false"
+                  refid="300054779"
+                  vocab="aat"
+                  dataDate="2015-04-22-11-06-06">
+            <term type="otherTopic">industrial expositions</term>
+         </subject>
+         <subject pref="false" refid="300263552" vocab="aat">
+            <term type="descriptiveTopic">architecture</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300310589" vocab="aat"/>
+      </techniqueSet>
+      <textrefSet>
+         <textref pref="false" dataDate="2016-02-04-15-41-26">
+            <name type="electronic">CONA</name>
+            <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000116</refid>
+         </textref>
+      </textrefSet>
+      <titleSet>
+         <title pref="false" type="creator">Tour Eiffel</title>
+         <title pref="false" type="translated">Eiffel Tower</title>
+         <title pref="true" type="other">Three-Hundred-Metre Tower</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+      </worktypeSet>
+   </work>
+</vra>

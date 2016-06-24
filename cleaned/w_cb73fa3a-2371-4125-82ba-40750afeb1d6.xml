@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_cb73fa3a-2371-4125-82ba-40750afeb1d6"
+         refid="c_d653b101-a13c-4d1a-b1aa-50eb73b16c7d"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-01-11-23-56">
+            <dates type="life">
+               <earliestDate circa="false">76</earliestDate>
+               <latestDate circa="false">138</latestDate>
+            </dates>
+            <name refid="82440741" type="personal" vocab="viaf">Hadrian</name>
+            <role type="code" vocab="marcrelator">pat</role>
+         </agent>
+         <agent pref="true" dataDate="2016-03-01-11-15-52">
+            <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
+            <role type="code" vocab="marcrelator">arc</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300020533">Roman (ancient Italian culture or period)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display>ca. 120 CE</display>
+         <date pref="true" type="creation" dataDate="2016-03-01-11-29-55">
+            <earliestDate>
+               <date>0115</date>
+            </earliestDate>
+            <latestDate>
+               <date>0125</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-03-01-11-33-25">
+            <text>Summer palace that is the conceptual descendent of the Emperor Nero’s Domus Aurea.
+[Great Architecture of the World. Edited by John Julius Norwich. London: Mitchell Beazley, 1975, p. 74.]</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="true"
+                   type="site"
+                   source="Simon Gruening"
+                   dataDate="2016-03-01-11-41-25">
+            <name refid="7006983" type="geographic" vocab="tgn">Villa Adriana</name>
+         </location>
+         <location pref="false" type="site">
+            <name refid="7006968" type="geographic" vocab="tgn">Tivoli</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300010737" type="medium" vocab="aat">concrete</material>
+         <material pref="false" refid="300015332" type="medium" vocab="aat">masonry</material>
+      </materialSet>
+      <relationSet>
+         <relation pref="true"
+                   relids="i_339d255c-39e9-4bb6-9ac4-5be89fb250c3"
+                   type="imageIs"
+                   source="Tamboti">general view</relation>
+         <relation pref="false"
+                   relids="i_6621be52-ce7b-44c8-b93c-8225f3d7f275"
+                   type="imageIs"
+                   source="Tamboti">The Canopus</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-01-12-42-42">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_146_roman_villa_now_a_ruin</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300002557"
+                  vocab="aat"
+                  dataDate="2016-03-01-12-44-40">
+            <term type="descriptiveTopic">bearing walls</term>
+         </subject>
+         <subject pref="false"
+                  refid="300005452"
+                  vocab="aat"
+                  dataDate="2016-03-01-12-28-50">
+            <term type="descriptiveTopic">peristyle houses</term>
+         </subject>
+         <subject pref="false" refid="300006809" vocab="aat">
+            <term type="descriptiveTopic">nymphaea</term>
+         </subject>
+         <subject pref="false" refid="300001300" vocab="aat">
+            <term type="descriptiveTopic">umbrella domes</term>
+         </subject>
+         <subject pref="false"
+                  refid="300343604"
+                  vocab="aat"
+                  dataDate="2016-03-01-11-48-08">
+            <term type="conceptTopic">prestige</term>
+         </subject>
+         <subject pref="false" refid="300005425" vocab="aat">
+            <term type="descriptiveTopic">dwellings</term>
+         </subject>
+         <subject pref="false" refid="300263552" vocab="aat">
+            <term type="descriptiveTopic">architecture (object genre)</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false"
+                    refid="300386948"
+                    vocab="aat"
+                    source="Simon Gruening">stonemasonry</technique>
+      </techniqueSet>
+      <textrefSet>
+         <textref pref="false" source="Simon Grüning" dataDate="2016-03-08-15-49-40">
+            <name type="electronic">The Digital Hadrian's Villa</name>
+            <refid type="URI">http://vwhl.soic.indiana.edu/villa/</refid>
+         </textref>
+      </textrefSet>
+      <titleSet>
+         <title pref="false" type="descriptive">Hadrian’s Villa</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300008057" vocab="aat">ruins</worktype>
+         <worktype pref="false" refid="300387502" vocab="aat">estates</worktype>
+         <worktype pref="false" refid="300005517" vocab="aat">villas</worktype>
+      </worktypeSet>
+   </work>
+</vra>

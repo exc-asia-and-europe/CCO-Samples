@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_387ea1a7-e52e-46e2-84e7-7c619e8cf6fc"
+         refid="c_123b7a99-f310-4ab8-b1ad-d37fc339ff63"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-08-17-56-20">
+            <culture>American</culture>
+            <dates type="life">
+               <earliestDate circa="false">approximately 1762</earliestDate>
+               <latestDate circa="false">1831</latestDate>
+            </dates>
+            <name refid="305409608" type="personal" vocab="viaf">Hoban, James</name>
+            <role type="code" vocab="marcrelator">arc</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date extent="porticoes"
+               pref="false"
+               type="creation"
+               dataDate="2016-03-08-17-59-55">
+            <earliestDate>
+               <date>1824</date>
+            </earliestDate>
+            <latestDate>
+               <date>1829</date>
+            </latestDate>
+         </date>
+         <date extent="burned" pref="false" type="other">
+            <earliestDate>
+               <date>1814</date>
+            </earliestDate>
+         </date>
+         <date pref="false" type="creation">
+            <earliestDate>
+               <date>1793</date>
+            </earliestDate>
+            <latestDate>
+               <date>1801</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-03-08-18-00-31">
+            <text>The White House is the residence of the American president. Design was the result of a public competition in 1792. Among the entrants was Thomas Jefferson, later president of the United States. James Hoban won the commission with a plan for a Georgian mansion in the Palladian style.</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-03-08-18-03-44">
+            <name refid="7013962" type="geographic" vocab="tgn">Washington</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300015332" type="medium" vocab="aat">masonry</material>
+      </materialSet>
+      <measurementsSet>
+         <display>3 stories, over 100 rooms, White House and the grounds occupy 7.2 hectares (18 acres)</display>
+         <measurements pref="false" type="count" unit="stories">3</measurements>
+         <measurements pref="false" type="count" unit="rooms">over 100</measurements>
+         <measurements pref="false" type="area" unit="hectares">7.2</measurements>
+         <measurements pref="false" type="area" unit="acres">18</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_128469ac-081c-4cbf-9699-04d3b0014bd5"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-08-18-17-23">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_153_georgian_building</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <stylePeriod pref="false" refid="300021048" vocab="aat">Georgian</stylePeriod>
+         <stylePeriod pref="false" refid="300021477" vocab="aat">Neoclassical</stylePeriod>
+         <stylePeriod pref="false" refid="300385938" vocab="aat">Palladian Revival</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300070045"
+                  vocab="aat"
+                  dataDate="2016-03-08-18-12-30">
+            <term type="descriptiveTopic">dimension stone</term>
+         </subject>
+         <subject pref="false" refid="300002557" vocab="aat">
+            <term type="descriptiveTopic">bearing walls</term>
+         </subject>
+         <subject pref="false"
+                  refid="300001571"
+                  vocab="aat"
+                  dataDate="2016-03-08-18-07-12">
+            <term type="descriptiveTopic">columns (architectural elements)</term>
+         </subject>
+         <subject pref="false" refid="300004145" vocab="aat">
+            <term type="descriptiveTopic">porticoes</term>
+         </subject>
+         <subject pref="false" refid="300025470" vocab="aat">
+            <term type="otherTopic">presidents</term>
+         </subject>
+         <subject pref="false" refid="300374809" vocab="aat">
+            <term type="conceptTopic">power</term>
+         </subject>
+         <subject pref="false" refid="300379767" vocab="aat">
+            <term type="descriptiveTopic">presidential residences</term>
+         </subject>
+         <subject pref="false" refid="300263552" vocab="aat">
+            <term type="descriptiveTopic">architecture (object genre)</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300054608" vocab="aat">construction</technique>
+         <technique pref="false" refid="300386948" vocab="aat">stonemasonry</technique>
+      </techniqueSet>
+      <textrefSet>
+         <textref href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000083"
+                  pref="false"
+                  dataDate="2016-03-08-17-58-27">
+            <name type="electronic">CONA</name>
+            <refid type="URI">700000083</refid>
+         </textref>
+      </textrefSet>
+      <titleSet>
+         <title pref="true" type="popular">The White House</title>
+         <title pref="false" type="descriptive">Executive Mansion</title>
+         <title pref="false" type="descriptive">President’s House</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300379767" vocab="aat">presidential residences</worktype>
+         <worktype pref="false" refid="300071272" vocab="aat">mansions</worktype>
+      </worktypeSet>
+   </work>
+</vra>

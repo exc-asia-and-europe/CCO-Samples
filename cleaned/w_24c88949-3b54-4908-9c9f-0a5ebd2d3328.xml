@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_24c88949-3b54-4908-9c9f-0a5ebd2d3328"
+         refid="c_b4731682-4611-425e-835e-a5cc3ca055b4"
+         source="Kurs">
+      <agentSet>
+         <display>designed by Eero Saarinen (American, 1910-1961); posthumously, construction was supervised by firm of Eero Saarinen &amp; Associates (American architectural firm, 1950-1961)</display>
+         <agent pref="true" dataDate="2016-03-17-17-08-09">
+            <culture>American</culture>
+            <dates type="life">
+               <earliestDate circa="false">1910</earliestDate>
+               <latestDate circa="false">1961</latestDate>
+            </dates>
+            <name refid="41868977" type="personal" vocab="viaf">Saarinen, Eero</name>
+            <role type="code" vocab="marcrelator">arc</role>
+         </agent>
+         <agent pref="false" dataDate="2016-03-17-17-07-46">
+            <culture>American</culture>
+            <dates type="other">
+               <earliestDate circa="false">1950</earliestDate>
+               <latestDate circa="false">1961</latestDate>
+            </dates>
+            <name refid="121037469" type="corporate" vocab="viaf">Eero Saarinen &amp; Associates</name>
+            <role type="code" vocab="marcrelator">arc</role>
+         </agent>
+         <agent pref="false" dataDate="2015-04-20-11-17-04">
+            <name refid="173299099" type="corporate" vocab="viaf">Repp and Mundt, Inc.</name>
+            <role type="code" vocab="marcrelator">ctr</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>designed 1961, completed 1964</display>
+         <date pref="false" type="creation" dataDate="2016-03-17-17-08-42">
+            <earliestDate>
+               <date>1961</date>
+            </earliestDate>
+            <latestDate>
+               <date>1964</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-03-17-17-18-00">
+            <text>The architect was working on this building when he died unexpectedly. Building has a hexagonal plan elongated along the east-west axis; it is a one-story building with the lower level nested in a moat within an earthen berm. The massive roof and spire rest over a concrete base. The sanctuary is located at center of interior space, direct light from oculus high in the ceiling and ring of clerestory windows. Six rolled steel arch legs are supported on steel arch bases set on the concrete foundation. The roof slopes on all sides; the central spire is terminated with a cross. </text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-03-17-17-12-58">
+            <name refid="7013644" type="geographic" vocab="tgn">Columbus</name>
+         </location>
+         <location pref="false" type="site" dataDate="2015-04-22-09-59-19">
+            <name type="geographic">850 Tipton Ln, Columbus, IN 47201, USA</name>
+            <point epsg="4326">
+               <lat>39.229817</lat>
+               <long>-85.916171</long>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material extent="leaded copper spire"
+                   pref="false"
+                   refid="300011020"
+                   type="medium"
+                   vocab="aat">copper</material>
+         <material extent="roof"
+                   pref="false"
+                   refid="300389711"
+                   type="medium"
+                   vocab="aat">slate</material>
+         <material extent="base"
+                   pref="false"
+                   refid="300010737"
+                   type="medium"
+                   vocab="aat">concrete</material>
+         <material extent="welded steel buttresses"
+                   pref="false"
+                   refid="300133751"
+                   type="medium"
+                   vocab="aat">steel</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements extent="spire rise"
+                       pref="false"
+                       shape="irregular"
+                       type="height"
+                       unit="ft">192</measurements>
+         <measurements extent="spire rise"
+                       pref="false"
+                       shape="irregular"
+                       type="height"
+                       unit="m">58.5</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_462eb829-048e-4244-8a0a-922ba45d4fb2"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-22-10-17-37">
+            <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_2-CreatorInformation.pdf#page=26</refid>
+            <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006.</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <stylePeriod pref="false" refid="300264736" vocab="aat">Modern</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300000891"
+                  vocab="aat"
+                  source="Simon Gruening"
+                  dataDate="2015-04-22-10-12-29">
+            <term type="descriptiveTopic">buttresses</term>
+         </subject>
+         <subject pref="false"
+                  refid="300002360"
+                  vocab="aat"
+                  source="Simon Gruening"
+                  dataDate="2015-04-22-09-56-50">
+            <term type="descriptiveTopic">spires</term>
+         </subject>
+         <subject pref="false"
+                  refid="300263823"
+                  vocab="aat"
+                  source="Simon Gruening"
+                  dataDate="2015-04-22-09-56-29">
+            <term type="descriptiveTopic">hexagonal</term>
+         </subject>
+         <subject pref="false"
+                  refid="300263552"
+                  vocab="aat"
+                  dataDate="2015-04-22-09-55-36">
+            <term type="descriptiveTopic">architecture</term>
+         </subject>
+         <subject pref="false" refid="300073708" vocab="aat">
+            <term type="conceptTopic">religions (concept)</term>
+         </subject>
+         <subject pref="false" refid="300007466" vocab="aat">
+            <term type="descriptiveTopic">churches</term>
+         </subject>
+         <subject extent="Disciples of Christ (Protestant Christianity)"
+                  pref="false"
+                  refid="300073735"
+                  vocab="aat"
+                  dataDate="2016-03-17-17-11-46">
+            <term type="conceptTopic">Protestantism</term>
+         </subject>
+         <subject pref="false"
+                  refid="300056005"
+                  vocab="aat"
+                  dataDate="2016-03-17-17-10-41">
+            <term type="conceptTopic">worship</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300054608" vocab="aat"/>
+      </techniqueSet>
+      <textrefSet>
+         <textref pref="false" dataDate="2016-03-17-17-18-44">
+            <name type="electronic">CONA</name>
+            <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000110</refid>
+         </textref>
+      </textrefSet>
+      <titleSet>
+         <title pref="false" type="owner">North Christian Church</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300007466" vocab="aat"/>
+         <worktype pref="false" refid="300263552" vocab="aat"/>
+      </worktypeSet>
+   </work>
+</vra>

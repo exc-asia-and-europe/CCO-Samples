@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_e94a1082-9db6-4c64-bf1f-9660448d57f9"
+         refid="c_242cb80a-0748-405d-9dae-e1f85564c49d"
+         source="Kurs">
+      <agentSet>
+         <agent href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                pref="true"
+                dataDate="2015-11-02-11-41-02">
+            <culture>British</culture>
+            <dates type="life">
+               <earliestDate circa="false">1775</earliestDate>
+               <latestDate circa="false">1851</latestDate>
+            </dates>
+            <name refid="100900492" type="personal" vocab="viaf">Turner, J. M. W.</name>
+            <role type="code" vocab="marcrelator">art</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                          pref="false">British</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+               pref="false"
+               type="creation"
+               dataDate="2015-11-02-11-42-59">
+            <earliestDate>
+               <date>1798</date>
+            </earliestDate>
+            <latestDate>
+               <date>1798</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2015-11-02-12-23-45">
+            <text>On a dramatic, rocky area of the northern coast of Wales looms the late medieval Conway Castle. It towers over a stormy bay while fisherman struggle to pull their boats ashore. Caught in this uproaring of the sea, the tiny figures of fishermen in their boat convey a sense of humans' barely significant place in the order of the universe. 
+The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and he made several sketching trips there in the 1790s. In this early Romantic painting, Turner represented the dramatic effects of natural light, allowing sunshine breaking through the clouds to illuminate the castle and the coast beyond.</text>
+            <author>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+         <description href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                      pref="false"
+                      dataDate="2015-11-02-11-43-33">
+            <text>This is the largest of Turner’s four extant watercolors of this medieval castle on the northern coast of Wales. Turner portrays the landscape and ocean in a dramatic fashion, using angry clouds, sunshine, and roiling waves to animate the scene and emphasize the struggle of the fishermen.</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="false"
+                   type="repository"
+                   dataDate="2015-11-02-11-43-50">
+            <refid type="accession">95.GC.10</refid>
+            <name type="corporate">The J. Paul Getty Museum</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="false"
+                   type="medium">watercolor</material>
+         <material extent="underdrawing"
+                   href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="false"
+                   refid="300011098"
+                   type="medium"
+                   vocab="aat">graphite</material>
+         <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="false"
+                   refid="300012869"
+                   type="medium"
+                   vocab="aat">gum arabic</material>
+         <material href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="false"
+                   refid="300014109"
+                   type="support"
+                   vocab="aat">paper</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                       pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="cm">53.6</measurements>
+         <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                       shape="rectangle"
+                       type="width"
+                       unit="cm">76.7</measurements>
+         <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                       shape="rectangle"
+                       type="height"
+                       unit="in">21 1/8</measurements>
+         <measurements href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                       pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="in">30 1/8</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_f7ba0ea5-0a98-4941-b1d9-cb144ad21b91"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <stylePeriodSet>
+         <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                      pref="false"
+                      refid="300172863"
+                      type="styleperiods"
+                      vocab="aat">Romantic</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300069430"
+                  vocab="aat"
+                  dataDate="2015-11-02-11-59-45">
+            <term type="descriptiveTopic">underdrawings</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="uuid-6060a381-4e97-5ad4-8d86-2b421ec2613d"
+                  vocab="local"
+                  source="EXC"
+                  dataDate="2015-11-02-11-28-35">
+            <term type="descriptiveTopic">struggle</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300011692"
+                  vocab="aat">
+            <term type="descriptiveTopic">rock</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300025608"
+                  vocab="aat"
+                  dataDate="2015-11-02-11-26-57">
+            <term type="descriptiveTopic">fishermen</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300054734"
+                  vocab="aat">
+            <term type="descriptiveTopic">storms</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300008734"
+                  vocab="aat"
+                  dataDate="2015-11-02-11-24-33">
+            <term type="descriptiveTopic">coastlines</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300008687"
+                  vocab="aat"
+                  dataDate="2015-11-02-11-33-39">
+            <term type="descriptiveTopic">oceans</term>
+         </subject>
+         <subject href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                  pref="false"
+                  refid="300117546"
+                  vocab="aat"
+                  dataDate="2015-11-02-11-22-59">
+            <term type="descriptiveTopic">seascapes</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                    pref="false"
+                    refid="300182748"
+                    vocab="aat"/>
+      </techniqueSet>
+      <titleSet>
+         <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                pref="false"
+                type="repository">Conway Castle, North Wales</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="false"
+                   refid="300033973"
+                   vocab="aat"/>
+         <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
+                   pref="true"
+                   refid="300078925"
+                   vocab="aat"/>
+      </worktypeSet>
+   </work>
+</vra>

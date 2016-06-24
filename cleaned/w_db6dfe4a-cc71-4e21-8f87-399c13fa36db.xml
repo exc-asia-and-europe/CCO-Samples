@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_db6dfe4a-cc71-4e21-8f87-399c13fa36db"
+         refid="c_05bff518-7400-4600-b92f-384f794cfff1"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2016-02-02-15-52-23">
+            <name refid="100643325" type="personal" vocab="viaf">unknown Thai</name>
+            <role extent="goldsmith" type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext extent="AAT 300019199" pref="false">Thai</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display>15th century</display>
+         <date pref="false" type="creation" dataDate="2016-02-02-15-52-52">
+            <earliestDate>
+               <date>1400</date>
+            </earliestDate>
+            <latestDate>
+               <date>1499</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                      pref="false"
+                      source="Philadelphia Museum of Art online collection"
+                      dataDate="2016-02-02-15-54-42">
+            <text>This rare early example of the Thai goldsmith's art was probably made for a princess by court craftsmen and dates to the fifteenth century, when Ayudhya was the capital of the country. The art of jewelry-making in Thailand reached great sophistication during this period, as demonstrated by this crown with its intricate design inlaid with rubies and pearls. The prestige of gold among the Thai ruling class was such that its usage and ornamentation were strictly prescribed by sumptuary regulations, and gold jewelry was often buried with its wearer in the tombs of members of the royal family. [Felice Fischer, from Philadelphia Museum of Art: Handbook of the Collections (1995), p. 63.]</text>
+            <author>
+               <name refid="52021529" type="personal" vocab="viaf">Fischer, Felice</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="repository" dataDate="2016-02-02-16-07-54">
+            <refid type="accession">1982-105-1</refid>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+         </location>
+         <location pref="false" type="creation">
+            <name refid="1000142" type="geographic" vocab="tgn">Prathet Thai</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300011021" type="medium" vocab="aat">gold</material>
+         <material extent="inlays" pref="false" type="medium">ruby</material>
+         <material extent="inlays" pref="false" type="medium">glass</material>
+      </materialSet>
+      <measurementsSet>
+         <display>7 1/2 x 8 1/2 inches (19.1 x 21.6 cm) Weight: 14.4 ounces (0.41 kg)</display>
+         <measurements href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Philadelphia Museum of Art online collection">7 1/2</measurements>
+         <measurements href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Philadelphia Museum of Art online collection">8 1/2</measurements>
+         <measurements href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                       pref="false"
+                       type="weight"
+                       unit="oz"
+                       source="Philadelphia Museum of Art online collection">14.4</measurements>
+         <measurements href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Philadelphia Museum of Art online collection">19.1</measurements>
+         <measurements href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Philadelphia Museum of Art online collection">21.6</measurements>
+         <measurements href="http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1"
+                       pref="false"
+                       type="weight"
+                       unit="kg"
+                       source="Philadelphia Museum of Art online collection">0.41</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_04a6e28e-6897-4c37-925a-d7b1d79d0dea"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-02-02-16-24-43">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_118_thai_crown</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+         <source pref="false">
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <stylePeriod pref="false" refid="300019226" vocab="aat">Ayudhya</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300054168"
+                  vocab="aat"
+                  dataDate="2016-02-02-16-27-39">
+            <term type="conceptTopic">decorative arts</term>
+         </subject>
+         <subject pref="false" refid="300046020" vocab="aat">
+            <term type="descriptiveTopic">crowns (headdresses)</term>
+         </subject>
+         <subject pref="false">
+            <term type="conceptTopic">social status</term>
+         </subject>
+         <subject pref="false" dataDate="2016-02-02-16-17-10">
+            <term type="descriptiveTopic">ornaments</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false"
+                    refid="300054048"
+                    vocab="aat"
+                    source="Simon Gruening">goldsmithing</technique>
+      </techniqueSet>
+      <titleSet>
+         <title pref="false" type="repository">Headpiece</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300178802" vocab="aat">costume</worktype>
+         <worktype pref="false" refid="300209285" vocab="aat">headgear</worktype>
+         <worktype pref="false" refid="300046020" vocab="aat">crowns</worktype>
+      </worktypeSet>
+   </work>
+</vra>

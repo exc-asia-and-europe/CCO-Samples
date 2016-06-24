@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_669167ae-e8cb-46c1-9919-8329a1326b76"
+         refid="c_44b82cb2-543c-4e86-8bee-22be0d6640cd"
+         source="Kurs">
+      <agentSet>
+         <display dataDate="2015-11-26-16-44-06">unknown Roman</display>
+         <notes dataDate="2015-11-26-16-44-06"/>
+         <agent pref="false" dataDate="2015-11-26-16-44-06">
+            <attribution dataDate="2015-11-26-16-44-06"/>
+            <culture dataDate="2015-11-26-16-44-06"/>
+            <dates type="life" dataDate="2015-11-26-16-44-06"/>
+            <name refid="100628022"
+                  type="personal"
+                  vocab="viaf"
+                  source="Gruening, Simon"
+                  dataDate="2015-11-26-16-44-06">unknown Ancient Roman</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-44-06"/>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <display dataDate="2015-11-26-16-56-19"/>
+         <notes dataDate="2015-11-26-16-56-19"/>
+         <culturalContext pref="false" source="AAT 300020533" dataDate="2015-11-26-16-56-19">Roman (ancient Italian culture or period)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display dataDate="2015-11-26-16-44-28">1st century CE</display>
+         <notes dataDate="2015-11-26-16-44-28"/>
+         <date pref="false" dataDate="2015-11-26-16-44-28">
+            <earliestDate dataDate="2015-11-26-16-44-28">
+               <date dataDate="2015-11-26-16-44-28">0001</date>
+            </earliestDate>
+            <latestDate dataDate="2015-11-26-16-44-28">
+               <date dataDate="2015-11-26-16-44-28">0099</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <display dataDate="2015-11-26-16-45-46"/>
+         <notes dataDate="2015-11-26-16-45-46"/>
+         <description pref="false"
+                      href="https://research.archives.gov/id/192414"
+                      source="United States. National Archives and Records Administration"
+                      dataDate="2015-11-26-16-45-46">
+            <text dataDate="2015-11-26-16-45-46">This marble bust, which is a funerary portrait of a young boy, dates to the 1st Century A. D., Tiberian period. It was given to Lyndon B. Johnson by His Excellency Antonio Segni, President of Italy. The artist is unknown.</text>
+            <author dataDate="2015-11-26-16-45-46">
+               <name refid="265208613"
+                     type="corporate"
+                     vocab="viaf"
+                     dataDate="2015-11-26-16-45-46">United States.</name>
+               <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-45-46">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <display dataDate="2015-11-26-16-47-05"/>
+         <notes dataDate="2015-11-26-16-47-05"/>
+         <location pref="false" type="repository" dataDate="2015-11-26-16-47-05">
+            <refid type="accession" dataDate="2015-11-26-16-47-05">NLJ-MCOLL-M01</refid>
+            <name refid="265208613" vocab="viaf" dataDate="2015-11-26-16-47-05">United States.</name>
+            <point dataDate="2015-11-26-16-47-05">
+               <lat dataDate="2015-11-26-16-47-05"/>
+               <long dataDate="2015-11-26-16-47-05"/>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display dataDate="2015-11-26-16-56-47"/>
+         <notes dataDate="2015-11-26-16-56-47"/>
+         <material pref="false"
+                   refid="300011443"
+                   type="medium"
+                   vocab="aat"
+                   dataDate="2015-11-26-16-56-47">marble</material>
+      </materialSet>
+      <measurementsSet>
+         <display dataDate="2015-11-26-16-58-24">29.85 x 15.88 x 17.15 (11 3/4 x 6 1/4 x 6 3/4 inches)</display>
+         <notes dataDate="2015-11-26-16-58-24"/>
+         <measurements pref="false"
+                       type="height"
+                       unit="cm"
+                       dataDate="2015-11-26-16-58-24">29.85</measurements>
+         <measurements pref="false"
+                       type="width"
+                       unit="cm"
+                       dataDate="2015-11-26-16-58-24">15.88</measurements>
+         <measurements pref="false"
+                       type="depth"
+                       unit="cm"
+                       dataDate="2015-11-26-16-58-24">17.15</measurements>
+         <measurements pref="false"
+                       type="height"
+                       unit="in"
+                       dataDate="2015-11-26-16-58-24">11 3/4</measurements>
+         <measurements pref="false"
+                       type="width"
+                       unit="in"
+                       dataDate="2015-11-26-16-58-24">6 1/4</measurements>
+         <measurements pref="false"
+                       type="depth"
+                       unit="in"
+                       dataDate="2015-11-26-16-58-24">6 3/4</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_bf68ac9b-96a3-467b-891c-0e0f34623042"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-26-16-59-37"/>
+         <notes dataDate="2015-11-26-16-59-37"/>
+         <source pref="false" dataDate="2015-11-26-16-59-37">
+            <refid type="URI" dataDate="2015-11-26-16-59-37">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_73_roman_bust</refid>
+            <name type="electronic" dataDate="2015-11-26-16-59-37">Cataloging Cultural Objects Commons</name>
+         </source>
+         <source pref="false" dataDate="2015-11-26-16-59-37">
+            <refid type="URI" dataDate="2015-11-26-16-59-37">https://research.archives.gov/id/192414</refid>
+            <name type="electronic" dataDate="2015-11-26-16-59-37">United States. National Archives and Records Administration</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <display dataDate="2015-11-26-16-54-12"/>
+         <notes dataDate="2015-11-26-16-54-12"/>
+         <subject pref="false"
+                  refid="300184644"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-54-12">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">funerary sculpture</term>
+         </subject>
+         <subject pref="false"
+                  refid="300025944"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-54-12">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">youth</term>
+         </subject>
+         <subject pref="false"
+                  refid="300025928"
+                  vocab="aat"
+                  source="Gruening, Simon"
+                  dataDate="2015-11-26-16-54-12">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">men</term>
+         </subject>
+         <subject pref="false"
+                  refid="300247598"
+                  vocab="aat"
+                  source="Gruening, Simon"
+                  dataDate="2015-11-26-16-54-12">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">boys</term>
+         </subject>
+         <subject pref="false"
+                  refid="300015637"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-54-12">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">portraits</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <display dataDate="2015-11-26-17-04-32"/>
+         <notes dataDate="2015-11-26-17-04-32"/>
+         <technique pref="false"
+                    refid="300053149"
+                    vocab="aat"
+                    source="Gruening, Simon"
+                    dataDate="2015-11-26-17-04-32">carving</technique>
+      </techniqueSet>
+      <titleSet>
+         <display dataDate="2015-11-26-16-55-26"/>
+         <notes dataDate="2015-11-26-16-55-26"/>
+         <title type="repository" pref="false" dataDate="2015-11-26-16-55-26">Bust of a Youth in the Age of Tiberius</title>
+      </titleSet>
+      <worktypeSet>
+         <display dataDate="2015-11-26-17-05-20"/>
+         <notes dataDate="2015-11-26-17-05-20"/>
+         <worktype pref="false"
+                   refid="300047457"
+                   vocab="aat"
+                   dataDate="2015-11-26-17-05-20">busts</worktype>
+         <worktype pref="false"
+                   refid="300047600"
+                   vocab="aat"
+                   dataDate="2015-11-26-17-05-20">statues</worktype>
+         <worktype pref="false"
+                   refid="300047090"
+                   vocab="aat"
+                   dataDate="2015-11-26-17-05-20">sculpture</worktype>
+      </worktypeSet>
+   </work>
+</vra>

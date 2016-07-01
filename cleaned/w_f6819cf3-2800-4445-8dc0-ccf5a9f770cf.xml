@@ -57,8 +57,7 @@
          <measurements extent="maximum height" pref="false" type="height" unit="ft">36</measurements>
       </measurementsSet>
       <relationSet>
-         <relation href="https://en.wikipedia.org/wiki/Great_Zimbabwe"
-                   pref="false"
+         <relation pref="false"
                    relids="https://en.wikipedia.org/wiki/Great_Zimbabwe"
                    type="largerContextFor">Great Zimbabwe National Monument</relation>
          <relation pref="true"

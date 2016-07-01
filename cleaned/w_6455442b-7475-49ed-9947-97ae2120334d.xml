@@ -29,10 +29,10 @@
          <display dataDate="2015-11-26-16-18-34">3rd-2nd centuries BCE</display>
          <notes dataDate="2015-11-26-16-18-34"/>
          <date pref="false" dataDate="2015-11-26-16-18-34">
-            <earliestDate dataDate="2015-11-26-16-18-34">
+            <earliestDate>
                <date dataDate="2015-11-26-16-18-34">-0299</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-26-16-18-34">
+            <latestDate>
                <date dataDate="2015-11-26-16-18-34">-0100</date>
             </latestDate>
          </date>
@@ -71,18 +71,10 @@
          <location pref="false" type="repository" dataDate="2015-11-26-16-25-06">
             <refid type="accession" dataDate="2015-11-26-16-25-06">1972.118.95</refid>
             <name refid="126238294" vocab="viaf" dataDate="2015-11-26-16-25-06">Metropolitan Museum of Art</name>
-            <point dataDate="2015-11-26-16-25-06">
-               <lat dataDate="2015-11-26-16-25-06"/>
-               <long dataDate="2015-11-26-16-25-06"/>
-            </point>
          </location>
          <location pref="false" type="creation" dataDate="2015-11-26-16-25-06">
             <refid dataDate="2015-11-26-16-25-06"/>
             <name refid="7001188" vocab="tgn" dataDate="2015-11-26-16-25-06">Al Iskandarīyah</name>
-            <point dataDate="2015-11-26-16-25-06">
-               <lat dataDate="2015-11-26-16-25-06"/>
-               <long dataDate="2015-11-26-16-25-06"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

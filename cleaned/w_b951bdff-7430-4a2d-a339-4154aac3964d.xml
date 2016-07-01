@@ -70,16 +70,8 @@ Picasso unveiled the monumental painting in his Paris studio after months of rev
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod extent="CCO Commons"
-                      pref="true"
-                      refid="300021495"
-                      type="styleperiods"
-                      vocab="aat">Cubist</stylePeriod>
-         <stylePeriod extent="MoMA"
-                      pref="false"
-                      refid="300174254"
-                      type="styleperiods"
-                      vocab="aat">Primitivist</stylePeriod>
+         <stylePeriod extent="CCO Commons" pref="true" refid="300021495" vocab="aat">Cubist</stylePeriod>
+         <stylePeriod extent="MoMA" pref="false" refid="300174254" vocab="aat">Primitivist</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -120,8 +112,8 @@ Picasso unveiled the monumental painting in his Paris studio after months of rev
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054216" vocab="aat"/>
-         <technique pref="false" refid="300178684" vocab="aat"/>
+         <technique pref="false" refid="300054216" vocab="aat">painting</technique>
+         <technique pref="false" refid="300178684" vocab="aat">oil painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="creator">Les Demoiselles d’Avignon</title>
@@ -129,8 +121,8 @@ Picasso unveiled the monumental painting in his Paris studio after months of rev
          <title pref="false" type="descriptive">Five Female Nudes</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="true" refid="300033618" vocab="aat"/>
-         <worktype pref="false" refid="300033799" vocab="aat"/>
+         <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
+         <worktype pref="false" refid="300033799" vocab="aat">oil paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

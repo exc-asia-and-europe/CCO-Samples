@@ -184,16 +184,16 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054216" vocab="aat"/>
+         <technique pref="false" refid="300054216" vocab="aat">painting</technique>
          <technique pref="false"
                     refid="300389895"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">watercolor painting</technique>
          <technique href="http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=M49018;type=101"
                     pref="false"
                     refid="300240903"
                     vocab="aat"
-                    source="The Autry's Collection Online"/>
+                    source="The Autry's Collection Online">framing</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-28-16-46-12">
@@ -210,7 +210,7 @@
                 source="The Autry's Online Collection">Custer Massacre</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="true" refid="300033618" vocab="aat"/>
+         <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
          <worktype href="http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=M49018;type=101"
                    pref="false"
                    source="The Autry's Collection Online">watercolors</worktype>

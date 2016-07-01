@@ -56,14 +56,14 @@ Saenredam did not create this painting until 1646, and in it he altered the real
          <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html"
                       pref="false"
                       source="National Gallery of Art Washington">
-            <author refid="9881086" type="personal" vocab="viaf">Saenredam, Pieter Jansz</author>
+            <author refid="9881086" vocab="viaf">Saenredam, Pieter Jansz</author>
             <position>lower left on choir stall</position>
             <text type="signature">Ao.1646 / pieter Saenredam dit geschildert / de sintjans kerck in shartogenbosch</text>
          </inscription>
          <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html"
                       pref="false"
                       source="National Gallery of Art Washington">
-            <author refid="9881086" type="personal" vocab="viaf">Saenredam, Pieter Jansz</author>
+            <author refid="9881086" vocab="viaf">Saenredam, Pieter Jansz</author>
             <position>center on right escutcheon behind altar</position>
             <text type="text">AL.BERTO AVSTRIA CO / 1621 / PATRI PATRIAE / SILVA-DVCIS / DICAT CONSECRAT.</text>
          </inscription>
@@ -71,7 +71,7 @@ Saenredam did not create this painting until 1646, and in it he altered the real
                       pref="false"
                       source="National Gallery of Art Washington"
                       dataDate="2016-04-21-10-58-09">
-            <author refid="9881086" type="personal" vocab="viaf">Saenredam, Pieter Jansz</author>
+            <author refid="9881086" vocab="viaf">Saenredam, Pieter Jansz</author>
             <position>on left escutcheon behind altar</position>
             <text type="text">1598</text>
          </inscription>
@@ -146,7 +146,6 @@ Saenredam did not create this painting until 1646, and in it he altered the real
          <stylePeriod extent="Northern Baroque"
                       pref="false"
                       refid="300021147"
-                      type="styleperiods"
                       vocab="aat">Baroque</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -208,7 +207,7 @@ Saenredam did not create this painting until 1646, and in it he altered the real
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-21-10-52-03">
@@ -223,8 +222,8 @@ Saenredam did not create this painting until 1646, and in it he altered the real
          <worktype pref="false"
                    refid="300033799"
                    vocab="aat"
-                   source="Simon Gruening"/>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+                   source="Simon Gruening">oil paintings</worktype>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

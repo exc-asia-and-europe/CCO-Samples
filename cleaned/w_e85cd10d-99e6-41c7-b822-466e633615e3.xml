@@ -19,18 +19,14 @@
          <agent pref="false">
             <attribution>revisions to design</attribution>
             <culture>Italian</culture>
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="121738475" type="personal" vocab="viaf">Della Porta, Giacomo</name>
             <role type="code" vocab="marcrelator">arc</role>
          </agent>
          <agent pref="false" dataDate="2016-03-08-14-54-31">
             <attribution>revisions to design</attribution>
             <culture>Italian</culture>
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="51762694" type="personal" vocab="viaf">Fontana, Domenico</name>
             <role type="code" vocab="marcrelator">arc</role>
          </agent>

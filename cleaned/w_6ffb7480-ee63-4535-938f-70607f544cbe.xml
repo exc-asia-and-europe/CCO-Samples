@@ -68,16 +68,14 @@
          <measurements pref="false" type="width" unit="ft">15</measurements>
       </measurementsSet>
       <relationSet>
-         <relation href="i_b5347bb4-ee31-4e1f-953d-cc526347d45f"
-                   pref="true"
+         <relation pref="true"
                    relids="i_b5347bb4-ee31-4e1f-953d-cc526347d45f"
-                   type="imageIs"
-                   source="Tamboti">general view</relation>
-         <relation href="i_58457981-e7ad-4b19-b9f5-8661927f76c6"
-                   pref="false"
+                   source="Tamboti"
+                   type="imageIs">general view</relation>
+         <relation pref="false"
                    relids="i_58457981-e7ad-4b19-b9f5-8661927f76c6"
-                   type="imageIs"
-                   source="Tamboti">general view</relation>
+                   source="Tamboti"
+                   type="imageIs">general view</relation>
       </relationSet>
       <sourceSet>
          <source pref="false" dataDate="2016-01-27-16-55-20">

@@ -73,7 +73,7 @@ both Byzantine and Italian architects and craftsmen were responsible for the con
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300020669" type="styleperiods" vocab="aat">Byzantine</stylePeriod>
+         <stylePeriod pref="false" refid="300020669" vocab="aat">Byzantine</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -129,7 +129,7 @@ both Byzantine and Italian architects and craftsmen were responsible for the con
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300386948" vocab="aat"/>
+         <technique pref="false" refid="300386948" vocab="aat">stonemasonry</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="translated">St. Mark's</title>
@@ -139,8 +139,8 @@ both Byzantine and Italian architects and craftsmen were responsible for the con
       </titleSet>
       <worktypeSet>
          <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
-         <worktype pref="false" refid="300007501" vocab="aat"/>
-         <worktype pref="false" refid="300170443" vocab="aat"/>
+         <worktype pref="false" refid="300007501" vocab="aat">cathedrals</worktype>
+         <worktype pref="false" refid="300170443" vocab="aat">basilicas</worktype>
       </worktypeSet>
    </work>
 </vra>

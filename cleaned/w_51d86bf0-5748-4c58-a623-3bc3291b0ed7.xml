@@ -111,7 +111,6 @@
       </measurementsSet>
       <relationSet>
          <relation pref="false"
-                   relids="d1"
                    type="copyAfter"
                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting">Francesco Primaticcio (Italian, 1504-1570); Apollo, Pan, and Putto, lost painting, formerly in a vault in Galerie d’Ulysse, Fontainebleau (Ile-de-France, France)</relation>
          <relation pref="true"
@@ -198,11 +197,11 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
                     pref="false"
                     refid="300053319"
-                    vocab="aat"/>
+                    vocab="aat">printing</technique>
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
                     pref="false"
                     refid="300190531"
-                    vocab="aat"/>
+                    vocab="aat">copper engraving</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -214,7 +213,7 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting"
                    pref="false"
                    refid="300041340"
-                   vocab="aat"/>
+                   vocab="aat">engravings</worktype>
       </worktypeSet>
    </work>
 </vra>

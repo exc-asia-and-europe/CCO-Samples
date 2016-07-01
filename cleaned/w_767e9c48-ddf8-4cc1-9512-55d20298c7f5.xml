@@ -36,10 +36,10 @@
                type="creation"
                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church"
                dataDate="2015-11-18-17-10-44">
-            <earliestDate dataDate="2015-11-18-17-10-44">
+            <earliestDate>
                <date dataDate="2015-11-18-17-10-44">1194</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-18-17-10-44">
+            <latestDate>
                <date dataDate="2015-11-18-17-10-44">1260</date>
             </latestDate>
          </date>
@@ -70,10 +70,6 @@
                   type="geographic"
                   vocab="tgn"
                   dataDate="2015-11-18-17-37-27">Chartres</name>
-            <point dataDate="2015-11-18-17-37-27">
-               <lat dataDate="2015-11-18-17-37-27"/>
-               <long dataDate="2015-11-18-17-37-27"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

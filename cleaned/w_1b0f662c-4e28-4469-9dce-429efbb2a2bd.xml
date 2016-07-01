@@ -57,7 +57,7 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
       </descriptionSet>
       <inscriptionSet>
          <inscription pref="false" dataDate="2016-04-26-09-38-54">
-            <author refid="9854560" type="personal" vocab="viaf">Gogh, Vincent van</author>
+            <author refid="9854560" vocab="viaf">Gogh, Vincent van</author>
             <position>lower right</position>
             <text type="signature">Vincent (underlined)</text>
          </inscription>
@@ -121,8 +121,8 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="true" refid="300021508" type="styleperiods" vocab="aat">Post-Impressionist</stylePeriod>
-         <stylePeriod pref="false" refid="300021503" type="styleperiods" vocab="aat">Impressionist</stylePeriod>
+         <stylePeriod pref="true" refid="300021508" vocab="aat">Post-Impressionist</stylePeriod>
+         <stylePeriod pref="false" refid="300021503" vocab="aat">Impressionist</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false" refid="300054467" vocab="aat">
@@ -152,7 +152,7 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-26-09-40-56">
@@ -164,11 +164,11 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
          <title pref="false" type="repository">Irises</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
          <worktype pref="false"
                    refid="300033799"
                    vocab="aat"
-                   source="Simon Gruening"/>
+                   source="Simon Gruening">oil paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

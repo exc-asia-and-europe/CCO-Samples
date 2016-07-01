@@ -28,10 +28,10 @@
                type="creation"
                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints"
                dataDate="2015-11-16-11-18-31">
-            <earliestDate dataDate="2015-11-16-11-03-54">
+            <earliestDate>
                <date type="about" dataDate="2015-11-16-11-18-31">1884</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-16-11-03-54">
+            <latestDate>
                <date type="about" dataDate="2015-11-16-11-18-31">1894</date>
             </latestDate>
          </date>
@@ -73,10 +73,6 @@
                   type="geographic"
                   vocab="tgn"
                   dataDate="2015-11-16-11-49-05">Saint-Cloud, Parc de</name>
-            <point dataDate="2015-11-16-11-39-24">
-               <lat dataDate="2015-11-16-11-39-24"/>
-               <long dataDate="2015-11-16-11-39-24"/>
-            </point>
          </location>
          <location pref="false"
                    type="site"
@@ -87,10 +83,6 @@
                   type="geographic"
                   vocab="tgn"
                   dataDate="2015-11-16-11-49-05">Versailles, Château de</name>
-            <point dataDate="2015-11-16-11-39-24">
-               <lat dataDate="2015-11-16-11-39-24"/>
-               <long dataDate="2015-11-16-11-39-24"/>
-            </point>
          </location>
          <location pref="false"
                    type="repository"
@@ -101,10 +93,6 @@
                   type="corporate"
                   vocab="viaf"
                   dataDate="2015-11-16-11-49-05">J. Paul Getty Museum</name>
-            <point dataDate="2015-11-16-11-25-11">
-               <lat dataDate="2015-11-16-11-25-11"/>
-               <long dataDate="2015-11-16-11-25-11"/>
-            </point>
          </location>
          <location pref="false"
                    type="site"
@@ -115,10 +103,6 @@
                   type="geographic"
                   vocab="tgn"
                   dataDate="2015-11-16-11-49-05">Paris</name>
-            <point dataDate="2015-11-16-11-10-35">
-               <lat dataDate="2015-11-16-11-10-35"/>
-               <long dataDate="2015-11-16-11-10-35"/>
-            </point>
          </location>
       </locationSet>
       <measurementsSet>

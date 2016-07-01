@@ -80,14 +80,14 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
                       pref="false"
                       source="The J. Paul Getty Museum Online Collection"
                       dataDate="2015-05-13-13-19-50">
-            <author refid="34528928" type="personal" vocab="viaf">Richardson, Jonathan</author>
+            <author refid="34528928" vocab="viaf">Richardson, Jonathan</author>
             <position>(Recto) at bottom right</position>
             <text extent="collection mark" type="mark">L.2184</text>
          </inscription>
          <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/"
                       pref="false"
                       source="The J. Paul Getty Museum Online Collection">
-            <author refid="73924279" type="personal" vocab="viaf">Richardson, Jonathan</author>
+            <author refid="73924279" vocab="viaf">Richardson, Jonathan</author>
             <position>(Recto) at bottom right</position>
             <text extent="collection mark" type="mark">L.2170</text>
          </inscription>
@@ -95,7 +95,7 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
                       pref="false"
                       source="The J. Paul Getty Museum Online Collection"
                       dataDate="2015-05-13-13-21-37">
-            <author refid="50062313" type="personal" vocab="viaf">Freiherr von Lanna, Adalbert</author>
+            <author refid="50062313" vocab="viaf">Freiherr von Lanna, Adalbert</author>
             <position>verso</position>
             <text extent="collection mark" type="mark">L.2773</text>
          </inscription>
@@ -155,7 +155,6 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
       <stylePeriodSet>
          <stylePeriod pref="false"
                       refid="300021147"
-                      type="styleperiods"
                       vocab="aat"
                       source="Simon Gruening">Baroque</stylePeriod>
       </stylePeriodSet>
@@ -177,7 +176,7 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054196" vocab="aat"/>
+         <technique pref="false" refid="300054196" vocab="aat">drawing</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-28-17-38-41">
@@ -190,7 +189,7 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
          <title extent="display title" pref="true" type="repository">Man in Korean Costume</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="true" refid="300033973" vocab="aat"/>
+         <worktype pref="true" refid="300033973" vocab="aat">drawings</worktype>
          <worktype pref="false" refid="300081053" vocab="aat">studies</worktype>
       </worktypeSet>
    </work>

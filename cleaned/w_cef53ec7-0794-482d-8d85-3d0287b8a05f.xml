@@ -65,7 +65,7 @@
          <inscription pref="false"
                       source="http://www.metmuseum.org/collection/the-collection-online/search/45434"
                       dataDate="2015-11-11-16-43-14">
-            <author refid="69033717" type="personal" vocab="viaf">Hishikawa, Sori</author>
+            <author refid="69033717" vocab="viaf">Hishikawa, Sori</author>
             <position>top left</position>
             <text lang="jpn" script="Jpan" type="signature">前北斎為一筆</text>
             <text type="signature">Zen Hokusai Iitsu hitsu</text>
@@ -165,7 +165,6 @@
          <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
                       pref="false"
                       refid="300106643"
-                      type="styleperiods"
                       vocab="aat">Edo</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -200,11 +199,11 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
                     pref="false"
                     refid="300053319"
-                    vocab="aat"/>
+                    vocab="aat">printing</technique>
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
                     pref="false"
                     refid="300053296"
-                    vocab="aat"/>
+                    vocab="aat">woodcut</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -227,7 +226,7 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series"
                    pref="false"
                    refid="300041412"
-                   vocab="aat"/>
+                   vocab="aat">color woodcuts</worktype>
       </worktypeSet>
    </work>
 </vra>

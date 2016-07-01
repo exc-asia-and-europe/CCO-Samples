@@ -11,7 +11,7 @@
                 dataDate="2016-04-21-12-07-27">
             <dates type="life">
                <earliestDate circa="false">1676</earliestDate>
-               <latestDate circa="false">.</latestDate>
+               <latestDate checkMe="xxx" circa="false">.</latestDate>
             </dates>
             <name refid="88651839" type="personal" vocab="viaf">Ricci, Marco</name>
             <role type="code" vocab="marcrelator">art</role>
@@ -132,11 +132,11 @@ Joseph Smith, an English businessman and consul who lived in Venice for many yea
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054216" vocab="aat"/>
+         <technique pref="false" refid="300054216" vocab="aat">painting</technique>
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="repository">Landscape with Classical Ruins and Figures</title>
@@ -150,7 +150,7 @@ Joseph Smith, an English businessman and consul who lived in Venice for many yea
                    refid="300033799"
                    vocab="aat"
                    source="Simon Gruening">oil paintings</worktype>
-         <worktype pref="true" refid="300033618" vocab="aat"/>
+         <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

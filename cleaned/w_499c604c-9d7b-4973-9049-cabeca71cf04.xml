@@ -23,7 +23,7 @@
       <dateSet>
          <date pref="false" type="creation" dataDate="2016-02-02-10-33-31">
             <earliestDate>
-               <alternativeNotation>shortly after 1285</alternativeNotation>
+               <alternativeNotation checkMe="xxx">shortly after 1285</alternativeNotation>
                <date type="after">1280</date>
             </earliestDate>
             <latestDate>

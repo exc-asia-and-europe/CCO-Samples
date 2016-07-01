@@ -41,7 +41,6 @@
             <attribution>continued by</attribution>
             <culture>Italian</culture>
             <dates type="life">
-               <earliestDate circa="false"/>
                <latestDate circa="false">1284</latestDate>
             </dates>
             <name refid="95801444" type="personal" vocab="viaf">Giovanni di Simone</name>
@@ -51,7 +50,6 @@
             <attribution>finished by</attribution>
             <culture>Italian</culture>
             <dates type="life">
-               <earliestDate circa="false"/>
                <latestDate circa="true" type="after">1372</latestDate>
             </dates>
             <name refid="96537147" type="personal" vocab="viaf">Tommaso Pisano</name>

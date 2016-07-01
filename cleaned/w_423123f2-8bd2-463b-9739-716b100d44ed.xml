@@ -25,7 +25,7 @@
          <agent pref="false">
             <dates type="life">
                <earliestDate circa="false">1883</earliestDate>
-               <latestDate circa="false">.</latestDate>
+               <latestDate checkMe="xxx" circa="false">.</latestDate>
             </dates>
             <name refid="29542054" type="personal" vocab="viaf">Williams, William Carlos</name>
             <role type="code" vocab="marcrelator">lyr</role>
@@ -80,17 +80,17 @@ through the dark city</text>
       </descriptionSet>
       <inscriptionSet>
          <inscription pref="false">
-            <author refid="29542716" type="personal" vocab="viaf">Demuth, Charles</author>
+            <author refid="29542716" vocab="viaf">Demuth, Charles</author>
             <position>lower left</position>
             <text type="signature">C.D.</text>
          </inscription>
          <inscription pref="false">
-            <author refid="29542716" type="personal" vocab="viaf">Demuth, Charles</author>
+            <author refid="29542716" vocab="viaf">Demuth, Charles</author>
             <position>lower center</position>
             <text type="text">W. C. W.</text>
          </inscription>
          <inscription pref="false" dataDate="2015-05-04-10-41-27">
-            <author refid="29542716" type="personal" vocab="viaf">Demuth, Charles</author>
+            <author refid="29542716" vocab="viaf">Demuth, Charles</author>
             <position>verso</position>
             <text type="text">I saw the Figure 5 in Gold/ W. Carlos W/ C Demuth '28</text>
          </inscription>
@@ -146,7 +146,7 @@ through the dark city</text>
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="true" refid="300021495" type="styleperiods" vocab="aat">Cubist</stylePeriod>
+         <stylePeriod pref="true" refid="300021495" vocab="aat">Cubist</stylePeriod>
          <stylePeriod pref="false" refid="300021374" vocab="aat">Futurist</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -170,7 +170,7 @@ through the dark city</text>
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054216" vocab="aat"/>
+         <technique pref="false" refid="300054216" vocab="aat">painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="repository">I Saw the Figure 5 in Gold</title>
@@ -178,7 +178,7 @@ through the dark city</text>
          <title pref="false" type="other">Five in Gold</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

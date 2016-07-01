@@ -119,11 +119,11 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing"
                     pref="false"
                     refid="300054196"
-                    vocab="aat"/>
+                    vocab="aat">drawing</technique>
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing"
                     pref="false"
                     refid="300054216"
-                    vocab="aat"/>
+                    vocab="aat">painting</technique>
       </techniqueSet>
       <titleSet>
          <title href="https://research.archives.gov/id/2581318"
@@ -139,11 +139,11 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing"
                    pref="false"
                    refid="300034381"
-                   vocab="aat"/>
+                   vocab="aat">competition drawings</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_39_competition_drawing"
                    pref="false"
                    refid="300069413"
-                   vocab="aat"/>
+                   vocab="aat">design drawings</worktype>
       </worktypeSet>
    </work>
 </vra>

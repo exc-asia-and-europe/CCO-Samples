@@ -70,7 +70,7 @@
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300264407" type="styleperiods" vocab="aat">belle époque</stylePeriod>
+         <stylePeriod pref="false" refid="300264407" vocab="aat">belle époque</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -90,7 +90,7 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300310589" vocab="aat"/>
+         <technique pref="false" refid="300310589" vocab="aat">exposed frame construction</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-02-04-15-41-26">

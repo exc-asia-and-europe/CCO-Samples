@@ -8,16 +8,12 @@
       <agentSet>
          <display> unknown Nigerian, Court of Benin, for Oba Esigie (King of Benin, 1404-1550)</display>
          <agent pref="true" dataDate="2015-12-03-12-48-32">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="100639008" type="personal" vocab="viaf">unknown Nigerian</name>
             <role type="code" vocab="marcrelator">art</role>
          </agent>
          <agent pref="false" dataDate="2015-12-03-12-30-54">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="173026503" type="personal" vocab="viaf">Oba Esigie</name>
             <role type="code" vocab="marcrelator">pat</role>
          </agent>

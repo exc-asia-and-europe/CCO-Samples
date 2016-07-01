@@ -52,9 +52,7 @@
             <role type="code" vocab="marcrelator">arc</role>
          </agent>
          <agent pref="false" dataDate="2016-03-08-17-12-23">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="314494" type="personal" vocab="viaf">Ligorio, Pirro</name>
             <role type="code" vocab="marcrelator">arc</role>
          </agent>
@@ -180,7 +178,8 @@
       </measurementsSet>
       <relationSet>
          <relation pref="false" type="largerContextFor">Piazza San Pietro</relation>
-         <relation pref="false"
+         <relation checkMe="xxx"
+                   pref="false"
                    relids="d1w_e85cd10d-99e6-41c7-b822-466e633615e3"
                    type="largerContextFor">Dome of Saint Peter's</relation>
          <relation pref="true"

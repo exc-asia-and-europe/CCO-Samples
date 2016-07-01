@@ -39,10 +39,10 @@
                type="creation"
                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_65_textual_manuscript"
                dataDate="2015-11-26-12-15-37">
-            <earliestDate dataDate="2015-11-26-12-15-37">
+            <earliestDate>
                <date dataDate="2015-11-26-12-15-37">1776</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-26-12-15-37">
+            <latestDate>
                <date dataDate="2015-11-26-12-15-37">1776</date>
             </latestDate>
          </date>
@@ -62,10 +62,6 @@
          <location pref="false" type="repository" dataDate="2015-11-26-12-17-51">
             <refid dataDate="2015-11-26-12-17-51"/>
             <name refid="265208613" vocab="viaf" dataDate="2015-11-26-12-17-51">United States.</name>
-            <point dataDate="2015-11-26-12-17-51">
-               <lat dataDate="2015-11-26-12-17-51"/>
-               <long dataDate="2015-11-26-12-17-51"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

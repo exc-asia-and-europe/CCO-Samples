@@ -11,9 +11,7 @@
             <role type="code" vocab="marcrelator">col</role>
          </agent>
          <agent pref="true" dataDate="2016-03-17-14-54-25">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="268954409" type="personal" vocab="viaf">Livingston, Geoff</name>
             <role type="code" vocab="marcrelator">pht</role>
          </agent>

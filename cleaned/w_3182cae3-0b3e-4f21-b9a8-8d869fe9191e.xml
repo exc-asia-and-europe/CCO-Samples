@@ -16,7 +16,6 @@
          </agent>
          <agent pref="true" source="Simon Gruening" dataDate="2016-04-26-11-27-15">
             <dates type="life">
-               <earliestDate circa="false"/>
                <latestDate circa="false">1336</latestDate>
             </dates>
             <name refid="167855341" type="personal" vocab="viaf">Scrovegni, Enrico</name>
@@ -105,16 +104,16 @@ The cycle recounts the Story of salvation. It starts from high up, on the lunett
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300053357" vocab="aat"/>
+         <technique pref="false" refid="300053357" vocab="aat">fresco painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="descriptive">Scenes from the Life of Christ and the Virgin Mary</title>
       </titleSet>
       <worktypeSet>
          <worktype pref="false" refid="300184300" vocab="aat">narrative cycles</worktype>
-         <worktype pref="true" refid="300033618" vocab="aat"/>
-         <worktype pref="false" refid="300182732" vocab="aat"/>
-         <worktype pref="false" refid="300177433" vocab="aat"/>
+         <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
+         <worktype pref="false" refid="300182732" vocab="aat">murals</worktype>
+         <worktype pref="false" refid="300177433" vocab="aat">frescoes</worktype>
       </worktypeSet>
    </work>
 </vra>

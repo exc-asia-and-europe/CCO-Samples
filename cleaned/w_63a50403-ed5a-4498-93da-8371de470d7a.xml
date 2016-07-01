@@ -39,7 +39,7 @@
                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_46_print_two_artists_a_work_in_a_group"
                dataDate="2015-11-11-13-54-07">
             <earliestDate>
-               <alternativeNotation>ca. 1866</alternativeNotation>
+               <alternativeNotation checkMe="xxx">ca. 1866</alternativeNotation>
                <date type="about">1861</date>
             </earliestDate>
             <latestDate>
@@ -87,14 +87,14 @@
          <inscription pref="false"
                       source="http://www.loc.gov/pictures/item/95513915/"
                       dataDate="2015-11-11-14-13-12">
-            <author refid="27338209" type="personal" vocab="viaf">Bierstadt, Albert</author>
+            <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
             <position>library's proof before letters is signed in pencil, lower right</position>
             <text type="signature">A. Bierstadt</text>
          </inscription>
          <inscription pref="false"
                       source="http://www.loc.gov/pictures/item/95513915/"
                       dataDate="2015-11-11-14-14-11">
-            <author refid="27338209" type="personal" vocab="viaf">Bierstadt, Albert</author>
+            <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
             <position>on plate, lower right</position>
             <text type="signature">ABierstadt 1863</text>
          </inscription>
@@ -152,7 +152,7 @@
                        source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_46_print_two_artists_a_work_in_a_group">15 1/4</measurements>
       </measurementsSet>
       <relationSet>
-         <relation pref="false" relids="d1" type="partOf">Library of Congress (Washington, District of Columbia, United States); group: Indians of North America; 1860-1870</relation>
+         <relation pref="false" type="partOf">Library of Congress (Washington, District of Columbia, United States); group: Indians of North America; 1860-1870</relation>
          <relation pref="true"
                    relids="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e"
                    type="imageIs"
@@ -201,7 +201,7 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_46_print_two_artists_a_work_in_a_group"
                     pref="false"
                     refid="300053225"
-                    vocab="aat"/>
+                    vocab="aat">engraving</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -212,11 +212,11 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_46_print_two_artists_a_work_in_a_group"
                    pref="false"
                    refid="300041340"
-                   vocab="aat"/>
+                   vocab="aat">engravings</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_46_print_two_artists_a_work_in_a_group"
                    pref="false"
                    refid="300041273"
-                   vocab="aat"/>
+                   vocab="aat">prints</worktype>
       </worktypeSet>
    </work>
 </vra>

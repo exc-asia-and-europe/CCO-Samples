@@ -55,7 +55,7 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
                       pref="false"
                       source="J. Paul Getty Museum"
                       dataDate="2016-04-21-11-29-23">
-            <author refid="12577068" type="personal" vocab="viaf">Huysum, Jan van</author>
+            <author refid="12577068" vocab="viaf">Huysum, Jan van</author>
             <position>lower right</position>
             <text>Jan. Van. / Húÿsúm. fecit. 1722</text>
          </inscription>
@@ -109,7 +109,7 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021155" type="styleperiods" vocab="aat">Rococo</stylePeriod>
+         <stylePeriod pref="false" refid="300021155" vocab="aat">Rococo</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -169,7 +169,7 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-21-11-10-12">
@@ -184,8 +184,8 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
          <worktype pref="false"
                    refid="300033799"
                    vocab="aat"
-                   source="Simon Gruening"/>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+                   source="Simon Gruening">oil paintings</worktype>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

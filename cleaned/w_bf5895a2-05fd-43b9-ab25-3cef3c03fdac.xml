@@ -44,12 +44,12 @@
       </dateSet>
       <inscriptionSet>
          <inscription pref="false">
-            <author refid="66517093" type="personal" vocab="viaf">Boucher, François</author>
+            <author refid="66517093" vocab="viaf">Boucher, François</author>
             <position>lower center</position>
             <text type="signature">fBoucher</text>
          </inscription>
          <inscription pref="false" dataDate="2015-05-13-14-04-00">
-            <author refid="66517093" type="personal" vocab="viaf">Boucher, François</author>
+            <author refid="66517093" vocab="viaf">Boucher, François</author>
             <position>lower center</position>
             <text type="date">1764</text>
          </inscription>

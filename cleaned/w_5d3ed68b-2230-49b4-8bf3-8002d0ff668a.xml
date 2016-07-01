@@ -17,7 +17,7 @@
          <agent pref="false" dataDate="2015-04-22-13-56-43">
             <dates type="life">
                <earliestDate circa="false">0020 av. J.</earliestDate>
-               <latestDate circa="false">C.-0004</latestDate>
+               <latestDate checkMe="xxx" circa="false">C.-0004</latestDate>
             </dates>
             <name refid="58081943" type="personal" vocab="viaf">César, Caius</name>
             <role type="code" vocab="marcrelator">dte</role>
@@ -72,7 +72,7 @@ A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and wi
                       pref="false"
                       source="Wikipedia"
                       dataDate="2016-03-24-09-06-12">
-            <author refid="61535454" type="personal" vocab="viaf">Séguier, Jean François</author>
+            <author refid="61535454" vocab="viaf">Séguier, Jean François</author>
             <position>portico's facade</position>
             <text type="translation">To Gaius Caesar, son of Augustus, Consul; to Lucius Caesar, son of Augustus, Consul designate; to the princes of youth.</text>
          </inscription>
@@ -115,7 +115,7 @@ A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and wi
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300020110" type="styleperiods" vocab="aat">Corinthian</stylePeriod>
+         <stylePeriod pref="false" refid="300020110" vocab="aat">Corinthian</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -147,20 +147,20 @@ A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and wi
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300386948" vocab="aat"/>
+         <technique pref="false" refid="300386948" vocab="aat">stonemasonry</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="popular">Maison Carée</title>
          <title pref="false" type="other">Nîmes Temple</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
-         <worktype pref="false" refid="300007595" vocab="aat"/>
-         <worktype pref="false" refid="300006063" vocab="aat"/>
-         <worktype pref="false" refid="300005425" vocab="aat"/>
-         <worktype pref="false" refid="300005015" vocab="aat"/>
-         <worktype pref="false" refid="300007466" vocab="aat"/>
-         <worktype pref="false" refid="300005768" vocab="aat"/>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+         <worktype pref="false" refid="300007595" vocab="aat">temples</worktype>
+         <worktype pref="false" refid="300006063" vocab="aat">town halls</worktype>
+         <worktype pref="false" refid="300005425" vocab="aat">dwellings</worktype>
+         <worktype pref="false" refid="300005015" vocab="aat">stables</worktype>
+         <worktype pref="false" refid="300007466" vocab="aat">churches</worktype>
+         <worktype pref="false" refid="300005768" vocab="aat">museums</worktype>
       </worktypeSet>
    </work>
 </vra>

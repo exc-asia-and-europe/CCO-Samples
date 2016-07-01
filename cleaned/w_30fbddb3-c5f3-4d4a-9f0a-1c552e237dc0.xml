@@ -156,14 +156,14 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300178675" vocab="aat"/>
-         <technique pref="false" refid="300054216" vocab="aat"/>
+         <technique pref="false" refid="300178675" vocab="aat">panel painting</technique>
+         <technique pref="false" refid="300054216" vocab="aat">painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="repository">The Story of Oenone and Paris (center panel)</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

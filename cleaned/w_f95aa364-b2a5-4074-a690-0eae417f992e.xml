@@ -28,10 +28,10 @@
          <display dataDate="2015-11-26-15-46-28"> Middle Minoan Palace period, ca. 1600 BCE</display>
          <notes dataDate="2015-11-26-15-46-28"/>
          <date pref="false" type="creation" dataDate="2015-11-26-15-46-28">
-            <earliestDate dataDate="2015-11-26-15-46-28">
+            <earliestDate>
                <date dataDate="2015-11-26-15-46-28">-1630</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-26-15-46-28">
+            <latestDate>
                <date dataDate="2015-11-26-15-46-28">-1570</date>
             </latestDate>
          </date>
@@ -56,10 +56,6 @@
          <location pref="false" type="repository" dataDate="2015-11-26-15-48-41">
             <refid type="accession" dataDate="2015-11-26-15-48-41">no. 65</refid>
             <name refid="158400708" vocab="viaf" dataDate="2015-11-26-15-48-41">Archaiologikon Mouseion Hērakleiou.</name>
-            <point dataDate="2015-11-26-15-48-41">
-               <lat dataDate="2015-11-26-15-48-41"/>
-               <long dataDate="2015-11-26-15-48-41"/>
-            </point>
          </location>
          <location pref="false" type="discovery" dataDate="2015-11-26-15-48-41">
             <refid dataDate="2015-11-26-15-48-41"/>
@@ -67,10 +63,6 @@
                   refid="316746119"
                   vocab="viaf"
                   dataDate="2015-11-26-15-48-41">Palace of Knossos (Knossos)</name>
-            <point dataDate="2015-11-26-15-48-41">
-               <lat dataDate="2015-11-26-15-48-41"/>
-               <long dataDate="2015-11-26-15-48-41"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

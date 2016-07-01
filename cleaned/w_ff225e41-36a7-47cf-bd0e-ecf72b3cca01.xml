@@ -10,15 +10,13 @@
             <culture>Swiss</culture>
             <dates type="life">
                <earliestDate circa="false">1702</earliestDate>
-               <latestDate circa="false">.1789</latestDate>
+               <latestDate checkMe="xxx" circa="false">.1789</latestDate>
             </dates>
             <name refid="61675695" type="personal" vocab="viaf">Liotard, Jean Étienne</name>
             <role type="code" vocab="marcrelator">drm</role>
          </agent>
          <agent pref="false" source="HRA" dataDate="2015-05-06-14-14-06">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="173081343" type="personal" vocab="viaf">Reede-Athlone, Maria Frederike van</name>
             <role type="code" vocab="marcrelator">dpc</role>
          </agent>
@@ -64,7 +62,7 @@ Liotard developed remarkable technical skills in the difficult medium of pastels
                       pref="false"
                       source="J. Paul Getty Museum"
                       dataDate="2016-04-26-13-39-05">
-            <author refid="61675695" type="personal" vocab="viaf">Liotard, Jean Étienne</author>
+            <author refid="61675695" vocab="viaf">Liotard, Jean Étienne</author>
             <position>upper right</position>
             <text type="signature">peint par / J E Liotard / 1755 &amp; 1756</text>
          </inscription>
@@ -145,7 +143,7 @@ Liotard developed remarkable technical skills in the difficult medium of pastels
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300053412" vocab="aat"/>
+         <technique pref="false" refid="300053412" vocab="aat">stumping</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-26-13-26-38">
@@ -157,7 +155,7 @@ Liotard developed remarkable technical skills in the difficult medium of pastels
          <title pref="true" type="repository">Portrait of Maria Frederike van Reede-Athlone at Seven Years of Age</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="true" refid="300076922" vocab="aat"/>
+         <worktype pref="true" refid="300076922" vocab="aat">pastels</worktype>
          <worktype href="http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/"
                    pref="false"
                    refid="300033973"

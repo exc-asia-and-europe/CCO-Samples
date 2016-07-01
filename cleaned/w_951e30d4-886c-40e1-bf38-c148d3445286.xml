@@ -119,7 +119,7 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300264736" type="styleperiods" vocab="aat">Modern</stylePeriod>
+         <stylePeriod pref="false" refid="300264736" vocab="aat">Modern</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -171,8 +171,8 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
                 source="http://en.wikipedia.org/wiki/Willis_Tower#Naming_rights">Sears Tower</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
-         <worktype pref="false" refid="300004809" vocab="aat"/>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+         <worktype pref="false" refid="300004809" vocab="aat">skyscrapers</worktype>
       </worktypeSet>
    </work>
 </vra>

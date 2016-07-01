@@ -105,7 +105,7 @@
          <technique pref="false"
                     refid="300139114"
                     vocab="aat"
-                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company"/>
+                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company">gelatin silver process</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -119,11 +119,11 @@
          <worktype pref="false"
                    refid="300046300"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company">photographs</worktype>
          <worktype pref="false"
                    refid="300128695"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company">gelatin silver prints</worktype>
       </worktypeSet>
    </work>
 </vra>

@@ -9,9 +9,7 @@
          <agent pref="true"
                 source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist"
                 dataDate="2015-11-12-13-50-00">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="100626577" type="personal" vocab="viaf">unknown American</name>
             <role type="code" vocab="marcrelator">pht</role>
          </agent>
@@ -61,14 +59,14 @@
       <inscriptionSet>
          <inscription pref="false"
                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist">
-            <author refid="100627125" type="personal" vocab="viaf">Unknown</author>
+            <author refid="100627125" vocab="viaf">Unknown</author>
             <position>lower bottom</position>
             <text type="text">Mansion belonging to Rita Pasquale’s uncle in Italy</text>
          </inscription>
          <inscription pref="false"
                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist"
                       dataDate="2015-11-12-13-37-52">
-            <author refid="100627125" type="personal" vocab="viaf">Unknown</author>
+            <author refid="100627125" vocab="viaf">Unknown</author>
             <position>verso</position>
             <text type="date">1921</text>
          </inscription>
@@ -156,7 +154,7 @@
          <technique pref="false"
                     refid="300162056"
                     vocab="aat"
-                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist"/>
+                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist">black-and-white photography</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -170,16 +168,16 @@
          <worktype pref="false"
                    refid="300046300"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist"/>
-         <worktype pref="false" refid="300128349" vocab="aat"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist">photographs</worktype>
+         <worktype pref="false" refid="300128349" vocab="aat">black-and-white prints</worktype>
          <worktype pref="false"
                    refid="300128347"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_55_photograph_anonymous_artist">black-and-white photographs</worktype>
          <worktype pref="false"
                    refid="300128371"
                    vocab="aat"
-                   source="http://www.loc.gov/item/ncr001475/"/>
+                   source="http://www.loc.gov/item/ncr001475/">slides</worktype>
       </worktypeSet>
    </work>
 </vra>

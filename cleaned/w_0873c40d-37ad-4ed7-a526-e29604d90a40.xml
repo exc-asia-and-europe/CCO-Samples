@@ -109,7 +109,7 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300020786" type="styleperiods" vocab="aat">International Gothic</stylePeriod>
+         <stylePeriod pref="false" refid="300020786" vocab="aat">International Gothic</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -141,11 +141,11 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054216" vocab="aat"/>
+         <technique pref="false" refid="300054216" vocab="aat">painting</technique>
          <technique pref="false"
                     refid="300178675"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">panel painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-12-12-23-22">
@@ -160,8 +160,8 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
                 source="The Metropolitan Museum of Art Online Collection">The Creation of the World and the Expulsion from Paradise</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033656" vocab="aat"/>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033656" vocab="aat">panel paintings</worktype>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

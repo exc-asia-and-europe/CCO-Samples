@@ -84,7 +84,7 @@ reproduced with an alloy facsimile.</text>
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021279" type="styleperiods" vocab="aat">Second Empire</stylePeriod>
+         <stylePeriod pref="false" refid="300021279" vocab="aat">Second Empire</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -110,7 +110,7 @@ reproduced with an alloy facsimile.</text>
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300386948" vocab="aat"/>
+         <technique pref="false" refid="300386948" vocab="aat">stonemasonry</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-03-24-09-10-25">
@@ -123,8 +123,8 @@ reproduced with an alloy facsimile.</text>
          <title pref="true" type="popular">Columbus Courthouse</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300005969" vocab="aat"/>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
+         <worktype pref="false" refid="300005969" vocab="aat">courthouses</worktype>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
       </worktypeSet>
    </work>
 </vra>

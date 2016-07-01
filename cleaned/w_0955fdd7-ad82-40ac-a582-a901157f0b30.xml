@@ -51,10 +51,10 @@
                type="creation"
                source="CCO Commons"
                dataDate="2015-11-23-10-39-35">
-            <earliestDate dataDate="2015-11-23-10-39-35">
+            <earliestDate>
                <date dataDate="2015-11-23-10-39-35">1932</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-23-10-39-35">
+            <latestDate>
                <date type="before" dataDate="2015-11-23-10-39-35">1937</date>
             </latestDate>
          </date>
@@ -113,10 +113,6 @@ Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</tex
                   type="corporate"
                   vocab="viaf"
                   dataDate="2015-11-23-10-54-26">Leicester Galleries.</name>
-            <point dataDate="2015-11-23-10-54-26">
-               <lat dataDate="2015-11-23-10-54-26"/>
-               <long dataDate="2015-11-23-10-54-26"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

@@ -116,7 +116,7 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300053357" vocab="aat"/>
+         <technique pref="false" refid="300053357" vocab="aat">fresco painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="descriptive">Adoration of the Name of God</title>
@@ -126,7 +126,7 @@
                 source="Wikimedia Foundation">La Gloria</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="true" refid="300033618" vocab="aat"/>
+         <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
          <worktype pref="false" refid="300182732" vocab="aat">murals</worktype>
          <worktype pref="false" refid="300177433" vocab="aat">frescoes</worktype>
       </worktypeSet>

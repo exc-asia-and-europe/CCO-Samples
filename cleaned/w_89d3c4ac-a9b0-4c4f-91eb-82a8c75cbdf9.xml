@@ -28,10 +28,10 @@
          <display dataDate="2015-11-30-18-12-05">Tang dynasty (618-907)</display>
          <notes dataDate="2015-11-30-18-12-05"/>
          <date pref="false" type="creation" dataDate="2015-11-30-18-12-05">
-            <earliestDate dataDate="2015-11-30-18-12-05">
+            <earliestDate>
                <date dataDate="2015-11-30-18-12-05">618</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-30-18-12-05">
+            <latestDate>
                <date dataDate="2015-11-30-18-12-05">907</date>
             </latestDate>
          </date>
@@ -59,18 +59,10 @@
          <location pref="true" type="repository" dataDate="2015-11-30-18-20-07">
             <refid type="accession" dataDate="2015-11-30-18-20-07">1964-9-1</refid>
             <name refid="137352121" vocab="viaf" dataDate="2015-11-30-18-20-07">Philadelphia Museum of Art</name>
-            <point dataDate="2015-11-30-18-20-07">
-               <lat dataDate="2015-11-30-18-20-07"/>
-               <long dataDate="2015-11-30-18-20-07"/>
-            </point>
          </location>
          <location pref="false" type="creation" dataDate="2015-11-30-18-20-07">
             <refid dataDate="2015-11-30-18-20-07"/>
             <name refid="7001470" vocab="tgn" dataDate="2015-11-30-18-20-07">Chang'an</name>
-            <point dataDate="2015-11-30-18-20-07">
-               <lat dataDate="2015-11-30-18-20-07"/>
-               <long dataDate="2015-11-30-18-20-07"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

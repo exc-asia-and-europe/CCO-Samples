@@ -57,7 +57,7 @@
          <inscription pref="false"
                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume"
                       dataDate="2015-11-11-15-57-29">
-            <author refid="27049976" type="personal" vocab="viaf">Stopendael, Bastiaen</author>
+            <author refid="27049976" vocab="viaf">Stopendael, Bastiaen</author>
             <text>titled: Napoli; signed in the plate</text>
          </inscription>
       </inscriptionSet>
@@ -97,7 +97,7 @@
                        source="http://search.getty.edu/gri/records/griobject?objectid=885833095">105</measurements>
       </measurementsSet>
       <relationSet>
-         <relation pref="false" relids="d1" type="partOf">Blaeu, Joan. Theatrum civitatum nec non admirandorum Neapolis et Siciliae regnorum; Amsterdam: Joan Blaeu, 1663</relation>
+         <relation pref="false" type="partOf">Blaeu, Joan. Theatrum civitatum nec non admirandorum Neapolis et Siciliae regnorum; Amsterdam: Joan Blaeu, 1663</relation>
          <relation pref="true"
                    relids="i_81b4189d-c81e-4d22-bc07-c12036c12d07"
                    type="imageIs"
@@ -154,11 +154,11 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume"
                     pref="false"
                     refid="300133555"
-                    vocab="aat"/>
+                    vocab="aat">hand coloring</technique>
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume"
                     pref="false"
                     refid="300053241"
-                    vocab="aat"/>
+                    vocab="aat">etching</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -169,15 +169,15 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume"
                    pref="false"
                    refid="300041273"
-                   vocab="aat"/>
+                   vocab="aat">prints</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume"
                    pref="false"
                    refid="300015424"
-                   vocab="aat"/>
+                   vocab="aat">views</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume"
                    pref="false"
                    refid="300041365"
-                   vocab="aat"/>
+                   vocab="aat">etchings</worktype>
       </worktypeSet>
    </work>
 </vra>

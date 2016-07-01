@@ -161,14 +161,14 @@ The overarching theme of this vessel is the necessary interaction of life-giving
          <technique pref="false"
                     refid="300343820"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">vase painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="generalView"> Vessel with Mythological Scene of the Maya Underworld</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300151343" vocab="aat"/>
-         <worktype pref="false" refid="300043202" vocab="aat"/>
+         <worktype pref="false" refid="300151343" vocab="aat">ceramics</worktype>
+         <worktype pref="false" refid="300043202" vocab="aat">cups</worktype>
       </worktypeSet>
    </work>
 </vra>

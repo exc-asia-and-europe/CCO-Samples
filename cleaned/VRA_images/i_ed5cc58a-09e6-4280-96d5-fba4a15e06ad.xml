@@ -7,9 +7,7 @@
           source="Tamboti">
       <agentSet>
          <agent pref="false" dataDate="2016-01-27-14-07-38">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="71437368" type="personal" vocab="viaf">Haun, Declan</name>
             <role type="code" vocab="marcrelator">pht</role>
          </agent>

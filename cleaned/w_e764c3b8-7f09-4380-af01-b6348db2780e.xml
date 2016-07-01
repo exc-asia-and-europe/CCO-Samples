@@ -36,10 +36,10 @@
          <display dataDate="2015-11-30-15-09-54">cast by the artist in 1910 or 1911, from a model made in 1880</display>
          <notes dataDate="2015-11-30-15-09-54"/>
          <date pref="false" type="design" dataDate="2015-11-30-15-09-54">
-            <earliestDate dataDate="2015-11-30-15-09-54">
+            <earliestDate>
                <date dataDate="2015-11-30-15-09-54">1880</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-30-15-09-54">
+            <latestDate>
                <date dataDate="2015-11-30-15-09-54">1880</date>
             </latestDate>
          </date>
@@ -48,10 +48,10 @@
                type="creation"
                source="Metropolitan Museum of Art online"
                dataDate="2015-11-30-15-09-54">
-            <earliestDate dataDate="2015-11-30-15-09-54">
+            <earliestDate>
                <date dataDate="2015-11-30-15-09-54">1910</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-30-15-09-54">
+            <latestDate>
                <date dataDate="2015-11-30-15-09-54">1910</date>
             </latestDate>
          </date>
@@ -101,10 +101,6 @@
          <location pref="false" type="repository" dataDate="2015-11-30-15-16-45">
             <refid type="accession" dataDate="2015-11-30-15-16-45">11.173.1</refid>
             <name refid="126238294" vocab="viaf" dataDate="2015-11-30-15-16-45">Metropolitan Museum of Art</name>
-            <point dataDate="2015-11-30-15-16-45">
-               <lat dataDate="2015-11-30-15-16-45"/>
-               <long dataDate="2015-11-30-15-16-45"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

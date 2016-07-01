@@ -32,10 +32,10 @@
          <display dataDate="2015-11-30-17-25-12">ca. 11th century</display>
          <notes dataDate="2015-11-30-17-25-12"/>
          <date pref="false" dataDate="2015-11-30-17-25-12">
-            <earliestDate dataDate="2015-11-30-17-25-12">
+            <earliestDate>
                <date dataDate="2015-11-30-17-25-12">0975</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-30-17-25-12">
+            <latestDate>
                <date dataDate="2015-11-30-17-25-12">1125</date>
             </latestDate>
          </date>
@@ -73,18 +73,10 @@
          <location pref="false" type="repository" dataDate="2015-11-30-17-36-02">
             <refid type="accession" dataDate="2015-11-30-17-36-02">1987.80.1</refid>
             <name refid="126238294" vocab="viaf" dataDate="2015-11-30-17-36-02">Metropolitan Museum of Art</name>
-            <point dataDate="2015-11-30-17-36-02">
-               <lat dataDate="2015-11-30-17-36-02"/>
-               <long dataDate="2015-11-30-17-36-02"/>
-            </point>
          </location>
          <location pref="false" type="creation" dataDate="2015-11-30-17-36-02">
             <refid type="accession" dataDate="2015-11-30-17-36-02"/>
             <name refid="7000208" vocab="tgn" dataDate="2015-11-30-17-36-02">India</name>
-            <point dataDate="2015-11-30-17-36-02">
-               <lat dataDate="2015-11-30-17-36-02"/>
-               <long dataDate="2015-11-30-17-36-02"/>
-            </point>
          </location>
          <location pref="false"
                    type="creation"
@@ -93,10 +85,6 @@
                    dataDate="2015-11-30-17-36-02">
             <refid dataDate="2015-11-30-17-36-02"/>
             <name refid="7001797" vocab="tgn" dataDate="2015-11-30-17-36-02">Tamil Nādu</name>
-            <point dataDate="2015-11-30-17-36-02">
-               <lat dataDate="2015-11-30-17-36-02"/>
-               <long dataDate="2015-11-30-17-36-02"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

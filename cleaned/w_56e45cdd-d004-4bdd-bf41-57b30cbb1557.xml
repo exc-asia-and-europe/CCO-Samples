@@ -104,7 +104,7 @@ The elegant young man wears a black satin doublet, with fashionably slashed slee
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021144" type="styleperiods" vocab="aat">Mannerist</stylePeriod>
+         <stylePeriod pref="false" refid="300021144" vocab="aat">Mannerist</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -127,13 +127,13 @@ The elegant young man wears a black satin doublet, with fashionably slashed slee
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="repository">Portrait of a Young Man</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

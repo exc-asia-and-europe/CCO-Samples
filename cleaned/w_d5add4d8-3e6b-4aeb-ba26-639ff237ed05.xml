@@ -59,11 +59,10 @@
       <relationSet>
          <relation pref="false" type="formerlyPartOf">Notre Dame Cathedral (Rouen, France)</relation>
          <relation pref="false" type="formerlyPartOf">Cycle of the Seven Sleepers</relation>
-         <relation href="i_a31ade62-8f5b-43fc-81f7-42e58bcdafc8"
-                   pref="true"
+         <relation pref="true"
                    relids="i_a31ade62-8f5b-43fc-81f7-42e58bcdafc8"
-                   type="imageIs"
-                   source="Tamboti">general view</relation>
+                   source="Tamboti"
+                   type="imageIs">general view</relation>
       </relationSet>
       <sourceSet>
          <source pref="false">

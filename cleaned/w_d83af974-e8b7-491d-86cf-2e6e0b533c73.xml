@@ -23,10 +23,10 @@
          <display dataDate="2015-11-30-19-01-28">Tang dynasty, ca. 700</display>
          <notes dataDate="2015-11-30-19-01-28"/>
          <date pref="false" type="creation" dataDate="2015-11-30-19-01-28">
-            <earliestDate dataDate="2015-11-30-19-01-28">
+            <earliestDate>
                <date dataDate="2015-11-30-19-01-28">0690</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-30-19-01-28">
+            <latestDate>
                <date dataDate="2015-11-30-19-01-28">0710</date>
             </latestDate>
          </date>
@@ -68,10 +68,6 @@
                   vocab="viaf"
                   type="corporate"
                   dataDate="2015-11-30-19-12-06">Arthur M. Sackler Gallery (Smithsonian Institution)</name>
-            <point dataDate="2015-11-30-19-12-06">
-               <lat dataDate="2015-11-30-19-12-06"/>
-               <long dataDate="2015-11-30-19-12-06"/>
-            </point>
          </location>
          <location pref="false" type="discovery" dataDate="2015-11-30-19-12-06">
             <refid type="accession" dataDate="2015-11-30-19-12-06"/>
@@ -80,10 +76,6 @@
                   extent="probably"
                   type="geographic"
                   dataDate="2015-11-30-19-12-06">Longmen</name>
-            <point dataDate="2015-11-30-19-12-06">
-               <lat dataDate="2015-11-30-19-12-06"/>
-               <long dataDate="2015-11-30-19-12-06"/>
-            </point>
          </location>
       </locationSet>
       <relationSet>

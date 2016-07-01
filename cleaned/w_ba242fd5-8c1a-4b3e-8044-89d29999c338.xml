@@ -139,7 +139,6 @@
       <stylePeriodSet>
          <stylePeriod pref="false"
                       refid="300106643"
-                      type="styleperiods"
                       vocab="aat"
                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series">Edo</stylePeriod>
       </stylePeriodSet>
@@ -176,7 +175,7 @@
          <technique pref="false"
                     refid="300053296"
                     vocab="aat"
-                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints"/>
+                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints">woodcut</technique>
       </techniqueSet>
       <titleSet>
          <title lang="eng"
@@ -201,11 +200,11 @@
          <worktype pref="false"
                    refid="300041273"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints">prints</worktype>
          <worktype pref="false"
                    refid="300041412"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints">color woodcuts</worktype>
       </worktypeSet>
    </work>
 </vra>

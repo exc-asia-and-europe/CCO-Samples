@@ -130,7 +130,7 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300015341" vocab="aat"/>
+         <technique pref="false" refid="300015341" vocab="aat">steel frame construction</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-03-17-16-33-28">
@@ -142,9 +142,9 @@
          <title pref="false" type="descriptive">Getty Center</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
-         <worktype pref="false" refid="300005138" vocab="aat"/>
-         <worktype pref="false" refid="300000202" vocab="aat"/>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+         <worktype pref="false" refid="300005138" vocab="aat">art centers</worktype>
+         <worktype pref="false" refid="300000202" vocab="aat">complexes</worktype>
       </worktypeSet>
    </work>
 </vra>

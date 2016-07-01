@@ -42,10 +42,10 @@
                type="creation"
                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_64_illuminated_manuscript"
                dataDate="2015-11-23-12-30-52">
-            <earliestDate dataDate="2015-11-23-12-25-09">
+            <earliestDate>
                <date dataDate="2015-11-23-12-25-09">1100</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-23-12-25-09">
+            <latestDate>
                <date dataDate="2015-11-23-12-25-09">1199</date>
             </latestDate>
          </date>
@@ -54,10 +54,10 @@
                type="creation"
                source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/"
                dataDate="2015-11-23-12-25-09">
-            <earliestDate dataDate="2015-11-23-12-25-09">
+            <earliestDate>
                <date type="about" dataDate="2015-11-23-12-25-09">1025</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-23-12-25-09">
+            <latestDate>
                <date type="about" dataDate="2015-11-23-12-25-09">1050</date>
             </latestDate>
          </date>
@@ -111,10 +111,6 @@ The sacramentary opens with a rare cycle of six full-page miniatures from the Ne
                    dataDate="2015-11-23-12-52-08">
             <refid type="accession" dataDate="2015-11-23-12-52-08">83.MF.77</refid>
             <name refid="147804499" vocab="viaf" dataDate="2015-11-23-12-52-08">J. Paul Getty Museum</name>
-            <point dataDate="2015-11-23-12-52-08">
-               <lat dataDate="2015-11-23-12-52-08"/>
-               <long dataDate="2015-11-23-12-52-08"/>
-            </point>
          </location>
          <location pref="false"
                    type="creation"
@@ -123,10 +119,6 @@ The sacramentary opens with a rare cycle of six full-page miniatures from the Ne
                    dataDate="2015-11-23-12-52-08">
             <refid dataDate="2015-11-23-12-52-08"/>
             <name refid="7005294" vocab="tgn" dataDate="2015-11-23-12-52-08">Fulda</name>
-            <point dataDate="2015-11-23-12-52-08">
-               <lat dataDate="2015-11-23-12-52-08"/>
-               <long dataDate="2015-11-23-12-52-08"/>
-            </point>
          </location>
          <location pref="false"
                    extent="illuminations"
@@ -135,10 +127,6 @@ The sacramentary opens with a rare cycle of six full-page miniatures from the Ne
                    dataDate="2015-11-23-12-52-08">
             <refid dataDate="2015-11-23-12-52-08"/>
             <name refid="7004449" vocab="tgn" dataDate="2015-11-23-12-52-08">Mainz</name>
-            <point dataDate="2015-11-23-12-52-08">
-               <lat dataDate="2015-11-23-12-52-08"/>
-               <long dataDate="2015-11-23-12-52-08"/>
-            </point>
          </location>
          <location pref="false"
                    extent="binding"
@@ -147,10 +135,6 @@ The sacramentary opens with a rare cycle of six full-page miniatures from the Ne
                    dataDate="2015-11-23-12-52-08">
             <refid dataDate="2015-11-23-12-52-08"/>
             <name refid="7030259" vocab="tgn" dataDate="2015-11-23-12-52-08">Mosan</name>
-            <point dataDate="2015-11-23-12-52-08">
-               <lat dataDate="2015-11-23-12-52-08"/>
-               <long dataDate="2015-11-23-12-52-08"/>
-            </point>
          </location>
          <location extent="binding"
                    pref="false"
@@ -159,10 +143,6 @@ The sacramentary opens with a rare cycle of six full-page miniatures from the Ne
                    dataDate="2015-11-23-12-52-08">
             <refid dataDate="2015-11-23-12-52-08"/>
             <name refid="7003460" vocab="tgn" dataDate="2015-11-23-12-52-08">Liège</name>
-            <point dataDate="2015-11-23-12-52-08">
-               <lat dataDate="2015-11-23-12-52-08"/>
-               <long dataDate="2015-11-23-12-52-08"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

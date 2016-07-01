@@ -32,10 +32,10 @@
          <display dataDate="2015-11-30-15-50-51">ca. first quarter 10th century</display>
          <notes dataDate="2015-11-30-15-50-51"/>
          <date pref="false" type="creation" dataDate="2015-11-30-15-50-51">
-            <earliestDate dataDate="2015-11-30-15-50-51">
+            <earliestDate>
                <date dataDate="2015-11-30-15-50-51">0890</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-30-15-50-51">
+            <latestDate>
                <date dataDate="2015-11-30-15-50-51">0935</date>
             </latestDate>
          </date>
@@ -73,18 +73,10 @@
          <location pref="false" type="repository" dataDate="2015-11-30-16-04-13">
             <refid type="accession" dataDate="2015-11-30-16-04-13">57.51.3</refid>
             <name refid="126238294" vocab="viaf" dataDate="2015-11-30-16-04-13">Metropolitan Museum of Art</name>
-            <point dataDate="2015-11-30-16-04-13">
-               <lat dataDate="2015-11-30-16-04-13"/>
-               <long dataDate="2015-11-30-16-04-13"/>
-            </point>
          </location>
          <location pref="false" type="creation" dataDate="2015-11-30-16-04-13">
             <refid dataDate="2015-11-30-16-04-13"/>
             <name refid="7001797" vocab="tgn" dataDate="2015-11-30-16-04-13">Tamil Nādu</name>
-            <point dataDate="2015-11-30-16-04-13">
-               <lat dataDate="2015-11-30-16-04-13"/>
-               <long dataDate="2015-11-30-16-04-13"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

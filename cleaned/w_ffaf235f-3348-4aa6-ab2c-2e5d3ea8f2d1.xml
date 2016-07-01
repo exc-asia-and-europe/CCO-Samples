@@ -50,7 +50,7 @@
          <inscription pref="false"
                       source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_45_print_inscribed_title"
                       dataDate="2015-11-11-11-25-32">
-            <author refid="5138481" type="personal" vocab="viaf">Debucourt, Philibert-Louis</author>
+            <author refid="5138481" vocab="viaf">Debucourt, Philibert-Louis</author>
             <position>lower center</position>
             <text>Menuet de la Mariée</text>
          </inscription>
@@ -189,15 +189,15 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_45_print_inscribed_title"
                     pref="false"
                     refid="300053329"
-                    vocab="aat"/>
+                    vocab="aat">color printing</technique>
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_45_print_inscribed_title"
                     pref="false"
                     refid="300053225"
-                    vocab="aat"/>
+                    vocab="aat">engraving</technique>
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_45_print_inscribed_title"
                     pref="false"
                     refid="300053241"
-                    vocab="aat"/>
+                    vocab="aat">etching</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -208,12 +208,12 @@
                 source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_45_print_inscribed_title">Menuet de la Mariée</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300041273" vocab="aat"/>
-         <worktype pref="false" refid="300041504" vocab="aat"/>
+         <worktype pref="false" refid="300041273" vocab="aat">prints</worktype>
+         <worktype pref="false" refid="300041504" vocab="aat">color prints</worktype>
          <worktype href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html#"
                    pref="false"
                    refid="300041365"
-                   vocab="aat"/>
+                   vocab="aat">etchings</worktype>
       </worktypeSet>
    </work>
 </vra>

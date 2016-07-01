@@ -74,7 +74,7 @@
             <text type="text">IN THIS TEMPLE / AS IN THE HEARTS OF THE PEOPLE / FOR WHOM HE SAVED THE UNION / THE MEMORY OF ABRAHAM LINCOLN / IS ENSHRINED FOREVER; [the northern wall contains an inscription of Lincoln’s second inaugural speech, the southern wall contains an inscription of the Gettysburg address] </text>
          </inscription>
          <inscription pref="false" dataDate="2015-03-23-15-28-13">
-            <author refid="76349832" type="personal" vocab="viaf">Lincoln, Abraham</author>
+            <author refid="76349832" vocab="viaf">Lincoln, Abraham</author>
             <position>northern wall</position>
             <text href="http://www.bartleby.com/124/pres32.html" type="text">Fellow-Countrymen: 
   AT this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first. Then a statement somewhat in detail of a course to be pursued seemed fitting and proper. Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented. The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all. With high hope for the future, no prediction in regard to it is ventured.
@@ -83,7 +83,7 @@
   With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.</text>
          </inscription>
          <inscription pref="false" dataDate="2015-03-23-15-29-16">
-            <author refid="76349832" type="personal" vocab="viaf">Lincoln, Abraham</author>
+            <author refid="76349832" vocab="viaf">Lincoln, Abraham</author>
             <position>southern wall</position>
             <text href="http://en.wikipedia.org/wiki/Gettysburg_Address" type="text">Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
 Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
@@ -176,7 +176,6 @@ But, in a larger sense, we can not dedicate, we can not consecrate, we can not h
          <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture"
                       pref="false"
                       refid="300107956"
-                      type="styleperiods"
                       vocab="aat">American</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -226,9 +225,9 @@ But, in a larger sense, we can not dedicate, we can not consecrate, we can not h
          <title pref="true" type="creator">Lincoln Memorial</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300007031" vocab="aat"/>
-         <worktype pref="false" refid="300006956" vocab="aat"/>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
+         <worktype pref="false" refid="300007031" vocab="aat">historic monuments</worktype>
+         <worktype pref="false" refid="300006956" vocab="aat">memorials</worktype>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
       </worktypeSet>
    </work>
 </vra>

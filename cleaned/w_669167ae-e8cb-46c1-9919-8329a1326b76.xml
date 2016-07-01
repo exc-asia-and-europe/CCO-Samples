@@ -29,10 +29,10 @@
          <display dataDate="2015-11-26-16-44-28">1st century CE</display>
          <notes dataDate="2015-11-26-16-44-28"/>
          <date pref="false" dataDate="2015-11-26-16-44-28">
-            <earliestDate dataDate="2015-11-26-16-44-28">
+            <earliestDate>
                <date dataDate="2015-11-26-16-44-28">0001</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-26-16-44-28">
+            <latestDate>
                <date dataDate="2015-11-26-16-44-28">0099</date>
             </latestDate>
          </date>
@@ -60,10 +60,6 @@
          <location pref="false" type="repository" dataDate="2015-11-26-16-47-05">
             <refid type="accession" dataDate="2015-11-26-16-47-05">NLJ-MCOLL-M01</refid>
             <name refid="265208613" vocab="viaf" dataDate="2015-11-26-16-47-05">United States.</name>
-            <point dataDate="2015-11-26-16-47-05">
-               <lat dataDate="2015-11-26-16-47-05"/>
-               <long dataDate="2015-11-26-16-47-05"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

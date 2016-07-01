@@ -30,4 +30,12 @@
             <xsl:apply-templates select="*"/>
         </xsl:copy>
     </xsl:template>
+    
+    <xsl:template match="vra:relation[@relids = @href]">
+        <xsl:copy>
+            <xsl:copy-of select="@*[local-name() != 'href']"/>
+            <xsl:copy-of select="text()|comment()"/>
+            <xsl:apply-templates select="*"/>
+        </xsl:copy>
+    </xsl:template>
 </xsl:stylesheet>

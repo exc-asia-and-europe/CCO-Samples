@@ -152,7 +152,7 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_44_print_political_cartoon"
                     pref="false"
                     refid="300053271"
-                    vocab="aat"/>
+                    vocab="aat">lithography</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -169,11 +169,11 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_44_print_political_cartoon"
                    pref="false"
                    refid="300041273"
-                   vocab="aat"/>
+                   vocab="aat">prints</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_44_print_political_cartoon"
                    pref="false"
                    refid="300041379"
-                   vocab="aat"/>
+                   vocab="aat">lithographs</worktype>
       </worktypeSet>
    </work>
 </vra>

@@ -32,10 +32,10 @@
          <display dataDate="2015-11-26-14-03-18">during or immediately after the reign of Nebhepetre Mentuhotep </display>
          <notes dataDate="2015-11-26-14-03-18"/>
          <date pref="false" type="creation" dataDate="2015-11-26-14-03-18">
-            <earliestDate dataDate="2015-11-26-14-03-18">
+            <earliestDate>
                <date dataDate="2015-11-26-14-03-18">-2050</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-26-14-03-18">
+            <latestDate>
                <date dataDate="2015-11-26-14-03-18">-2000</date>
             </latestDate>
          </date>
@@ -83,10 +83,6 @@
          <location pref="false" type="repository" dataDate="2015-11-26-14-29-50">
             <refid type="accession" dataDate="2015-11-26-14-29-50">07.230.2</refid>
             <name refid="126238294" vocab="viaf" dataDate="2015-11-26-14-29-50">Metropolitan Museum of Art</name>
-            <point dataDate="2015-11-26-14-29-50">
-               <lat dataDate="2015-11-26-14-29-50"/>
-               <long dataDate="2015-11-26-14-29-50"/>
-            </point>
          </location>
          <location pref="false" type="creation" dataDate="2015-11-26-14-29-50">
             <refid dataDate="2015-11-26-14-29-50"/>
@@ -94,9 +90,9 @@
                   refid="7525427"
                   vocab="tgn"
                   dataDate="2015-11-26-14-29-50">Dayr al Baḩrī</name>
-            <point epsg="4326" dataDate="2015-11-26-14-29-50">
-               <lat dataDate="2015-11-26-14-29-50">25.738333</lat>
-               <long dataDate="2015-11-26-14-29-50">32.607778</long>
+            <point epsg="4326">
+               <lat>25.738333</lat>
+               <long>32.607778</long>
             </point>
          </location>
       </locationSet>

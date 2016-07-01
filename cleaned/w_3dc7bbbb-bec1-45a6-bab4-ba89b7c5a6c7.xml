@@ -156,8 +156,8 @@ Since the tomb of the princess was beside the pyramid of Senwosret, scholars spe
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300020315" type="styleperiods" vocab="aat">Middle Kingdom</stylePeriod>
-         <stylePeriod pref="false" refid="300020251" type="styleperiods" vocab="aat">Egyptian</stylePeriod>
+         <stylePeriod pref="false" refid="300020315" vocab="aat">Middle Kingdom</stylePeriod>
+         <stylePeriod pref="false" refid="300020251" vocab="aat">Egyptian</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -228,14 +228,14 @@ Since the tomb of the princess was beside the pyramid of Senwosret, scholars spe
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300053778" vocab="aat"/>
+         <technique pref="false" refid="300053778" vocab="aat">cloisonné</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="repository">Pectoral and Necklace of Sithathoryunet with the Name of Senwosret II</title>
       </titleSet>
       <worktypeSet>
          <worktype pref="false" refid="300211902" vocab="aat">pectorals</worktype>
-         <worktype pref="false" refid="300211360" vocab="aat"/>
+         <worktype pref="false" refid="300211360" vocab="aat">costume jewelry</worktype>
       </worktypeSet>
    </work>
 </vra>

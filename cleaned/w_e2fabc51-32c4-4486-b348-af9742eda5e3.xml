@@ -95,7 +95,7 @@
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021452" type="styleperiods" vocab="aat">Gothic Revival</stylePeriod>
+         <stylePeriod pref="false" refid="300021452" vocab="aat">Gothic Revival</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -147,9 +147,9 @@
          <title pref="false" type="descriptive">Westminster New Palace</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300005993" vocab="aat"/>
-         <worktype pref="false" refid="300006029" vocab="aat"/>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
+         <worktype pref="false" refid="300005993" vocab="aat">government office buildings</worktype>
+         <worktype pref="false" refid="300006029" vocab="aat">parliament buildings</worktype>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
       </worktypeSet>
    </work>
 </vra>

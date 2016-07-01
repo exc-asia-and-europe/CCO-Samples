@@ -15,9 +15,7 @@
             <role type="code" vocab="marcrelator">art</role>
          </agent>
          <agent pref="false" dataDate="2015-04-29-12-20-56">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="172163094" type="personal" vocab="viaf">Pinceloup de la Grange, Magdaleine</name>
             <role type="code" vocab="marcrelator">dpc</role>
          </agent>
@@ -64,7 +62,7 @@ With both hands, Magdaleine grasps a large gray-blue cat that bemusedly engages 
                       pref="false"
                       source="J. Paul Getty Museum"
                       dataDate="2016-04-19-13-45-18">
-            <author refid="24871247" type="personal" vocab="viaf">Perronneau, Jean Baptiste</author>
+            <author refid="24871247" vocab="viaf">Perronneau, Jean Baptiste</author>
             <position>center right</position>
             <text type="signature">1747/ Perroneau</text>
          </inscription>
@@ -121,7 +119,7 @@ With both hands, Magdaleine grasps a large gray-blue cat that bemusedly engages 
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021155" type="styleperiods" vocab="aat">Rococo</stylePeriod>
+         <stylePeriod pref="false" refid="300021155" vocab="aat">Rococo</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45"
@@ -150,7 +148,7 @@ With both hands, Magdaleine grasps a large gray-blue cat that bemusedly engages 
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-21-10-59-16">
@@ -167,7 +165,7 @@ With both hands, Magdaleine grasps a large gray-blue cat that bemusedly engages 
                 source="J. Paul Getty Museum">Portrait of Magdaleine Pinceloup de la Grange</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

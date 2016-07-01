@@ -67,7 +67,7 @@ In the central panel of the upper tier, the Virgin holds the Christ Child, who r
                       pref="false"
                       source="J. Paul Getty Museum"
                       dataDate="2016-04-12-14-22-53">
-            <author refid="98283530" type="personal" vocab="viaf">Vivarini, Bartolomeo</author>
+            <author refid="98283530" vocab="viaf">Vivarini, Bartolomeo</author>
             <position>below Saint James</position>
             <text lang="lat" script="Latn" type="signature">OPVS FACTVM.VENETIIS PER BARTHOLOMEVM VIVA/RINVM DE MVRIANO 1490</text>
          </inscription>
@@ -156,7 +156,7 @@ In the central panel of the upper tier, the Virgin holds the Christ Child, who r
          <technique pref="false"
                     refid="300178675"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">panel painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-12-13-38-52">
@@ -178,12 +178,12 @@ In the central panel of the upper tier, the Virgin holds the Christ Child, who r
          <worktype pref="false"
                    refid="300033656"
                    vocab="aat"
-                   source="Simon Gruening"/>
+                   source="Simon Gruening">panel paintings</worktype>
          <worktype href="http://www.getty.edu/art/collection/objects/584/bartolomeo-vivarini-polyptych-with-saint-james-major-madonna-and-child-and-saints-italian-1490/?dz=0.5000,0.4072,0.77"
                    pref="false"
                    refid="300033618"
                    vocab="aat"
-                   source="J. Paul Getty Museum"/>
+                   source="J. Paul Getty Museum">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

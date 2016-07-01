@@ -114,7 +114,6 @@ The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and 
          <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
                       pref="false"
                       refid="300172863"
-                      type="styleperiods"
                       vocab="aat">Romantic</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -178,7 +177,7 @@ The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and 
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
                     pref="false"
                     refid="300182748"
-                    vocab="aat"/>
+                    vocab="aat">wash technique</technique>
       </techniqueSet>
       <titleSet>
          <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
@@ -189,11 +188,11 @@ The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and 
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
                    pref="false"
                    refid="300033973"
-                   vocab="aat"/>
+                   vocab="aat">drawings</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british"
                    pref="true"
                    refid="300078925"
-                   vocab="aat"/>
+                   vocab="aat">watercolors</worktype>
       </worktypeSet>
    </work>
 </vra>

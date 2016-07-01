@@ -36,10 +36,10 @@
                type="creation"
                source="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/"
                dataDate="2015-11-16-15-37-29">
-            <earliestDate dataDate="2015-11-16-13-49-25">
+            <earliestDate>
                <date type="uncertain" dataDate="2015-11-16-14-31-55">125</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-16-13-49-25">
+            <latestDate>
                <date type="uncertain" dataDate="2015-11-16-14-31-55">125</date>
             </latestDate>
          </date>
@@ -47,10 +47,10 @@
                type="creation"
                source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_72_roman_sculpture"
                dataDate="2015-11-16-13-49-25">
-            <earliestDate dataDate="2015-11-16-13-49-25">
+            <earliestDate>
                <date type="about" dataDate="2015-11-16-13-49-25">0130</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-16-13-49-25">
+            <latestDate>
                <date type="about" dataDate="2015-11-16-13-49-25">0140</date>
             </latestDate>
          </date>
@@ -97,10 +97,6 @@ The Lansdowne Herakles very likely was inspired by a lost Greek statue, probably
                    dataDate="2015-11-16-13-55-11">
             <refid type="accession" dataDate="2015-11-16-13-55-11">70.AA.109</refid>
             <name refid="147804499" vocab="viaf" dataDate="2015-11-16-13-55-11">J. Paul Getty Museum</name>
-            <point dataDate="2015-11-16-13-55-11">
-               <lat dataDate="2015-11-16-13-55-11"/>
-               <long dataDate="2015-11-16-13-55-11"/>
-            </point>
          </location>
          <location pref="false"
                    type="discovery"
@@ -111,10 +107,6 @@ The Lansdowne Herakles very likely was inspired by a lost Greek statue, probably
                   type="geographic"
                   vocab="viaf"
                   dataDate="2015-11-16-13-55-11">Hadrian's Villa (Tivoli, Itálie)</name>
-            <point dataDate="2015-11-16-13-55-11">
-               <lat dataDate="2015-11-16-13-55-11"/>
-               <long dataDate="2015-11-16-13-55-11"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

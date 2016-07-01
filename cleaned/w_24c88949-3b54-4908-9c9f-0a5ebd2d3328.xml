@@ -160,7 +160,7 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054608" vocab="aat"/>
+         <technique pref="false" refid="300054608" vocab="aat">construction</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-03-17-17-18-44">
@@ -172,8 +172,8 @@
          <title pref="false" type="owner">North Christian Church</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300007466" vocab="aat"/>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
+         <worktype pref="false" refid="300007466" vocab="aat">churches</worktype>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
       </worktypeSet>
    </work>
 </vra>

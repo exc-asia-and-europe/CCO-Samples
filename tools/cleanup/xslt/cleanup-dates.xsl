@@ -18,6 +18,22 @@
          </xsl:copy>
     </xsl:template>
     
+    <xsl:template match="vra:dateSet/vra:date/vra:earliestDate[@dataDate]|vra:dateSet/vra:date/vra:latestDate[@dataDate]" priority="100">
+        <xsl:copy>
+            <xsl:copy-of select="@*[local-name() != 'dataDate']"/> 
+            <xsl:copy-of select="text()|comment()"/>
+            <xsl:apply-templates select="*"/>
+        </xsl:copy>
+    </xsl:template>
+    
+    <xsl:template match="vra:point[@dataDate]|vra:lat[@dataDate]|vra:long[@dataDate]" priority="100">
+        <xsl:copy>
+            <xsl:copy-of select="@*[local-name() != 'dataDate']"/> 
+            <xsl:copy-of select="text()|comment()"/>
+            <xsl:apply-templates select="*"/>
+        </xsl:copy>
+    </xsl:template>
+    
     <xsl:template match="vra:date[@circa]" priority="100">
          <xsl:copy>
             <xsl:copy-of select="@*[local-name() != 'circa'][local-name() != 'dataDate']"/>
@@ -50,6 +66,9 @@
             <xsl:apply-templates select="*"/>
          </xsl:copy>
     </xsl:template>
+    
+   
+    
     
     <xsl:template match="*[@dataDate]">
         <xsl:copy>

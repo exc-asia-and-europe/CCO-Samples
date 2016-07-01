@@ -23,10 +23,10 @@
          <display dataDate="2015-11-16-10-47-50"/>
          <notes dataDate="2015-11-16-10-47-50"/>
          <date pref="false" type="other" dataDate="2015-11-16-10-47-50">
-            <earliestDate dataDate="2015-11-16-10-47-50">
+            <earliestDate>
                <date dataDate="2015-11-16-10-47-50">2015-03-16</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-16-10-47-50">
+            <latestDate>
                <date dataDate="2015-11-16-10-47-50">2015-03-16</date>
             </latestDate>
          </date>

@@ -71,10 +71,10 @@
                type="creation"
                source="http://www.metmuseum.org/collection/the-collection-online/search/1674"
                dataDate="2015-11-18-12-55-05">
-            <earliestDate dataDate="2015-11-18-12-55-05">
+            <earliestDate>
                <date dataDate="2015-11-18-12-55-05">1794</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-18-12-55-05">
+            <latestDate>
                <date dataDate="2015-11-18-12-55-05">1799</date>
             </latestDate>
          </date>
@@ -83,10 +83,10 @@
                type="other"
                source="http://www.metmuseum.org/collection/the-collection-online/search/1674"
                dataDate="2015-11-18-12-45-34">
-            <earliestDate dataDate="2015-11-18-12-45-34">
+            <earliestDate>
                <date dataDate="2015-11-18-12-45-34">1962</date>
             </earliestDate>
-            <latestDate dataDate="2015-11-18-12-45-34">
+            <latestDate>
                <date dataDate="2015-11-18-12-45-34">1962</date>
             </latestDate>
          </date>
@@ -121,10 +121,6 @@
                   type="corporate"
                   vocab="viaf"
                   dataDate="2015-11-18-12-52-20">Metropolitan Museum of Art</name>
-            <point dataDate="2015-11-18-12-52-20">
-               <lat dataDate="2015-11-18-12-52-20"/>
-               <long dataDate="2015-11-18-12-52-20"/>
-            </point>
          </location>
          <location pref="false"
                    type="creation"
@@ -135,10 +131,6 @@
                   type="geographic"
                   vocab="tgn"
                   dataDate="2015-11-18-12-52-20">Salem</name>
-            <point dataDate="2015-11-18-12-52-20">
-               <lat dataDate="2015-11-18-12-52-20"/>
-               <long dataDate="2015-11-18-12-52-20"/>
-            </point>
          </location>
       </locationSet>
       <materialSet>

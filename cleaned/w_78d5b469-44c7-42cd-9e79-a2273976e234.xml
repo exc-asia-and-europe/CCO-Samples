@@ -7,15 +7,12 @@
          source="Kurs">
       <agentSet>
          <agent pref="true" dataDate="2015-05-06-12-41-23">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
             <role type="code" vocab="marcrelator">art</role>
          </agent>
          <agent pref="false">
             <dates type="life">
-               <earliestDate circa="false"/>
                <latestDate circa="false">330 B.C.</latestDate>
             </dates>
             <name refid="231805730" type="personal" vocab="viaf">Darius</name>
@@ -138,14 +135,14 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300138684" vocab="aat"/>
+         <technique pref="false" refid="300138684" vocab="aat">mosaic</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="descriptive">Alexander the Great Defeating the Persian King Darius</title>
       </titleSet>
       <worktypeSet>
          <worktype pref="false" refid="300378995" vocab="aat">architectural ornament</worktype>
-         <worktype pref="true" refid="300015342" vocab="aat"/>
+         <worktype pref="true" refid="300015342" vocab="aat">mosaics</worktype>
       </worktypeSet>
    </work>
 </vra>

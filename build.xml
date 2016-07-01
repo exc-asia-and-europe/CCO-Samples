@@ -13,7 +13,7 @@
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath refid="transform.class.path"/>
         </xslt>
-    </target>
+    </target>       
     
     <target name="xslt-type-cleanup">
         <mkdir dir="target/type"/>
@@ -80,10 +80,51 @@
         </xslt>
     </target>
     
-    <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup, xslt-source-cleanup, xslt-sort-cleanup, xslt-dates-cleanup, xslt-sets-cleanup">
+    <target name="xslt-empty-cleanup">
+        <mkdir dir="target/empty"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-empty.xsl"
+              destDir="target/empty"
+              force="yes"
+              basedir="${basedir}/target/sets"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+   
+    
+     <target name="xslt-basic-second-cleanup">
+        <mkdir dir="target/basic-second"/>
+    
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-basic.xsl"
+              destDir="target/basic-second"
+              force="yes"
+              basedir="${basedir}/target/empty"
+            extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+     <target name="xslt-mark">
+        <mkdir dir="target/mark"/>
+        
+        <xslt style="${basedir}/tools/cleanup/xslt/cleanup-mark-elements.xsl"
+              destDir="target/mark"
+              force="yes"
+              basedir="${basedir}/target/basic-second"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup, xslt-source-cleanup, xslt-sort-cleanup, xslt-dates-cleanup, xslt-sets-cleanup, xslt-empty-cleanup, xslt-basic-second-cleanup, xslt-mark">
         <mkdir dir="cleaned"/>
         <move toDir="${basedir}/cleaned">
-            <fileset dir="${basedir}/target/dates">
+            <fileset dir="${basedir}/target/mark">
                 <include name="**/*.xml"/>
             </fileset>
         </move>

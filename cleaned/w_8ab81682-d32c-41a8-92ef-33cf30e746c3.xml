@@ -10,9 +10,7 @@
                 source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print"
                 dataDate="2015-11-12-12-41-14">
             <culture>Native American, Chiricahua Apache</culture>
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="265305577" type="personal" vocab="viaf">Naiche</name>
             <role type="code" vocab="marcrelator">dpc</role>
          </agent>
@@ -20,9 +18,7 @@
                 source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print"
                 dataDate="2015-11-12-12-24-26">
             <culture>American</culture>
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="138284977" type="personal" vocab="viaf">Randall, A. F.</name>
             <role type="code" vocab="marcrelator">pht</role>
          </agent>
@@ -122,11 +118,11 @@
          <technique pref="false"
                     refid="300240276"
                     vocab="aat"
-                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print"/>
+                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print">photographic printing techniques</technique>
          <technique pref="false"
                     refid="300133274"
                     vocab="aat"
-                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print"/>
+                    source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print">albumen process</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false"
@@ -138,11 +134,11 @@
          <worktype pref="false"
                    refid="300046300"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print">photographs</worktype>
          <worktype pref="false"
                    refid="300127121"
                    vocab="aat"
-                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print"/>
+                   source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_53_photograph_albumen_print">albumen prints</worktype>
       </worktypeSet>
    </work>
 </vra>

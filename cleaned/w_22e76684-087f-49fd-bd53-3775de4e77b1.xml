@@ -157,7 +157,6 @@
       <relationSet>
          <relation href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_38_design_drawing"
                    pref="false"
-                   relids="d1"
                    type="depicts"
                    source="CCO">The White House</relation>
          <relation pref="true"
@@ -179,7 +178,6 @@
          <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_38_design_drawing"
                       pref="false"
                       refid="300107956"
-                      type="styleperiods"
                       vocab="aat">American</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -212,7 +210,7 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_38_design_drawing"
                     pref="false"
                     refid="300054196"
-                    vocab="aat"/>
+                    vocab="aat">drawing</technique>
       </techniqueSet>
       <titleSet>
          <title href="https://www.loc.gov/item/2001698953/"
@@ -232,11 +230,11 @@
          <worktype href="https://www.loc.gov/item/2001698953/"
                    pref="false"
                    refid="300034787"
-                   vocab="aat"/>
+                   vocab="aat">architectural drawings</worktype>
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_38_design_drawing"
                    pref="false"
                    refid="300069413"
-                   vocab="aat"/>
+                   vocab="aat">design drawings</worktype>
       </worktypeSet>
    </work>
 </vra>

@@ -74,7 +74,7 @@ Sadness fills my thoughts.
                       pref="false"
                       source="The Metropolitan Museum of Art"
                       dataDate="2015-05-04-11-53-54">
-            <author refid="95891668" type="personal" vocab="viaf">Ogata, Kōrin</author>
+            <author refid="95891668" vocab="viaf">Ogata, Kōrin</author>
             <position>right screen</position>
             <text type="signature">Seisei Kōrin</text>
          </inscription>
@@ -82,7 +82,7 @@ Sadness fills my thoughts.
                       pref="false"
                       source="The Metropolitan Museum of Art"
                       dataDate="2015-05-04-11-22-21">
-            <author refid="95891668" type="personal" vocab="viaf">Ogata, Kōrin</author>
+            <author refid="95891668" vocab="viaf">Ogata, Kōrin</author>
             <position>left screen</position>
             <text type="signature">Hokkyō Kōrin</text>
          </inscription>
@@ -179,7 +179,7 @@ Sadness fills my thoughts.
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="true" refid="300106643" type="styleperiods" vocab="aat">Edo</stylePeriod>
+         <stylePeriod pref="true" refid="300106643" vocab="aat">Edo</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -217,7 +217,7 @@ Sadness fills my thoughts.
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300264863" vocab="aat"/>
+         <technique pref="false" refid="300264863" vocab="aat">tarashikomi</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2015-05-04-11-51-24">
@@ -236,12 +236,12 @@ Sadness fills my thoughts.
          <title pref="false" type="translated">Eight-Planked Bridge (Yatsuhashi)</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
-         <worktype pref="false" refid="300037737" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
+         <worktype pref="false" refid="300037737" vocab="aat">screens</worktype>
          <worktype pref="true"
                    refid="300265156"
                    vocab="aat"
-                   source="Simon Gruening"/>
+                   source="Simon Gruening">folding screens</worktype>
       </worktypeSet>
    </work>
 </vra>

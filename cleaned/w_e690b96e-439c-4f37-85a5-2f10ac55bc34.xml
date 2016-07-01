@@ -69,14 +69,14 @@ The verso sketches on the Metropolitan Museum sheet have always rightly been rec
                       pref="false"
                       source="The Metropolitan Museum of Art. The Collection Online."
                       dataDate="2016-04-28-17-20-48">
-            <author refid="24585191" type="personal" vocab="viaf">Michelangelo Buonarroti</author>
+            <author refid="24585191" vocab="viaf">Michelangelo Buonarroti</author>
             <position>recto, lower left</position>
             <text extent="annotated in pen and light brown ink" type="signature">di Michel Angelo bona Roti</text>
          </inscription>
          <inscription href="http://www.metmuseum.org/collection/the-collection-online/search/337497"
                       pref="false"
                       source="The Metropolitan Museum of Art. The Collection Online.">
-            <author refid="24585191" type="personal" vocab="viaf">Michelangelo Buonarroti</author>
+            <author refid="24585191" vocab="viaf">Michelangelo Buonarroti</author>
             <position>recto, upper right</position>
             <text type="text">58</text>
          </inscription>
@@ -166,11 +166,7 @@ The verso sketches on the Metropolitan Museum sheet have always rightly been rec
                        source="The Metropolitan Museum of Art. The Collection Online">8 7/16</measurements>
       </measurementsSet>
       <relationSet>
-         <relation href="700000224"
-                   pref="false"
-                   relids="700000224"
-                   type="studyFor"
-                   source="CONA">Capella Sistina</relation>
+         <relation pref="false" relids="700000224" source="CONA" type="studyFor">Capella Sistina</relation>
          <relation pref="true"
                    relids="i_b0de51b5-5134-4295-9572-294fd41c659c"
                    type="imageIs"
@@ -191,7 +187,7 @@ The verso sketches on the Metropolitan Museum sheet have always rightly been rec
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021140" type="styleperiods" vocab="aat">Renaissance</stylePeriod>
+         <stylePeriod pref="false" refid="300021140" vocab="aat">Renaissance</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -219,7 +215,7 @@ The verso sketches on the Metropolitan Museum sheet have always rightly been rec
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300054196" vocab="aat"/>
+         <technique pref="false" refid="300054196" vocab="aat">drawing</technique>
       </techniqueSet>
       <textrefSet>
          <textref href="http://www.metmuseum.org/collection/the-collection-online/search/337497"
@@ -254,7 +250,7 @@ The verso sketches on the Metropolitan Museum sheet have always rightly been rec
          <title pref="true" type="descriptive">Studies for the Libyan Sibyl (recto); Studies for the Libyan Sibyl and a small Sketch for a Seated Figure (verso)</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="true" refid="300033973" vocab="aat"/>
+         <worktype pref="true" refid="300033973" vocab="aat">drawings</worktype>
          <worktype pref="false" refid="300081053" vocab="aat">studies</worktype>
       </worktypeSet>
    </work>

@@ -94,7 +94,7 @@
       </sourceSet>
       <stylePeriodSet>
          <stylePeriod pref="false" refid="300264736" vocab="aat">Modern</stylePeriod>
-         <stylePeriod pref="false" refid="300018208" type="styleperiods" vocab="aat">Prairie School</stylePeriod>
+         <stylePeriod pref="false" refid="300018208" vocab="aat">Prairie School</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -123,7 +123,7 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300111619" vocab="aat"/>
+         <technique pref="false" refid="300111619" vocab="aat">frame construction</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-03-17-16-37-04">
@@ -137,7 +137,7 @@
       </titleSet>
       <worktypeSet>
          <worktype pref="false" refid="300005433" vocab="aat">houses</worktype>
-         <worktype pref="false" refid="300263552" vocab="aat"/>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
       </worktypeSet>
    </work>
 </vra>

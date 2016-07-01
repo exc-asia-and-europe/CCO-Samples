@@ -55,7 +55,7 @@ After beginning outdoors, Monet reworked each painting in his studio to create t
                       pref="false"
                       source="J. Paul Getty Museum"
                       dataDate="2016-04-26-09-08-32">
-            <author refid="24605513" type="personal" vocab="viaf">Monet, Claude</author>
+            <author refid="24605513" vocab="viaf">Monet, Claude</author>
             <position>lower left</position>
             <text type="signature">Claude Monet 91</text>
          </inscription>
@@ -118,7 +118,7 @@ After beginning outdoors, Monet reworked each painting in his studio to create t
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021503" type="styleperiods" vocab="aat">Impressionist</stylePeriod>
+         <stylePeriod pref="false" refid="300021503" vocab="aat">Impressionist</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -145,7 +145,7 @@ After beginning outdoors, Monet reworked each painting in his studio to create t
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-26-09-43-10">
@@ -158,11 +158,11 @@ After beginning outdoors, Monet reworked each painting in his studio to create t
          <title pref="true" type="repository">Wheatstacks, Snow Effect, Morning</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
          <worktype pref="false"
                    refid="300015636"
                    vocab="aat"
-                   source="Simon Gruening"/>
+                   source="Simon Gruening">landscapes</worktype>
       </worktypeSet>
    </work>
 </vra>

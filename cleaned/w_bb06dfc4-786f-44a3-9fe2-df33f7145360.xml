@@ -148,7 +148,7 @@ J. Paul Getty Museum online. www.getty.edu Page: accessed 15 October 2006.]</tex
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-21-11-00-43">
@@ -161,7 +161,7 @@ J. Paul Getty Museum online. www.getty.edu Page: accessed 15 October 2006.]</tex
          <title pref="false" type="former">Portrait of Cosimo I de’Medici</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

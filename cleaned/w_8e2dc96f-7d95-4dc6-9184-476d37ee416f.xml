@@ -15,9 +15,7 @@
             <role type="code" vocab="marcrelator">art</role>
          </agent>
          <agent pref="false">
-            <dates type="life">
-               <earliestDate circa="false"/>
-            </dates>
+            <dates type="life"/>
             <name refid="305192204" type="personal" vocab="viaf">Pinceloup de la Grange, Charles-François</name>
             <role type="code" vocab="marcrelator">dpc</role>
          </agent>
@@ -45,7 +43,7 @@ The portrait was painted near the outset of Jean-Baptiste Perronneau's career. P
       </descriptionSet>
       <inscriptionSet>
          <inscription pref="false" dataDate="2015-04-29-12-51-55">
-            <author refid="24871247" type="personal" vocab="viaf">Perronneau, Jean Baptiste</author>
+            <author refid="24871247" vocab="viaf">Perronneau, Jean Baptiste</author>
             <position>center right</position>
             <text type="signature">Perroneau / 1747</text>
          </inscription>
@@ -82,7 +80,7 @@ The portrait was painted near the outset of Jean-Baptiste Perronneau's career. P
          </source>
       </sourceSet>
       <stylePeriodSet>
-         <stylePeriod pref="false" refid="300021155" type="styleperiods" vocab="aat">Rococo</stylePeriod>
+         <stylePeriod pref="false" refid="300021155" vocab="aat">Rococo</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
          <subject pref="false"
@@ -105,15 +103,15 @@ The portrait was painted near the outset of Jean-Baptiste Perronneau's career. P
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300178684" vocab="aat"/>
+         <technique pref="false" refid="300178684" vocab="aat">oil painting</technique>
       </techniqueSet>
       <titleSet>
          <title pref="true" type="repository">Charles-François Pinceloup de la Grange</title>
          <title extent="Display title" pref="false" type="repository">Portrait of Charles-François Pinceloup de la Grange</title>
       </titleSet>
       <worktypeSet>
-         <worktype pref="false" refid="300033799" vocab="aat"/>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+         <worktype pref="false" refid="300033799" vocab="aat">oil paintings</worktype>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

@@ -55,7 +55,7 @@ The painting created a sensation among many British viewers who had never seen s
                       pref="false"
                       source="National Gallery of Art Washington"
                       dataDate="2016-04-21-11-50-19">
-            <author refid="283830" type="personal" vocab="viaf">Cropsey, Jasper Francis</author>
+            <author refid="283830" vocab="viaf">Cropsey, Jasper Francis</author>
             <position>lower center</position>
             <text type="signature">Autumn, -on the Hudson River / J. F Cropsey / London 1860</text>
          </inscription>
@@ -188,7 +188,7 @@ The painting created a sensation among many British viewers who had never seen s
          <technique pref="false"
                     refid="300178684"
                     vocab="aat"
-                    source="Simon Gruening"/>
+                    source="Simon Gruening">oil painting</technique>
       </techniqueSet>
       <textrefSet>
          <textref pref="false" dataDate="2016-04-21-11-34-52">
@@ -203,12 +203,12 @@ The painting created a sensation among many British viewers who had never seen s
          <worktype pref="false"
                    refid="300015636"
                    vocab="aat"
-                   source="Simon Gruening"/>
+                   source="Simon Gruening">landscapes</worktype>
          <worktype pref="false"
                    refid="300033799"
                    vocab="aat"
-                   source="Simon Gruening"/>
-         <worktype pref="false" refid="300033618" vocab="aat"/>
+                   source="Simon Gruening">oil paintings</worktype>
+         <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
       </worktypeSet>
    </work>
 </vra>

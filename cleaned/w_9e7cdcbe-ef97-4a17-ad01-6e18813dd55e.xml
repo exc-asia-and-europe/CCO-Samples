@@ -176,7 +176,7 @@
          </subject>
       </subjectSet>
       <techniqueSet>
-         <technique pref="false" refid="300133274" vocab="aat"/>
+         <technique pref="false" refid="300133274" vocab="aat">albumen process</technique>
       </techniqueSet>
       <titleSet>
          <title pref="false" type="creator">Lincoln on the Battlefield of Antietam, Maryland</title>
@@ -186,15 +186,15 @@
          <worktype pref="false"
                    refid="300041273"
                    vocab="aat"
-                   source="Simon Gruening"/>
+                   source="Simon Gruening">prints</worktype>
          <worktype pref="false"
                    refid="300127121"
                    vocab="aat"
-                   source="Baca: Cataloging Cultural Objects"/>
+                   source="Baca: Cataloging Cultural Objects">albumen prints</worktype>
          <worktype pref="false"
                    refid="300046300"
                    vocab="aat"
-                   source="J. Paul Getty Museum"/>
+                   source="J. Paul Getty Museum">photographs</worktype>
       </worktypeSet>
    </work>
 </vra>

@@ -131,7 +131,7 @@
                        unit="ft">1' 7''</measurements>
       </measurementsSet>
       <relationSet>
-         <relation pref="false" relids="d1" type="depicts">San Lorenzo, Florence, Italy</relation>
+         <relation pref="false" type="depicts">San Lorenzo, Florence, Italy</relation>
          <relation pref="true"
                    relids="i_f6b91f1a-332e-49c9-b9ad-b7bd2470a632"
                    type="imageIs"
@@ -141,7 +141,6 @@
          <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model"
                       pref="false"
                       refid="300021140"
-                      type="styleperiods"
                       vocab="aat">Renaissance</stylePeriod>
       </stylePeriodSet>
       <subjectSet>
@@ -171,7 +170,7 @@
          <technique href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model"
                     pref="false"
                     refid="300054083"
-                    vocab="aat"/>
+                    vocab="aat">woodworking</technique>
       </techniqueSet>
       <titleSet>
          <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model"
@@ -183,7 +182,7 @@
          <worktype href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model"
                    pref="false"
                    refid="300047753"
-                   vocab="aat"/>
+                   vocab="aat">models</worktype>
       </worktypeSet>
    </work>
 </vra>

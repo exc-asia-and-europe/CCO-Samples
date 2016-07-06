@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_a9c90825-8739-45cd-a383-86bd4b5b6aba" source="Kurs" refid="c_fba53cee-750d-4ba6-b8ec-75b48afd7602">
+        <agentSet>
+            <agent pref="true" dataDate="2016-03-17-10-10-03">
+                <name refid="131137808" type="corporate" vocab="viaf">Carrozzeria Pininfarina</name>
+                <role type="code" vocab="marcrelator">dsr</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext pref="false" source="AAT 300111198">Italian (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date pref="false" type="design">
+                <earliestDate>
+                    <date>1946</date>
+                </earliestDate>
+            </date>
+            <date extent="manufactured" pref="false" type="other" dataDate="2016-03-17-10-12-11">
+                <earliestDate>
+                    <date>1948</date>
+                </earliestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" dataDate="2016-03-17-10-30-42">
+                <text>he Pininfarina company takes its name from “Pinin,” the nickname of its founder, Battista Farina. The two-seater Cisitalia “202” GT was an aesthetic and technical achievement that transformed postwar automobile body design. Building on aerodynamic studies developed for racing cars, the Cisitalia offers one of the most accomplished examples of coachwork (the automobile’s body) conceived as a single shell. The body was basically handcrafted, with its aluminum panels shaped over wooden forms. Because of this time-consuming process, only 170 models were produced between 1947 and 1952.
+[Museum of Modern Art online. www.moma.org (accessed 10 February 2004)]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="false" type="creation" dataDate="2016-03-17-10-21-26">
+                <name refid="7005688" type="geographic" vocab="tgn">Torino</name>
+            </location>
+            <location pref="false" type="repository" dataDate="2016-03-17-10-20-35">
+                <refid href="http://www.moma.org/collection/works/3498?locale=en" source="Musem of Modern Art" type="accession">409.1972</refid>
+                <name refid="268692973" type="corporate" vocab="viaf">Museum of modern art (New York, N.Y.)</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material pref="false" refid="300011019" type="medium" vocab="aat">chromium</material>
+            <material pref="false" refid="300011015" type="medium" vocab="aat">aluminum</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.moma.org/collection/works/3498?locale=en" pref="false" source="Museum of Modern Art, NY" type="height" unit="cm">124.5</measurements>
+            <measurements href="http://www.moma.org/collection/works/3498?locale=en" pref="false" source="Museum of Modern Art, NY" type="width" unit="cm">146.4</measurements>
+            <measurements href="http://www.moma.org/collection/works/3498?locale=en" pref="false" source="Museum of Modern Art, NY" type="length" unit="cm">401.3</measurements>
+            <measurements href="http://www.moma.org/collection/works/3498?locale=en" pref="false" source="Museum of Modern Art, NY" type="height" unit="in">49</measurements>
+            <measurements href="http://www.moma.org/collection/works/3498?locale=en" pref="false" source="Museum of Modern Art, NY" type="width" unit="in">57 5/8</measurements>
+            <measurements href="http://www.moma.org/collection/works/3498?locale=en" pref="false" source="Museum of Modern Art, NY" type="length" unit="in">158</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_0ce55aa4-f14b-4ca9-922b-34d796803b00" source="Tamboti" pref="true">general view</relation>
+        </relationSet>
+        <subjectSet>
+            <subject pref="false" refid="300055244" vocab="aat" dataDate="2016-03-17-10-17-33">
+                <term type="conceptTopic">transportation</term>
+            </subject>
+            <subject pref="false" refid="300343750" vocab="aat">
+                <term type="conceptTopic">locomotion</term>
+            </subject>
+            <subject pref="false" refid="300343751" vocab="aat">
+                <term type="descriptiveTopic">automotive design</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title pref="false" type="brandName">Cisitalia “202” GT Car</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300219258" vocab="aat">vehicles</worktype>
+            <worktype pref="false" refid="300178739" vocab="aat">automobiles</worktype>
+        </worktypeSet>
+    </work>
+</vra>

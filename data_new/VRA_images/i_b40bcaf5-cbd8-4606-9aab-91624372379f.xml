@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_b40bcaf5-cbd8-4606-9aab-91624372379f" source="Tamboti" href="i_b40bcaf5-cbd8-4606-9aab-91624372379f.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-04-26-09-12-47">
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_1b0f662c-4e28-4469-9dce-429efbb2a2bd" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-05-04-09-29-34">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/</refid>
+                <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_014--cco_fig039-1.jpg</title>
+        </titleSet>
+    </image>
+</vra>

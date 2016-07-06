@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_e0d67090-5df9-408a-abf0-5befb69b83b2" source="Kurs" refid="c_47a20164-89e3-41ae-afed-b1a1cf35cab6">
+        <agentSet>
+            <agent pref="false" dataDate="2016-03-17-14-23-16">
+                <dates type="life">
+                    <earliestDate circa="false">1809</earliestDate>
+                    <latestDate circa="false">1865</latestDate>
+                </dates>
+                <name refid="76349832" type="personal" vocab="viaf">Lincoln, Abraham</name>
+                <role type="code" vocab="marcrelator">dpc</role>
+            </agent>
+            <agent pref="true" dataDate="2015-03-23-15-14-50">
+                <dates type="life">
+                    <earliestDate circa="false">1866</earliestDate>
+                    <latestDate circa="false">1924</latestDate>
+                </dates>
+                <name refid="68810776" source="viaf" type="personal" vocab="viaf">Bacon, Henry</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false">
+                <dates type="life">
+                    <earliestDate circa="false">1850</earliestDate>
+                    <latestDate circa="false">1931</latestDate>
+                </dates>
+                <name refid="62442940" source="viaf" type="personal" vocab="viaf">French, Daniel Chester</name>
+                <role type="code" vocab="marcrelator">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext pref="false" source="AAT 300107956">American (North American)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date extent="construction" pref="true" type="creation" dataDate="2016-03-17-14-47-09">
+                <earliestDate>
+                    <date>1914</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1922</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="design" dataDate="2015-03-23-14-46-31">
+                <earliestDate>
+                    <date>1911</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1912</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" dataDate="2016-03-17-13-39-51">
+                <text>Design was chosen by competition. The chosen design was influenced by the Greek Parthenon. Built into the design are symbols of the Union like the 36 exterior Doric columns representing the 36 states in the Union at the time of Lincoln’s death.
+[Description Source: Mall in Washington, 1791-1991. Edited by Richard Longstreth. Hanover and London: University Press of New England, 1991.]</text>
+                <author>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" pref="true" source="CCO Commons" dataDate="2015-11-26-12-22-38">
+                <position>inscribed above the statue</position>
+                <text type="text">IN THIS TEMPLE / AS IN THE HEARTS OF THE PEOPLE / FOR WHOM HE SAVED THE UNION / THE MEMORY OF ABRAHAM LINCOLN / IS ENSHRINED FOREVER; [the northern wall contains an inscription of Lincoln’s second inaugural speech, the southern wall contains an inscription of the Gettysburg address] </text>
+            </inscription>
+            <inscription pref="false" dataDate="2015-03-23-15-28-13">
+                <author refid="76349832" source="viaf" vocab="viaf">Lincoln, Abraham</author>
+                <position>northern wall</position>
+                <text href="http://www.bartleby.com/124/pres32.html" type="text">Fellow-Countrymen: 
+  AT this second appearing to take the oath of the Presidential office there is less occasion for an extended address than there was at the first. Then a statement somewhat in detail of a course to be pursued seemed fitting and proper. Now, at the expiration of four years, during which public declarations have been constantly called forth on every point and phase of the great contest which still absorbs the attention and engrosses the energies of the nation, little that is new could be presented. The progress of our arms, upon which all else chiefly depends, is as well known to the public as to myself, and it is, I trust, reasonably satisfactory and encouraging to all. With high hope for the future, no prediction in regard to it is ventured.
+  On the occasion corresponding to this four years ago all thoughts were anxiously directed to an impending civil war. All dreaded it, all sought to avert it. While the inaugural address was being delivered from this place, devoted altogether to saving the Union without war, insurgent agents were in the city seeking to destroy it without war—seeking to dissolve the Union and divide effects by negotiation. Both parties deprecated war, but one of them would make war rather than let the nation survive, and the other would accept war rather than let it perish, and the war came.
+  One-eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the southern part of it. These slaves constituted a peculiar and powerful interest. All knew that this interest was somehow the cause of the war. To strengthen, perpetuate, and extend this interest was the object for which the insurgents would rend the Union even by war, while the Government claimed no right to do more than to restrict the territorial enlargement of it. Neither party expected for the war the magnitude or the duration which it has already attained. Neither anticipated that the cause of the conflict might cease with or even before the conflict itself should cease. Each looked for an easier triumph, and a result less fundamental and astounding. Both read the same Bible and pray to the same God, and each invokes His aid against the other. It may seem strange that any men should dare to ask a just God's assistance in wringing their bread from the sweat of other men's faces, but let us judge not, that we be not judged. The prayers of both could not be answered. That of neither has been answered fully. The Almighty has His own purposes. "Woe unto the world because of offenses; for it must needs be that offenses come, but woe to that man by whom the offense cometh." If we shall suppose that American slavery is one of those offenses which, in the providence of God, must needs come, but which, having continued through His appointed time, He now wills to remove, and that He gives to both North and South this terrible war as the woe due to those by whom the offense came, shall we discern therein any departure from those divine attributes which the believers in a living God always ascribe to Him? Fondly do we hope, fervently do we pray, that this mighty scourge of war may speedily pass away. Yet, if God wills that it continue until all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil shall be sunk, and until every drop of blood drawn with the lash shall be paid by another drawn with the sword, as was said three thousand years ago, so still it must be said "the judgments of the Lord are true and righteous altogether."
+  With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan, to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.</text>
+            </inscription>
+            <inscription pref="false" dataDate="2015-03-23-15-29-16">
+                <author refid="76349832" source="viaf" vocab="viaf">Lincoln, Abraham</author>
+                <position>southern wall</position>
+                <text href="http://en.wikipedia.org/wiki/Gettysburg_Address" type="text">Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
+But, in a larger sense, we can not dedicate, we can not consecrate, we can not hallow this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion—that we here highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="false" type="site" dataDate="2016-02-11-12-37-34">
+                <name refid="7013962" type="geographic" vocab="tgn">Washington</name>
+                <point epsg="4326">
+                    <lat>38.889244</lat>
+                    <long>-77.050208</long>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material extent="statue" pref="false" refid="300380382" type="medium" vocab="aat">Georgia marble</material>
+            <material extent="pedestal and platform for statue" pref="false" refid="300011611" type="medium" vocab="aat">Tennessee marble</material>
+            <material extent="ceiling's marble saturated with paraffin for translucency" pref="false" refid="300183861" type="medium" vocab="aat">paraffin oil</material>
+            <material extent="ceiling" pref="false" refid="300011573" type="medium" vocab="aat">Alabama Cream</material>
+            <material extent="interior walls and columns" pref="false" refid="300011321" type="medium" vocab="aat">Indiana limestone</material>
+            <material extent="tripods, floor, wall base" pref="false" refid="300011522" type="medium" vocab="aat">Tennessee Pink marble</material>
+            <material extent="exterior" pref="false" refid="300011578" type="medium" vocab="aat">Colorado yule statuary marble</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements extent="building" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" type="height" unit="ft">99</measurements>
+            <measurements extent="building" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" type="height" unit="m">30.18</measurements>
+            <measurements extent="statue" pref="false" shape="irregular" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" type="height" unit="ft">19</measurements>
+            <measurements extent="statue" pref="false" shape="irregular" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" type="height" unit="m">5.79</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_3c2108c9-b614-4b07-95e9-cc64afdf7119" source="Tamboti" pref="true">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-03-23-15-42-06">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture</refid>
+                <name type="electronic">Cataloging Cultural Objects, Example 155</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" pref="false" refid="300107956" source="getty" vocab="aat">American</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject pref="false" refid="300000776" vocab="aat" dataDate="2016-03-17-14-32-47">
+                <term type="conceptTopic">states</term>
+            </subject>
+            <subject pref="false" refid="300001571" source="getty" vocab="aat" dataDate="2015-03-23-15-26-01">
+                <term type="descriptiveTopic">columns</term>
+            </subject>
+            <subject pref="false" refid="300067406" source="getty" vocab="aat">
+                <term type="descriptiveTopic">Doric order</term>
+            </subject>
+            <subject pref="false" refid="300007595" source="getty" vocab="aat">
+                <term type="descriptiveTopic">temples</term>
+            </subject>
+            <subject pref="false">
+                <term type="conceptTopic">commemoratives</term>
+            </subject>
+            <subject pref="false" refid="300047090" source="getty" vocab="aat" dataDate="2015-03-23-15-24-11">
+                <term type="conceptTopic">sculpture</term>
+            </subject>
+            <subject pref="false" refid="300263552" source="getty" vocab="aat" dataDate="2015-03-23-15-24-43">
+                <term type="conceptTopic">architecture</term>
+            </subject>
+        </subjectSet>
+        <textrefSet>
+            <textref pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpturehttp://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_155_nineteenth_century_memorial_sculpture" dataDate="2015-11-02-10-20-11">
+                <name type="book">Mall in Washington, 1791-1991. Edited by Richard Longstreth. Hanover and London: University Press of New England, 1991.</name>
+                <refid type="ISBN">9780300095371</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <title pref="true" type="creator">Lincoln Memorial</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300007031" source="getty" vocab="aat">historic monuments</worktype>
+            <worktype pref="false" refid="300006956" source="getty" vocab="aat">memorials</worktype>
+            <worktype pref="false" refid="300263552" source="getty" vocab="aat">architecture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_074040e0-4cc4-40e0-9f87-002b3b6f424b" source="Tamboti" href="i_074040e0-4cc4-40e0-9f87-002b3b6f424b.jpg">
+        <agentSet>
+            <display dataDate="2015-11-16-13-43-47"/>
+            <notes dataDate="2015-11-16-13-43-47"/>
+            <agent pref="true" dataDate="2015-11-16-13-43-47">
+                <attribution dataDate="2015-11-16-13-43-47"/>
+                <culture dataDate="2015-11-16-13-43-47"/>
+                <dates dataDate="2015-11-16-13-43-47"/>
+                <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-16-13-43-47">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-43-47">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_d26edb02-6f8a-40a6-91c5-74a2a340e9a7" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <display dataDate="2015-11-16-13-44-43"/>
+            <notes dataDate="2015-11-16-13-44-43"/>
+            <source pref="false" dataDate="2015-11-16-13-44-43">
+                <refid type="URI" dataDate="2015-11-16-13-44-43">http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/</refid>
+                <name type="electronic" dataDate="2015-11-16-13-44-43">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_072--CCO_fig034-1.jpg</title>
+        </titleSet>
+    </image>
+</vra>

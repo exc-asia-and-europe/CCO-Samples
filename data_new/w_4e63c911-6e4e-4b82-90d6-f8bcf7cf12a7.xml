@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_4e63c911-6e4e-4b82-90d6-f8bcf7cf12a7" source="Kurs" refid="c_cc1070e1-6e81-4356-ac27-0ec58b8194b1">
+        <agentSet>
+            <agent pref="true" dataDate="2016-06-06-13-14-09">
+                <name refid="140637122" type="personal" vocab="viaf">unknown Native Andean</name>
+                <role type="code" vocab="marcrelator">dpc</role>
+            </agent>
+            <agent pref="false" dataDate="2016-03-10-10-57-26">
+                <culture>Peruvian</culture>
+                <dates type="activity">
+                    <earliestDate circa="true" type="about">1863</earliestDate>
+                    <latestDate circa="true" type="about">1873</latestDate>
+                </dates>
+                <name refid="137110511" source="viaf" type="corporate" vocab="viaf">Courret Hermanos</name>
+                <role type="code" vocab="marcrelator">pht</role>
+            </agent>
+            <agent pref="true" dataDate="2016-03-10-10-57-39">
+                <culture>French</culture>
+                <dates type="activity">
+                    <earliestDate circa="true" type="about">1861</earliestDate>
+                    <latestDate circa="true" type="about">1900</latestDate>
+                </dates>
+                <name refid="95911804" source="viaf" type="personal" vocab="viaf">Courret, Eugenio</name>
+                <role type="code" vocab="marcrelator">pht</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>ca. 1870-ca. 1880</display>
+            <date href="http://search.getty.edu/gri/records/griobject?objectid=798525144" pref="false" source="Getty Research Gateway" type="creation" dataDate="2016-03-10-11-11-24">
+                <earliestDate>
+                    <date type="after">1872</date>
+                </earliestDate>
+            </date>
+            <date pref="true" type="creation" dataDate="2016-06-06-13-14-37">
+                <earliestDate>
+                    <date type="about">1865</date>
+                </earliestDate>
+                <latestDate>
+                    <date type="about">1885</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="true" dataDate="2016-06-06-13-20-03">
+                <text>Studio portraits in cartes-de-visite format. 3 tapadas (veiled women); a matador; 9 images of indigenous Andeans, including a soldier and his rabona (camp follower), and a mother and child</text>
+                <author>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription href="http://search.getty.edu/gri/records/griobject?objectid=798525144" pref="false" source="Getty Search Gateway" dataDate="2016-06-06-13-20-56">
+                <author refid="31341498" vocab="viaf">Courret, Eugenio</author>
+                <position>verso</position>
+                <text type="text">Foto-relieve-esmalte. Retratos camafeos. E. Courret fotógrafo. Lima, Repúblico Peruana. Expòsicion 1869 medalla de honor; Expòsicion 1872 medalla de oro--printed on verso.</text>
+            </inscription>
+            <inscription pref="true" dataDate="2016-06-06-13-21-00">
+                <author refid="31341498" vocab="viaf">Courret, Eugenio</author>
+                <position>verso</position>
+                <text type="text">E. Courret, Fotográfo, 197 Calle de la Union (Mercaderes), 71 Calle del Palacio, Lima, República Peruana, Exposición 1869 Medalla de Honor, Exposición 1872 Medalla de Oro (9 items); Courret Hermanos, [same address], with monogram; .E. Courret, Fotógrafo, Lima, República Peruana, Exposición.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="false" type="creation" dataDate="2016-03-10-11-59-17">
+                <name refid="1000056" type="geographic" vocab="tgn">Perú</name>
+            </location>
+            <location pref="false" type="repository" dataDate="2016-03-10-11-51-52">
+                <refid type="accession">91-F46</refid>
+                <name refid="154037452" type="corporate" vocab="viaf">Getty Research Institute, Research Library</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material href="http://search.getty.edu/gri/records/griobject?objectid=798525144" pref="false" refid="300011802" source="Getty Research Gateway" type="medium" vocab="aat">albumen</material>
+        </materialSet>
+        <measurementsSet>
+            <display>11 items, 9 x 8 cm each (3 1/2 x 3 1/8 inches)</display>
+            <measurements extent="items" pref="false" type="count" unit="items">11</measurements>
+            <measurements extent="each" pref="false" type="height" unit="cm">9</measurements>
+            <measurements extent="each" pref="false" type="width" unit="cm">8</measurements>
+            <measurements extent="each" pref="false" type="height" unit="in">3 1/2</measurements>
+            <measurements extent="each" pref="false" type="width" unit="in">3 1/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation href="http://primo.getty.edu/GRI:GETTY_ALMA21124612420001551" pref="false" relids="ZCDV 2" source="Getty Research Institute" type="partOf">Cities and sites cartes-de-visite collection; collection; 1854-ca. 1905. Getty Research Library, Special Collections (Los Angeles, California, United States)</relation>
+            <relation pref="true" relids="i_8bd1804c-377c-4c3c-aaa3-fc75d7cf0737" source="Tamboti" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false">
+                <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=798525144</refid>
+                <name type="electronic">Getty Research Gateway</name>
+            </source>
+            <source pref="false" dataDate="2016-03-10-12-21-47">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_59_collection_part_of_a_larger_collection</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject pref="false" refid="300025945" vocab="aat" dataDate="2016-03-10-11-55-56">
+                <term type="descriptiveTopic">children (people by age group)</term>
+            </subject>
+            <subject pref="false" refid="300025932" vocab="aat">
+                <term type="descriptiveTopic">mothers</term>
+            </subject>
+            <subject pref="false" refid="300375103" vocab="aat">
+                <term type="descriptiveTopic">camp followers</term>
+            </subject>
+            <subject pref="false" refid="300185678" vocab="aat">
+                <term type="descriptiveTopic">soldiers</term>
+            </subject>
+            <subject pref="false" refid="300375102" vocab="aat">
+                <term type="descriptiveTopic">matadors</term>
+            </subject>
+            <subject pref="false" refid="300025943" vocab="aat">
+                <term type="descriptiveTopic">women (female humans)</term>
+            </subject>
+            <subject pref="false" refid="300046128" vocab="aat">
+                <term type="descriptiveTopic">veils (headcloths)</term>
+            </subject>
+            <subject pref="false" refid="300080094" vocab="aat">
+                <term type="conceptTopic">travel</term>
+            </subject>
+            <subject pref="false" refid="300015637" vocab="aat">
+                <term type="descriptiveTopic">portraits</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique pref="false" refid="300054225" vocab="aat">photography</technique>
+        </techniqueSet>
+        <titleSet>
+            <title href="http://search.getty.edu/gri/records/griobject?objectid=798525144" pref="false" source="Getty Reseach Gateway" type="repository">Portrait of a Peruvian tapada leaning against a balustrade</title>
+            <title pref="true" type="translated">Peruvian Portrait Cartes-de-Visite</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300046300" vocab="aat">photographs</worktype>
+            <worktype pref="false" refid="300127141" vocab="aat">cartes-de-visite</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_ebfcb577-15ec-4a8c-b9a2-f88e0f31ca15" source="Kurs" refid="c_fa8233d1-b9ba-4e0f-9a8b-f93c539eb2ef">
+        <agentSet>
+            <display dataDate="2015-11-23-12-20-10">illuminated by unknown German active in Mainz or Fulda, binding by unknown Mosan artist</display>
+            <notes dataDate="2015-11-23-12-20-10"/>
+            <agent extent="illuminations" pref="true" dataDate="2016-06-06-15-59-21">
+                <attribution dataDate="2015-11-23-12-20-10"/>
+                <culture dataDate="2015-11-23-12-20-10">active in Mainz or Fulda</culture>
+                <dates type="life" dataDate="2015-11-23-12-20-10">
+                    <earliestDate circa="false"/>
+                </dates>
+                <name refid="100626764" type="personal" vocab="viaf" dataDate="2015-11-23-12-20-10">unknown German</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-20-10">ilu</role>
+            </agent>
+            <agent extent="binding" pref="false" dataDate="2015-11-23-12-20-10">
+                <attribution dataDate="2015-11-23-12-20-10"/>
+                <culture dataDate="2015-11-23-12-20-10"/>
+                <dates type="life" dataDate="2015-11-23-12-20-10">
+                    <earliestDate circa="false"/>
+                </dates>
+                <name refid="100626985" type="personal" vocab="viaf" dataDate="2015-11-23-12-20-10">unknown Mosan</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-20-10">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <display dataDate="2015-11-23-13-02-47"/>
+            <notes dataDate="2015-11-23-13-02-47"/>
+            <culturalContext pref="true" source="AAT 300020766" dataDate="2015-11-23-13-02-47">Ottonian</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display dataDate="2015-11-23-12-25-09">illuminated in 2nd quarter of 11th century, binding from 12th century, with later additions</display>
+            <notes dataDate="2015-11-23-12-25-09"/>
+            <date extent="binding" pref="false" type="creation" dataDate="2016-06-06-16-01-50">
+                <earliestDate>
+                    <date dataDate="2015-11-23-12-25-09">1100</date>
+                </earliestDate>
+                <latestDate>
+                    <date dataDate="2015-11-23-12-25-09">1199</date>
+                </latestDate>
+            </date>
+            <date extent="illuminations" pref="true" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="creation" dataDate="2015-11-23-12-25-09">
+                <earliestDate>
+                    <date type="about" dataDate="2015-11-23-12-25-09">1025</date>
+                </earliestDate>
+                <latestDate>
+                    <date type="about" dataDate="2015-11-23-12-25-09">1050</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display dataDate="2015-11-23-12-28-28"/>
+            <notes dataDate="2015-11-23-12-28-28"/>
+            <description pref="false" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" dataDate="2016-06-06-16-20-47">
+                <text dataDate="2015-11-23-12-28-28">Archbishop Bardo of Mainz probably gave this Ottonian sacramentary, containing the prayers recited during the Mass, to the church of Saint Aubin in Namur, Belgium, at its founding in 1046. Unlike most manuscripts that have survived from the Middle Ages, this particularly rare book still retains its medieval binding. The earliest parts of the binding date from a century after the book's manufacture, while other portions were added in the later Middle Ages. Its lavish embellishment and the use of precious metals such as gold and silver on the cover suggest that the manuscript was given special honor in the cathedral. There it was probably kept in the treasury and only used on special feast days. 
+The sacramentary opens with a rare cycle of six full-page miniatures from the New Testament preceding the main text. The style of the miniatures is at once imposing and lively, abstract and naturalistic. Reviving forms and motives from Roman classical art, the illuminators established a powerfully calm and majestic style.</text>
+                <author dataDate="2015-11-23-12-28-28">
+                    <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-23-12-28-28">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-28-28">aut</role>
+                </author>
+            </description>
+            <description pref="true" dataDate="2015-11-23-12-28-28">
+                <text dataDate="2015-11-23-12-28-28">Although the Ottonian book was written and illuminated in Germany (Mainz or Fulda, in modern Germany), the binding was produced in Mosan, a region in present-day Belgium noted for medieval metalwork and enamel traditions. The subject of the binding includes a gilt silver Christ in Majesty. Christ sits on a throne, blessing with his right hand while holding a book in his left. The letters alpha and omega appear to either side of him. The first and last letters of the Greek alphabet, they refer to a figure from the text of the Apocalypse, traditionally interpreted as Christ, who says, “I am the Alpha and Omega; the beginning and the end.
+[Description Source: J. Paul Getty Museum online. www.getty.edu ; Page: accessed 13 December 2006.]</text>
+                <author dataDate="2015-11-23-12-28-28">
+                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-23-12-28-28">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-28-28">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <display dataDate="2015-11-23-13-03-49"/>
+            <notes dataDate="2015-11-23-13-03-49"/>
+            <inscription pref="false" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" dataDate="2015-11-23-13-03-49">
+                <author refid="147804499" vocab="viaf" dataDate="2015-11-23-13-03-49">J. Paul Getty Museum</author>
+                <position dataDate="2015-11-23-13-03-49"/>
+                <text type="mark" dataDate="2015-11-23-13-03-49">Folios 160-177, watermark on these paper folia is an armorial shield with three fleur de lys [only two visible], described with a double outline marked at intervals with circles, surmounted by a crown with a high central finial possibly ending in a lobed design; contained within two chain lines. Similar, but not identical to Briquet, no. 1827 (note that lower portion of the watermark in Ludwig V 2 is not visible) from Chalons-sur-Marne, 1522 and no. 1828 from Brussels, 1525 and Namur 1527 (a variant of no. 1828).</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <display dataDate="2015-11-23-12-52-08"/>
+            <notes dataDate="2015-11-23-12-52-08"/>
+            <location pref="false" type="repository" dataDate="2016-06-06-16-11-53">
+                <refid extent="alternative RefID: Ms. Ludwig V 2" type="accession" dataDate="2015-11-23-12-52-08">83.MF.77</refid>
+                <name refid="147804499" vocab="viaf" dataDate="2015-11-23-12-52-08">J. Paul Getty Museum</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+            <location extent="illuminations" pref="false" type="creation" dataDate="2015-11-23-12-52-08">
+                <refid dataDate="2015-11-23-12-52-08"/>
+                <name refid="7005294" vocab="tgn" dataDate="2015-11-23-12-52-08">Fulda</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+            <location extent="illuminations" pref="false" type="creation" dataDate="2015-11-23-12-52-08">
+                <refid dataDate="2015-11-23-12-52-08"/>
+                <name refid="7004449" vocab="tgn" dataDate="2015-11-23-12-52-08">Mainz</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+            <location extent="binding" pref="false" type="creation" dataDate="2015-11-23-12-52-08">
+                <refid dataDate="2015-11-23-12-52-08"/>
+                <name refid="7030259" vocab="tgn" dataDate="2015-11-23-12-52-08">Mosan</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+            <location extent="binding" pref="false" type="creation" dataDate="2016-06-06-16-09-15">
+                <refid dataDate="2015-11-23-12-52-08"/>
+                <name refid="7003460" vocab="tgn" dataDate="2015-11-23-12-52-08">Liège</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display dataDate="2015-11-23-13-12-16">Tempera colors, gold, and ink on parchment bound between oak boards covered with red silk, fitted with hammered and engraved silver and copper</display>
+            <notes dataDate="2015-11-23-13-12-16"/>
+            <material extent="illuminations" pref="false" refid="300015062" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">tempera</material>
+            <material extent="illuminations" pref="false" refid="300011021" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">gold</material>
+            <material extent="illuminations" pref="false" refid="300015012" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">ink</material>
+            <material extent="illuminations" pref="false" refid="300011851" type="support" vocab="aat" dataDate="2015-11-23-13-12-16">parchment</material>
+            <material extent="binding" pref="false" refid="300012264" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">oak</material>
+            <material extent="binding" pref="false" refid="300243428" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">silk</material>
+            <material extent="binding; gilt silver" pref="false" refid="300011029" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">silver</material>
+            <material extent="binding" pref="false" refid="300011020" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">copper</material>
+        </materialSet>
+        <measurementsSet>
+            <display dataDate="2015-11-23-13-53-25">179 leaves; text block: 26.6 x 19.1 cm (10 1/2 x 7 1/2 inches); text area: 17 x 13 cm (6 3/4 x 5 1/8 inches); oak covers: 27.3 x 19.8 cm (10 3/4 x 7 7/8 inches)</display>
+            <notes dataDate="2015-11-23-13-53-25"/>
+            <measurements pref="false" type="count" unit="leaves" dataDate="2015-11-23-13-53-25">179</measurements>
+            <measurements extent="leaf" pref="false" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="height" unit="cm" dataDate="2015-11-23-13-53-25">26.7</measurements>
+            <measurements extent="leaf" pref="false" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="width" unit="cm" dataDate="2015-11-23-13-53-25">18.9</measurements>
+            <measurements extent="leaf" pref="false" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="height" unit="in" dataDate="2015-11-23-13-53-25">10 1/2</measurements>
+            <measurements extent="leaf" pref="false" source="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="width" unit="in" dataDate="2015-11-23-13-53-25">7 7/16</measurements>
+            <measurements extent="text block" pref="false" type="height" unit="cm" dataDate="2015-11-23-13-53-25">26.6</measurements>
+            <measurements extent="text block" pref="false" type="width" unit="cm" dataDate="2015-11-23-13-53-25">19.1</measurements>
+            <measurements extent="text block" pref="false" type="height" unit="in" dataDate="2015-11-23-13-53-25">10 1/2</measurements>
+            <measurements extent="text block" pref="false" type="width" unit="in" dataDate="2015-11-23-13-53-25">7 1/2</measurements>
+            <measurements extent="text area" pref="false" type="height" dataDate="2015-11-26-11-47-47">17</measurements>
+            <measurements extent="text area" pref="false" type="width" dataDate="2015-11-23-13-53-25">13</measurements>
+            <measurements extent="text area" pref="false" type="height" dataDate="2015-11-23-13-53-25">6 3/4</measurements>
+            <measurements extent="text area" pref="false" type="width" dataDate="2015-11-23-13-53-25">5 1/8</measurements>
+            <measurements extent="oak covers" pref="false" type="height" dataDate="2015-11-23-13-53-25">27.3</measurements>
+            <measurements extent="oak covers" pref="false" type="width" dataDate="2015-11-23-13-53-25">19.8</measurements>
+            <measurements extent="oak covers" pref="false" type="height" dataDate="2015-11-23-13-53-25">10 3/4</measurements>
+            <measurements extent="oak covers" pref="false" type="width" dataDate="2015-11-23-13-53-25">7 7/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <display dataDate="2015-11-23-12-02-41"/>
+            <notes dataDate="2015-11-23-12-02-41"/>
+            <relation pref="true" relids="i_8e5358fd-a0cb-4380-a869-f7c34319c242" source="Tamboti" type="imageIs" dataDate="2015-11-23-12-02-41">The Ascension, fol. 20</relation>
+            <relation pref="false" relids="i_0adf0652-016b-4f91-b6c3-cedbf1eea63b" source="Tamboti" type="imageIs" dataDate="2015-11-23-12-03-14">Decorated Initial D, fol. 29</relation>
+            <relation pref="false" relids="i_9dd301a5-b0e9-49a1-b064-ef12e6e3718f" source="Tamboti" type="imageIs" dataDate="2015-11-23-12-04-01">Decorated Initial D, fol. 89v</relation>
+            <relation pref="false" relids="i_1072e920-a0d5-47bc-aeaf-ec37470f4f14" source="Tamboti" type="imageIs" dataDate="2015-11-23-12-07-26">The Women at the Tomb, fol. 19v</relation>
+            <relation pref="false" relids="i_7e73f7d9-aa40-4905-87aa-1cc4d9a00564" source="Tamboti" type="imageIs" dataDate="2015-11-23-12-08-18">Pentecost, fol. 20v</relation>
+        </relationSet>
+        <sourceSet>
+            <display dataDate="2015-11-23-13-56-35"/>
+            <notes dataDate="2015-11-23-13-56-35"/>
+            <source pref="false" dataDate="2016-06-06-15-55-20">
+                <refid type="URI">https://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+            <source pref="false" dataDate="2015-11-23-13-56-35">
+                <refid type="URI" dataDate="2015-11-23-13-56-35">http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747</refid>
+                <name type="electronic" dataDate="2015-11-23-13-56-35">J. Paul Getty Museum</name>
+            </source>
+            <source pref="false" dataDate="2016-06-06-15-48-45">
+                <refid type="URI" dataDate="2015-11-23-13-56-35">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_64_illuminated_manuscript</refid>
+                <name type="electronic" dataDate="2015-11-23-13-56-35">Cataloging Cultural Objects Commons</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display dataDate="2015-11-23-13-57-47"/>
+            <notes dataDate="2015-11-23-13-57-47"/>
+            <stylePeriod pref="false" refid="300020766" vocab="aat" dataDate="2015-11-23-13-57-47">Ottonian</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display dataDate="2015-11-23-12-59-15"/>
+            <notes dataDate="2015-11-23-12-59-15"/>
+            <subject pref="false" refid="300379721" vocab="aat" dataDate="2015-11-23-12-59-15">
+                <term type="conceptTopic" dataDate="2015-11-23-12-59-15">masses</term>
+            </subject>
+            <subject pref="false" refid="300026452" vocab="aat" dataDate="2016-06-06-16-05-21">
+                <term type="conceptTopic" dataDate="2015-11-23-12-59-15">prayers</term>
+            </subject>
+            <subject pref="false" refid="300192160" vocab="aat" dataDate="2015-11-23-12-59-15">
+                <term type="descriptiveTopic" dataDate="2015-11-23-12-59-15">sacramentaries</term>
+            </subject>
+            <subject pref="false" refid="300202605" vocab="aat" dataDate="2015-11-23-12-59-15">
+                <term type="descriptiveTopic" dataDate="2015-11-23-12-59-15">service books</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display dataDate="2015-11-23-14-49-17"/>
+            <notes dataDate="2015-11-23-14-49-17"/>
+            <technique pref="false" refid="300054216" source="Simon Gruening" vocab="aat" dataDate="2015-11-23-14-49-17">painting</technique>
+            <technique pref="false" refid="300054022" vocab="aat" dataDate="2015-11-23-14-49-17">niello</technique>
+        </techniqueSet>
+        <titleSet>
+            <display dataDate="2015-11-23-13-02-04"/>
+            <notes dataDate="2015-11-23-13-02-04"/>
+            <title pref="true" type="repository" dataDate="2015-11-23-13-02-04">Sacramentary</title>
+        </titleSet>
+        <worktypeSet>
+            <display dataDate="2015-11-23-14-50-34"/>
+            <notes dataDate="2015-11-23-14-50-34"/>
+            <worktype pref="false" refid="300192160" vocab="aat" dataDate="2015-11-23-14-50-34">sacramentaries</worktype>
+            <worktype pref="false" refid="300265483" vocab="aat" dataDate="2015-11-23-14-50-34">illuminated manuscripts</worktype>
+            <worktype pref="false" refid="300028569" vocab="aat" dataDate="2015-11-23-14-50-34">manuscripts</worktype>
+        </worktypeSet>
+    </work>
+</vra>

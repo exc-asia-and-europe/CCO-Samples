@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_499c604c-9d7b-4973-9049-cabeca71cf04" source="Kurs" refid="c_d7fcffae-e15d-45ba-a3e8-eca61e5efd83">
+        <agentSet>
+            <agent pref="false" dataDate="2016-02-02-10-17-04">
+                <name refid="100632058" type="personal" vocab="viaf">unknown Egyptian Islamic</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+            <agent pref="false" dataDate="2016-02-02-10-17-21">
+                <name refid="100642849" type="personal" vocab="viaf">unknown Syrian</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext extent="AAT 300380013" pref="false">Islamic (culture or style)</culturalContext>
+            <culturalContext extent="AAT 300387730" pref="false">Egyptian Islamic</culturalContext>
+            <culturalContext extent="AAT 300386541" pref="false">Syrian Islamic</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date pref="false" type="creation" dataDate="2016-02-02-10-33-31">
+                <earliestDate>
+                    <alternativeNotation>shortly after 1285</alternativeNotation>
+                    <date type="after">1280</date>
+                </earliestDate>
+                <latestDate>
+                    <date type="before">1290</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="true" dataDate="2016-06-15-12-59-47">
+                <text>The two gold crossbows addorsed against a red shield indicate that the patron of this lamp held the office of “bunduqdar” (Keeper of the Bow) under the Mamluk rule (1250-1517). The inscription states that the lamp was ordered for the mausoleum of “his excellency the bowkeeper of `Ala al-Din,” thus identifying him with Aydakin ibn `Abd-Allah, who died in Cairo in 1285. Aydakin, who held various offices under the Mamluks (after 1250), maintained the emblem and “nisba” (form to express relationship with one’s master) of his first appointment under the Ayyubid emir `Ala al-Din Aqsunqur until the end of his life. This lamp is a metaphor. In the Koran, God’s light is likened to “a niche in which is a lamp, the lamp is in a glass, and the glass is as if it were a brightly shining star.”
+[Source: Metropolitan Museum of Art online. www.metmuseum.org (accessed 29 June 2007).]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art Online Collection" dataDate="2016-02-02-11-11-12">
+                <text>This lamp’s inscriptions reveal that it was ordered for Aidakin’s mausoleum (turba), a building still standing in Cairo. Mamluk amirs adopted emblems, often connected with their ceremonial roles at court, which decorated the objects and buildings they commissioned. Here, the motif of two gold crossbows against a red shield illustrates the office of bunduqdar (bow‑keeper).</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metrpopolitan Museum of Art Online Collection" dataDate="2016-02-02-12-27-25">
+                <text lang="ara" script="Arab" type="text">ممما عمل برسم تربة المقر العالي/ العلائي البندقدار/ قدس الله روحه</text>
+                <author refid="100627125" vocab="viaf">unknown</author>
+                <position>on neck and body</position>
+                <text type="translation">From [the objects] that were made for the tomb of His High Excellency al-‘Ala’i al-Bunduqdar (the keeper of the bow), may God sanctify his soul.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art Online Collection" type="creation" dataDate="2016-02-02-11-52-02">
+                <name extent="probably Cairo" refid="7016833" type="geographic" vocab="tgn">Miṣr</name>
+            </location>
+            <location pref="true" type="repository" dataDate="2016-02-02-11-50-34">
+                <refid type="accession">17.190.985</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material pref="false" refid="300011021" type="medium" vocab="aat">gold</material>
+            <material pref="false" refid="300014910" type="medium" vocab="aat">enamel</material>
+            <material pref="false" refid="300233425" type="medium" vocab="aat">free-blown glass</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="false" type="height" unit="cm">26.4</measurements>
+            <measurements extent="of rim" pref="false" type="diameter" unit="cm">21</measurements>
+            <measurements pref="false" type="height" unit="in">10 3/8</measurements>
+            <measurements extent="of rim" pref="false" type="diameter" unit="in">8 1/4</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_c1957e81-b021-4fae-b2df-daa271ffcf45" source="Tamboti" pref="true">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2016-02-02-12-54-24">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_99_islamic_lamp</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source pref="false" dataDate="2016-02-02-12-54-20">
+                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/447000</refid>
+                <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod pref="false" refid="300021601" vocab="aat">Mamluk</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject pref="false" refid="300054168" vocab="aat" dataDate="2016-02-02-14-12-46">
+                <term type="conceptTopic">decorative arts</term>
+            </subject>
+            <subject pref="false" refid="300037000" vocab="aat" dataDate="2016-02-02-12-09-57">
+                <term type="descriptiveTopic">crossbows</term>
+            </subject>
+            <subject pref="false" refid="300007544" vocab="aat" dataDate="2016-02-02-12-09-05">
+                <term type="descriptiveTopic">mosques (buildings)</term>
+            </subject>
+            <subject href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" refid="300183126" source="Metropolitan Museum of Art Online Collection" vocab="aat" dataDate="2016-02-02-12-11-25">
+                <term type="descriptiveTopic">mosque lamps</term>
+            </subject>
+            <subject pref="false" refid="300056024" vocab="aat" dataDate="2016-02-02-12-07-18">
+                <term type="conceptTopic">light</term>
+            </subject>
+            <subject pref="false" refid="300037592" vocab="aat" dataDate="2016-02-02-12-04-24">
+                <term type="descriptiveTopic">lamps (lighting devices)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique pref="false" refid="300053876" vocab="aat">tooling</technique>
+            <technique pref="false" refid="300053932" vocab="aat">glassblowing</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="false" type="descriptive">Mosque Lamp</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art Online Collection" type="repository">Mosque Lamp for the Mausoleum of Amir Aydakin al-'Ala'i al-Bunduqdar</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300151343" vocab="aat">ceramics</worktype>
+            <worktype pref="false" refid="300183126" vocab="aat">mosque lamps</worktype>
+        </worktypeSet>
+    </work>
+</vra>

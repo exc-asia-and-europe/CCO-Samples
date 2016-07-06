@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_c8e79758-229e-4692-8a03-ea6e7e543a3d" source="Tamboti" href="i_c8e79758-229e-4692-8a03-ea6e7e543a3d.jpg">
+        <agentSet>
+            <agent pref="false" dataDate="2015-11-11-14-40-36">
+                <name refid="124291214" source="viaf" type="corporate" vocab="viaf">Google (Firm)</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_1b62757f-399b-4a38-baa1-3306a604547c" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-11-14-41-47">
+                <refid type="URI">https://commons.wikimedia.org/wiki/File:Th%C3%A9ophile-Alexandre_Steinlen_-_Tourn%C3%A9e_du_Chat_Noir_de_Rodolphe_Salis_(Tour_of_Rodolphe_Salis%27_Chat_Noir)_-_Google_Art_Project.jpg</refid>
+                <name type="electronic">Wikimedia Commons</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_047.jpg</title>
+        </titleSet>
+    </image>
+</vra>

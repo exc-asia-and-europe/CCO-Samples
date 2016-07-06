@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_940af746-b0e4-4d74-a313-e77d9dd1e9bb" source="Tamboti" href="i_940af746-b0e4-4d74-a313-e77d9dd1e9bb.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-03-10-14-20-33">
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_0703f5ed-0bbf-45a6-b436-84231f2c7dbd" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2016-03-10-14-21-43">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/5933/globe-designed-and-assembled-by-jean-antoine-nollet-map-engraved-by-louis-borde-lacquer-decoration-attributed-to-the-workshop-of-guillaume-martin-et-al-terrestrial-globe-globe-terrestre-french-about-1728/?artview=dor66544</refid>
+                <name type="electronic">The J. Paul Getty Museum online</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_109--CCO_fig037-1.jpg</title>
+        </titleSet>
+    </image>
+</vra>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_62efc5b2-222f-4d3f-87fe-c284dcc0073a" source="Kurs" refid="c_2c3b827e-558a-47ee-81cf-2072a79fca4e">
+        <agentSet>
+            <agent pref="true" dataDate="2015-05-06-13-17-51">
+                <dates type="life">
+                    <earliestDate circa="false"/>
+                </dates>
+                <name refid="100626900" type="personal" vocab="viaf">unknown Persian</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+            <agent href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Philadelphia Museum of Art, Online Collection">
+                <culture>Iranian or Persian</culture>
+                <dates type="life">
+                    <earliestDate circa="false"/>
+                </dates>
+                <name refid="100627125" source="viaf" type="personal" vocab="viaf">unknown</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext pref="false" source="AAT 300380013">Islamic (culture or style)</culturalContext>
+            <culturalContext pref="false" source="AAT 300019933">Persian (culture)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>16th century</display>
+            <date pref="false" type="creation" dataDate="2016-04-26-13-07-42">
+                <earliestDate>
+                    <date>1500</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1599</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" dataDate="2016-04-26-13-13-31">
+                <text>Created during the reign of the Safavid court at Esfahan in Persia. The panel may have come from a monastery of the Sufi branch of Islam. Glazed turquoise, cobalt blue, beige, white, and black colors form a pattern dominated by star medallions and floral palmettes in vases.
+[Source: Philadelphia Museum of Art. Handbook of the Collections. Philadelphia: Philadelphia Museum of Art, 1986.  Page: 64.]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description extent="exhibition label text" href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="true" source="Philadelphia Museum of Art, Online Collection" dataDate="2015-05-06-13-25-20">
+                <text>This striking Persian mosaic was created during the Safavid dynasty (1501–1722). It is said to have come from a Sufi Muslim monastery that was located in the city of Isfahan, then the capital city of Persia (present-day Iran). The panel, with its alternating palmette and star motifs, is composed of myriad pieces of ceramic tile in which mirror-black, mingled with various shades of faun and umber, predominates. It is set into a background of brilliant turquoise, a color for which sixteenth-century Persian tilemakers were renowned.</text>
+                <author>
+                    <name refid="137352121" source="viaf" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Felice Fischer, from Philadelphia Museum of Art: Handbook of the Collections (1995), p. 64.">
+                <text>Architecture has provided the most visible "canvas" for Islamic art, achieving particularly sophisticated expression during the reign of the Safavid court at Isfahan in Persia. This mosaic panel is one of a group installed in the Museum that are said to have come from a sixteenth-century monastery of the Sufi branch of Islam, but Persian buildings of all sorts, both sacred and secular, were covered inside and out with such elaborately decorated ceramic tiles. The glazed turquoise, cobalt blue, faun, white, and black colors of this panel are clear and brilliant, and the small ceramic pieces form a mosaic pattern whose predominant motifs are round star medallions that alternate with symmetrical floral palmettes in vases. These abstracted designs are meant not so much to emulate nature as to reflect the infinite perfection and ideal order of the universe. The complex pattern is repeated in the series of tile panels that encircle the room, giving a rich sense of depth to the space.</text>
+                <author>
+                    <name refid="52021529" source="viaf" type="personal" vocab="viaf">Fischer, Felice</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="false" type="repository" dataDate="2015-05-06-13-29-46">
+                <refid type="accession">1931-76-1</refid>
+                <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+                <point epsg="4326">
+                    <lat>39.966</lat>
+                    <long>-75.181</long>
+                </point>
+            </location>
+            <location pref="false" type="creation" dataDate="2016-04-26-13-10-34">
+                <name refid="1001228" type="geographic" vocab="tgn">Eṣfahān</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material pref="false" refid="300010669" source="getty" type="medium" vocab="aat">terracotta</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Philadelphia Museum of Art, Online Collection" type="height" unit="cm">106.7</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Philadelphia Museum of Art, Online Collection" type="width" unit="cm">320</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Philadelphia Museum of Art, Online Collection" type="height" unit="in">42</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Philadelphia Museum of Art, Online Collection" type="width" unit="in">126</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_fd648307-e83b-49ba-8f75-358e5c46c971" source="Tamboti" pref="true">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2016-04-26-13-05-33">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_25_persian_mosaic_decorative</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source pref="false" dataDate="2015-05-06-13-13-36">
+                <refid type="URI">http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1</refid>
+                <name type="electronic">Philadelphia Museum of Art, Online Collection</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod pref="true" refid="300021712" source="getty" vocab="aat">Safavid</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject pref="false" refid="300161596" source="getty" vocab="aat" dataDate="2015-05-06-13-33-47">
+                <term type="descriptiveTopic">interior decoration</term>
+            </subject>
+            <subject pref="false" refid="300077354" source="getty" vocab="aat">
+                <term type="descriptiveTopic">medallions</term>
+            </subject>
+            <subject pref="false" refid="300009811" source="getty" vocab="aat" dataDate="2015-05-06-13-31-00">
+                <term type="descriptiveTopic">stars</term>
+            </subject>
+            <subject pref="false" refid="300009995" source="getty" vocab="aat" dataDate="2015-05-06-13-30-44">
+                <term type="descriptiveTopic">palmette</term>
+            </subject>
+            <subject pref="false" refid="300132254" source="getty" vocab="aat">
+                <term type="descriptiveTopic">vases</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique extent="Philadelphia Museum of Art" href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" refid="300138684" source="getty" vocab="aat">mosaic</technique>
+            <technique pref="false" refid="300053914" source="getty" vocab="aat">glazing</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="false" type="repository">Tile Mosaic Panel</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300182732" vocab="aat">murals</worktype>
+            <worktype pref="true" refid="300015342" source="getty" vocab="aat">mosaics</worktype>
+        </worktypeSet>
+    </work>
+</vra>

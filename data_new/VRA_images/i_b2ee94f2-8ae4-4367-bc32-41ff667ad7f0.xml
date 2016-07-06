@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0" source="Tamboti" href="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0.jpg">
+        <agentSet>
+            <agent pref="true" source="http://www.loc.gov/item/ncr001475/" dataDate="2015-11-12-13-05-32">
+                <name refid="151962300" source="viaf" type="corporate" vocab="viaf">Library of Congress</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f8cf40b7-310e-44bf-893c-204c39b2cc36" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-12-13-04-54">
+                <refid type="URI">http://www.loc.gov/item/ncr001475</refid>
+                <name type="electronic">Library of Congress</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_055.jpg</title>
+        </titleSet>
+    </image>
+</vra>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_89d3c4ac-a9b0-4c4f-91eb-82a8c75cbdf9" source="Kurs" refid="c_4b1f05c0-a0bb-4848-89b1-fb2569acb43f">
+        <agentSet>
+            <display dataDate="2015-11-30-18-11-00"/>
+            <notes dataDate="2015-11-30-18-11-00"/>
+            <agent pref="true" dataDate="2015-11-30-18-11-00">
+                <attribution dataDate="2015-11-30-18-11-00"/>
+                <culture dataDate="2015-11-30-18-11-00"/>
+                <dates type="life" dataDate="2015-11-30-18-11-00"/>
+                <name refid="100626633" type="personal" vocab="viaf" dataDate="2015-11-30-18-11-00">unknown Chinese</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-30-18-11-00">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <display dataDate="2015-11-30-18-30-59"/>
+            <notes dataDate="2015-11-30-18-30-59"/>
+            <culturalContext pref="false" source="AAT 300386002" dataDate="2015-11-30-18-30-59">Ancient Chinese</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display dataDate="2015-11-30-18-12-05"/>
+            <notes dataDate="2015-11-30-18-12-05"/>
+            <date pref="false" type="creation" dataDate="2016-06-08-13-52-10">
+                <earliestDate>
+                    <date dataDate="2015-11-30-18-12-05">618</date>
+                </earliestDate>
+                <latestDate>
+                    <date dataDate="2015-11-30-18-12-05">907</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display dataDate="2015-11-30-18-16-24"/>
+            <notes dataDate="2015-11-30-18-16-24"/>
+            <description pref="false" dataDate="2016-06-08-14-19-01">
+                <text>Tomb figure of a camel laden with food for the deceased in the afterlife. Given that the size of tomb figures was regulated by law, this large and impressive piece was probably commissioned for a high-ranking member of the nobility. The rich tones of green, yellow, and brown are typical of Ch’angan pieces.
+[Source: Philadelphia Museum of Art. Handbook of the Collections. Philadelphia: Philadelphia Museum of Art, 1986.  Page: 27.]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Felice Fischer, from Philadelphia Museum of Art: Handbook of the Collections (1995), p. 27." dataDate="2016-06-08-14-20-46">
+                <text dataDate="2015-11-30-18-16-24">This tomb figure of a fully laden camel suggests the flourishing overland trade carried along the Silk Route that stretched from the Chinese capital of Chang-an to its western terminus in Constantinople (Istanbul). The modeling of the ungainly camel is rendered naturalistically and reveals a loving attention to detail, down to the slab of dried meat and water flasks on the saddle. The size of the tomb figures of animals and other representations of daily life that were customarily buried with the deceased was regulated by law. This exceptionally large and impressive piece from the Museum's outstanding group of Tang tomb figures must have been commissioned for a high-ranking member of the nobility as a testimony of his wealth in this life and a reassurance to his departed spirit in the afterlife. Chang-an was a major center for the production of the tomb figures, and its potters discovered new glazing techniques that produced the rich tones of green, yellow, and brown seen on this camel.
+[Source: Philadelphia Museum of Art: Handbook of the Collections (1995), p. 27.]</text>
+                <author dataDate="2015-11-30-18-16-24">
+                    <name refid="52021529" type="personal" vocab="viaf" dataDate="2015-11-30-18-16-24">Fischer, Felice</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-30-18-16-24">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <display dataDate="2015-11-30-18-20-07"/>
+            <notes dataDate="2015-11-30-18-20-07"/>
+            <location pref="true" type="repository" dataDate="2015-11-30-18-20-07">
+                <refid type="accession" dataDate="2015-11-30-18-20-07">1964-9-1</refid>
+                <name refid="137352121" type="corporate" vocab="viaf" dataDate="2015-11-30-18-20-07">Philadelphia Museum of Art</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+            <location pref="false" type="creation" dataDate="2016-06-08-13-53-49">
+                <refid dataDate="2015-11-30-18-20-07"/>
+                <name refid="7001470" type="geographic" vocab="tgn" dataDate="2015-11-30-18-20-07">Chang'an</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display dataDate="2015-11-30-18-32-25"/>
+            <notes dataDate="2015-11-30-18-32-25"/>
+            <material pref="false" refid="300010669" type="medium" vocab="aat" dataDate="2015-11-30-18-32-25">terracotta</material>
+        </materialSet>
+        <measurementsSet>
+            <display dataDate="2015-11-30-18-35-12"/>
+            <notes dataDate="2015-11-30-18-35-12"/>
+            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="height" unit="in" dataDate="2015-11-30-18-35-12">32</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="width" unit="in" dataDate="2015-11-30-18-35-12">10</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="depth" unit="in" dataDate="2015-11-30-18-35-12">25</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="height" unit="cm" dataDate="2015-11-30-18-35-12">81.3</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="width" unit="cm" dataDate="2015-11-30-18-35-12">25.4</measurements>
+            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="depth" unit="cm" dataDate="2015-11-30-18-35-12">63.5</measurements>
+        </measurementsSet>
+        <relationSet>
+            <display dataDate="2015-11-30-18-28-36"/>
+            <notes dataDate="2015-11-30-18-28-36"/>
+            <relation pref="true" relids="i_f432fe01-181f-4065-a52e-0587f63903b3" source="Tamboti" type="imageIs" dataDate="2015-11-30-18-28-36">general view</relation>
+            <relation pref="false" relids="i_b1f3fc87-bcee-4a3a-80cd-ae454c4f4bb4" source="Tamboti" type="imageIs" dataDate="2015-11-30-18-28-52">detail</relation>
+            <relation pref="false" relids="i_e4cfda4c-720b-4ba4-af0e-e1ec1f723835" source="Tamboti" type="imageIs" dataDate="2015-11-30-18-28-36">general view</relation>
+            <relation pref="false" relids="i_2aeced24-bd50-4d3b-bcef-c940268c63d2" source="Tamboti" type="imageIs" dataDate="2015-11-30-18-28-52">detail</relation>
+        </relationSet>
+        <sourceSet>
+            <display dataDate="2015-11-30-18-40-24"/>
+            <notes dataDate="2015-11-30-18-40-24"/>
+            <source pref="false" dataDate="2015-11-30-18-40-24">
+                <refid type="URI" dataDate="2015-11-30-18-40-24">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_79_chinese_funerary_sculpture</refid>
+                <name type="electronic" dataDate="2015-11-30-18-40-24">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source pref="false" dataDate="2015-11-30-18-40-24">
+                <refid type="URI" dataDate="2015-11-30-18-40-24">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
+                <name type="electronic" dataDate="2015-11-30-18-40-24">Philadelphia Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display dataDate="2015-11-30-18-42-15"/>
+            <notes dataDate="2015-11-30-18-42-15"/>
+            <stylePeriod pref="false" refid="300018420" vocab="aat" dataDate="2015-11-30-18-42-15">Tang</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display dataDate="2015-11-30-18-22-29"/>
+            <notes dataDate="2015-11-30-18-22-29"/>
+            <subject pref="false" refid="300264304" vocab="aat" dataDate="2015-11-30-18-26-36">
+                <term type="conceptTopic" dataDate="2015-11-30-18-26-36">afterlife</term>
+            </subject>
+            <subject pref="false" refid="300254496" vocab="aat" dataDate="2015-11-30-18-26-36">
+                <term type="descriptiveTopic" dataDate="2015-11-30-18-26-36">food</term>
+            </subject>
+            <subject pref="false" refid="300234126" vocab="aat" dataDate="2015-11-30-18-26-36">
+                <term type="descriptiveTopic" dataDate="2015-11-30-18-26-36">funerary objects</term>
+            </subject>
+            <subject pref="false" refid="300234117" vocab="aat" dataDate="2015-11-30-18-26-36">
+                <term type="descriptiveTopic" dataDate="2015-11-30-18-26-36">ceremonial objects</term>
+            </subject>
+            <subject pref="false" refid="300343842" vocab="aat" dataDate="2015-11-30-18-26-36">
+                <term type="descriptiveTopic" dataDate="2015-11-30-18-26-36">Camelus bactrianus</term>
+            </subject>
+            <subject pref="false" refid="300249395" vocab="aat" dataDate="2015-11-30-18-26-36">
+                <term type="descriptiveTopic" dataDate="2015-11-30-18-26-36">Animalia</term>
+            </subject>
+            <subject pref="false" refid="300073708" vocab="aat" dataDate="2015-11-30-18-22-29">
+                <term type="conceptTopic" dataDate="2015-11-30-18-22-29">religions</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display dataDate="2015-11-30-18-44-54"/>
+            <notes dataDate="2015-11-30-18-44-54"/>
+            <technique pref="false" refid="300053914" vocab="aat" dataDate="2015-11-30-18-44-54">glazing</technique>
+        </techniqueSet>
+        <titleSet>
+            <display dataDate="2015-11-30-18-27-57"/>
+            <notes dataDate="2015-11-30-18-27-57"/>
+            <title type="repository" pref="false" dataDate="2015-11-30-18-27-57">Tomb Figure of a Bactrian Camel</title>
+        </titleSet>
+        <worktypeSet>
+            <display dataDate="2015-11-30-18-46-02"/>
+            <notes dataDate="2015-11-30-18-46-02"/>
+            <worktype pref="false" refid="300184644" vocab="aat">funerary sculpture</worktype>
+            <worktype pref="false" refid="300047600" vocab="aat" dataDate="2015-11-30-18-46-02">statues</worktype>
+            <worktype pref="false" refid="300047090" vocab="aat" dataDate="2015-11-30-18-46-02">sculpture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_d26edb02-6f8a-40a6-91c5-74a2a340e9a7" source="Kurs" refid="c_94497520-7cb9-47b8-abaa-6cfb872f6465">
+        <agentSet>
+            <display dataDate="2015-11-16-13-47-54"/>
+            <notes dataDate="2015-11-16-13-47-54"/>
+            <agent pref="true" dataDate="2016-06-08-09-45-07">
+                <attribution dataDate="2015-11-16-13-47-54"/>
+                <culture dataDate="2015-11-16-13-47-54"/>
+                <dates dataDate="2015-11-16-13-47-54">
+                    <earliestDate circa="false"/>
+                </dates>
+                <name refid="100628022" type="personal" vocab="viaf" dataDate="2015-11-16-13-47-54">unknown Ancient Roman</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-47-54">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <display dataDate="2015-11-18-12-03-05"/>
+            <notes dataDate="2015-11-18-12-03-05"/>
+            <culturalContext pref="false" source="AAT 300020533" dataDate="2015-11-18-12-03-05">Roman (ancient Italian culture or period)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display dataDate="2015-11-16-13-49-25"/>
+            <notes dataDate="2015-11-16-13-49-25"/>
+            <date pref="false" source="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" type="creation" dataDate="2015-11-16-15-37-29">
+                <earliestDate>
+                    <date type="about" dataDate="2015-11-16-14-31-55">125</date>
+                </earliestDate>
+                <latestDate>
+                    <date type="about" dataDate="2015-11-16-14-31-55">125</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="creation" dataDate="2016-06-08-09-46-00">
+                <earliestDate>
+                    <date type="uncertain" dataDate="2015-11-16-13-49-25">0130</date>
+                </earliestDate>
+                <latestDate>
+                    <date type="uncertain" dataDate="2015-11-16-13-49-25">0140</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display dataDate="2015-11-16-13-51-06"/>
+            <notes dataDate="2015-11-16-13-51-06"/>
+            <description href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" lang="eng" pref="false" script="Latn" source="J. Paul Getty Museum" dataDate="2016-06-08-10-10-00">
+                <text dataDate="2015-11-16-13-51-06">The Greek hero Herakles carries a club over his left shoulder and holds a lionskin in his right hand. These objects help identify the figure, since Herakles nearly always appears with a club and the skin of the Nemean Lion, which he killed as his first labor. As is typical for depictions of Greek heroes, the young Herakles is shown nude, since the Greeks considered male nudity to be the highest form of beauty. No other god or hero is as frequently depicted in Greek and Roman art as is Herakles. 
+The Lansdowne Herakles very likely was inspired by a lost Greek statue, probably from the school of Polykleitos from the 300s B.C. Found near the ruins of the villa of the Roman emperor Hadrian at Tivoli outside Rome, this statue was one of numerous copies of Greek sculpture commissioned by Hadrian, who loved Greek culture. The statue was named for Lord Lansdowne, who once owned the Herakles and displayed it in his home in London.</text>
+                <author dataDate="2015-11-16-13-51-06">
+                    <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-16-13-51-06">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-51-06">aut</role>
+                </author>
+            </description>
+            <description lang="eng" pref="false" script="Latn" dataDate="2015-11-16-13-51-06">
+                <text dataDate="2015-11-16-13-51-06">Herakles standing in contrapposto, holding his attributes, the skin of the Nemean lion and a club. This statue was found in Tivoli ca. 1790, in the ruins of Hadrian’s Villa; it was in the collection of the Marquess of Lansdowne until 1951. It is related in appearance to works attributed to 4th-century BCE Greek sculptors, however, the work has an eclectic style that is purely Roman.
+[Source: J. Paul Getty Museum. Handbook of the Collections. Los Angeles: J. Paul Getty Museum, 1991 Page: 6.]</text>
+                <author dataDate="2015-11-16-13-51-06">
+                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-16-13-51-06">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-51-06">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <display dataDate="2015-11-16-13-55-11"/>
+            <notes dataDate="2015-11-16-13-55-11"/>
+            <location pref="false" type="repository" dataDate="2016-06-08-10-05-01">
+                <refid type="accession" dataDate="2015-11-16-13-55-11">70.AA.109</refid>
+                <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-16-13-55-11">J. Paul Getty Museum</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+            <location pref="false" type="discovery" dataDate="2016-06-08-10-04-55">
+                <refid dataDate="2015-11-16-13-55-11"/>
+                <name refid="207992749" type="geographic" vocab="viaf" dataDate="2015-11-16-13-55-11">Hadrian's Villa (Tivoli, Itálie)</name>
+                <point>
+                    <lat/>
+                    <long/>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display dataDate="2015-11-18-12-04-16"/>
+            <notes dataDate="2015-11-18-12-04-16"/>
+            <material pref="false" refid="300011599" type="medium" vocab="aat" dataDate="2015-11-18-12-04-16">Pentelic marble</material>
+        </materialSet>
+        <measurementsSet>
+            <display dataDate="2015-11-18-12-07-26"/>
+            <notes dataDate="2015-11-18-12-07-26"/>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="height" unit="cm" dataDate="2015-11-18-12-07-26">193.5</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="width" unit="cm" dataDate="2015-11-18-12-07-26">77.5</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="length" unit="cm" dataDate="2015-11-18-12-07-26">73</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="weight" unit="kg" dataDate="2015-11-18-12-07-26">385.5575</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="height" unit="in" dataDate="2015-11-18-12-07-26">76 3/16</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="width" unit="in" dataDate="2015-11-18-12-07-26">30 1/2</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="length" unit="in" dataDate="2015-11-18-12-07-26">28 3/4</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="weight" unit="lb" dataDate="2015-11-18-12-07-26">850.0001</measurements>
+        </measurementsSet>
+        <relationSet>
+            <display dataDate="2015-11-18-12-08-35"/>
+            <notes dataDate="2015-11-18-12-08-35"/>
+            <relation type="imageIs" relids="i_074040e0-4cc4-40e0-9f87-002b3b6f424b" source="Tamboti" pref="true" dataDate="2015-11-18-12-08-35">anterior view</relation>
+        </relationSet>
+        <sourceSet>
+            <display dataDate="2015-11-18-12-14-47"/>
+            <notes dataDate="2015-11-18-12-14-47"/>
+            <source pref="false" dataDate="2015-11-18-12-14-47">
+                <refid type="URI" dataDate="2015-11-18-12-14-47">http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/</refid>
+                <name type="electronic" dataDate="2015-11-18-12-14-47">J. Paul Getty Museum</name>
+            </source>
+            <source pref="false" dataDate="2015-11-18-12-14-47">
+                <refid type="URI" dataDate="2015-11-18-12-14-47">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_72_roman_sculpture</refid>
+                <name type="electronic" dataDate="2015-11-18-12-14-47">Cataloging Cultural Objects Commons</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <display dataDate="2015-11-16-14-02-38"/>
+            <notes dataDate="2015-11-16-14-02-38"/>
+            <subject pref="false" refid="300037206" vocab="aat" dataDate="2016-06-08-09-47-44">
+                <term type="descriptiveTopic" dataDate="2015-11-16-14-02-38">clubs (weapons)</term>
+            </subject>
+            <subject pref="false" refid="300343608" vocab="aat" dataDate="2015-11-16-14-02-38">
+                <term type="descriptiveTopic" dataDate="2015-11-16-14-02-38">lion skins</term>
+            </subject>
+            <subject pref="false" refid="300189568" vocab="aat" dataDate="2015-11-16-14-02-38">
+                <term type="descriptiveTopic" dataDate="2015-11-16-14-02-38">nudes</term>
+            </subject>
+            <subject pref="false" refid="300025928" vocab="aat" dataDate="2015-11-16-14-02-38">
+                <term type="descriptiveTopic" dataDate="2015-11-16-14-02-38">men</term>
+            </subject>
+            <subject pref="false" refid="300055985" vocab="aat" dataDate="2015-11-16-14-02-38">
+                <term type="descriptiveTopic" dataDate="2015-11-16-14-02-38">mythology</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display dataDate="2015-11-18-12-19-07"/>
+            <notes dataDate="2015-11-18-12-19-07"/>
+            <technique pref="false" refid="300264383" source="Simon Gruening" vocab="aat" dataDate="2015-11-18-12-19-07">sculpting</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref pref="false" dataDate="2016-06-08-10-09-12">
+                <name type="electronic">CONA</name>
+                <refid type="other">700006478</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <display dataDate="2015-11-18-12-02-21"/>
+            <notes dataDate="2015-11-18-12-02-21"/>
+            <title href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="repository" dataDate="2015-11-18-12-21-38">Statue of Hercules</title>
+            <title href="http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/" pref="false" source="J. Paul Getty Museum" type="translated" dataDate="2015-11-18-12-21-38">El Heracles de Lansdowne</title>
+            <title pref="true" type="popular" dataDate="2015-11-18-12-02-21">[The] Lansdowne Herakles</title>
+        </titleSet>
+        <worktypeSet>
+            <display dataDate="2015-11-18-12-20-22"/>
+            <notes dataDate="2015-11-18-12-20-22"/>
+            <worktype pref="false" refid="300047090" vocab="aat" dataDate="2015-11-18-12-20-22">sculpture</worktype>
+            <worktype pref="false" refid="300047600" vocab="aat" dataDate="2015-11-18-12-20-22">statues</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_5874ad04-bde9-4132-8919-cd19bb00e103" source="Kurs" refid="c_7b97e015-13f3-4a1a-aa06-8cd533ee2f71">
+        <agentSet>
+            <agent pref="true" dataDate="2016-05-18-13-55-46">
+                <culture>Italian</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1720</earliestDate>
+                    <latestDate circa="false">1778</latestDate>
+                </dates>
+                <name refid="2546239" source="viaf" type="personal" vocab="viaf">Piranesi, Gian Battista</name>
+                <role type="code" vocab="marcrelator">drm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext pref="false" source="AAT 300111198">Italian (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>before 1750</display>
+            <date href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" type="creation" dataDate="2016-05-18-13-57-23">
+                <earliestDate>
+                    <date>1749</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1750</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="creation" dataDate="2016-05-18-13-58-08">
+                <earliestDate>
+                    <date type="about">1740</date>
+                </earliestDate>
+                <latestDate>
+                    <date type="about">1750</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" dataDate="2015-11-02-13-25-18">
+                <text>When he was twenty-three, Piranesi made this preparatory study for an etching. The etching was published as part of a series of architectural and perspective images. He combined arches, pedestals, columns, bridges, and sculptures in an imaginative reconstruction of monumental and complex classical architecture. Piranesi took a creative approach when he made architectural fantasies like this one, using antique ruins as his point of departure. On this process he wrote: 
+"These speaking ruins have filled my spirit with images that accurate drawings, even such as those of the immortal Palladio, could never have succeeded in conveying, though I always kept them before my eyes."
+Piranesi first drew the main outlines of the architecture in chalk, then added brown and red wash for shading and details. Small figures in boats are indicated with broad strokes of wash. Varying tones of wash and rapid, squiggly lines evoke atmospheric conditions. A squaring in black chalk lines helped the artist transfer his design to the etching plate.</text>
+                <author>
+                    <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" dataDate="2015-11-02-13-03-47">
+                <text>Piranesi first drew the main outlines in chalk, then liberally added brown and red wash for shading and some of the details. The drawing has been squared for transfer.</text>
+                <author>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" dataDate="2015-11-02-13-12-35">
+                <author refid="100627125" source="viaf" vocab="viaf">Anonim</author>
+                <position>On the mount, at lower left.</position>
+                <text extent="Secondary inscription in brown ink." type="text">J. B. Piranese</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="false" type="repository" dataDate="2016-05-18-14-02-07">
+                <refid type="accession">88.GB.18</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material extent="brown and reddish" pref="false" refid="300011051" type="medium" vocab="aat">wash</material>
+            <material pref="false" refid="300080058" type="medium" vocab="aat">black chalk</material>
+            <material pref="false" refid="300080064" type="medium" vocab="aat">red chalk</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" shape="rectangle" source="J. Paul Getty Museum" type="height" unit="cm">38.4</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" shape="rectangle" source="J. Paul Getty Museum" type="width" unit="cm">52.9</measurements>
+            <measurements pref="false" shape="rectangle" type="height" unit="in">15 1/8</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" shape="rectangle" source="J. Paul Getty Museum" type="width" unit="in">20 13/16</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="http://www.metmuseum.org/art/collection/search/338737" type="studyFor">Giovanni Battista Piranesi: "Part of a Large Magnificent Port" (etching), published 1750; Metropolitan Museum of Art</relation>
+            <relation pref="true" relids="i_7968d2cb-d0a3-4433-822c-307ec10f9e84" source="Tamboti" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2016-05-18-11-47-32">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_34_architectural_fantasy_drawing</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source pref="false" dataDate="2016-05-18-11-46-38">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject pref="false" refid="300120599" vocab="aat" dataDate="2015-11-02-12-55-32">
+                <term type="descriptiveTopic">ports</term>
+            </subject>
+            <subject pref="false" refid="300020533" vocab="aat" dataDate="2015-11-02-12-54-26">
+                <term type="iconographicTopic">Roman</term>
+            </subject>
+            <subject pref="false" refid="300067141" vocab="aat" dataDate="2015-11-02-12-55-11">
+                <term type="descriptiveTopic">fantastic architecture</term>
+            </subject>
+            <subject pref="false" refid="300263552" vocab="aat" dataDate="2016-05-18-14-00-45">
+                <term type="descriptiveTopic">architecture</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique pref="false" refid="300053431" vocab="aat">squaring</technique>
+            <technique pref="false" refid="300054196" source="Simon Gruening" vocab="aat">drawing</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="false" type="repository">An Ancient Port</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300033973" vocab="aat">drawings</worktype>
+        </worktypeSet>
+    </work>
+</vra>

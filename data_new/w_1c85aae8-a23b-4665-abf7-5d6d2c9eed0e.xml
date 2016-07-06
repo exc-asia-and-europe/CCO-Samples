@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1866</earliestDate>
                     <latestDate circa="false">1946</latestDate>
                 </dates>
-                <name refid="75244946" source="viaf" type="personal" vocab="viaf">Guérin, Jules</name>
+                <name refid="75244946" type="personal" vocab="viaf">Guérin, Jules</name>
                 <role type="code" vocab="marcrelator">drm</role>
             </agent>
             <agent pref="false" dataDate="2016-05-18-15-29-36">
@@ -17,7 +17,7 @@
                     <earliestDate circa="false">1866</earliestDate>
                     <latestDate circa="false">1924</latestDate>
                 </dates>
-                <name refid="68810776" source="viaf" type="personal" vocab="viaf">Bacon, Henry</name>
+                <name refid="68810776" type="personal" vocab="viaf">Bacon, Henry</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
         </agentSet>

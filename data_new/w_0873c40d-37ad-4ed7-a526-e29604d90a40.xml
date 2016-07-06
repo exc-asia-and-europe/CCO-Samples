@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1426</earliestDate>
                     <latestDate circa="false">1482</latestDate>
                 </dates>
-                <name refid="18017139" source="viaf" type="personal" vocab="viaf">Giovanni di Paolo</name>
+                <name refid="18017139" type="personal" vocab="viaf">Giovanni di Paolo</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
         </agentSet>
@@ -39,7 +39,7 @@
                 <text>This masterpiece of Sienese painting combines Giovanni di Paolo’s exquisite visionary effects and narrative detail. The picture presents a vision of Paradise reminiscent of that described by the great Florentine poet Dante in "The Divine Comedy." The universe is shown as a celestial globe, with the earth at the center surrounded by a series of concentric circles representing first the four elements, the known planets (including the sun, in accordance with medieval and Renaissance cosmology), and finally the constellations of the zodiac. Presiding over the scene of Creation is God the Father, bathed in a glowing celestial light as he is borne aloft by seraphim. Beside the "mappamondo" (map of the world) is the garden of Paradise, its four rivers issuing from the ground at the lower right. The garden's effulgent flora symbolize the pure and sinless state of man before the Fall. A diminutive Adam and Eve are expelled from the garden by a lithe angel whose unusual nakedness and human form may symbolize his deep compassion for the corrupted state of humankind after the fall from grace. 
 This panel was originally at the far left of the predella from Giovanni di Paolo's "Guelfi Altarpiece" formerly in the Church of San Domenico in Siena (now Galleria degli Uffizi, Florence). It originally joined a representation of Paradise, now in the Museum (06.1046). For a reconstruction of the altarpiece, see http://www.metmuseum.org/collection/the-collection-online/search/436512?rpp=30&amp;pg=1&amp;ft=giovanni+di+paolo&amp;pos=1 (additional images).</text>
                 <author>
-                    <name refid="126238294" source="viaf" type="corporate" vocab="viaf">Metropolitan Museum of Art.</name>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art.</name>
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
@@ -52,21 +52,21 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
                     <long>11.331693</long>
                 </point>
             </location>
-            <location pref="false" type="repository" dataDate="2016-04-12-12-52-04">
+            <location pref="true" type="repository" dataDate="2016-04-12-12-52-04">
                 <refid type="accession">1975.1.31</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300014657" source="getty" type="support" vocab="aat">panels</material>
-            <material pref="false" refid="300264831" source="getty" type="medium" vocab="aat">gold leaf</material>
-            <material pref="false" refid="300015062" source="getty" type="medium" vocab="aat">tempera</material>
+            <material pref="false" refid="300014657" type="support" vocab="aat">panels</material>
+            <material pref="false" refid="300264831" type="medium" vocab="aat">gold leaf</material>
+            <material pref="false" refid="300015062" type="medium" vocab="aat">tempera</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="The Metropolitan Museum of Art Online Collection" type="height" unit="in">18 1/4</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="The Metropolitan Museum of Art Online Collection" type="width" unit="in">20 1/2</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="The Metropolitan Museum of Art Online Collection" type="height" unit="cm">46.4</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="The Metropolitan Museum of Art Online Collection" type="width" unit="cm">52.1</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="height" unit="in">18 1/4</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="in">20 1/2</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="height" unit="cm">46.4</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="cm">52.1</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_f98aca0f-71e3-4387-8d3c-71f5c112b013" source="Tamboti" pref="true">general view</relation>
@@ -78,11 +78,11 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
             </source>
             <source pref="false">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/458971</refid>
-                <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+                <name type="electronic">Metropolitan Museum of Art</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod pref="false" refid="300020786" source="getty" vocab="aat">International Gothic</stylePeriod>
+            <stylePeriod pref="false" refid="300020786" vocab="aat">International Gothic</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject pref="false" refid="300028442" vocab="aat" dataDate="2016-04-12-12-48-01">
@@ -91,21 +91,21 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
             <subject pref="false" refid="300003745" vocab="aat" dataDate="2016-04-12-12-37-59">
                 <term type="descriptiveTopic">predellas</term>
             </subject>
-            <subject pref="false" refid="300055986" source="getty" vocab="aat" dataDate="2015-04-27-12-23-39">
+            <subject pref="false" refid="300055986" vocab="aat" dataDate="2015-04-27-12-23-39">
                 <term type="iconographicTopic">paradise</term>
             </subject>
-            <subject pref="false" refid="300069002" source="getty" vocab="aat">
+            <subject pref="false" refid="300069002" vocab="aat">
                 <term type="iconographicTopic">creation</term>
             </subject>
-            <subject pref="false" refid="300343851" source="getty" vocab="aat">
+            <subject pref="false" refid="300343851" vocab="aat">
                 <term type="descriptiveTopic">gods</term>
             </subject>
-            <subject pref="false" refid="300073708" source="getty" vocab="aat">
+            <subject pref="false" refid="300073708" vocab="aat">
                 <term type="conceptTopic">religions</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300054216" source="getty" vocab="aat">painting</technique>
+            <technique pref="false" refid="300054216" vocab="aat">painting</technique>
             <technique pref="false" refid="300178675" source="Simon Gruening" vocab="aat">panel painting</technique>
         </techniqueSet>
         <textrefSet>
@@ -115,11 +115,12 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
             </textref>
         </textrefSet>
         <titleSet>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/458971" pref="false" source="The Metropolitan Museum of Art Online Collection" type="repository">The Creation of the World and the Expulsion from Paradise</title>
+            <title pref="false" type="other">The Creation and the Expulsion of Adam and Eve from Paradise</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/458971" pref="false" source="Metropolitan Museum of Art" type="repository">The Creation of the World and the Expulsion from Paradise</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300033656" source="getty" vocab="aat">panel paintings</worktype>
-            <worktype pref="false" refid="300033618" source="getty" vocab="aat">paintings</worktype>
+            <worktype pref="false" refid="300033656" vocab="aat">panel paintings</worktype>
+            <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
 </vra>

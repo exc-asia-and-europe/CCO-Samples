@@ -28,7 +28,7 @@
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description extent="museum label" href="http://www.metmuseum.org/collection/the-collection-online/search/467642" pref="false" source="Metropolitan Museum of Art - Online Collection" dataDate="2016-02-16-14-37-42">
+            <description extent="museum label" href="http://www.metmuseum.org/collection/the-collection-online/search/467642" pref="false" source="Metropolitan Museum of Art" dataDate="2016-02-16-14-37-42">
                 <text>The seven individual hangings known as "The Unicorn Tapestries," are among the most beautiful and complex works of art from the late Middle Ages that survive. Luxuriously woven in fine wool and silk with silver and gilded threads, the tapestries vividly depict scenes associated with a hunt for the elusive, magical unicorn. 
 
 "The Unicorn in Captivity" may have been created as a single image rather than part of a series. In this instance, the unicorn probably represents the beloved tamed. He is tethered to a tree and constrained by a fence, but the chain is not secure and the fence is low enough to leap over: The unicorn could escape if he wished. Clearly, however, his confinement is a happy one, to which the ripe, seed-laden pomegranates in the tree—a medieval symbol of fertility and marriage—testify. The red stains on his flank do not appear to be blood, as there are no visible wounds like those in the hunting series; rather, they represent juice dripping from bursting pomegranates above. Many of the other plants represented here, such as wild orchid, bistort, and thistle, echo this theme of marriage and procreation: they were acclaimed in the Middle Ages as fertility aids for both men and women. Even the little frog, nestled among the violets at the lower right, was cited by medieval writers for its noisy mating.</text>
@@ -73,7 +73,7 @@
             <relation pref="true" relids="i_8843ee07-dc38-4fd2-a8fb-5ba576c837c0" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
-            <source pref="false">
+            <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_123_tapestry_part_of_series</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
@@ -95,13 +95,13 @@
             <subject pref="false" refid="300055866" vocab="aat" dataDate="2016-02-16-14-58-37">
                 <term type="conceptTopic">allegory (artistic device)</term>
             </subject>
-            <subject pref="false">
+            <subject pref="false" refid="300379595" vocab="aat" dataDate="2016-07-06">
                 <term type="iconographicTopic">unicorns</term>
             </subject>
             <subject pref="false" refid="300189557" vocab="aat">
                 <term type="iconographicTopic">female</term>
             </subject>
-            <subject pref="false">
+            <subject pref="false" refid="300256501" vocab="aat" dataDate="2016-07-06">
                 <term type="iconographicTopic">Passion cycles</term>
             </subject>
             <subject pref="false" refid="uuid-9e0abfbc-5cff-5fe2-8420-3830087bc722" vocab="local">
@@ -112,7 +112,7 @@
             <technique pref="false" refid="300053642" vocab="aat">weaving</technique>
         </techniqueSet>
         <titleSet>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/467642" pref="true" source="Metropolitan Museum of Art - Online Collection" type="repository">The Unicorn in Captivity (from the Unicorn Tapestries)</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/467642" pref="true" source="Metropolitan Museum of Art" type="repository">The Unicorn in Captivity (from the Unicorn Tapestries)</title>
             <title pref="false" type="other">Unicorn in Captivity</title>
         </titleSet>
         <worktypeSet>

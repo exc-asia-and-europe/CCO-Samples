@@ -7,7 +7,7 @@
                     <earliestDate circa="false">1439</earliestDate>
                     <latestDate circa="false">1502</latestDate>
                 </dates>
-                <name refid="56688760" source="viaf" type="personal" vocab="viaf">Martini, Francesco di Giorgio</name>
+                <name refid="56688760" type="personal" vocab="viaf">Martini, Francesco di Giorgio</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
         </agentSet>
@@ -27,17 +27,17 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=12" pref="false" dataDate="2015-04-22-15-05-19">
+            <description pref="false" dataDate="2015-04-22-15-05-19">
                 <text>In a continuous narrative designed for the side of a wedding chest, the scene depicts Paris, a shepherd who is the most handsome man in the world. Paris must judge a competition between three goddesses; he hands an apple inscribed "For the fairest" to Aphrodite without even looking at her rival goddesses, Hera and Athena. He thus chooses the love of Helen, the world's most beautiful woman, over greatness or warlike prowess. As a reward, he is granted the fair Helen, and takes her on his horse to the town in the distance.</text>
                 <author>
-                    <name refid="314377300" source="viaf" type="uniformtitlework" vocab="viaf">Baca, Murtha.</name>
+                    <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha.</name>
                     <role type="code" vocab="marcrelator"/>
                 </author>
             </description>
             <description pref="false" dataDate="2015-04-22-15-03-06">
                 <text>This panel features several stories from the turbulent life of the Trojan prince, Paris. The prince's first wife, the nymph Oenone, appears at center, wearing a flowing brocaded gown and carrying a bow. Blessed with the gift of prophecy, Oenone foretold to Paris the dire consequences of his pursuit of the beautiful Spartan queen, Helen. The left-hand side of the panel shows the Judgment of Paris. Here, a reclining Paris hands a golden apple to Venus--one of three bare-breasted goddesses--in exchange for access to Helen. Oenone reappears on the right-hand side, imploring Paris, already mounted on a white horse, not to abandon her. In the distance, Paris, alone on horseback, gallops toward the turreted red walls of a city, possibly Troy, and his fateful future.</text>
                 <author>
-                    <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
@@ -45,12 +45,12 @@
         <locationSet>
             <location pref="false" type="repository" dataDate="2015-04-22-15-07-31">
                 <refid type="accession">70.PB.45.2</refid>
-                <name type="corporate">The J. Paul Getty Museum</name>
+                <name type="corporate">J. Paul Getty Museum</name>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300015062" source="getty" type="medium" vocab="aat">tempera</material>
-            <material pref="false" refid="300014657" source="getty" type="support" vocab="aat">panels</material>
+            <material pref="false" refid="300015062" type="medium" vocab="aat">tempera</material>
+            <material pref="false" refid="300014657" type="support" vocab="aat">panels</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="false" shape="landscape" type="height" unit="cm">40</measurements>
@@ -70,64 +70,64 @@
                 <refid type="URI">http://www.getty.edu/art/collection/objects/566/francesco-di-giorgio-martini-the-story-of-oenone-and-paris-italian-1460s/</refid>
                 <name type="electronic">The J. Paul Getty Museum Online Collection</name>
             </source>
-            <source pref="false" dataDate="2016-03-24-09-26-32">
+            <source pref="true" dataDate="2016-03-24-09-26-32">
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=12</refid>
                 <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 218.</name>
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300027857" source="getty" vocab="aat" dataDate="2015-04-22-15-16-39">
+            <subject pref="false" refid="300027857" vocab="aat" dataDate="2015-04-22-15-16-39">
                 <term type="conceptTopic">decisions</term>
             </subject>
-            <subject pref="false" refid="300055475" source="getty" vocab="aat" dataDate="2015-04-22-15-15-52">
+            <subject pref="false" refid="300055475" vocab="aat" dataDate="2015-04-22-15-15-52">
                 <term type="conceptTopic">marriage</term>
             </subject>
-            <subject pref="false" refid="300055821" source="getty" vocab="aat" dataDate="2015-04-22-15-15-39">
+            <subject pref="false" refid="300055821" vocab="aat" dataDate="2015-04-22-15-15-39">
                 <term type="conceptTopic">beauty</term>
             </subject>
-            <subject pref="false" refid="300250148" source="getty" vocab="aat" dataDate="2015-04-22-15-12-47">
+            <subject pref="false" refid="300250148" vocab="aat" dataDate="2015-04-22-15-12-47">
                 <term type="descriptiveTopic">Equus caballus</term>
             </subject>
-            <subject pref="false" refid="300387238" source="getty" vocab="aat">
+            <subject pref="false" refid="300387238" vocab="aat">
                 <term type="descriptiveTopic">fortified settlements</term>
             </subject>
-            <subject pref="false" refid="300006891" source="getty" vocab="aat" dataDate="2015-04-22-15-12-34">
+            <subject pref="false" refid="300006891" vocab="aat" dataDate="2015-04-22-15-12-34">
                 <term type="descriptiveTopic">castles</term>
             </subject>
-            <subject pref="false" refid="300025928" source="getty" vocab="aat" dataDate="2015-04-22-15-12-18">
+            <subject pref="false" refid="300025928" vocab="aat" dataDate="2015-04-22-15-12-18">
                 <term type="descriptiveTopic">men</term>
             </subject>
-            <subject pref="false" refid="300025943" source="getty" vocab="aat">
+            <subject pref="false" refid="300025943" vocab="aat">
                 <term type="descriptiveTopic">women</term>
             </subject>
-            <subject pref="false" refid="300015636" source="getty" vocab="aat" dataDate="2015-04-22-15-11-04">
+            <subject pref="false" refid="300015636" vocab="aat" dataDate="2015-04-22-15-11-04">
                 <term type="descriptiveTopic">landscapes</term>
             </subject>
-            <subject pref="false" refid="300055314" source="getty" vocab="aat">
+            <subject pref="false" refid="300055314" vocab="aat">
                 <term type="conceptTopic">wars</term>
             </subject>
-            <subject pref="false" refid="300055165" source="getty" vocab="aat" dataDate="2015-04-22-15-09-53">
+            <subject pref="false" refid="300055165" vocab="aat" dataDate="2015-04-22-15-09-53">
                 <term type="conceptTopic">love</term>
             </subject>
-            <subject pref="false">
+            <subject pref="false" refid="300374810" vocab="aat">
                 <term type="descriptiveTopic">victories</term>
             </subject>
-            <subject pref="false" refid="300069186" source="getty" vocab="aat">
+            <subject pref="false" refid="300069186" vocab="aat">
                 <term type="descriptiveTopic">contests</term>
             </subject>
-            <subject pref="false" refid="300055985" source="getty" vocab="aat" dataDate="2015-04-22-15-08-14">
+            <subject pref="false" refid="300055985" vocab="aat" dataDate="2015-04-22-15-08-14">
                 <term type="conceptTopic">mythology</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300178675" source="getty" vocab="aat">panel painting</technique>
-            <technique pref="false" refid="300054216" source="getty" vocab="aat">painting</technique>
+            <technique pref="false" refid="300178675" vocab="aat">panel painting</technique>
+            <technique pref="false" refid="300054216" vocab="aat">painting</technique>
         </techniqueSet>
         <titleSet>
             <title pref="false" type="repository">The Story of Oenone and Paris (center panel)</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300033618" source="getty" vocab="aat">paintings</worktype>
+            <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
 </vra>

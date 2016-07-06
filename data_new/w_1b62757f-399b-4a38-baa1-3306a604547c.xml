@@ -5,7 +5,6 @@
             <agent pref="false" dataDate="2016-06-01-14-36-25">
                 <culture>French</culture>
                 <dates type="life">
-                    <earliestDate circa="false"/>
                 </dates>
                 <name refid="27192067" type="personal" vocab="viaf">Salis, Rodolphe</name>
                 <role type="code" vocab="marcrelator">cli</role>
@@ -16,7 +15,7 @@
                     <earliestDate circa="false">1859</earliestDate>
                     <latestDate circa="false">1923</latestDate>
                 </dates>
-                <name refid="76323168" source="viaf" type="personal" vocab="viaf">Steinlen, Théophile Alexandre</name>
+                <name refid="76323168" type="personal" vocab="viaf">Steinlen, Théophile Alexandre</name>
                 <role type="code" vocab="marcrelator">prm</role>
             </agent>
         </agentSet>
@@ -44,19 +43,19 @@
             <description pref="false" source="https://www.google.com/culturalinstitute/asset-viewer/tourn%C3%A9e-du-chat-noir-de-rodolphe-salis-tour-of-rodolphe-salis-chat-noir/BAEF9F-mDJvr0A" dataDate="2015-11-11-15-07-28">
                 <text>Rodolph Salis established the Chat Noir (The Black Cat) as an artistic cabaret in Montmartre in 1881, and it soon became a popular gathering place for Montmartre's rising artists and writers. Beginning in 1892, Salis organized a company of performers from the cabaret to go on tour during the summer months. This large poster by Théophile Steinlen, one of the important artists whose career was launched at the Chat Noir, would have served as a kind of "coming attractions" announcement to be posted outside the venues hosting the tour.</text>
                 <author>
-                    <name refid="124291214" source="viaf" type="corporate" vocab="viaf">Google (Firm)</name>
+                    <name refid="124291214" type="corporate" vocab="viaf">Google (Firm)</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
         <inscriptionSet>
             <inscription pref="false" dataDate="2015-11-11-15-14-30">
-                <author refid="76323168" source="viaf" vocab="viaf">Steinlen, Théophile Alexandre</author>
+                <author refid="76323168" vocab="viaf">Steinlen, Théophile Alexandre</author>
                 <position>lower left</position>
                 <text type="signature">Th Steinlen</text>
             </inscription>
             <inscription pref="false" dataDate="2015-11-11-15-14-01">
-                <author refid="76323168" source="viaf" vocab="viaf">Steinlen, Théophile Alexandre</author>
+                <author refid="76323168" vocab="viaf">Steinlen, Théophile Alexandre</author>
                 <text type="text">Prochainement
 Tournée du Chat Noir de Rodolph Salis</text>
             </inscription>
@@ -65,16 +64,16 @@ Tournée du Chat Noir de Rodolph Salis</text>
             <location pref="false" type="other" dataDate="2016-06-01-14-38-56">
                 <name refid="147368137" type="corporate" vocab="viaf">Chat Noir (kabaret : Paříž, Francie)</name>
             </location>
-            <location pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_47_print_poster" type="creation" dataDate="2015-11-11-14-51-25">
-                <name source="TGN 7013286" type="geographic">Montmartre</name>
+            <location pref="false" type="creation" dataDate="2015-11-11-14-51-25">
+                <name refid="7013286" type="geographic" vocab="tgn">Montmartre</name>
             </location>
             <location pref="false" type="repository" dataDate="2015-11-11-14-49-41">
                 <refid type="accession">77.050.003</refid>
-                <name source="ULAN 500303534" type="corporate">Rutgers University, Jane Voorhees Zimmerli Art Museum</name>
+                <name refid="145364812" type="corporate" vocab="viaf">Rutgers University, Jane Voorhees Zimmerli Art Museum</name>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300014109" source="getty" type="support" vocab="aat">paper</material>
+            <material pref="false" refid="300014109" type="support" vocab="aat">paper</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="false" shape="rectangle" source="https://www.google.com/culturalinstitute/asset-viewer/tourn%C3%A9e-du-chat-noir-de-rodolphe-salis-tour-of-rodolphe-salis-chat-noir/BAEF9F-mDJvr0A" type="height" unit="mm">1359</measurements>
@@ -88,33 +87,33 @@ Tournée du Chat Noir de Rodolph Salis</text>
                 <refid type="URI">https://www.google.com/culturalinstitute/asset-viewer/tourn%C3%A9e-du-chat-noir-de-rodolphe-salis-tour-of-rodolphe-salis-chat-noir/BAEF9F-mDJvr0A</refid>
                 <name type="electronic">Google Art Project</name>
             </source>
-            <source pref="false" dataDate="2015-11-11-15-19-39">
+            <source pref="true" dataDate="2015-11-11-15-19-39">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_47_print_poster</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod pref="false" refid="300111540" source="getty" vocab="aat">fin de siècle</stylePeriod>
+            <stylePeriod pref="false" refid="300111540" vocab="aat">fin de siècle</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject pref="false" refid="300265960" source="getty" vocab="aat">
+            <subject pref="false" refid="300265960" vocab="aat">
                 <term type="descriptiveTopic">Felis domesticus</term>
             </subject>
-            <subject pref="false" refid="300264856" source="getty" vocab="aat">
+            <subject pref="false" refid="300264856" vocab="aat">
                 <term type="descriptiveTopic">shadow theater</term>
             </subject>
-            <subject pref="false" refid="300249395" source="getty" vocab="aat" dataDate="2015-11-11-14-54-23">
+            <subject pref="false" refid="300249395" vocab="aat" dataDate="2015-11-11-14-54-23">
                 <term type="descriptiveTopic">Animalia</term>
             </subject>
-            <subject pref="false" refid="300056475" source="getty" vocab="aat">
+            <subject pref="false" refid="300056475" vocab="aat">
                 <term type="descriptiveTopic">commercial art</term>
             </subject>
-            <subject pref="false" refid="300054347" source="getty" vocab="aat" dataDate="2016-06-01-14-34-20">
+            <subject pref="false" refid="300054347" vocab="aat" dataDate="2016-06-01-14-34-20">
                 <term type="descriptiveTopic">advertising</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300053271" source="getty" vocab="aat">lithography</technique>
+            <technique pref="false" refid="300053271" vocab="aat">lithography</technique>
         </techniqueSet>
         <titleSet>
             <title pref="true" type="descriptive">Poster of a Black Cat, for the Reopening of the Chat Noir Cabaret</title>
@@ -122,9 +121,9 @@ Tournée du Chat Noir de Rodolph Salis</text>
             <title pref="false" source="https://www.google.com/culturalinstitute/asset-viewer/tourn%C3%A9e-du-chat-noir-de-rodolphe-salis-tour-of-rodolphe-salis-chat-noir/BAEF9F-mDJvr0A" type="translated">Tour of Rodolphe Salis' Chat Noir</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300041273" source="getty" vocab="aat">prints</worktype>
-            <worktype pref="false" refid="300041379" source="getty" vocab="aat">lithographs</worktype>
-            <worktype pref="false" refid="300027221" source="getty" vocab="aat">posters</worktype>
+            <worktype pref="false" refid="300041273" vocab="aat">prints</worktype>
+            <worktype pref="false" refid="300041379" vocab="aat">lithographs</worktype>
+            <worktype pref="false" refid="300027221" vocab="aat">posters</worktype>
         </worktypeSet>
     </work>
 </vra>

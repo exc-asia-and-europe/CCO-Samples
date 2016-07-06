@@ -27,7 +27,7 @@
                 <text>Monumental sculpture, designed in England, cast at a foundry in Germany. Cast in bronze in 50 sections.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
             <description href="https://en.wikipedia.org/wiki/Large_Arch" pref="false" source="Wikipedia" dataDate="2016-06-08-16-14-53">
@@ -77,9 +77,9 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
             <relation href="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad" pref="true" relids="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad" source="Tamboti" type="imageIs">Henry Moore's "Large Arch," which was installed near the Rogers Library in 1971</relation>
         </relationSet>
         <sourceSet>
-            <source pref="false" dataDate="2016-01-27-15-59-39">
+            <source pref="true" dataDate="2016-01-27-15-59-39">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_87_modern_sculpture_outdoors</refid>
-                <name type="electronic">CCO Commons</name>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
             <source pref="false">
                 <refid type="URI">https://en.wikipedia.org/wiki/Large_Arch</refid>

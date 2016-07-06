@@ -88,7 +88,7 @@ GLOBE TERRESTRE DRESSÉ sur les observations les plus nouvelles et le plus exact
             <location pref="false" type="creation" dataDate="2016-03-10-15-47-35">
                 <name refid="7008038" type="geographic" vocab="tgn">Paris</name>
             </location>
-            <location pref="false" type="repository" dataDate="2016-03-10-15-47-10">
+            <location pref="true" type="repository" dataDate="2016-03-10-15-47-10">
                 <refid type="accession">86.DH.705.1</refid>
                 <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
             </location>
@@ -121,7 +121,7 @@ GLOBE TERRESTRE DRESSÉ sur les observations les plus nouvelles et le plus exact
                 <refid type="URI">http://www.getty.edu/art/collection/objects/5933/globe-designed-and-assembled-by-jean-antoine-nollet-map-engraved-by-louis-borde-lacquer-decoration-attributed-to-the-workshop-of-guillaume-martin-et-al-terrestrial-globe-globe-terrestre-french-about-1728/?artview=dor66544</refid>
                 <name type="electronic">The J. Paul Getty Museum online</name>
             </source>
-            <source pref="false">
+            <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_109_globe_related_work</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>

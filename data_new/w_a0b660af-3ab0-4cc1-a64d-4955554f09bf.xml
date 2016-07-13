@@ -4,7 +4,7 @@
         <agentSet>
             <agent pref="false" dataDate="2016-03-10-13-50-06">
                 <culture>French</culture>
-                <dates type="other">
+                <dates type="other" extent="owned">
                     <earliestDate circa="false">1984</earliestDate>
                 </dates>
                 <name refid="151182274" type="personal" vocab="viaf">Alain Moatti</name>
@@ -12,7 +12,7 @@
             </agent>
             <agent pref="false" dataDate="2016-06-08-11-47-34">
                 <culture>French</culture>
-                <dates type="other">
+                <dates type="other" extent="owned">
                     <earliestDate circa="true" type="about">1900</earliestDate>
                     <latestDate circa="false">1984</latestDate>
                 </dates>
@@ -60,7 +60,7 @@
                     <date>1984</date>
                 </latestDate>
             </date>
-            <date extent="The Glory of the Golden Age, Rijksmuseum Amsterdam" href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-03-10-13-35-21">
+            <date extent="The Glory of the Golden Age, Rijksmuseum Amsterdam." href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-03-10-13-35-21">
                 <earliestDate>
                     <date>2000-04-15</date>
                 </earliestDate>
@@ -68,7 +68,7 @@
                     <date>2000-09-17</date>
                 </latestDate>
             </date>
-            <date pref="false" type="creation" dataDate="2016-06-08-11-49-00">
+            <date pref="true" type="creation" dataDate="2016-06-08-11-49-00">
                 <earliestDate>
                     <date>1671</date>
                 </earliestDate>
@@ -125,7 +125,7 @@ Jacob van Reygersberg was a wealthy provincial politician who had recently been 
             <location extent="April 15 to September 17, 2000" href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-03-10-13-40-13">
                 <name refid="290597016" type="corporate" vocab="viaf">Rijksmuseum (Amsterdam)</name>
             </location>
-            <location pref="false" type="repository" dataDate="2016-06-08-11-52-56">
+            <location pref="true" type="repository" dataDate="2016-06-08-11-52-56">
                 <refid href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" source="J. Paul Getty Museum" type="accession">84.SA.743</refid>
                 <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
             </location>

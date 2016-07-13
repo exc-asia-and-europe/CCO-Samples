@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1833</earliestDate>
                     <latestDate circa="false">1909</latestDate>
                 </dates>
-                <name refid="62351142" source="viaf" type="personal" vocab="viaf">Smillie, James David</name>
+                <name refid="62351142" type="personal" vocab="viaf">Smillie, James David</name>
                 <role type="code" vocab="marcrelator">egr</role>
             </agent>
             <agent pref="false" dataDate="2016-06-01-13-03-34">
@@ -17,7 +17,7 @@
                     <earliestDate circa="false">1830</earliestDate>
                     <latestDate circa="false">1902</latestDate>
                 </dates>
-                <name refid="27338209" source="viaf" type="personal" vocab="viaf">Bierstadt, Albert</name>
+                <name refid="27338209" type="personal" vocab="viaf">Bierstadt, Albert</name>
                 <role type="code" vocab="marcrelator">dsr</role>
             </agent>
         </agentSet>
@@ -45,15 +45,15 @@
 - Library has two impressions, one proof before letters.
 - Library's proof before letters is signed in pencil "A. Bierstadt" lower right and blind stamped "Estate of Henry Ward Beecher - American Art Association (Sale) 1887" lower left.</text>
                 <author>
-                    <name refid="151962300" source="viaf" type="corporate" vocab="viaf">Library of Congress</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
             <description pref="false" dataDate="2015-11-11-13-56-16">
                 <text>Lake in the Yosemite Gulch of the Rocky Mountains, with a Native American encampment.</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -68,12 +68,12 @@
                 <text type="text">Estate of Henry Ward Beecher - American Art Association (Sale) 1887</text>
             </inscription>
             <inscription extent="library's proof before letters is signed in pencil" href="http://www.loc.gov/pictures/item/95513915/" pref="false" source="Library of Congress" dataDate="2015-11-11-14-13-12">
-                <author refid="27338209" source="viaf" vocab="viaf">Bierstadt, Albert</author>
+                <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
                 <position>proof, lower right</position>
                 <text type="signature">A. Bierstadt</text>
             </inscription>
-            <inscription pref="false" source="http://www.loc.gov/pictures/item/95513915/" dataDate="2015-11-11-14-14-11">
-                <author refid="27338209" source="viaf" vocab="viaf">Bierstadt, Albert</author>
+            <inscription pref="false" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2015-11-11-14-14-11">
+                <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
                 <position>on plate, lower right</position>
                 <text type="signature">ABierstadt 1863</text>
             </inscription>
@@ -95,13 +95,13 @@
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300014109" source="getty" type="support" vocab="aat">paper</material>
+            <material pref="false" refid="300014109" type="support" vocab="aat">paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="sheet size" pref="false" shape="rectangle" type="height">28.57</measurements>
-            <measurements extent="sheet size" pref="false" shape="rectangle" type="width">38.74</measurements>
-            <measurements extent="sheet size" pref="false" shape="rectangle" type="height" unit="in">11 1/4</measurements>
-            <measurements extent="sheet size" pref="false" shape="rectangle" type="width" unit="in">15 1/4</measurements>
+            <measurements extent="sheet size" pref="false" type="height" unit="cm">28.57</measurements>
+            <measurements extent="sheet size" pref="false" type="width" unit="cm">38.74</measurements>
+            <measurements extent="sheet size" pref="false" type="height" unit="in">11 1/4</measurements>
+            <measurements extent="sheet size" pref="false" type="width" unit="in">15 1/4</measurements>
         </measurementsSet>
         <relationSet>
             <relation pref="false" type="partOf">Library of Congress (Washington, District of Columbia, United States); group: Indians of North America; 1860-1870</relation>
@@ -118,28 +118,28 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject extent="Native Americans" pref="false" refid="300379660" source="getty" vocab="aat" dataDate="2015-11-11-14-08-18">
+            <subject extent="Native Americans" pref="false" refid="300379660" vocab="aat" dataDate="2015-11-11-14-08-18">
                 <term type="descriptiveTopic">indigenous people</term>
             </subject>
-            <subject pref="false" refid="300008680" source="getty" vocab="aat" dataDate="2015-11-11-14-07-18">
+            <subject pref="false" refid="300008680" vocab="aat" dataDate="2015-11-11-14-07-18">
                 <term type="descriptiveTopic">lakes</term>
             </subject>
-            <subject pref="false" refid="300257104" source="getty" vocab="aat" dataDate="2015-11-11-14-06-52">
+            <subject pref="false" refid="300257104" vocab="aat" dataDate="2015-11-11-14-06-52">
                 <term type="descriptiveTopic">camps</term>
             </subject>
-            <subject pref="false" refid="300015636" source="getty" vocab="aat" dataDate="2016-06-01-13-10-05">
+            <subject pref="false" refid="300015636" vocab="aat" dataDate="2016-06-01-13-10-05">
                 <term type="descriptiveTopic">landscapes</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300053225" source="getty" vocab="aat">engraving</technique>
+            <technique pref="false" refid="300053225" vocab="aat">engraving</technique>
         </techniqueSet>
         <titleSet>
             <title pref="false" type="inscribed">Rocky Mountains</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300041340" source="getty" vocab="aat">engravings</worktype>
-            <worktype pref="false" refid="300041273" source="getty" vocab="aat">prints</worktype>
+            <worktype pref="false" refid="300041340" vocab="aat">engravings</worktype>
+            <worktype pref="false" refid="300041273" vocab="aat">prints</worktype>
         </worktypeSet>
     </work>
 </vra>

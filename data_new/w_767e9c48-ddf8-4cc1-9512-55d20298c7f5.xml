@@ -2,25 +2,17 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_767e9c48-ddf8-4cc1-9512-55d20298c7f5" source="Kurs" refid="c_be51e6d6-1b55-4110-a6f7-82a7aa79df2b">
         <agentSet>
-            <display dataDate="2015-11-18-17-03-38"/>
-            <notes dataDate="2015-11-18-17-03-38"/>
-            <agent pref="true" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-03-38">
-                <attribution dataDate="2015-11-18-17-03-38"/>
-                <culture dataDate="2015-11-18-17-03-38"/>
-                <dates type="life" dataDate="2015-11-18-17-03-38"/>
+            <agent pref="true" dataDate="2015-11-18-17-03-38">
                 <name refid="100627125" type="personal" vocab="viaf" dataDate="2015-11-18-17-03-38">Unknown</name>
                 <role type="code" vocab="marcrelator" dataDate="2015-11-18-17-03-38">arc</role>
             </agent>
         </agentSet>
         <culturalContextSet>
-            <display dataDate="2015-11-18-17-44-09"/>
-            <notes dataDate="2015-11-18-17-44-09"/>
-            <culturalContext extent="AAT #300111188" pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-44-09">French (culture or style)</culturalContext>
+            <culturalContext source="AAT 300111188" pref="false" dataDate="2015-11-18-17-44-09">French (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
             <display dataDate="2015-11-18-17-28-03">construction was begun in 1194, consecrated in 1260; parts of earlierRomanesque building remain</display>
-            <notes dataDate="2015-11-18-17-10-44"/>
-            <date pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="creation" dataDate="2015-11-18-17-10-44">
+            <date pref="false" type="creation" dataDate="2015-11-18-17-10-44">
                 <earliestDate>
                     <date dataDate="2015-11-18-17-10-44">1194</date>
                 </earliestDate>
@@ -30,9 +22,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display dataDate="2015-11-18-17-34-23"/>
-            <notes dataDate="2015-11-18-17-34-23"/>
-            <description pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-34-23">
+            <description pref="false" dataDate="2015-11-18-17-34-23">
                 <text dataDate="2015-11-18-17-34-23">Noted for innovations in architectural construction and large number of sculptures and much-stained glass windows. The present cathedral was constructed on the foundations of the earlier church; the oldest parts of the cathedral are the crypt and Royal Portal (West Portal), remnants of a Romanesque church destroyed by fire in 1194.</text>
                 <author dataDate="2015-11-18-17-34-23">
                     <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-18-17-34-23">Visual Resources Association</name>
@@ -41,92 +31,70 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <display dataDate="2015-11-18-17-37-27"/>
-            <notes dataDate="2015-11-18-17-37-27"/>
             <location pref="false" type="site" dataDate="2015-11-18-17-37-27">
-                <refid dataDate="2015-11-18-17-37-27"/>
-                <name extent="Chartres Cathedrale TGN #7033010" refid="7008267" type="geographic" vocab="tgn" dataDate="2015-11-18-17-37-27">Chartres</name>
-                <point>
-                    <lat/>
-                    <long/>
-                </point>
+                <name refid="7008267" type="geographic" vocab="tgn" dataDate="2015-11-18-17-37-27">Chartres</name>
+            </location>
+            <location pref="true" type="site">
+                <name refid="7033010" type="geographic" vocab="tgn">Chartes Cathedral</name>
             </location>
         </locationSet>
         <materialSet>
-            <display dataDate="2015-11-18-17-45-01"/>
-            <notes dataDate="2015-11-18-17-45-01"/>
-            <material pref="false" refid="300015332" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="medium" vocab="aat" dataDate="2015-11-18-17-52-40">masonry</material>
-            <material pref="false" refid="300011286" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="medium" vocab="aat" dataDate="2015-11-18-17-45-01">limestone</material>
+            <material pref="false" refid="300015332" type="medium" vocab="aat" dataDate="2015-11-18-17-52-40">masonry</material>
+            <material pref="false" refid="300011286" type="medium" vocab="aat" dataDate="2015-11-18-17-45-01">limestone</material>
         </materialSet>
         <measurementsSet>
-            <display dataDate="2015-11-18-17-46-25"/>
-            <notes dataDate="2015-11-18-17-46-25"/>
-            <measurements pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="height" unit="m" dataDate="2015-11-18-17-46-25">34</measurements>
-            <measurements pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="height" unit="ft" dataDate="2015-11-18-17-46-25">112</measurements>
-            <measurements pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="length" unit="m" dataDate="2015-11-18-17-46-25">130</measurements>
-            <measurements pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="length" unit="ft" dataDate="2015-11-18-17-46-25">427</measurements>
+            <measurements pref="false" type="height" unit="m" dataDate="2015-11-18-17-46-25">34</measurements>
+            <measurements pref="false" type="height" unit="ft" dataDate="2015-11-18-17-46-25">112</measurements>
+            <measurements pref="false" type="length" unit="m" dataDate="2015-11-18-17-46-25">130</measurements>
+            <measurements pref="false" type="length" unit="ft" dataDate="2015-11-18-17-46-25">427</measurements>
         </measurementsSet>
         <relationSet>
-            <display dataDate="2015-11-18-17-47-30"/>
-            <notes dataDate="2015-11-18-17-47-30"/>
             <relation type="imageIs" relids="i_6a70d04c-cd0a-4cac-b89d-0f18d3ac9a26" source="Tamboti" pref="true" dataDate="2015-11-18-17-47-30">choir exterior</relation>
             <relation type="imageIs" relids="i_b408e5f3-1271-422a-9915-a8af7dfe61d8" source="Tamboti" pref="false" dataDate="2015-11-18-17-47-30">portal exterior</relation>
         </relationSet>
         <sourceSet>
-            <display dataDate="2015-11-18-17-48-05"/>
-            <notes dataDate="2015-11-18-17-48-05"/>
             <source pref="false" dataDate="2015-11-18-17-48-05">
                 <refid type="URI" dataDate="2015-11-18-17-48-05">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church</refid>
                 <name type="electronic" dataDate="2015-11-18-17-48-05">Cataloging Cultural Objects Commons</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <display dataDate="2015-11-18-17-48-58"/>
-            <notes dataDate="2015-11-18-17-48-58"/>
-            <stylePeriod pref="false" refid="300020775" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-48-58">Gothic</stylePeriod>
-            <stylePeriod pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-48-58">Romanesque</stylePeriod>
+            <stylePeriod pref="false" refid="300020775" vocab="aat" dataDate="2015-11-18-17-48-58">Gothic</stylePeriod>
+            <stylePeriod pref="false" refid="300020768" vocab="aat" dataDate="2015-11-18-17-48-58">Romanesque</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <display dataDate="2015-11-18-17-40-00"/>
-            <notes dataDate="2015-11-18-17-40-00"/>
-            <subject pref="false" refid="300002557" vocab="aat" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-52-15">
+            <subject pref="false" refid="300002557" vocab="aat" dataDate="2015-11-18-17-52-15">
                 <term type="descriptiveTopic" dataDate="2015-11-18-17-52-15">bearing walls</term>
             </subject>
-            <subject pref="false" refid="300000891" vocab="aat" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-52-15">
+            <subject pref="false" refid="300000891" vocab="aat" dataDate="2015-11-18-17-52-15">
                 <term type="descriptiveTopic" dataDate="2015-11-18-17-52-15">buttresses</term>
             </subject>
-            <subject pref="false" refid="300007501" vocab="aat" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-52-15">
+            <subject pref="false" refid="300007501" vocab="aat" dataDate="2015-11-18-17-52-15">
                 <term type="descriptiveTopic" dataDate="2015-11-18-17-52-15">cathedrals</term>
             </subject>
-            <subject pref="false" refid="300056005" vocab="aat" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-52-15">
+            <subject pref="false" refid="300056005" vocab="aat" dataDate="2015-11-18-17-52-15">
                 <term type="conceptTopic" dataDate="2015-11-18-17-52-15">worship</term>
             </subject>
-            <subject pref="false" refid="300073708" vocab="aat" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-52-15">
+            <subject pref="false" refid="300073708" vocab="aat" dataDate="2015-11-18-17-52-15">
                 <term type="conceptTopic" dataDate="2015-11-18-17-52-15">religions</term>
             </subject>
-            <subject pref="false" refid="300263552" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-40-00">
+            <subject pref="false" refid="300263552" vocab="aat" dataDate="2015-11-18-17-40-00">
                 <term type="descriptiveTopic" dataDate="2015-11-18-17-40-00">architecture</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <display dataDate="2015-11-18-17-50-11"/>
-            <notes dataDate="2015-11-18-17-50-11"/>
-            <technique pref="false" refid="300054608" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-50-11">construction</technique>
-            <technique pref="false" refid="300386948" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-50-11">stonemasonry</technique>
+            <technique pref="false" refid="300054608" vocab="aat" dataDate="2015-11-18-17-50-11">construction</technique>
+            <technique pref="false" refid="300386948" vocab="aat" dataDate="2015-11-18-17-50-11">stonemasonry</technique>
         </techniqueSet>
         <titleSet>
-            <display dataDate="2015-11-18-17-42-10"/>
-            <notes dataDate="2015-11-18-17-42-10"/>
-            <title type="translated" pref="true" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" dataDate="2015-11-18-17-42-10">Chartres Cathedral</title>
-            <title pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="translated" dataDate="2015-11-18-17-42-10">Cathedral of Notre-Dame</title>
-            <title pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" type="popular" dataDate="2015-11-18-17-42-10">Notre-Dame de Chartres</title>
+            <title type="translated" pref="true" dataDate="2015-11-18-17-42-10">Chartres Cathedral</title>
+            <title pref="false" type="translated" dataDate="2015-11-18-17-42-10">Cathedral of Notre-Dame</title>
+            <title pref="false" type="popular" dataDate="2015-11-18-17-42-10">Notre-Dame de Chartres</title>
         </titleSet>
         <worktypeSet>
-            <display dataDate="2015-11-18-17-51-24"/>
-            <notes dataDate="2015-11-18-17-51-24"/>
-            <worktype pref="false" refid="300170443" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-51-24">basilicas</worktype>
-            <worktype pref="false" refid="300007501" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-51-24">cathedrals</worktype>
-            <worktype pref="false" refid="300263552" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church" vocab="aat" dataDate="2015-11-18-17-51-24">architecture</worktype>
+            <worktype pref="false" refid="300170443" vocab="aat" dataDate="2015-11-18-17-51-24">basilicas</worktype>
+            <worktype pref="false" refid="300007501" vocab="aat" dataDate="2015-11-18-17-51-24">cathedrals</worktype>
+            <worktype pref="false" refid="300263552" vocab="aat" dataDate="2015-11-18-17-51-24">architecture</worktype>
         </worktypeSet>
     </work>
 </vra>

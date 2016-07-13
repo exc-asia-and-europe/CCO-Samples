@@ -3,26 +3,22 @@
     <work id="w_78d5b469-44c7-42cd-9e79-a2273976e234" source="Kurs" refid="c_3b750faf-21d3-4074-bf63-0d9b915437d2">
         <agentSet>
             <agent pref="true" dataDate="2015-05-06-12-41-23">
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
-                <name refid="100628022" source="viaf" type="personal" vocab="viaf">unknown Ancient Roman</name>
+                <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
             <agent pref="false">
                 <dates type="life">
-                    <earliestDate circa="false"/>
-                    <latestDate circa="false">330 B.C.</latestDate>
+                    <latestDate circa="false">-0330</latestDate>
                 </dates>
-                <name refid="231805730" source="viaf" type="personal" vocab="viaf">Darius</name>
+                <name refid="231805730" type="personal" vocab="viaf">Darius</name>
                 <role type="code" vocab="marcrelator">dpc</role>
             </agent>
             <agent pref="true" dataDate="2015-05-06-12-24-01">
                 <dates type="life">
-                    <earliestDate circa="false">356 B.C.</earliestDate>
-                    <latestDate circa="false">323 B.C.</latestDate>
+                    <earliestDate circa="false">-0356</earliestDate>
+                    <latestDate circa="false">-0323</latestDate>
                 </dates>
-                <name refid="101353608" source="viaf" type="personal" vocab="viaf">Alexander : Magnus</name>
+                <name refid="101353608" type="personal" vocab="viaf">Alexander : Magnus</name>
                 <role type="code" vocab="marcrelator">dpc</role>
             </agent>
         </agentSet>
@@ -33,10 +29,10 @@
             <date pref="false" type="creation" dataDate="2015-05-06-12-24-54">
                 <earliestDate>
                     <alternativeNotation>1st century BCE</alternativeNotation>
-                    <date>-0100</date>
+                    <date circa="true">-0100</date>
                 </earliestDate>
                 <latestDate>
-                    <date>-0001</date>
+                    <date circa="true">-0001</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -45,7 +41,7 @@
                 <text>Probably a Roman copy of a Hellenistic painting. Decorated the floor of a room in the House of the Faun in Pompeii. It depicts the Battle of the Granicus, which took place in the early summer of 334 BCE. It was the first victory won by Alexander the Great in his invasion of the Persian Empire.
 [Source: Janson, H. W. History of Art. New York: Harry N. Abrams, Inc., 1971.  Page: 151.]</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
@@ -78,51 +74,51 @@
             </source>
             <source pref="false">
                 <refid type="URI">http://en.wikipedia.org/wiki/House_of_the_Faun</refid>
-                <name type="electronic">Wikipedia</name>
+                <name type="electronic">Wikipedia - House of the Faun</name>
             </source>
             <source pref="false" dataDate="2015-05-06-12-49-08">
                 <refid type="URI">http://en.wikipedia.org/wiki/Alexander_Mosaic</refid>
-                <name type="electronic">Wikipedia</name>
+                <name type="electronic">Wikipedia - Alexander Mosaic</name>
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300000885" source="getty" vocab="aat" dataDate="2015-05-06-12-55-49">
+            <subject pref="false" refid="300000885" vocab="aat" dataDate="2015-05-06-12-55-49">
                 <term type="descriptiveTopic">architectural elements</term>
             </subject>
-            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" pref="false" refid="300010150" source="getty" vocab="aat" dataDate="2015-05-06-12-51-16">
+            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" pref="false" refid="300010150" source="Wikipedia" vocab="aat" dataDate="2015-05-06-12-51-16">
                 <term type="descriptiveTopic">vermiculation</term>
             </subject>
-            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" pref="false" refid="300010730" source="getty" vocab="aat">
+            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" pref="false" refid="300010730" source="Wikipedia" vocab="aat">
                 <term type="descriptiveTopic">tesserae</term>
             </subject>
-            <subject pref="false" refid="300055923" source="getty" vocab="aat" dataDate="2015-05-06-12-39-35">
+            <subject pref="false" refid="300055923" vocab="aat" dataDate="2015-05-06-12-39-35">
                 <term type="descriptiveTopic">legends</term>
             </subject>
-            <subject pref="false" refid="300185692" source="getty" vocab="aat">
+            <subject pref="false" refid="300185692" vocab="aat">
                 <term type="descriptiveTopic">battles</term>
             </subject>
-            <subject pref="false" refid="300374810" source="getty" vocab="aat">
+            <subject pref="false" refid="300374810" vocab="aat">
                 <term type="descriptiveTopic">victories</term>
             </subject>
-            <subject pref="false" refid="300250148" source="getty" vocab="aat">
+            <subject pref="false" refid="300250148" vocab="aat">
                 <term type="descriptiveTopic">Equus caballus</term>
             </subject>
-            <subject pref="false" refid="300261945" source="getty" vocab="aat">
+            <subject pref="false" refid="300261945" vocab="aat">
                 <term type="descriptiveTopic">warriors</term>
             </subject>
-            <subject pref="false" refid="300002060" source="getty" vocab="aat">
+            <subject pref="false" refid="300002060" vocab="aat">
                 <term type="descriptiveTopic">floors</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300138684" source="getty" vocab="aat">mosaic</technique>
+            <technique pref="false" refid="300138684" vocab="aat">mosaic</technique>
         </techniqueSet>
         <titleSet>
             <title pref="false" type="descriptive">Alexander the Great Defeating the Persian King Darius</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300378995" vocab="aat">architectural ornament</worktype>
-            <worktype pref="true" refid="300015342" source="getty" vocab="aat">mosaics</worktype>
+            <worktype pref="true" refid="300015342" vocab="aat">mosaics</worktype>
         </worktypeSet>
     </work>
 </vra>

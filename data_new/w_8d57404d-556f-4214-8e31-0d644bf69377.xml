@@ -24,7 +24,7 @@
             <agent pref="false">
                 <culture>Italian</culture>
                 <dates type="life">
-                    <earliestDate circa="false">1444?</earliestDate>
+                    <earliestDate circa="true">1444</earliestDate>
                     <latestDate circa="false">1514</latestDate>
                 </dates>
                 <name refid="79161779" type="personal" vocab="viaf">Bramante, Donato</name>
@@ -48,9 +48,6 @@
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
             <agent pref="false" dataDate="2016-03-08-17-12-23">
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
                 <name refid="314494" type="personal" vocab="viaf">Ligorio, Pirro</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
@@ -149,10 +146,10 @@
         <descriptionSet>
             <description pref="false" dataDate="2016-03-08-17-39-11">
                 <text>A three-aisled Latin cross with a dome at the crossing,the basilica had a long building history and many architects. It was begun under Pope Julius II in 1506 to replace Old Saint Peter’s, and completed in 1615 under Paul V. The original plan was a  Greek cross by Donato Bramante; when he died in 1514, Leo X commissioned Raphael, Fra Giocondo,and Giuliano da Sangallo to continue the work,changing the Greek-cross plan to a Latin cross with three aisles separated by pillars. After Raphael died in 1520, Antonio da Sangallo the Elder, Baldassare Peruzzi, and Andrea Sansovino continued the work. Sangallo died in 1546 and Paul III commissioned Michelangelo as chief architect. Michelangelo died in 1564, when the drum for the dome was nearly complete. Pirro Ligorio and Giacomoda Vignola continued the work. Under Gregory XIII,Giacomo della Porta was put in charge. Under Clement VIII, the apse of Old Saint Peter’s was razed.Paul V (pope 1605-1621) appointed Carlo Maderno to extend the nave. Maderno also completed the façade and added an extra bay on each end to support two planned campaniles; only one was built, in1637, using another design by Gian Lorenzo Bernini.Under Alexander VII (pope 1655-1667), Bernini laid out the Piazza San Pietro, enclosed by colonnades,and added the fountains.
-[Description Source: Millon, Henry A. and Craig Hugh Smyth. Michelangelo architect: the facade of San Lorenzo and the drum and dome of Saint Peter’s.Milan: Olivetti, 1988.]</text>
+[Source: Millon, Henry A. and Craig Hugh Smyth. Michelangelo architect: the facade of San Lorenzo and the drum and dome of Saint Peter’s.Milan: Olivetti, 1988.]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -172,7 +169,7 @@
             <measurements extent="main structure" pref="false" type="length" unit="ft">615</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" type="largerContextFor">Piazza San Pietro</relation>
+            <relation pref="false" relids="700001273" source="CONA" type="largerContextFor">Piazza San Pietro</relation>
             <relation pref="false" relids="d1w_e85cd10d-99e6-41c7-b822-466e633615e3" type="largerContextFor">Dome of Saint Peter's</relation>
             <relation pref="true" relids="i_2ca9177b-2211-4fac-8948-91f1ca5a1002" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>

@@ -7,7 +7,7 @@
                     <earliestDate circa="false">1925</earliestDate>
                     <latestDate circa="false">2010</latestDate>
                 </dates>
-                <name refid="58260947" source="viaf" type="personal" vocab="viaf">Graham, Bruce</name>
+                <name refid="58260947" type="personal" vocab="viaf">Graham, Bruce</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
             <agent pref="false" dataDate="2015-04-08-15-03-55">
@@ -15,15 +15,15 @@
                     <earliestDate circa="false">1929</earliestDate>
                     <latestDate circa="false">1982</latestDate>
                 </dates>
-                <name refid="60016681" source="viaf" type="personal" vocab="viaf">Khan, Fazlur R.</name>
+                <name refid="60016681" type="personal" vocab="viaf">Khan, Fazlur R.</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
             <agent pref="false" dataDate="2015-04-08-15-00-39">
-                <name refid="132223814" source="viaf" type="corporate" vocab="viaf">Sears, Roebuck and Company.</name>
-                <role type="code" vocab="marcrelator">pat</role>
+                <name refid="132223814" type="corporate" vocab="viaf">Sears, Roebuck and Company</name>
+                <role type="code" vocab="marcrelator">cli</role>
             </agent>
             <agent pref="true" dataDate="2015-04-08-15-04-54">
-                <name refid="149712040" source="viaf" type="corporate" vocab="viaf">Skidmore, Owings &amp; Merrill</name>
+                <name refid="149712040" type="corporate" vocab="viaf">Skidmore, Owings &amp; Merrill</name>
                 <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
@@ -54,10 +54,6 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
         <locationSet>
             <location pref="false" type="site" dataDate="2016-03-17-15-36-29">
                 <name refid="7013596" type="geographic" vocab="tgn">Chicago</name>
-                <point epsg="4326">
-                    <lat>41.8789</lat>
-                    <long>-87.6358</long>
-                </point>
             </location>
             <location pref="false" type="site" dataDate="2015-04-08-15-28-04">
                 <name type="geographic">233 South Wacker Drive, Chicago, Illinois</name>
@@ -68,9 +64,9 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300011015" source="getty" type="medium" vocab="aat">aluminum</material>
-            <material pref="false" type="medium">glass</material>
-            <material pref="false" refid="300133751" source="getty" type="medium" vocab="aat">steel</material>
+            <material pref="false" refid="300011015" type="medium" vocab="aat">aluminum</material>
+            <material pref="false" refid="300010797" type="medium" vocab="aat">glass (material)</material>
+            <material pref="false" refid="300133751" type="medium" vocab="aat">steel</material>
         </materialSet>
         <measurementsSet>
             <measurements extent="of office and commercial space" pref="false" type="size" unit="sq ft">4.500.000</measurements>
@@ -91,7 +87,7 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod pref="false" refid="300264736" source="getty" vocab="aat">Modern</stylePeriod>
+            <stylePeriod pref="false" refid="300264736" vocab="aat">Modern</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject pref="false" refid="300002563" vocab="aat" dataDate="2015-04-08-15-48-52">
@@ -122,16 +118,16 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
         <textrefSet>
             <textref pref="false" dataDate="2016-03-17-15-35-04">
                 <name type="electronic">CONA</name>
-                <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000053</refid>
+                <refid type="other">700000053</refid>
             </textref>
         </textrefSet>
         <titleSet>
-            <title href="http://en.wikipedia.org/wiki/Willis_Tower#Naming_rights" pref="true" type="owner">Willis Tower</title>
-            <title pref="false" source="http://en.wikipedia.org/wiki/Willis_Tower#Naming_rights" type="former">Sears Tower</title>
+            <title href="http://en.wikipedia.org/wiki/Willis_Tower#Naming_rights" pref="true" source="Wikipedia" type="owner">Willis Tower</title>
+            <title pref="false" type="former">Sears Tower</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300263552" source="getty" vocab="aat">architecture</worktype>
-            <worktype pref="false" refid="300004809" source="getty" vocab="aat">skyscrapers</worktype>
+            <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+            <worktype pref="false" refid="300004809" vocab="aat">skyscrapers</worktype>
         </worktypeSet>
     </work>
 </vra>

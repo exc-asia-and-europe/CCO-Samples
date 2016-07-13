@@ -7,7 +7,7 @@
                     <earliestDate circa="false">1665</earliestDate>
                     <latestDate circa="false">1745</latestDate>
                 </dates>
-                <name refid="34528928" source="viaf" type="personal" vocab="viaf">Richardson, Jonathan</name>
+                <name refid="34528928" type="personal" vocab="viaf">Richardson, Jonathan</name>
                 <role type="code" vocab="marcrelator">fmo</role>
             </agent>
             <agent pref="true" dataDate="2016-04-28-17-43-10">
@@ -16,7 +16,7 @@
                     <earliestDate circa="false">1577</earliestDate>
                     <latestDate circa="false">1640</latestDate>
                 </dates>
-                <name refid="56647196" source="viaf" type="personal" vocab="viaf">Rubens, Peter Paul</name>
+                <name refid="56647196" type="personal" vocab="viaf">Rubens, Peter Paul</name>
                 <role type="code" vocab="marcrelator">drm</role>
             </agent>
         </agentSet>
@@ -24,7 +24,7 @@
             <culturalContext pref="false" source="AAT 300111184">Flemish (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date extent="The Metropolitan Museum of Art" pref="false" type="exhibition" dataDate="2015-11-02-10-02-24">
+            <date extent="Metropolitan Museum of Art" pref="false" type="exhibition" dataDate="2015-11-02-10-02-24" href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" source="J. Paul Getty Museum">
                 <earliestDate>
                     <date>1993-05-24</date>
                 </earliestDate>
@@ -32,9 +32,9 @@
                     <date>1993-08-08</date>
                 </latestDate>
             </date>
-            <date extent="The J. Paul Getty Museum Online Collection" pref="true" type="creation" dataDate="2016-04-28-17-43-32">
+            <date source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="true" type="creation" dataDate="2016-04-28-17-43-32">
                 <earliestDate>
-                    <date type="about">1617</date>
+                    <date circa="true" type="about">1617</date>
                 </earliestDate>
                 <latestDate>
                     <date>1617</date>
@@ -46,7 +46,7 @@
                 <text>The man is portrayed in formal costume; is one of the first portrayals of a Korean on European soil. This is one of several studies of persons in exotic costumes that Rubens did.
 [Source: J. Paul Getty Museum online. www.getty.edu Page: accessed 22 October 2006.]</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
@@ -57,23 +57,23 @@ In the background, Rubens sketched a small boat to emphasize a distant place, bu
 
 The drawing is one of Rubens's most meticulous depictions, enriched by touches of red chalk added to the man's face. Fascinated by the play of light on the silk, Rubens juxtaposed black chalk and white paper to create the man's shimmering costume. This drawing later inspired one of the central figures in Rubens's painting The Miracles of Saint Francis Xavier in the Kunsthistorisches Museum, Vienna.</text>
                 <author>
-                    <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="false" source="The J. Paul Getty Museum Online Collection" dataDate="2015-05-13-13-19-50">
-                <author refid="34528928" source="viaf" vocab="viaf">Richardson, Jonathan</author>
+            <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="false" source="J. Paul Getty Museum" dataDate="2015-05-13-13-19-50">
+                <author refid="34528928" vocab="viaf">Richardson, Jonathan</author>
                 <position>(Recto) at bottom right</position>
                 <text extent="collection mark" type="mark">L.2184</text>
             </inscription>
-            <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="false" source="The J. Paul Getty Museum Online Collection">
-                <author refid="73924279" source="viaf" vocab="viaf">Richardson, Jonathan</author>
+            <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="false" source="J. Paul Getty Museum">
+                <author refid="73924279" vocab="viaf">Richardson, Jonathan</author>
                 <position>(Recto) at bottom right</position>
                 <text extent="collection mark" type="mark">L.2170</text>
             </inscription>
-            <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="false" source="The J. Paul Getty Museum Online Collection" dataDate="2015-05-13-13-21-37">
+            <inscription href="http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/" pref="false" source="J. Paul Getty Museum" dataDate="2015-05-13-13-21-37">
                 <author refid="50062313" vocab="viaf">Freiherr von Lanna, Adalbert</author>
                 <position>verso</position>
                 <text extent="collection mark" type="mark">L.2773</text>
@@ -86,23 +86,19 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
             </location>
             <location pref="false" type="repository" dataDate="2016-04-28-17-48-07">
                 <refid type="accession">83.GB.384</refid>
-                <name extent="VIAF 500115988" refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-                <point epsg="4326">
-                    <lat>34.077593</lat>
-                    <long>-118.474502</long>
-                </point>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300080058" source="getty" type="medium" vocab="aat">black chalk</material>
-            <material extent="touches of, in the face" pref="false" refid="300080064" source="getty" type="medium" vocab="aat">red chalk</material>
-            <material extent="ivory-colored" pref="false" refid="300014184" source="getty" type="support" vocab="aat">laid paper</material>
+            <material pref="false" refid="300080058" type="medium" vocab="aat">black chalk</material>
+            <material extent="touches of, in the face" pref="false" refid="300080064" type="medium" vocab="aat">red chalk</material>
+            <material extent="ivory-colored" pref="false" refid="300014184" type="support" vocab="aat">laid paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements pref="false" shape="portrait" type="height" unit="cm">38.4</measurements>
-            <measurements pref="false" shape="portrait" type="width" unit="cm">23.5</measurements>
-            <measurements pref="false" shape="portrait" type="height" unit="in">15 1/8</measurements>
-            <measurements pref="false" shape="portrait" type="width" unit="in">9 1/4</measurements>
+            <measurements pref="false" type="height" unit="cm">38.4</measurements>
+            <measurements pref="false" type="width" unit="cm">23.5</measurements>
+            <measurements pref="false" type="height" unit="in">15 1/8</measurements>
+            <measurements pref="false" type="width" unit="in">9 1/4</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_c41053ef-9824-4bc5-ad81-c300bd7e79e3" source="Tamboti" pref="true">general view</relation>
@@ -114,25 +110,25 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
             </source>
             <source pref="false">
                 <refid type="URI">http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/</refid>
-                <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+                <name type="electronic">J. Paul Getty Museum</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod pref="false" refid="300021147" source="Simon Gruening" vocab="aat">Baroque</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject pref="false" refid="300189808" source="getty" vocab="aat" dataDate="2015-05-13-13-08-29">
+            <subject pref="false" refid="300189808" vocab="aat" dataDate="2015-05-13-13-08-29">
                 <term type="descriptiveTopic">figures</term>
             </subject>
-            <subject pref="false" refid="300018668" source="getty" vocab="aat" dataDate="2016-04-28-17-46-49">
+            <subject pref="false" refid="300018668" vocab="aat" dataDate="2016-04-28-17-46-49">
                 <term type="descriptiveTopic">Korean</term>
             </subject>
-            <subject pref="false" refid="300178802" source="getty" vocab="aat">
+            <subject pref="false" refid="300178802" vocab="aat">
                 <term type="descriptiveTopic">costume</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300054196" source="getty" vocab="aat">drawing</technique>
+            <technique pref="false" refid="300054196" vocab="aat">drawing</technique>
         </techniqueSet>
         <textrefSet>
             <textref pref="false" dataDate="2016-04-28-17-38-41">
@@ -145,7 +141,7 @@ The drawing is one of Rubens's most meticulous depictions, enriched by touches o
             <title extent="display title" pref="true" type="repository">Man in Korean Costume</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="true" refid="300033973" source="getty" vocab="aat">drawings</worktype>
+            <worktype pref="true" refid="300033973" vocab="aat">drawings</worktype>
             <worktype pref="false" refid="300081053" vocab="aat">studies</worktype>
         </worktypeSet>
     </work>

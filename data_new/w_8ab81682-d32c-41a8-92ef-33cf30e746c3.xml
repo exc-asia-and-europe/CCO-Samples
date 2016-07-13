@@ -4,17 +4,11 @@
         <agentSet>
             <agent pref="false" dataDate="2015-11-12-12-41-14">
                 <culture>Native American, Chiricahua Apache</culture>
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
                 <name refid="265305577" source="viaf" type="personal" vocab="viaf">Naiche</name>
                 <role type="code" vocab="marcrelator">dpc</role>
             </agent>
             <agent pref="true" dataDate="2016-06-06-10-55-15">
                 <culture>American</culture>
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
                 <name refid="138284977" source="viaf" type="personal" vocab="viaf">Randall, A. F.</name>
                 <role type="code" vocab="marcrelator">pht</role>
             </agent>
@@ -54,10 +48,10 @@
             <material pref="false" refid="300014190" source="Simon Gruening" type="support" vocab="aat">photographic paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements pref="false" shape="rectangle" type="height" unit="cm">22</measurements>
-            <measurements pref="false" shape="rectangle" type="width" unit="cm">14</measurements>
-            <measurements pref="false" shape="rectangle" type="height" unit="in">8 5/8</measurements>
-            <measurements pref="false" shape="rectangle" type="width" unit="in">5 1/2</measurements>
+            <measurements pref="false" type="height" unit="cm">22</measurements>
+            <measurements pref="false" type="width" unit="cm">14</measurements>
+            <measurements pref="false" type="height" unit="in">8 5/8</measurements>
+            <measurements pref="false" type="width" unit="in">5 1/2</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_48deb30e-513b-4c05-972b-6ce93b82ff7b" source="Tamboti" pref="true">general view</relation>
@@ -83,10 +77,10 @@
         </techniqueSet>
         <titleSet>
             <title href="https://loc.gov/pictures/item/2002715256/" pref="false" source="Library of Congress" type="repository">"Naches" or "Wei-chi-ti"</title>
-            <title pref="false" type="descriptive">Naiche, Youngest Son of Cochise</title>
+            <title pref="true" type="descriptive">Naiche, Youngest Son of Cochise</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" source="Simon Gruening">black-and-white photographs</worktype>
+            <worktype pref="false" refid="300128347" source="Simon Gruening" vocab="aat">black-and-white photographs</worktype>
             <worktype pref="false" refid="300046300" vocab="aat">photographs</worktype>
             <worktype pref="false" refid="300127121" vocab="aat">albumen prints</worktype>
         </worktypeSet>

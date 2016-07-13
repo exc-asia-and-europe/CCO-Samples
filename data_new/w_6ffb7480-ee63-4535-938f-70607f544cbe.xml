@@ -35,7 +35,7 @@
             <location extent="nearby landmark" href="https://en.wikipedia.org/wiki/Spiral_Jetty" pref="false" source="Wikipedia" type="other" dataDate="2016-06-08-16-37-26">
                 <name refid="2632547" type="geographic" vocab="tgn">Rozel Point</name>
             </location>
-            <location href="https://en.wikipedia.org/wiki/Spiral_Jetty" pref="false" source="Wikipedia" type="site" dataDate="2016-01-27-16-42-40">
+            <location href="https://en.wikipedia.org/wiki/Spiral_Jetty" pref="false" source="Coordinates: Wikipedia" type="site" dataDate="2016-01-27-16-42-40">
                 <name refid="7021126" type="geographic" vocab="tgn">Great Salt Lake</name>
                 <point epsg="4326">
                     <lat>41.437778</lat>

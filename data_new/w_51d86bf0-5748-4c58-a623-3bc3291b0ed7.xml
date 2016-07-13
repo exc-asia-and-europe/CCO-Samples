@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_51d86bf0-5748-4c58-a623-3bc3291b0ed7" source="Kurs" refid="c_01c427ed-d5bd-4148-9afd-fe222af87ea2">
         <agentSet>
-            <agent href="http://search.getty.edu/gri/records/griobject?objectid=93888554" pref="false" source="Getty Open Content Program" dataDate="2016-05-19-13-15-40">
+            <agent href="http://search.getty.edu/gri/records/griobject?objectid=93888554" pref="false" source="Getty Research Institute" dataDate="2016-05-19-13-15-40">
                 <dates type="life">
                     <earliestDate circa="false">1504</earliestDate>
                     <latestDate circa="false">1570</latestDate>
@@ -10,12 +10,12 @@
                 <name refid="19687875" type="personal" vocab="viaf">Primaticcio, Francesco</name>
                 <role type="code" vocab="marcrelator">dsr</role>
             </agent>
-            <agent href="http://search.getty.edu/gri/records/griobject?objectid=93888554" pref="false" source="Getty Open Content Program" dataDate="2015-11-11-09-32-14">
+            <agent href="http://search.getty.edu/gri/records/griobject?objectid=93888554" pref="false" source="Getty Research Institute" dataDate="2015-11-11-09-32-14">
                 <dates type="life">
                     <earliestDate circa="false">1512</earliestDate>
                     <latestDate circa="false">1577</latestDate>
                 </dates>
-                <name refid="27339597" source="viaf" type="personal" vocab="viaf">Lafréry, Antoine</name>
+                <name refid="27339597" type="personal" vocab="viaf">Lafréry, Antoine</name>
                 <role type="code" vocab="marcrelator">pbl</role>
             </agent>
             <agent pref="true" dataDate="2015-11-11-09-31-32">
@@ -24,7 +24,7 @@
                     <earliestDate circa="false">1520</earliestDate>
                     <latestDate circa="false">1582</latestDate>
                 </dates>
-                <name refid="41848430" source="viaf" type="personal" vocab="viaf">Ghisi, Giorgio</name>
+                <name refid="41848430" type="personal" vocab="viaf">Ghisi, Giorgio</name>
                 <role type="code" vocab="marcrelator">prm</role>
             </agent>
         </agentSet>
@@ -43,11 +43,11 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting" dataDate="2015-11-11-09-34-46">
+            <description pref="false" dataDate="2015-11-11-09-34-46">
                 <text>The subject of this print comes from Ovid’s Metamorphoses, the musical competition between Pan and Apollo. The engraving is after a lost painting by Primaticcio in the vault of the fourth bay of the Galerie d’Ulysse at Fontainebleau. It is one of four prints based on compositions surrounding a central image of Venus and the three fates.</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -74,7 +74,7 @@
         <sourceSet>
             <source pref="false" dataDate="2015-11-11-10-51-42">
                 <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=93888554</refid>
-                <name type="electronic">Getty Open Content Program</name>
+                <name type="electronic">Getty Research Institute</name>
             </source>
             <source pref="false" dataDate="2015-11-11-10-51-23">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_43_print_after_a_painting</refid>

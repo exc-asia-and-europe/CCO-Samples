@@ -4,16 +4,10 @@
         <agentSet>
             <display> unknown Nigerian, Court of Benin, for Oba Esigie (King of Benin, 1404-1550)</display>
             <agent pref="true" dataDate="2015-12-03-12-48-32">
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
                 <name refid="100639008" type="personal" vocab="viaf">unknown Nigerian</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
             <agent pref="false" dataDate="2015-12-03-12-30-54">
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
                 <name refid="173026503" type="personal" vocab="viaf">Oba Esigie</name>
                 <role type="code" vocab="marcrelator">pat</role>
             </agent>
@@ -35,13 +29,14 @@
         </dateSet>
         <descriptionSet>
             <description pref="false" dataDate="2015-12-03-13-26-12">
-                <text>Believed to have been produced in the early 16th century for the Oba Esigie (1404-1550), the king of Benin, to honor his mother, Idia. The Oba may have worn it at rites commemorating his mother.</text>
+                <text>Believed to have been produced in the early 16th century for the Oba Esigie (1404-1550), the king of Benin, to honor his mother, Idia. The Oba may have worn it at rites commemorating his mother.
+                    [Sources: Metropolitan Museum of Art online. http://www.metmuseum.org (accessed February 1, 2004); British Museum online. http://www.thebritishmuseum.ac.uk (accessed February 9, 2005).]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/318622" pref="false" source="Metropolitan Museum of Art online" dataDate="2015-12-03-12-50-17">
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/318622" pref="false" source="Metropolitan Museum of Art" dataDate="2015-12-03-12-50-17">
                 <text>This ivory pendant mask is one of a pair of nearly identical works; its counterpart is in the British Museum in London. Although images of women are rare in Benin's courtly tradition, these two works have come to symbolize the legacy of a dynasty that continues to the present day. The pendant mask is believed to have been produced in the early sixteenth century for the King or "Oba" Esigie, the king of Benin, to honor his mother, Idia. The Oba may have worn it at rites commemorating his mother, although today such pendants are worn at annual ceremonies of spiritual renewal and purification.
 
 In Benin, ivory is related to the color white, a symbol of ritual purity that is associated with Olokun, god of the sea. As the source of extraordinary wealth and fertility, Olokun is the spiritual counterpart of the "oba". Ivory is central to the constellation of symbols surrounding Olokun and the "oba". Not only is it white, but it is itself Benin's principle commercial commodity and it helped attract the Portuguese traders who also brought wealth to Benin.
@@ -80,7 +75,7 @@ The mask is a sensitive, idealized portrait, depicting its subject with softly m
             </source>
             <source pref="false" dataDate="2015-12-03-13-25-09">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/318622</refid>
-                <name type="electronic">Metropolitan Museum of Art online</name>
+                <name type="electronic">Metropolitan Museum of Art</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

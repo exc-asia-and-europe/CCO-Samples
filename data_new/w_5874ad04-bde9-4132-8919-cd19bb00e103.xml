@@ -17,7 +17,7 @@
         </culturalContextSet>
         <dateSet>
             <display>before 1750</display>
-            <date href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" type="creation" dataDate="2016-05-18-13-57-23">
+            <date href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="true" source="J. Paul Getty Museum" type="creation" dataDate="2016-05-18-13-57-23">
                 <earliestDate>
                     <date>1749</date>
                 </earliestDate>
@@ -48,7 +48,7 @@ Piranesi first drew the main outlines of the architecture in chalk, then added b
                 <text>Piranesi first drew the main outlines in chalk, then liberally added brown and red wash for shading and some of the details. The drawing has been squared for transfer.</text>
                 <author>
                     <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -71,13 +71,13 @@ Piranesi first drew the main outlines of the architecture in chalk, then added b
             <material pref="false" refid="300080064" type="medium" vocab="aat">red chalk</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" shape="rectangle" source="J. Paul Getty Museum" type="height" unit="cm">38.4</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" shape="rectangle" source="J. Paul Getty Museum" type="width" unit="cm">52.9</measurements>
-            <measurements pref="false" shape="rectangle" type="height" unit="in">15 1/8</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" shape="rectangle" source="J. Paul Getty Museum" type="width" unit="in">20 13/16</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" type="height" unit="cm">38.4</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" type="width" unit="cm">52.9</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" type="height" unit="in">15 1/8</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">20 13/16</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="http://www.metmuseum.org/art/collection/search/338737" type="studyFor">Giovanni Battista Piranesi: "Part of a Large Magnificent Port" (etching), published 1750; Metropolitan Museum of Art</relation>
+            <relation pref="false" href="http://www.metmuseum.org/art/collection/search/338737" relid="37.45.3(41)" type="studyFor">Giovanni Battista Piranesi: "Part of a Large Magnificent Port" (etching), published 1750; Metropolitan Museum of Art</relation>
             <relation pref="true" relids="i_7968d2cb-d0a3-4433-822c-307ec10f9e84" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>

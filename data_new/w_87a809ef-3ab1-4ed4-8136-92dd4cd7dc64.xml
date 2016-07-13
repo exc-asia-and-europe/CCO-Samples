@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1475</earliestDate>
                     <latestDate circa="false">1564</latestDate>
                 </dates>
-                <name refid="24585191" source="viaf" type="personal" vocab="viaf">Buonarroti, Michelangelo</name>
+                <name refid="24585191" type="personal" vocab="viaf">Buonarroti, Michelangelo</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
         </agentSet>
@@ -19,10 +19,10 @@
             <display>completed by 1555</display>
             <date pref="false" type="creation" dataDate="2016-05-19-12-29-07">
                 <earliestDate>
-                    <date type="after">1545</date>
+                    <date circa="true" type="after">1545</date>
                 </earliestDate>
                 <latestDate>
-                    <date type="before">1555</date>
+                    <date circa="true" type="before">1555</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -31,7 +31,7 @@
                 <text>This is probably one of the two models described by Michelangelo in a letter to his brother, Lionardo, in September 1555. His designs for the façade had begun in 1515.
 [Source: Millon, Henry A. and Craig Hugh Smyth. Michelangelo Architect: The Facade of San Lorenzo and the Drum and Dome of Saint Peter’s. Milan: Olivetti, 1988. Page: 89.]</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
@@ -44,13 +44,6 @@
         <locationSet>
             <location pref="false" type="repository" dataDate="2015-11-05-15-31-14">
                 <name refid="135801460" type="corporate" vocab="viaf">Casa Buonarroti</name>
-            </location>
-            <location pref="false" type="site" dataDate="2016-05-19-12-34-02">
-                <name refid="173625782" type="geographic" vocab="viaf">San Lorenzo (Church : Florence, Italy)</name>
-                <point epsg="4326">
-                    <lat>43.7749</lat>
-                    <long>11.2539</long>
-                </point>
             </location>
         </locationSet>
         <materialSet>
@@ -101,7 +94,7 @@
             <technique pref="false" refid="300054083" source="Simon Gruening" vocab="aat">woodworking</technique>
         </techniqueSet>
         <titleSet>
-            <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model" pref="false" source="CCO" type="descriptive">Wooden Model for the Façade of San Lorenzo, Florence</title>
+            <title pref="true" type="descriptive">Wooden Model for the Façade of San Lorenzo, Florence</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300047753" vocab="aat">models</worktype>

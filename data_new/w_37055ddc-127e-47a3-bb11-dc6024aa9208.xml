@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1839</earliestDate>
                     <latestDate circa="false">1917</latestDate>
                 </dates>
-                <name refid="1077590" source="viaf" type="personal" vocab="viaf">Durandelle</name>
+                <name refid="1077590" type="personal" vocab="viaf">Durandelle</name>
                 <role type="code" vocab="marcrelator">pht</role>
             </agent>
         </agentSet>
@@ -16,7 +16,7 @@
             <culturalContext pref="false" source="AAT 300111188">French (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date pref="false" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" type="creation" dataDate="2016-06-06-12-15-33">
+            <date pref="false" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" type="creation" dataDate="2016-06-06-12-15-33">
                 <earliestDate>
                     <date>1888-11-23</date>
                 </earliestDate>
@@ -35,26 +35,26 @@
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription extent="in pencil" pref="false" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-14-31-35">
+            <inscription extent="in pencil" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-14-31-35">
                 <position>print, recto, upper center</position>
                 <text type="text">Panneau 18</text>
             </inscription>
-            <inscription extent="inscribed on the negative" pref="false" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/">
+            <inscription extent="inscribed on the negative" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/">
                 <position>negative, lower right</position>
                 <text type="date">23 NOVEMBRE 88, No 49</text>
             </inscription>
-            <inscription extent="in red and black pencil" pref="false" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-14-32-01">
+            <inscription extent="in red and black pencil" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-14-32-01">
                 <position>mount, recto, upper left</position>
                 <text type="text">1544</text>
             </inscription>
-            <inscription extent="imprinted in black ink" pref="false" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2016-06-06-12-31-02">
+            <inscription extent="imprinted in black ink" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2016-06-06-12-31-02">
                 <position>mount, recto, upper center</position>
                 <text lang="fre" script="Latn" type="caption">Exposition Universelle de 1889/Etat d'Avancement/Au 188 /G. Eiffel, Ingenieur et Constructeur</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
             <location href="https://en.wikipedia.org/wiki/Eiffel_Tower" pref="false" source="Coordinates: Wikipedia" type="site" dataDate="2016-06-06-12-20-46">
-                <name source="VIAF 236835198" type="geographic">Tour Eiffel, Paris, France</name>
+                <name refid="236835198" type="geographic" vocab="viaf">Tour Eiffel, Paris, France</name>
                 <point epsg="4326">
                     <lat>48.858222</lat>
                     <long>2.2945</long>
@@ -103,7 +103,7 @@
             <technique pref="false" refid="300133274" vocab="aat">albumen process</technique>
         </techniqueSet>
         <titleSet>
-            <title lang="fre" pref="false" script="Latn" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" type="repository">Exposition universelle de 1889 / État d'avancement</title>
+            <title lang="fre" pref="false" script="Latn" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" type="repository">Exposition universelle de 1889 / État d'avancement</title>
             <title lang="eng" pref="true" script="Latn" type="other">Eiffel Tower: State of the Construction</title>
         </titleSet>
         <worktypeSet>

@@ -24,10 +24,10 @@
         <descriptionSet>
             <description pref="false" dataDate="2016-02-18-12-50-56">
                 <text>The central portal depicts the Last Judgment. Christ the Judge is flanked by Mary, the Queen of Heaven, and John the Evangelist. Christ displays his Passion wounds; angels carry the instruments of his Passion, the column, lance, crown of thorns, scourge, nails, and cross. The lintel depicts Saint Michael weighing and separating the Saved and the Damned. The iconography complements the two to either side: The left portal portrays the Martyrs, tympanum portrays the martyrdom of Saint Stephen; right portal portrays the Confessors, tympanum portrays good deeds of Saint Martin and Saint Nicholas.
-[Kidson, Peter, in Chartres Cathedral: With source material and selected critical writings. Edited by Robert Branner. London: Thames &amp; Hudson, 1969, p. 202 ff.</text>
+[Source: Kidson, Peter, in Chartres Cathedral: With source material and selected critical writings. Edited by Robert Branner. London: Thames &amp; Hudson, 1969, p. 202 ff.]</text>
                 <author>
-                    <name refid="88804936" type="personal" vocab="viaf">Kidson, Peter</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -47,7 +47,7 @@
             <material pref="true" refid="300011286" type="medium" vocab="aat">limestone</material>
         </materialSet>
         <relationSet>
-            <relation pref="false" type="partOf">Chartres Cathedral</relation>
+            <relation pref="false" refid="700000170" source="CONA" href="https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000170" type="partOf">Chartres Cathedral</relation>
             <relation pref="true" relids="i_c8615808-1c56-4d96-8917-a3542816c8d3" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>

@@ -12,7 +12,7 @@
                     <earliestDate circa="true" type="about">1863</earliestDate>
                     <latestDate circa="true" type="about">1873</latestDate>
                 </dates>
-                <name refid="137110511" source="viaf" type="corporate" vocab="viaf">Courret Hermanos</name>
+                <name refid="137110511" type="corporate" vocab="viaf">Courret, Hermanos</name>
                 <role type="code" vocab="marcrelator">pht</role>
             </agent>
             <agent pref="true" dataDate="2016-03-10-10-57-39">
@@ -21,7 +21,7 @@
                     <earliestDate circa="true" type="about">1861</earliestDate>
                     <latestDate circa="true" type="about">1900</latestDate>
                 </dates>
-                <name refid="95911804" source="viaf" type="personal" vocab="viaf">Courret, Eugenio</name>
+                <name refid="95911804" type="personal" vocab="viaf">Courret, Eugenio</name>
                 <role type="code" vocab="marcrelator">pht</role>
             </agent>
         </agentSet>
@@ -29,15 +29,15 @@
             <display>ca. 1870-ca. 1880</display>
             <date href="http://search.getty.edu/gri/records/griobject?objectid=798525144" pref="false" source="Getty Research Gateway" type="creation" dataDate="2016-03-10-11-11-24">
                 <earliestDate>
-                    <date type="after">1872</date>
+                    <date circa="true" type="after">1872</date>
                 </earliestDate>
             </date>
             <date pref="true" type="creation" dataDate="2016-06-06-13-14-37">
                 <earliestDate>
-                    <date type="about">1865</date>
+                    <date circa="true" type="about">1865</date>
                 </earliestDate>
                 <latestDate>
-                    <date type="about">1885</date>
+                    <date circa="true" type="about">1885</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -45,8 +45,8 @@
             <description pref="true" dataDate="2016-06-06-13-20-03">
                 <text>Studio portraits in cartes-de-visite format. 3 tapadas (veiled women); a matador; 9 images of indigenous Andeans, including a soldier and his rabona (camp follower), and a mother and child</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -75,7 +75,6 @@
             <material href="http://search.getty.edu/gri/records/griobject?objectid=798525144" pref="false" refid="300011802" source="Getty Research Gateway" type="medium" vocab="aat">albumen</material>
         </materialSet>
         <measurementsSet>
-            <display>11 items, 9 x 8 cm each (3 1/2 x 3 1/8 inches)</display>
             <measurements extent="items" pref="false" type="count" unit="items">11</measurements>
             <measurements extent="each" pref="false" type="height" unit="cm">9</measurements>
             <measurements extent="each" pref="false" type="width" unit="cm">8</measurements>

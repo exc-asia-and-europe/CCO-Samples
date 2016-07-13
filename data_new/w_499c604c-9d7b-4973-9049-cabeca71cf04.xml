@@ -12,18 +12,18 @@
             </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext extent="AAT 300380013" pref="false">Islamic (culture or style)</culturalContext>
-            <culturalContext extent="AAT 300387730" pref="false">Egyptian Islamic</culturalContext>
-            <culturalContext extent="AAT 300386541" pref="false">Syrian Islamic</culturalContext>
+            <culturalContext source="AAT 300380013" pref="false">Islamic (culture or style)</culturalContext>
+            <culturalContext source="AAT 300387730" pref="false">Egyptian Islamic</culturalContext>
+            <culturalContext source="AAT 300386541" pref="false">Syrian Islamic</culturalContext>
         </culturalContextSet>
         <dateSet>
             <date pref="false" type="creation" dataDate="2016-02-02-10-33-31">
                 <earliestDate>
                     <alternativeNotation>shortly after 1285</alternativeNotation>
-                    <date type="after">1280</date>
+                    <date circa="true" type="after">1280</date>
                 </earliestDate>
                 <latestDate>
-                    <date type="before">1290</date>
+                    <date circa="true" type="before">1290</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -36,16 +36,16 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art Online Collection" dataDate="2016-02-02-11-11-12">
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art" dataDate="2016-02-02-11-11-12">
                 <text>This lamp’s inscriptions reveal that it was ordered for Aidakin’s mausoleum (turba), a building still standing in Cairo. Mamluk amirs adopted emblems, often connected with their ceremonial roles at court, which decorated the objects and buildings they commissioned. Here, the motif of two gold crossbows against a red shield illustrates the office of bunduqdar (bow‑keeper).</text>
                 <author>
-                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metrpopolitan Museum of Art Online Collection" dataDate="2016-02-02-12-27-25">
+            <inscription href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metrpopolitan Museum of Art" dataDate="2016-02-02-12-27-25">
                 <text lang="ara" script="Arab" type="text">ممما عمل برسم تربة المقر العالي/ العلائي البندقدار/ قدس الله روحه</text>
                 <author refid="100627125" vocab="viaf">unknown</author>
                 <position>on neck and body</position>
@@ -53,12 +53,12 @@
             </inscription>
         </inscriptionSet>
         <locationSet>
-            <location href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art Online Collection" type="creation" dataDate="2016-02-02-11-52-02">
+            <location href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art" type="creation" dataDate="2016-02-02-11-52-02">
                 <name extent="probably Cairo" refid="7016833" type="geographic" vocab="tgn">Miṣr</name>
             </location>
             <location pref="true" type="repository" dataDate="2016-02-02-11-50-34">
                 <refid type="accession">17.190.985</refid>
-                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
             </location>
         </locationSet>
         <materialSet>
@@ -98,7 +98,7 @@
             <subject pref="false" refid="300007544" vocab="aat" dataDate="2016-02-02-12-09-05">
                 <term type="descriptiveTopic">mosques (buildings)</term>
             </subject>
-            <subject href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" refid="300183126" source="Metropolitan Museum of Art Online Collection" vocab="aat" dataDate="2016-02-02-12-11-25">
+            <subject href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" refid="300183126" source="Metropolitan Museum of Art" vocab="aat" dataDate="2016-02-02-12-11-25">
                 <term type="descriptiveTopic">mosque lamps</term>
             </subject>
             <subject pref="false" refid="300056024" vocab="aat" dataDate="2016-02-02-12-07-18">
@@ -114,7 +114,7 @@
         </techniqueSet>
         <titleSet>
             <title pref="false" type="descriptive">Mosque Lamp</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art Online Collection" type="repository">Mosque Lamp for the Mausoleum of Amir Aydakin al-'Ala'i al-Bunduqdar</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/447000" pref="false" source="Metropolitan Museum of Art" type="repository">Mosque Lamp for the Mausoleum of Amir Aydakin al-'Ala'i al-Bunduqdar</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300151343" vocab="aat">ceramics</worktype>

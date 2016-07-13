@@ -3,6 +3,7 @@
     <work id="w_5c7ead54-9a0c-4110-83fe-dbfea74b196c" source="Kurs" refid="c_ab311e51-2cf9-4232-a9ce-2cea0bc3f88a">
         <relationSet>
             <relation type="imageIs" relids="i_1f49d32e-c538-419e-984a-5b7b9050c633" source="Tamboti" pref="true">general view</relation>
+            <relation type="componentIs" refid="w_e9dd4330-cc34-4cfc-8af5-2197fc0ffee5.xml">Leaning Tower</relation>
         </relationSet>
         <titleSet>
             <title type="generalView">Work record CCO_online_149--cco_fig041-0--cco_online_not_yet.jpg</title>

@@ -43,7 +43,7 @@
 [Source: J. Paul Getty Museum online. www.getty.edu (accessed 27 June 2007).]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
             <description href="http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/" pref="false" source="J. Paul Getty Museum" dataDate="2016-01-28-16-43-48">
@@ -64,8 +64,8 @@
                 <text type="translation">Nikodemos made it</text>
             </inscription>
             <inscription pref="false" dataDate="2016-06-15-12-02-24">
-                <text type="text">ATHENETHEN ATHLON</text>
                 <position>on the front</position>
+                <text type="text">ATHENETHEN ATHLON</text>
                 <text type="translation">[Prize] of the Athenian Games</text>
             </inscription>
         </inscriptionSet>
@@ -111,7 +111,7 @@
             <subject pref="false" refid="300225692" vocab="aat" dataDate="2016-01-28-17-10-36">
                 <term type="descriptiveTopic">prizes</term>
             </subject>
-            <subject pref="false">
+            <subject pref="false" refid="300054760" vocab="aat">
                 <term type="descriptiveTopic">competitions</term>
             </subject>
             <subject extent="Athena Promachos, Nike" pref="false" refid="300025943" vocab="aat">

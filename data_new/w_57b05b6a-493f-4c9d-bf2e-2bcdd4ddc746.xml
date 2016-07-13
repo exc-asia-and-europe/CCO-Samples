@@ -9,20 +9,16 @@
                 <culture dataDate="2015-11-26-12-14-48">American</culture>
                 <dates type="life" dataDate="2015-11-26-12-14-48">
                     <earliestDate circa="false" dataDate="2015-11-26-12-14-48">1743</earliestDate>
-                    <latestDate circa="false" dataDate="2015-11-26T12:14:48.354+01:00">1826</latestDate>
+                    <latestDate circa="false" dataDate="2015-11-26-12-14-48">1826</latestDate>
                 </dates>
                 <name refid="41866059" type="personal" vocab="viaf" dataDate="2015-11-26-12-14-48">Jefferson, Thomas</name>
                 <role type="code" vocab="marcrelator" dataDate="2015-11-26-12-14-48">aut</role>
             </agent>
         </agentSet>
         <culturalContextSet>
-            <display dataDate="2015-11-26-12-55-05"/>
-            <notes dataDate="2015-11-26-12-55-05"/>
             <culturalContext pref="false" source="AAT 300107956" dataDate="2015-11-26-12-55-05">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <display dataDate="2015-11-26-12-15-37"/>
-            <notes dataDate="2015-11-26-12-15-37"/>
             <date pref="false" type="creation" dataDate="2016-06-07-11-35-03">
                 <earliestDate>
                     <date dataDate="2015-11-26-12-15-37">1776</date>
@@ -33,8 +29,6 @@
             </date>
         </dateSet>
         <inscriptionSet>
-            <display dataDate="2015-11-26-12-57-07"/>
-            <notes dataDate="2015-11-26-12-57-07"/>
             <inscription pref="false" dataDate="2016-06-07-11-43-04">
                 <author refid="41866059" vocab="viaf" dataDate="2015-11-26-12-57-07">Jefferson, Thomas</author>
                 <position dataDate="2015-11-26-12-57-07"/>
@@ -47,21 +41,13 @@
             <location pref="false" type="repository" dataDate="2016-06-07-11-41-25">
                 <refid dataDate="2015-11-26-12-17-51"/>
                 <name refid="168811441" vocab="viaf" dataDate="2015-11-26-12-17-51">United States, National Archives and Records Administration</name>
-                <point>
-                    <lat/>
-                    <long/>
-                </point>
             </location>
         </locationSet>
         <materialSet>
-            <display dataDate="2015-11-26-12-59-51"/>
-            <notes dataDate="2015-11-26-12-59-51"/>
             <material pref="false" refid="300015012" type="medium" vocab="aat" dataDate="2015-11-26-12-59-51">ink</material>
             <material pref="false" refid="300011851" type="support" vocab="aat" dataDate="2015-11-26-12-59-51">parchment</material>
         </materialSet>
         <measurementsSet>
-            <display dataDate="2015-11-26-13-26-39"/>
-            <notes dataDate="2015-11-26-13-26-39"/>
             <measurements pref="false" type="height" unit="cm" dataDate="2015-11-26-13-26-39">75.56</measurements>
             <measurements pref="false" type="width" unit="cm" dataDate="2015-11-26-13-26-39">62.23</measurements>
             <measurements pref="false" type="height" unit="in" dataDate="2015-11-26-13-26-39">29 3/4</measurements>
@@ -71,16 +57,12 @@
             <relation type="imageIs" relids="i_f47b60ee-65b5-459d-993d-81d191491f77" source="Tamboti" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
-            <display dataDate="2015-11-26-13-30-35"/>
-            <notes dataDate="2015-11-26-13-30-35"/>
             <source pref="false" dataDate="2015-11-26-13-30-35">
                 <refid type="URI" dataDate="2015-11-26-13-30-35">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_65_textual_manuscript</refid>
                 <name type="electronic" dataDate="2015-11-26-13-30-35">Cataloging Cultural Objects Commons</name>
             </source>
         </sourceSet>
         <subjectSet>
-            <display dataDate="2015-11-26-12-53-00"/>
-            <notes dataDate="2015-11-26-12-53-00"/>
             <subject pref="false" refid="300380018" vocab="aat" dataDate="2016-06-07-11-37-52">
                 <term type="descriptiveTopic" dataDate="2015-11-26-12-53-00">dissolution</term>
             </subject>
@@ -104,18 +86,12 @@
             </subject>
         </subjectSet>
         <techniqueSet>
-            <display dataDate="2015-11-26-13-31-13"/>
-            <notes dataDate="2015-11-26-13-31-13"/>
             <technique pref="false" refid="300252927" source="Simon Gruening" vocab="aat" dataDate="2015-11-26-13-31-13">handwriting</technique>
         </techniqueSet>
         <titleSet>
-            <display dataDate="2015-11-26-12-53-58"/>
-            <notes dataDate="2015-11-26-12-53-58"/>
             <title pref="false" type="repository" dataDate="2015-11-26-12-53-58">Declaration of Independence</title>
         </titleSet>
         <worktypeSet>
-            <display dataDate="2015-11-26-13-32-24"/>
-            <notes dataDate="2015-11-26-13-32-24"/>
             <worktype pref="false" refid="300026030" vocab="aat" dataDate="2015-11-26-13-32-24">documents</worktype>
             <worktype pref="false" refid="300028569" vocab="aat" dataDate="2015-11-26-13-32-24">manuscripts</worktype>
         </worktypeSet>

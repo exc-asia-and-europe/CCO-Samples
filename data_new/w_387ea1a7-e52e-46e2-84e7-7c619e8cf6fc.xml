@@ -5,7 +5,7 @@
             <agent pref="true" dataDate="2016-03-08-17-56-20">
                 <culture>American</culture>
                 <dates type="life">
-                    <earliestDate circa="false">approximately 1762</earliestDate>
+                    <earliestDate circa="true" type="about">1762</earliestDate>
                     <latestDate circa="false">1831</latestDate>
                 </dates>
                 <name refid="305409608" type="personal" vocab="viaf">Hoban, James</name>
@@ -40,7 +40,7 @@
                 <text>The White House is the residence of the American president. Design was the result of a public competition in 1792. Among the entrants was Thomas Jefferson, later president of the United States. James Hoban won the commission with a plan for a Georgian mansion in the Palladian style.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -106,7 +106,7 @@
         <textrefSet>
             <textref href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000083" pref="false" dataDate="2016-03-08-17-58-27">
                 <name type="electronic">CONA</name>
-                <refid type="URI">700000083</refid>
+                <refid type="other">700000083</refid>
             </textref>
         </textrefSet>
         <titleSet>

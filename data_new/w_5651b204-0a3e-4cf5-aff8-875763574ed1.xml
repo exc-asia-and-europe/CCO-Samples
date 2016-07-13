@@ -9,30 +9,25 @@
                 <culture dataDate="2015-11-18-12-56-52">attributed to</culture>
                 <dates type="life" dataDate="2015-11-18-12-56-52">
                     <earliestDate circa="false" dataDate="2015-11-18-12-59-13">1757</earliestDate>
-                    <latestDate circa="false" dataDate="2015-11-18T12:59:13.451+01:00">1811</latestDate>
+                    <latestDate circa="false" dataDate="2015-11-18-12-59-13">1811</latestDate>
                 </dates>
                 <name refid="3683166" type="personal" vocab="viaf" dataDate="2015-11-18-12-56-52">McIntire, Samuel</name>
                 <role type="code" vocab="marcrelator" dataDate="2015-11-18-12-56-52">dsr</role>
             </agent>
             <agent href="http://www.metmuseum.org/collection/the-collection-online/search/1674" pref="true" source="Metropolitan Museum of Art" dataDate="2016-06-15-13-35-13">
-                <attribution dataDate="2015-11-18-12-40-21"/>
                 <culture dataDate="2015-11-18-12-40-21">American</culture>
                 <dates type="life" dataDate="2015-11-18-12-40-21">
                     <earliestDate circa="false" dataDate="2015-11-18-12-43-58">1739</earliestDate>
-                    <latestDate circa="false" dataDate="2015-11-18T12:43:58.958+01:00">1799</latestDate>
+                    <latestDate circa="false" dataDate="2015-11-18-12-43-58">1799</latestDate>
                 </dates>
                 <name refid="62957955" type="personal" vocab="viaf" dataDate="2015-11-18-12-40-21">Derby, Elias Hasket</name>
                 <role extent="commissioner" type="code" vocab="marcrelator" dataDate="2015-11-18-12-40-21">fmo</role>
             </agent>
         </agentSet>
         <culturalContextSet>
-            <display dataDate="2015-11-18-14-25-58"/>
-            <notes dataDate="2015-11-18-14-25-58"/>
             <culturalContext pref="false" source="AAT 300107956" dataDate="2015-11-18-14-25-58">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <display dataDate="2015-11-18-12-45-34"/>
-            <notes dataDate="2015-11-18-12-45-34"/>
             <date href="http://www.metmuseum.org/collection/the-collection-online/search/1674" pref="true" source="Metropolitan Museum of Art" type="creation" dataDate="2016-06-15-13-36-15">
                 <earliestDate>
                     <date dataDate="2015-11-18-12-55-05">1794</date>
@@ -51,8 +46,6 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display dataDate="2015-11-18-12-47-02"/>
-            <notes dataDate="2015-11-18-12-47-02"/>
             <description href="http://www.metmuseum.org/collection/the-collection-online/search/1674" pref="false" source="Metropolitan Museum of Art" dataDate="2016-06-15-15-04-20">
                 <text dataDate="2015-11-18-12-47-02">This vase-back chair originally was made for the wealthy Salem merchant Elias Hasket Derby. The chair is part of a larger set, two pieces of which are at Bayou Bend (Museum of Fine Arts, Houston), and one in the Karolik Collection (Museum of Fine Arts, Boston). The design of these chairs is an enriched version of plate 2 from George Hepplewhite's "Cabinet-Maker and Upholsterer's Guide" (London, 1788). The carved grape clusters in the lunette at the base of the splat and suspended from bowknots at the top of each leg are a motif traditionally associated with the work of Samuel McIntire, a Salem carver and architect.</text>
                 <author dataDate="2015-11-18-12-47-02">
@@ -62,8 +55,6 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <display dataDate="2015-11-18-12-52-20"/>
-            <notes dataDate="2015-11-18-12-52-20"/>
             <location pref="false" type="repository" dataDate="2016-06-15-14-41-15">
                 <refid extent="Friends of the American Wing Fund, 1962" type="accession" dataDate="2015-11-18-12-52-20">62.16</refid>
                 <name refid="126238294" type="corporate" vocab="viaf" dataDate="2015-11-18-12-52-20">Metropolitan Museum of Art</name>
@@ -74,8 +65,6 @@
             </location>
         </locationSet>
         <materialSet>
-            <display dataDate="2015-11-18-14-27-31"/>
-            <notes dataDate="2015-11-18-14-27-31"/>
             <material pref="false" refid="300343775" type="medium" vocab="aat" dataDate="2015-11-18-15-37-14">white pine</material>
             <material pref="false" refid="300011973" type="medium" vocab="aat" dataDate="2015-11-18-15-37-14">birch</material>
             <material pref="false" refid="300164025" type="medium" vocab="aat" dataDate="2015-11-18-15-37-14">ash</material>
@@ -83,8 +72,6 @@
             <material pref="false" refid="300012221" type="medium" vocab="aat" dataDate="2015-11-18-15-37-14">mahogany</material>
         </materialSet>
         <measurementsSet>
-            <display dataDate="2015-11-18-15-48-05"/>
-            <notes dataDate="2015-11-18-15-48-05"/>
             <measurements pref="false" type="height" unit="cm" dataDate="2015-11-18-15-48-05">96.2</measurements>
             <measurements pref="false" type="width" unit="cm" dataDate="2015-11-18-15-48-05">70.8</measurements>
             <measurements pref="false" type="length" unit="cm" dataDate="2015-11-18-15-48-05">45.7</measurements>
@@ -93,16 +80,12 @@
             <measurements pref="false" type="length" unit="in" dataDate="2015-11-18-15-48-05">18</measurements>
         </measurementsSet>
         <relationSet>
-            <display dataDate="2015-11-18-15-54-34"/>
-            <notes dataDate="2015-11-18-15-54-34"/>
             <relation href="http://www.mfa.org/collections/object/side-chair-neoclassical-44047" pref="false" relids="27.600" type="partnerInSetWith" dataDate="2015-11-18-17-25-09">Museum of Fine Arts, Boston</relation>
             <relation href="http://www.mfa.org/collections/object/side-chair-neoclassical-44046" pref="false" relids="27.599" type="partnerInSetWith" dataDate="2015-11-18-16-39-22">Museum of Fine Arts, Boston</relation>
             <relation href="https://collections.mfah.org/art/detail/5441?returnUrl=%2Fart%2Fsearch%3Fq%3DSide%2BChair%26artist%3DAmerican%257cAmerican%26show%3D50%26page%3D3" pref="false" relids="B.61.92.1" type="partnerInSetWith" dataDate="2015-11-18-16-39-22">The Museum of Fine Arts, Houston</relation>
             <relation pref="true" relids="i_1edf6901-87da-40db-9cb3-358b937e5f62" type="imageIs" dataDate="2015-11-18-15-54-34">front view</relation>
         </relationSet>
         <sourceSet>
-            <display dataDate="2015-11-18-15-55-17"/>
-            <notes dataDate="2015-11-18-15-55-17"/>
             <source pref="false" dataDate="2015-11-18-16-17-56">
                 <refid type="URI" dataDate="2015-11-18-16-17-56">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_107_chair_related_works</refid>
                 <name type="electronic" dataDate="2015-11-18-16-17-56">Cataloging Cultural Objects Commons</name>
@@ -113,13 +96,9 @@
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <display dataDate="2015-11-18-16-18-49"/>
-            <notes dataDate="2015-11-18-16-18-49"/>
             <stylePeriod pref="false" refid="300021219" vocab="aat" dataDate="2015-11-18-16-18-49">Hepplewhite</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <display dataDate="2015-11-18-13-08-33"/>
-            <notes dataDate="2015-11-18-13-08-33"/>
             <subject pref="false" refid="300009724" vocab="aat" dataDate="2015-11-18-16-21-21">
                 <term type="descriptiveTopic" dataDate="2015-11-18-16-21-21">decorative arts</term>
             </subject>
@@ -137,13 +116,9 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <display dataDate="2015-11-18-13-29-33"/>
-            <notes dataDate="2015-11-18-13-29-33"/>
             <title pref="false" type="repository" dataDate="2015-11-18-14-30-32">Side Chair</title>
         </titleSet>
         <worktypeSet>
-            <display dataDate="2015-11-18-16-20-29"/>
-            <notes dataDate="2015-11-18-16-20-29"/>
             <worktype pref="false" refid="300037896" vocab="aat" dataDate="2015-11-18-16-20-29">side chairs</worktype>
             <worktype pref="false" refid="300037680" vocab="aat" dataDate="2015-11-18-16-20-29">furniture</worktype>
         </worktypeSet>

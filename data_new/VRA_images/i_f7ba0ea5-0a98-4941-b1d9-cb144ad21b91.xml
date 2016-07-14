@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_f7ba0ea5-0a98-4941-b1d9-cb144ad21b91" source="Tamboti" href="i_f7ba0ea5-0a98-4941-b1d9-cb144ad21b91.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-05-18-09-52-21">
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_e94a1082-9db6-4c64-bf1f-9660448d57f9" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-02-13-29-40">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/447/joseph-mallord-william-turner-conway-castle-north-wales-british-1798/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_032.jpg</title>
+        </titleSet>
+    </image>
+</vra>

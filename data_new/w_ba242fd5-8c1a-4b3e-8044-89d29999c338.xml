@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_ba242fd5-8c1a-4b3e-8044-89d29999c338" source="Kurs" refid="c_352a414f-fb1a-4b07-91cc-b629c8e6a7d6">
+        <agentSet>
+            <agent pref="false" dataDate="2015-11-12-11-39-22">
+                <culture>Japanese</culture>
+                <name refid="173788257" source="viaf" type="corporate" vocab="viaf">Nishimura Eijudo</name>
+                <role type="code" vocab="marcrelator">pbl</role>
+            </agent>
+            <agent pref="true" dataDate="2016-06-02-11-35-01">
+                <culture>Japanese</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1760</earliestDate>
+                    <latestDate circa="false">1849</latestDate>
+                </dates>
+                <name refid="69033717" source="viaf" type="personal" vocab="viaf">Hishikawa, Sori</name>
+                <role type="code" vocab="marcrelator">prm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext pref="false" source="AAT 300018519">Japanese (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date pref="false" type="creation" dataDate="2016-06-02-11-38-39">
+                <earliestDate>
+                    <date>1827</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1837</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" dataDate="2016-06-02-12-24-03">
+                <text>Despite the title, this series actually comprises 46 prints total. Hokusai produced two other sequential series of views.</text>
+                <author>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="false" type="site" dataDate="2016-06-02-12-23-37">
+                <name refid="1107685" type="geographic" vocab="tgn">Fuji-san</name>
+                <point epsg="4326">
+                    <lat>35.358056</lat>
+                    <long>138.731111</long>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material pref="false" refid="300264870" type="medium" vocab="aat">color</material>
+            <material pref="false" refid="300015012" type="medium" vocab="aat">ink</material>
+            <material pref="false" refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="false" type="count" unit="prints">46</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" type="height" unit="cm">24</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" type="width" unit="cm">37</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" type="height" unit="in">9 1/2</measurements>
+            <measurements extent="average plate size" pref="false" shape="rectangle" type="width" unit="in">14 5/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="w_cef53ec7-0794-482d-8d85-3d0287b8a05f" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints" type="largerContextFor">Great Wave at Kanagawa</relation>
+            <relation pref="true" relids="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c" source="Tamboti" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_946b1e74-3393-480a-b06e-717e44a79d11" source="Tamboti" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_18801aba-65bb-43ee-9f74-e80a1a2814a2" source="Tamboti" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-12-12-07-57">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod pref="false" refid="300106643" source="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series" vocab="aat">Edo</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject pref="false" refid="300264872" vocab="aat" dataDate="2016-06-02-12-02-27">
+                <term type="iconographicTopic">meisho-e</term>
+            </subject>
+            <subject pref="false" refid="300139140" vocab="aat" dataDate="2015-11-12-11-45-46">
+                <term type="descriptiveTopic">genre</term>
+            </subject>
+            <subject pref="false" refid="300008687" vocab="aat">
+                <term type="descriptiveTopic">oceans</term>
+            </subject>
+            <subject pref="false" refid="300117546" vocab="aat" dataDate="2016-06-02-11-39-09">
+                <term type="descriptiveTopic">seascapes</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique pref="false" refid="300053319" vocab="aat">printing</technique>
+            <technique pref="false" refid="300053296" vocab="aat">woodcut</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref pref="false" dataDate="2016-06-06-11-32-48">
+                <name type="electronic">CONA</name>
+                <refid type="other">700000093</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <title lang="eng" pref="false" type="translated">Thirty-six Views of Mount Fuji: First Series</title>
+            <title lang="eng" pref="false" type="other">First Series: Mt. Fuji Views</title>
+            <title lang="jpn" pref="false" script="Jpan" source="https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji" type="other">富嶽三十六景</title>
+            <title lang="jpn" pref="false" script="Latn" type="other">Fugaku sanjurokkei</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300041273" vocab="aat">prints</worktype>
+            <worktype pref="false" refid="300041412" vocab="aat">color woodcuts</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_f53c46eb-e3d3-478e-a40e-65bfbf9a7ea1" source="Tamboti" href="i_f53c46eb-e3d3-478e-a40e-65bfbf9a7ea1.jpg">
+        <agentSet>
+            <display dataDate="2015-11-30-18-50-47"/>
+            <notes dataDate="2015-11-30-18-50-47"/>
+            <agent pref="false" dataDate="2015-11-30-18-50-47">
+                <attribution dataDate="2015-11-30-18-50-47"/>
+                <culture dataDate="2015-11-30-18-50-47"/>
+                <dates dataDate="2015-11-30-18-50-47"/>
+                <name refid="139247290" type="corporate" vocab="viaf" dataDate="2015-11-30-18-50-47">Arthur M. Sackler Gallery (Smithsonian Institution)</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-30-18-50-47">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_d83af974-e8b7-491d-86cf-2e6e0b533c73" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <display dataDate="2015-11-30-18-56-41"/>
+            <notes dataDate="2015-11-30-18-56-41"/>
+            <source pref="false" dataDate="2015-11-30-18-56-41">
+                <refid type="URI" dataDate="2015-11-30-18-56-41">http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26</refid>
+                <name type="electronic" dataDate="2015-11-30-18-56-41">Arthur M. Sackler Gallery</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_081.jpg</title>
+        </titleSet>
+    </image>
+</vra>

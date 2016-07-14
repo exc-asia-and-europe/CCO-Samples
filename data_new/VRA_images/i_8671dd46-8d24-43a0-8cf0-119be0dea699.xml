@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_8671dd46-8d24-43a0-8cf0-119be0dea699" source="Tamboti" href="i_8671dd46-8d24-43a0-8cf0-119be0dea699.jpg">
+        <relationSet>
+            <relation type="imageOf" relids="w_df00cf78-2359-4aa6-82da-bacc14401d20" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-04-29-12-18-43">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/</refid>
+                <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_007--CCO_fig036-1.jpg</title>
+        </titleSet>
+    </image>
+</vra>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_e94a1082-9db6-4c64-bf1f-9660448d57f9" source="Kurs" refid="c_242cb80a-0748-405d-9dae-e1f85564c49d">
+        <agentSet>
+            <agent pref="true" dataDate="2016-05-18-10-26-54">
+                <culture>British</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1775</earliestDate>
+                    <latestDate circa="false">1851</latestDate>
+                </dates>
+                <name refid="100900492" source="viaf" type="personal" vocab="viaf">Turner, J. M. W.</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext pref="false" source="AAT 300111159">British (modern)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date pref="false" type="creation" dataDate="2016-05-18-10-27-29">
+                <earliestDate>
+                    <date>1798</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1798</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.getty.edu/art/collection/objects/447/joseph-mallord-william-turner-conway-castle-north-wales-british-1798/" pref="false" source="J. Paul Getty Museum" dataDate="2016-05-18-10-39-44">
+                <text>On a dramatic, rocky area of the northern coast of Wales looms the late medieval Conway Castle. It towers over a stormy bay while fisherman struggle to pull their boats ashore. Caught in this uproaring of the sea, the tiny figures of fishermen in their boat convey a sense of humans' barely significant place in the order of the universe. 
+The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and he made several sketching trips there in the 1790s. In this early Romantic painting, Turner represented the dramatic effects of natural light, allowing sunshine breaking through the clouds to illuminate the castle and the coast beyond.</text>
+                <author>
+                    <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" dataDate="2016-05-18-10-40-19">
+                <text>This is the largest of Turner’s four extant watercolors of this medieval castle on the northern coast of Wales. Turner portrays the landscape and ocean in a dramatic fashion, using angry clouds, sunshine, and roiling waves to animate the scene and emphasize the struggle of the fishermen.
+[Source: J. Paul Getty Museum online. www.getty.edu  Page: accessed 2 December 2006.]</text>
+                <author>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="false" type="repository" dataDate="2016-05-18-10-37-56">
+                <refid type="accession">95.GC.10</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material pref="false" refid="300015045" type="medium" vocab="aat">watercolor</material>
+            <material extent="underdrawing" pref="false" refid="300011098" type="medium" vocab="aat">graphite</material>
+            <material pref="false" refid="300012869" type="medium" vocab="aat">gum arabic</material>
+            <material pref="false" refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.getty.edu/art/collection/objects/447/joseph-mallord-william-turner-conway-castle-north-wales-british-1798/" pref="false" shape="rectangle" source="J. Paul Getty Museum" type="height" unit="cm">53.7</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/447/joseph-mallord-william-turner-conway-castle-north-wales-british-1798/" shape="rectangle" source="J. Paul Getty Museum" type="width" unit="cm">76.5</measurements>
+            <measurements shape="rectangle" type="height" unit="in">21 1/8</measurements>
+            <measurements pref="false" shape="rectangle" type="width" unit="in">30 1/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="700000063" source="CONA" type="depicts">Conway Castle</relation>
+            <relation pref="true" relids="i_f7ba0ea5-0a98-4941-b1d9-cb144ad21b91" source="Tamboti" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2016-05-18-10-02-44">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/447/joseph-mallord-william-turner-conway-castle-north-wales-british-1798/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod pref="false" refid="300172863" vocab="aat">Romantic</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject pref="false" refid="300069430" vocab="aat" dataDate="2015-11-02-11-59-45">
+                <term type="descriptiveTopic">underdrawings</term>
+            </subject>
+            <subject pref="false" refid="uuid-6060a381-4e97-5ad4-8d86-2b421ec2613d" vocab="local" dataDate="2015-11-02-11-28-35">
+                <term type="descriptiveTopic">struggle</term>
+            </subject>
+            <subject pref="false" refid="300011692" vocab="aat">
+                <term type="descriptiveTopic">rock</term>
+            </subject>
+            <subject pref="false" refid="300025608" vocab="aat" dataDate="2015-11-02-11-26-57">
+                <term type="descriptiveTopic">fishermen</term>
+            </subject>
+            <subject pref="false" refid="300054734" vocab="aat">
+                <term type="descriptiveTopic">storms</term>
+            </subject>
+            <subject pref="false" refid="300008734" vocab="aat" dataDate="2015-11-02-11-24-33">
+                <term type="descriptiveTopic">coastlines</term>
+            </subject>
+            <subject pref="false" refid="300008687" vocab="aat" dataDate="2015-11-02-11-33-39">
+                <term type="descriptiveTopic">oceans</term>
+            </subject>
+            <subject pref="false" refid="300117546" vocab="aat" dataDate="2016-05-18-10-29-47">
+                <term type="descriptiveTopic">seascapes</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique pref="false" refid="300182748" vocab="aat">wash technique</technique>
+        </techniqueSet>
+        <titleSet>
+            <title href="http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_32_watercolor_british" pref="false" type="repository">Conway Castle, North Wales</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300033973" vocab="aat">drawings</worktype>
+            <worktype pref="true" refid="300078925" vocab="aat">watercolors</worktype>
+        </worktypeSet>
+    </work>
+</vra>

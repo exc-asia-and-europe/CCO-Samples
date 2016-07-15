@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_b0de51b5-5134-4295-9572-294fd41c659c"
+          href="i_b0de51b5-5134-4295-9572-294fd41c659c.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-28-16-27-42">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_e690b96e-439c-4f37-85a5-2f10ac55bc34"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-06-15-32-30">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/337497</refid>
+            <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title pref="true" type="repository">Studies for the Libyan Sibyl (recto)</title>
+      </titleSet>
+   </image>
+</vra>

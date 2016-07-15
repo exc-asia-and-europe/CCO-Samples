@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad"
+          href="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="false" dataDate="2016-01-27-14-07-38">
+            <dates type="life"/>
+            <name refid="71437368" type="personal" vocab="viaf">Haun, Declan</name>
+            <role type="code" vocab="marcrelator">pht</role>
+         </agent>
+         <agent pref="true">
+            <name refid="168811441" type="corporate" vocab="viaf">United States, National Archives and Records Administration</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2016-01-27-14-16-14">
+            <earliestDate>
+               <date>1973-05</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <locationSet>
+         <location pref="false" type="repository" dataDate="2016-01-27-14-17-39">
+            <refid type="other">546512</refid>
+            <name refid="168811441" type="corporate" vocab="viaf">United States, National Archives and Records Administration</name>
+         </location>
+      </locationSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_28659b09-c393-4b9d-80c1-0463a99069db"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-06-08-16-05-35">
+            <refid type="URI">https://catalog.archives.gov/id/546512</refid>
+            <name type="electronic">United States. National Archives and Records Administration</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300202383"
+                  vocab="aat"
+                  source="Simon Gruening"
+                  dataDate="2016-06-08-16-06-51">
+            <term type="descriptiveTopic">digitizing</term>
+         </subject>
+         <subject pref="false"
+                  refid="300128371"
+                  vocab="aat"
+                  source="Simon Gruening">
+            <term type="descriptiveTopic">slides (photographs)</term>
+         </subject>
+      </subjectSet>
+      <titleSet>
+         <title pref="true" type="descriptive">Henry Moore's "Large Arch," which was installed near the Rogers Library in 1971</title>
+      </titleSet>
+   </image>
+</vra>

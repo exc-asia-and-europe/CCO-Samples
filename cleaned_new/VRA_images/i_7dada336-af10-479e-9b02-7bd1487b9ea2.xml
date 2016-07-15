@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_7dada336-af10-479e-9b02-7bd1487b9ea2"
+          href="i_7dada336-af10-479e-9b02-7bd1487b9ea2.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-21-11-50-53">
+            <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_cf2735dc-3b3e-4927-b983-73aa87f3a662"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-29-14-41-12">
+            <refid type="URI">http://commons.wikimedia.org/wiki/File:Autumn_-_On_the_Hudson_River,_by_Jasper_Francis_Cropsey,_1860,_oil_on_canvas,_view_1_-_National_Gallery_of_Art,_Washington_-_DSC00060.JPG</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_011.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_f47b60ee-65b5-459d-993d-81d191491f77"
+          href="i_f47b60ee-65b5-459d-993d-81d191491f77.jpg"
+          source="Tamboti">
+      <agentSet>
+         <display dataDate="2015-11-26-12-11-18"/>
+         <notes dataDate="2015-11-26-12-11-18"/>
+         <agent pref="true" dataDate="2016-06-07-11-25-04">
+            <attribution dataDate="2015-11-26-12-11-18"/>
+            <culture dataDate="2015-11-26-12-11-18"/>
+            <dates dataDate="2015-11-26-12-11-18"/>
+            <name refid="168811441"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-26-12-11-18">United States, National Archives and Records Administration</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-26-12-11-18">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_57b05b6a-493f-4c9d-bf2e-2bcdd4ddc746"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-26-12-13-12"/>
+         <notes dataDate="2015-11-26-12-13-12"/>
+         <source pref="false" dataDate="2015-11-26-12-13-12">
+            <refid type="URI" dataDate="2015-11-26-12-13-12">http://www.archives.gov/exhibits/charters/charters_downloads.html</refid>
+            <name type="electronic" dataDate="2015-11-26-12-13-12">The U.S. National Archives and Records Administration</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_065.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_6a70d04c-cd0a-4cac-b89d-0f18d3ac9a26"
+          href="i_6a70d04c-cd0a-4cac-b89d-0f18d3ac9a26.jpg"
+          source="Tamboti">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_767e9c48-ddf8-4cc1-9512-55d20298c7f5"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-18-17-02-18"/>
+         <notes dataDate="2015-11-18-17-02-18"/>
+         <source pref="false" dataDate="2015-11-18-17-02-18">
+            <refid type="URI" dataDate="2015-11-18-17-02-18">https://www.flickr.com/photos/hisgett/3773757247</refid>
+            <name type="electronic" dataDate="2015-11-18-17-02-18">flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_150-1.jpg</title>
+      </titleSet>
+   </image>
+</vra>

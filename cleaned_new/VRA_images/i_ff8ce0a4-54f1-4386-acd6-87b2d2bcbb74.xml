@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_ff8ce0a4-54f1-4386-acd6-87b2d2bcbb74"
+          href="i_ff8ce0a4-54f1-4386-acd6-87b2d2bcbb74.png"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-10-12-50-45">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_a0b660af-3ab0-4cc1-a64d-4955554f09bf"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-10-13-00-00">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/</refid>
+            <name type="electronic">The J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="descriptive">Image record CCO_online_074_nach_Titel.png</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_5d3ed68b-2230-49b4-8bf3-8002d0ff668a"
+         refid="c_e9a85c14-56c4-4251-b151-9d5a3a73b01a"
+         source="Kurs">
+      <agentSet>
+         <agent pref="false" dataDate="2015-04-22-13-57-46">
+            <dates type="life">
+               <earliestDate circa="false">0017 av. J.C.</earliestDate>
+               <latestDate circa="false">0002</latestDate>
+            </dates>
+            <name refid="88932501" type="personal" vocab="viaf">Caesar, Lucius</name>
+            <role type="code" vocab="marcrelator">dte</role>
+         </agent>
+         <agent pref="false" dataDate="2015-04-22-13-56-43">
+            <dates type="life">
+               <earliestDate circa="false">0020 av. J.</earliestDate>
+               <latestDate checkMe="xxx" circa="false">C.-0004</latestDate>
+            </dates>
+            <name refid="58081943" type="personal" vocab="viaf">César, Caius</name>
+            <role type="code" vocab="marcrelator">dte</role>
+         </agent>
+         <agent pref="true" dataDate="2016-03-24-08-54-26">
+            <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
+            <role type="code" vocab="marcrelator">arc</role>
+         </agent>
+         <agent pref="false"
+                source="Simon Gruening from description"
+                dataDate="2016-03-24-08-54-13">
+            <name refid="6352894" type="personal" vocab="viaf">Agrippa, Marcus Vipsanius</name>
+            <role type="code" vocab="marcrelator">cli</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300020580">Gallo-Roman</culturalContext>
+         <culturalContext pref="false" source="AAT 300020533">Roman (ancient Italian culture or period)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-04-22-13-48-26">
+            <earliestDate>
+               <date>16 BCE</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description extent="Wikipedia"
+                      href="http://en.wikipedia.org/wiki/Maison_Carr%C3%A9e"
+                      pref="false"
+                      dataDate="2016-03-24-08-56-22">
+            <text>Maison Carrée is an example of Vitruvian architecture. Raised on a 2.85 m high podium, the temple dominated the forum of the Roman city, forming a rectangle almost twice as long as it is wide, measuring 26.42 m by 13.54 m. The façade is dominated by a deep portico or pronaos almost a third of the building's length. It is a hexastyle design with six Corinthian columns under the pediment at either end, and pseudoperipteral in that twenty engaged columns are embedded along the walls of the cella. Above the columns, the architrave is divided by two recessed rows of petrified water drips into three levels with ratios of 1:2:3. Egg-and-dart decoration divides the architrave from the frieze. The frieze is decorated with fine ornamental relief carvings of rosettes and acanthus leaves beneath a row of very fine dentils.
+A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and windowless interior, where the shrine was originally housed. This is now used to house a tourist oriented 3-D film on a series of heroes that arose through Nîmes' history. No ancient decoration remains inside the cella.</text>
+            <author>
+               <name refid="220417855" type="corporate" vocab="viaf">Wikipedia</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+         <description extent="Cataloging Cultural Objects"
+                      href="http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=25"
+                      pref="false"
+                      dataDate="2016-03-24-08-55-35">
+            <text>Temple was dedicated to Gaius and Lucius Caesar, adopted sons of the first Roman emperor Augustus. Noted as best-preserved Roman building remaining in Gaul.</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription href="https://en.wikipedia.org/wiki/Maison_Carr%C3%A9e"
+                      pref="false"
+                      source="Wikipedia"
+                      dataDate="2016-03-24-09-06-12">
+            <author refid="61535454" vocab="viaf">Séguier, Jean François</author>
+            <position>portico's facade</position>
+            <text type="translation">To Gaius Caesar, son of Augustus, Consul; to Lucius Caesar, son of Augustus, Consul designate; to the princes of youth.</text>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-03-24-09-01-41">
+            <name refid="7008371" type="geographic" vocab="tgn">Nîmes</name>
+         </location>
+         <location pref="false" type="site" dataDate="2015-04-22-13-53-44">
+            <name type="geographic">Avenue du Général Perrier, 30000 Nîmes, France</name>
+            <point epsg="4326">
+               <lat>43.838333</lat>
+               <long>4.356111</long>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300015332" type="medium" vocab="aat">masonry</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements pref="false" type="length" unit="m">25</measurements>
+         <measurements pref="true" type="width" unit="m">12</measurements>
+         <measurements pref="false" type="length" unit="ft">82</measurements>
+         <measurements pref="false" type="width" unit="ft">40</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_41beb9d1-0528-4fab-a030-8dbcb807e4f5"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-24-09-06-33">
+            <refid type="URI">https://en.wikipedia.org/wiki/Maison_Carr%C3%A9e</refid>
+            <name type="electronic">Wikipedia</name>
+         </source>
+         <source pref="false" dataDate="2015-04-22-14-09-32">
+            <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=25</refid>
+            <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 180.</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <stylePeriod pref="false" refid="300020110" vocab="aat">Corinthian</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300020580"
+                  vocab="aat"
+                  dataDate="2015-04-22-14-11-20">
+            <term type="iconographicTopic">Gallo-Roman</term>
+         </subject>
+         <subject pref="false"
+                  refid="300070045"
+                  vocab="aat"
+                  dataDate="2015-04-22-14-04-59">
+            <term type="descriptiveTopic">dimension stone</term>
+         </subject>
+         <subject pref="false" refid="300002557" vocab="aat">
+            <term type="descriptiveTopic">bearing walls</term>
+         </subject>
+         <subject pref="false"
+                  refid="300020110"
+                  vocab="aat"
+                  dataDate="2015-04-22-14-00-50">
+            <term type="iconographicTopic">Corinthian</term>
+         </subject>
+         <subject pref="false"
+                  refid="300007595"
+                  vocab="aat"
+                  dataDate="2015-04-22-13-55-02">
+            <term type="descriptiveTopic">temples</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300386948" vocab="aat">stonemasonry</technique>
+      </techniqueSet>
+      <titleSet>
+         <title pref="true" type="popular">Maison Carée</title>
+         <title pref="false" type="other">Nîmes Temple</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+         <worktype pref="false" refid="300007595" vocab="aat">temples</worktype>
+         <worktype pref="false" refid="300006063" vocab="aat">town halls</worktype>
+         <worktype pref="false" refid="300005425" vocab="aat">dwellings</worktype>
+         <worktype pref="false" refid="300005015" vocab="aat">stables</worktype>
+         <worktype pref="false" refid="300007466" vocab="aat">churches</worktype>
+         <worktype pref="false" refid="300005768" vocab="aat">museums</worktype>
+      </worktypeSet>
+   </work>
+</vra>

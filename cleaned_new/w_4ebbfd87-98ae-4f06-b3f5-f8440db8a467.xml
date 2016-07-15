@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_4ebbfd87-98ae-4f06-b3f5-f8440db8a467"
+         refid="c_58a76612-f8c3-4917-927b-837c96b3aa84"
+         source="Kurs">
+      <agentSet>
+         <display dataDate="2015-11-16-12-57-20"/>
+         <notes dataDate="2015-11-16-12-57-20"/>
+         <agent pref="true" dataDate="2016-06-06-14-49-27">
+            <attribution dataDate="2015-11-16-12-57-20"/>
+            <culture dataDate="2015-11-16-12-57-20">Persian</culture>
+            <dates type="life" dataDate="2015-11-16-12-57-20">
+               <earliestDate circa="true" type="about" dataDate="2015-11-16-12-57-20">1570</earliestDate>
+               <latestDate circa="false" dataDate="2015-11-16T12:57:20.692+01:00">1635?</latestDate>
+            </dates>
+            <name refid="4833075"
+                  type="personal"
+                  vocab="viaf"
+                  dataDate="2015-11-16-12-57-20">Riza Abbasi</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-16-12-57-20">ilu</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <display dataDate="2015-11-16-13-23-05"/>
+         <notes dataDate="2015-11-16-13-23-05"/>
+         <culturalContext href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                          pref="false"
+                          source="term: AAT 300380013; info: Metropolitan Museum of Art"
+                          dataDate="2015-11-16-13-23-05">Islamic (culture or style)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display dataDate="2015-11-16-12-59-41"/>
+         <notes dataDate="2015-11-16-12-59-41"/>
+         <date pref="false" type="creation" dataDate="2016-06-06-15-20-13">
+            <earliestDate>
+               <alternativeNotation>1039 anno Hegirae</alternativeNotation>
+               <date dataDate="2015-11-16-12-59-41">1630</date>
+            </earliestDate>
+            <latestDate>
+               <date dataDate="2015-11-16-12-59-41">1630</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <display dataDate="2015-11-16-13-02-10"/>
+         <notes dataDate="2015-11-16-13-02-10"/>
+         <description extent="museum label"
+                      href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                      pref="false"
+                      source="Metropolitan Museum of Art"
+                      dataDate="2016-06-06-15-40-19">
+            <text dataDate="2015-11-16-13-02-10">The artist Riza‑yi 'Abbasi revolutionized Persian painting and drawing with his inventive use of calligraphic line and nusual palette. He painted The Lovers toward the end of a long, successful career at the Safavid court. The subject of a couple entwined reflects a newly relaxed attitude to sensuality introduced in the reign of Shah Safi (r. 1629–42). Here the figures are inextricably bound together, merged volumes confined within one outline.</text>
+            <author dataDate="2015-11-16-13-02-10">
+               <name refid="126238294"
+                     type="corporate"
+                     vocab="viaf"
+                     dataDate="2015-11-16-13-02-10">Metropolitan Museum of Art</name>
+               <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-02-10">aut</role>
+            </author>
+         </description>
+         <description pref="false" dataDate="2015-11-16-13-02-10">
+            <text dataDate="2015-11-16-13-02-10">The artist was working at the court of Shah ‘Abbas the Great (reigned 1588-1629); this work shows his renowned inventive palette and calligraphic line. The lovers are drawn as inextricably bound together, merged volumes confined within one outline.
+[Description Source: Metropolitan Museum of Art online. www.metmuseum.org ; Page: accessed 13 December 2006.]</text>
+            <author dataDate="2015-11-16-13-02-10">
+               <name refid="131347215"
+                     type="corporate"
+                     vocab="viaf"
+                     dataDate="2015-11-16-13-02-10">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-02-10">edt</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <display dataDate="2015-11-16-13-22-12"/>
+         <notes dataDate="2015-11-16-13-22-12"/>
+         <inscription pref="false"
+                      source="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                      dataDate="2015-11-16-13-22-12">
+            <text lang="ara"
+                  script="Arab"
+                  type="signature"
+                  source="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                  dataDate="2015-11-16-13-22-12">در روز 3 شنبه هشتم شهر شوال/ با إقبال سنهٔ 1039 به إتمام رسید. رقم کمینه رضاء عباسى/ ه </text>
+            <author refid="4833075" vocab="viaf" dataDate="2015-11-16-13-22-12">Riza Abbasi</author>
+            <position dataDate="2015-11-16-13-22-12">middle left</position>
+            <text lang="eng"
+                  script="Latn"
+                  type="translation"
+                  source="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                  dataDate="2015-11-16-13-22-12">Completed on Tuesday, eighth of Shawwal, from the fortunate year of 
+A.H. 1039 [May 21, 1630 A.D.]. Painted by the humble Riza-yi ‘Abbasi</text>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <display dataDate="2015-11-16-13-05-11"/>
+         <notes dataDate="2015-11-16-13-05-11"/>
+         <location href="http://www.metmuseum.org/art/collection/search/451023"
+                   pref="false"
+                   type="creation"
+                   source="Metropolitan Museum of Art"
+                   dataDate="2016-06-06-15-33-09">
+            <name refid="1001228" type="geographic" vocab="tgn">Eṣfahān</name>
+         </location>
+         <location pref="true" type="repository" dataDate="2016-06-06-15-33-19">
+            <refid type="accession" dataDate="2015-11-16-13-05-11">50.164</refid>
+            <name refid="126238294" vocab="viaf" dataDate="2015-11-16-13-05-11">Metropolitan Museum of Art</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display dataDate="2015-11-16-13-25-04"/>
+         <notes dataDate="2015-11-16-13-25-04"/>
+         <material href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                   pref="false"
+                   refid="300015012"
+                   type="medium"
+                   vocab="aat"
+                   source="Metropolitan Museum of Art"
+                   dataDate="2015-11-16-13-25-04">ink</material>
+         <material href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                   pref="false"
+                   refid="300011021"
+                   type="medium"
+                   vocab="aat"
+                   source="Metropolitan Museum of Art"
+                   dataDate="2015-11-16-13-25-04">gold</material>
+         <material href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                   pref="false"
+                   refid="300015045"
+                   type="medium"
+                   vocab="aat"
+                   source="Metropolitan Museum of Art"
+                   dataDate="2015-11-16-13-25-04">watercolor</material>
+         <material href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                   pref="false"
+                   refid="300014109"
+                   type="support"
+                   vocab="aat"
+                   source="Metropolitan Museum of Art"
+                   dataDate="2015-11-16-13-25-04">paper</material>
+      </materialSet>
+      <measurementsSet>
+         <display dataDate="2015-11-16-13-30-51"/>
+         <notes dataDate="2015-11-16-13-30-51"/>
+         <measurements extent="painting"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">6 7/8</measurements>
+         <measurements extent="painting"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">4 3/8</measurements>
+         <measurements extent="painting"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">17.5</measurements>
+         <measurements extent="painting"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">11.1</measurements>
+         <measurements extent="page"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">7 1/2</measurements>
+         <measurements extent="page"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">4 15/16</measurements>
+         <measurements extent="page"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">19.1</measurements>
+         <measurements extent="page"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">12.5</measurements>
+         <measurements extent="mat"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">19 1/4</measurements>
+         <measurements extent="mat"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">14 1/4</measurements>
+         <measurements extent="mat"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">48.9</measurements>
+         <measurements extent="mat"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-16-13-30-51">36.2</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-16-13-32-24"/>
+         <notes dataDate="2015-11-16-13-32-24"/>
+         <source pref="false" dataDate="2015-11-16-13-32-24">
+            <refid type="URI" dataDate="2015-11-16-13-32-24">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination</refid>
+            <name type="electronic" dataDate="2015-11-16-13-32-24">Cataloging Cultural Objects Commons</name>
+         </source>
+         <source pref="false" dataDate="2015-11-16-13-32-24">
+            <refid type="URI" dataDate="2015-11-16-13-32-24">http://www.metmuseum.org/collection/the-collection-online/search/451023</refid>
+            <name type="electronic" dataDate="2015-11-16-13-32-24">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <display dataDate="2015-11-16-13-33-24"/>
+         <notes dataDate="2015-11-16-13-33-24"/>
+         <stylePeriod href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                      pref="false"
+                      refid="300021715"
+                      vocab="aat"
+                      source="Metropolitan Museum of Art"
+                      dataDate="2015-11-16-13-33-24">Isfahan</stylePeriod>
+         <stylePeriod href="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                      pref="false"
+                      refid="300380013"
+                      vocab="aat"
+                      source="Metropolitan Museum of Art"
+                      dataDate="2015-11-16-13-33-24">Islamic</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <display dataDate="2015-11-16-13-11-11"/>
+         <notes dataDate="2015-11-16-13-11-11"/>
+         <subject pref="false"
+                  refid="300021715"
+                  vocab="aat"
+                  source="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                  dataDate="2015-11-16-13-11-11">
+            <term type="conceptTopic" dataDate="2015-11-16-13-11-11">Isfahan</term>
+         </subject>
+         <subject pref="false"
+                  refid="300343597"
+                  vocab="aat"
+                  dataDate="2015-11-16-13-11-11">
+            <term type="descriptiveTopic" dataDate="2015-11-16-13-11-11">embracing</term>
+         </subject>
+         <subject pref="false"
+                  refid="300188621"
+                  vocab="aat"
+                  dataDate="2016-06-06-15-03-43">
+            <term type="descriptiveTopic" dataDate="2015-11-16-13-11-11">lovers</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <display dataDate="2015-11-16-13-34-26"/>
+         <notes dataDate="2015-11-16-13-34-26"/>
+         <technique pref="false"
+                    refid="300220539"
+                    vocab="aat"
+                    dataDate="2015-11-16-13-34-26">illumination</technique>
+         <technique pref="false"
+                    refid="300054216"
+                    vocab="aat"
+                    dataDate="2015-11-16-13-34-26">painting</technique>
+      </techniqueSet>
+      <titleSet>
+         <display dataDate="2015-11-16-13-19-08"/>
+         <notes dataDate="2015-11-16-13-19-08"/>
+         <title pref="false"
+                type="repository"
+                source="http://www.metmuseum.org/collection/the-collection-online/search/451023"
+                dataDate="2015-11-16-13-19-08">The Lovers</title>
+         <title pref="true" type="descriptive" dataDate="2015-11-16-13-19-08">Two Lovers</title>
+      </titleSet>
+      <worktypeSet>
+         <display dataDate="2015-11-16-13-35-33"/>
+         <notes dataDate="2015-11-16-13-35-33"/>
+         <worktype pref="false"
+                   refid="300264522"
+                   vocab="aat"
+                   dataDate="2015-11-16-13-35-33">illuminations</worktype>
+      </worktypeSet>
+   </work>
+</vra>

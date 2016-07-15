@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e"
+          href="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="false" dataDate="2015-11-11-13-34-22">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_63a50403-ed5a-4498-93da-8371de470d7a"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-11-11-13-35-04">
+            <refid type="URI">http://www.loc.gov/pictures/item/95513915/</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_046.jpg</title>
+      </titleSet>
+   </image>
+</vra>

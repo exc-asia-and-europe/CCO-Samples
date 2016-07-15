@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_462eb829-048e-4244-8a0a-922ba45d4fb2"
+          href="i_462eb829-048e-4244-8a0a-922ba45d4fb2.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="false" dataDate="2016-03-17-17-03-15">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">rps</role>
+         </agent>
+         <agent pref="true" dataDate="2015-04-22-10-18-45">
+            <dates type="life">
+               <earliestDate circa="false">1946</earliestDate>
+            </dates>
+            <name refid="84615840" type="personal" vocab="viaf">Highsmith, Carol M.</name>
+            <role type="code" vocab="marcrelator">pht</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-04-22-10-19-02">
+            <earliestDate>
+               <date>2011-11-05</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <locationSet>
+         <location pref="false" type="repository" dataDate="2015-04-22-10-28-10">
+            <refid extent="Digital ID" type="other">highsm 18660</refid>
+            <name type="corporate">Library of Congress</name>
+         </location>
+      </locationSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_24c88949-3b54-4908-9c9f-0a5ebd2d3328"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-22-10-29-02">
+            <refid type="URI">http://hdl.loc.gov/loc.pnp/highsm.18660</refid>
+            <name type="electronic">Library of Congress, Prints &amp; Photographs Online Catalog</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_fig016-1--CCO_online_not_yet.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_c1957e81-b021-4fae-b2df-daa271ffcf45"
+          href="i_c1957e81-b021-4fae-b2df-daa271ffcf45.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-02-02-09-58-06">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_499c604c-9d7b-4973-9049-cabeca71cf04"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-02-02-10-06-56">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/447000</refid>
+            <name type="electronic">Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_099.jpg</title>
+      </titleSet>
+   </image>
+</vra>

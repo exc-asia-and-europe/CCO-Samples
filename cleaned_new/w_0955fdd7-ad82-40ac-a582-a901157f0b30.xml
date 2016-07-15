@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_0955fdd7-ad82-40ac-a582-a901157f0b30"
+         refid="c_6c3f6622-5ca4-4bdd-bfc0-b8cd17d4fd06"
+         source="Kurs">
+      <agentSet>
+         <display dataDate="2015-11-23-10-36-28"/>
+         <notes dataDate="2015-11-23-10-36-28"/>
+         <agent pref="true" dataDate="2015-11-23-10-36-28">
+            <attribution dataDate="2015-11-23-10-36-28"/>
+            <culture dataDate="2015-11-23-10-36-28"/>
+            <dates type="life" dataDate="2015-11-23-10-36-28"/>
+            <name refid="125399337"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-23-10-36-28">Walt Disney Company.</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-23-10-36-28">cre</role>
+         </agent>
+         <agent pref="false" dataDate="2015-11-23-10-36-28">
+            <attribution dataDate="2015-11-23-10-36-28"/>
+            <culture dataDate="2015-11-23-10-36-28"/>
+            <dates type="life" dataDate="2015-11-23-10-36-28">
+               <earliestDate circa="false" dataDate="2015-11-23-10-36-28">1909</earliestDate>
+               <latestDate dataDate="2015-11-23-10-36-28" circa="false">1987</latestDate>
+            </dates>
+            <name refid="14980058"
+                  type="personal"
+                  vocab="viaf"
+                  dataDate="2015-11-23-10-36-28">Kahl, Milt</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-23-10-36-28">anm</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <display dataDate="2015-11-23-11-13-36"/>
+         <notes dataDate="2015-11-23-11-13-36"/>
+         <culturalContext pref="false" source="AAT 300107956" dataDate="2015-11-23-11-13-36">American (North American)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display dataDate="2015-11-23-10-39-35">before 1937</display>
+         <notes dataDate="2015-11-23-10-39-35"/>
+         <date pref="false" type="creation" dataDate="2015-11-23-10-39-35">
+            <earliestDate>
+               <date dataDate="2015-11-23-10-39-35">1932</date>
+            </earliestDate>
+            <latestDate>
+               <date type="before" dataDate="2015-11-23-10-39-35">1937</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <display dataDate="2015-11-23-10-42-49"/>
+         <notes dataDate="2015-11-23-10-42-49"/>
+         <description href="http://hwalther.home.xs4all.nl/snowwhite.htm"
+                      pref="false"
+                      source="Hans Walther's Animation Art Collection"
+                      dataDate="2015-11-23-10-42-49">
+            <text dataDate="2015-11-23-10-42-49">Production-cel of a chipmunk washing a shirt on the belly of a turtle, with a special effects-cel of water on a wood veneer Courvoisier background. 
+The cel still has the original matte with the pencil-written "Turtle and chipmunk" underneath.
+This cel was originally sold during the Courvoisier program in December 1938 at The Leicester Galleries in London by Ernest Brown &amp; Phillips Ltd. to Miss Weld, under the title "Turtle Washing".
+Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</text>
+            <author dataDate="2015-11-23-10-42-49">
+               <name dataDate="2015-11-23-10-42-49"/>
+               <role dataDate="2015-11-23-10-42-49"/>
+            </author>
+         </description>
+         <description pref="true" dataDate="2015-11-23-10-42-49">
+            <text dataDate="2015-11-23-10-42-49">Comprises three layers: Animation cel of Turtle &amp; Chipmunk, special effects cel of water, background</text>
+            <author dataDate="2015-11-23-10-42-49">
+               <name refid="131347215"
+                     type="corporate"
+                     vocab="viaf"
+                     dataDate="2015-11-23-10-42-49">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator" dataDate="2015-11-23-10-42-49">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <display dataDate="2015-11-23-11-31-07"/>
+         <notes dataDate="2015-11-23-11-31-07"/>
+         <inscription pref="false" dataDate="2015-11-23-11-31-07">
+            <author refid="14980058" vocab="viaf" dataDate="2015-11-23-11-31-07">Kahl, Milt</author>
+            <position dataDate="2015-11-23-11-31-07">on original mat</position>
+            <text type="text" dataDate="2015-11-23-11-31-07">Turtle and chipmunk</text>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <display dataDate="2015-11-23-10-54-26"/>
+         <notes dataDate="2015-11-23-10-54-26"/>
+         <location pref="false" type="formerRepository" dataDate="2015-11-23-10-54-26">
+            <refid type="other" dataDate="2015-11-23-10-54-26">38-265</refid>
+            <name refid="172337797"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-23-10-54-26">Leicester Galleries.</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display dataDate="2015-11-23-11-14-55"/>
+         <notes dataDate="2015-11-23-11-14-55"/>
+         <material pref="false"
+                   refid="300311696"
+                   type="medium"
+                   vocab="aat"
+                   dataDate="2015-11-23-11-14-55">cellulose nitrate film</material>
+      </materialSet>
+      <measurementsSet>
+         <display dataDate="2015-11-23-11-24-34"/>
+         <notes dataDate="2015-11-23-11-24-34"/>
+         <measurements extent="pitti"
+                       pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="cm"
+                       dataDate="2015-11-23-11-24-34">30.48</measurements>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="cm"
+                       dataDate="2015-11-23-11-24-34">40.64</measurements>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="height"
+                       unit="in"
+                       dataDate="2015-11-23-11-24-34">12</measurements>
+         <measurements pref="false"
+                       shape="rectangle"
+                       type="width"
+                       unit="in"
+                       dataDate="2015-11-23-11-24-34">16</measurements>
+      </measurementsSet>
+      <relationSet>
+         <display dataDate="2015-11-23-11-25-02"/>
+         <notes dataDate="2015-11-23-11-25-02"/>
+         <relation pref="false"
+                   type="partOf"
+                   href="http://www.imdb.com/title/tt0029583/"
+                   source="Tamboti"
+                   dataDate="2015-11-23-11-26-00">Whistle While You Work (sequence); Snow White and the Seven Dwarves (film); Walt Disney Company (American, founded 1923); 1937. Sequence 3D, scene 15.</relation>
+         <relation pref="true"
+                   relids="i_fb170a88-294b-41b5-b002-95dbf3ffb284"
+                   type="imageIs"
+                   source="Tamboti"
+                   dataDate="2015-11-23-11-25-02">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-23-11-30-31"/>
+         <notes dataDate="2015-11-23-11-30-31"/>
+         <source pref="true" dataDate="2015-11-23-11-30-31">
+            <refid type="URI" dataDate="2015-11-23-11-30-31">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_61_animation_cel</refid>
+            <name type="electronic" dataDate="2015-11-23-11-30-31">Cataloging Cultural Objects Commons</name>
+         </source>
+         <source pref="false" dataDate="2015-11-23-11-30-31">
+            <refid type="URI" dataDate="2015-11-23-11-30-31">http://hwalther.home.xs4all.nl/snowwhite.htm</refid>
+            <name type="electronic" dataDate="2015-11-23-11-30-31">Hans Walther's Animation Art Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <display dataDate="2015-11-23-11-11-58"/>
+         <notes dataDate="2015-11-23-11-11-58"/>
+         <subject pref="false"
+                  refid="300263512"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-39-09">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-39-09">animated cartoons</term>
+         </subject>
+         <subject pref="false"
+                  refid="300054141"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-39-09">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-39-09">film</term>
+         </subject>
+         <subject pref="false"
+                  refid="300310577"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-39-09">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-39-09">Tamias</term>
+         </subject>
+         <subject pref="false"
+                  refid="300249395"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-39-09">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-39-09">tortoises</term>
+         </subject>
+         <subject pref="false"
+                  refid="300185684"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-39-09">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-39-09">fairy tales</term>
+         </subject>
+         <subject pref="false"
+                  refid="300343854"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-11-58">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-11-58">bathing</term>
+         </subject>
+         <subject pref="false"
+                  refid="300249395"
+                  vocab="aat"
+                  dataDate="2015-11-23-11-11-58">
+            <term type="descriptiveTopic" dataDate="2015-11-23-11-11-58">Animalia</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <display dataDate="2015-11-23-11-32-50"/>
+         <notes dataDate="2015-11-23-11-32-50"/>
+         <technique pref="false"
+                    refid="300053160"
+                    vocab="aat"
+                    dataDate="2015-11-23-11-37-33">animation</technique>
+         <technique pref="false"
+                    refid="300054196"
+                    vocab="aat"
+                    dataDate="2015-11-23-11-32-50">drawing</technique>
+      </techniqueSet>
+      <titleSet>
+         <display dataDate="2015-11-23-11-12-58"/>
+         <notes dataDate="2015-11-23-11-12-58"/>
+         <title type="descriptive" pref="true" dataDate="2015-11-23-11-13-07">Turtle and Chipmunk</title>
+      </titleSet>
+      <worktypeSet>
+         <display dataDate="2015-11-23-11-36-45"/>
+         <notes dataDate="2015-11-23-11-36-45"/>
+         <worktype pref="false"
+                   refid="300263511"
+                   vocab="aat"
+                   dataDate="2015-11-23-11-36-45">animation cels</worktype>
+         <worktype pref="false"
+                   refid="300265265"
+                   vocab="aat"
+                   dataDate="2015-11-23-11-36-45">cel set-ups</worktype>
+         <worktype pref="false"
+                   refid="300265273"
+                   vocab="aat"
+                   dataDate="2015-11-23-11-36-45">production cels</worktype>
+         <worktype pref="false"
+                   refid="300263516"
+                   vocab="aat"
+                   dataDate="2015-11-23-11-36-45">courvoisiers</worktype>
+      </worktypeSet>
+   </work>
+</vra>

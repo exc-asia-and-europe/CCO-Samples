@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_0f3cf14d-38ff-4da8-9c9d-2fc5bf42c52a"
+         refid="c_fb332320-a681-4952-97f2-19d121fa0a61"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2016-02-16-18-40-03">
+            <dates type="life">
+               <earliestDate circa="true" type="uncertain">1671</earliestDate>
+               <latestDate circa="true" type="uncertain">1743</latestDate>
+            </dates>
+            <name refid="304950909" type="personal" vocab="viaf">Meares, Richard</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300111178">English (culture or style)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display>ca. 1680</display>
+         <date pref="false" dataDate="2016-02-16-18-42-53">
+            <earliestDate>
+               <date>1675</date>
+            </earliestDate>
+            <latestDate>
+               <date>1685</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description extent="museum label"
+                      href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                      pref="false"
+                      source="Metropolitan Museum of Art"
+                      dataDate="2016-02-16-18-45-53">
+            <text>Viols, the most esteemed bowed instruments of the late Renaissance, were only gradually displaced by the violin family. Viols differ from violins chiefly in shape, in number of strings and tuning, and in having fretted necks. All viols are played in an upright position between the knees or on the legs ("gamba" means "leg"), and the bow is held palm upward. The sound is less brilliant and quieter than that of the violin family of instruments. Chamber music for a consort of four to six viols was composed during the Renaissance and Baroque eras, and solo works for the bass viol were being played until nearly the end of the eighteenth century. This instrument is of the type known as a division viol, measuring between two and three inches shorter than a consort viol.
+Although the instrument bears the label of the celebrated Richard Meares of St. Paul's Churchyard, London, which was renowned as a center for violin making, the label reveals only one part of a probable narrative that illustrates the intricacies of trade and succession in the musical instrument making business. Stylistic and structural features of this instrument such as its thin purfling and geometrically patterned ribs, suggest that it was most likely made in the workshop of Edward Lewis, who died before the instrument was completed. It is likely that Richard Meares II purchased the unfinished older instrument at a sale of Lewis's effects, completed it and marked it with his father's label. The outstanding workmanship of the viol and the richness of the decoration point to a well-to-do customer. The dating of the instrument has been determined from dendrochronology of the carved-out two-part belly, which established 1672 and 1673 as the youngest growth rings. The earliest possible manufacturing date of the instrument is about 1677. Despite the ambiguity surrounding its authorship, scholarship has demonstrated that it is an important example of early eighteenth-century English viol making.</text>
+            <author>
+               <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription pref="false" dataDate="2016-02-16-18-55-08">
+            <author refid="304950909" vocab="viaf">Meares, Richard</author>
+            <text type="mark">Richardus Meares,/Instrument.Music.Fabric.in area/Boreali.D. Pauli apud Londinates [printed label]</text>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location pref="false" type="repository" dataDate="2016-02-16-18-47-37">
+            <refid type="accession">1982.324</refid>
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+         </location>
+         <location pref="false" type="creation" dataDate="2016-02-16-18-48-27">
+            <name refid="7011781" type="geographic" vocab="tgn">London</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300011914" type="medium" vocab="aat">wood</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements extent="total"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="length"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">117</measurements>
+         <measurements extent="total"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="length"
+                       unit="in"
+                       source="Metropolitan Museum of Art">46 1/16</measurements>
+         <measurements extent="body"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="length"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">65.3</measurements>
+         <measurements extent="body"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="length"
+                       unit="in"
+                       source="Metropolitan Museum of Art">25.71</measurements>
+         <measurements extent="at upper bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">31.1</measurements>
+         <measurements extent="at upper bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art">12.24</measurements>
+         <measurements extent="at center bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">22.5</measurements>
+         <measurements extent="at center bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art">8.86</measurements>
+         <measurements extent="at lower bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">37.4</measurements>
+         <measurements extent="at lower bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art">14.72</measurements>
+         <measurements extent="top block of rib"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">8.8</measurements>
+         <measurements extent="top block of rib"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art">3.46</measurements>
+         <measurements extent="slope"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">12.5</measurements>
+         <measurements extent="slope"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art">4.92</measurements>
+         <measurements extent="at center bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">12.6</measurements>
+         <measurements extent="at center bout"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art">4.96</measurements>
+         <measurements extent="of bottom block"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">12.7</measurements>
+         <measurements extent="of bottom block"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art">5</measurements>
+         <measurements extent="strings"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="length"
+                       unit="cm"
+                       source="Metropolitan Museum of Art">64.4</measurements>
+         <measurements extent="strings"
+                       href="http://www.metmuseum.org/collection/the-collection-online/search/503219"
+                       pref="false"
+                       type="length"
+                       unit="in"
+                       source="Metropolitan Museum of Art">25.35</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_77c4076f-65ec-4b06-be42-8069db611bd2"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="true" dataDate="2016-02-18-11-40-29">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_131_viola_da_gamba</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+         <source pref="false">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/503219</refid>
+            <name type="electronic">Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300042233"
+                  vocab="aat"
+                  dataDate="2016-02-16-18-52-32">
+            <term type="descriptiveTopic">viols</term>
+         </subject>
+         <subject pref="false" refid="300042220" vocab="aat">
+            <term type="descriptiveTopic">fiddles</term>
+         </subject>
+         <subject pref="false" refid="300041620" vocab="aat">
+            <term type="descriptiveTopic">musical instruments</term>
+         </subject>
+         <subject pref="false" refid="300054146" vocab="aat">
+            <term type="conceptTopic">music</term>
+         </subject>
+         <subject pref="false" refid="300054168" vocab="aat">
+            <term type="conceptTopic">decorative arts</term>
+         </subject>
+      </subjectSet>
+      <titleSet>
+         <title pref="false" type="repository">Viola da Gamba</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300041620" vocab="aat">musical instruments</worktype>
+      </worktypeSet>
+   </work>
+</vra>

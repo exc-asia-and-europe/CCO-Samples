@@ -4,7 +4,7 @@
         <agentSet>
             <display dataDate="2015-11-16-12-50-58"/>
             <notes dataDate="2015-11-16-12-50-58"/>
-            <agent pref="true" source="http://www.metmuseum.org/collection/the-collection-online/search/451023" dataDate="2015-11-16-12-50-58">
+            <agent pref="true" href="http://www.metmuseum.org/collection/the-collection-online/search/451023" source="Metropolitan Museum of Art" dataDate="2015-11-16-12-50-58">
                 <attribution dataDate="2015-11-16-12-50-58"/>
                 <culture dataDate="2015-11-16-12-50-58"/>
                 <dates dataDate="2015-11-16-12-50-58"/>

@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_cb73fa3a-2371-4125-82ba-40750afeb1d6" source="Kurs" refid="c_d653b101-a13c-4d1a-b1aa-50eb73b16c7d">
         <agentSet>
-            <agent pref="true" dataDate="2016-03-01-11-23-56">
+            <agent pref="false" dataDate="2016-03-01-11-23-56">
                 <dates type="life">
                     <earliestDate circa="false">76</earliestDate>
                     <latestDate circa="false">138</latestDate>
@@ -22,20 +22,20 @@
             <display>ca. 120 CE</display>
             <date pref="true" type="creation" dataDate="2016-03-01-11-29-55">
                 <earliestDate>
-                    <date>0115</date>
+                    <date circa="true" type="about">0115</date>
                 </earliestDate>
                 <latestDate>
-                    <date>0125</date>
+                    <date circa="true" type="about">0125</date>
                 </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" dataDate="2016-03-01-11-33-25">
+            <description pref="true" dataDate="2016-03-01-11-33-25">
                 <text>Summer palace that is the conceptual descendent of the Emperor Nero’s Domus Aurea.
-[Great Architecture of the World. Edited by John Julius Norwich. London: Mitchell Beazley, 1975, p. 74.]</text>
+[Source: Great Architecture of the World. Edited by John Julius Norwich. London: Mitchell Beazley, 1975, p. 74.]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -94,7 +94,7 @@
             </textref>
         </textrefSet>
         <titleSet>
-            <title pref="false" type="descriptive">Hadrian’s Villa</title>
+            <title pref="true" type="descriptive">Hadrian’s Villa</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300008057" vocab="aat">ruins</worktype>

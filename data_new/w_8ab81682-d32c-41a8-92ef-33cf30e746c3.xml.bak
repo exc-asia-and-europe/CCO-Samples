@@ -67,7 +67,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300015637"  vocab="aat" dataDate="2015-11-12-12-33-57">
+            <subject pref="false" refid="300015637" source="getty" vocab="aat" dataDate="2015-11-12-12-33-57">
                 <term type="descriptiveTopic">portraits</term>
             </subject>
         </subjectSet>

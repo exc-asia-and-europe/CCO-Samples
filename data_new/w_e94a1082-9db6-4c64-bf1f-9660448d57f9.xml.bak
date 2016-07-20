@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1775</earliestDate>
                     <latestDate circa="false">1851</latestDate>
                 </dates>
-                <name refid="100900492"  type="personal" vocab="viaf">Turner, J. M. W.</name>
+                <name refid="100900492" source="viaf" type="personal" vocab="viaf">Turner, J. M. W.</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
         </agentSet>
@@ -30,7 +30,7 @@
                 <text>On a dramatic, rocky area of the northern coast of Wales looms the late medieval Conway Castle. It towers over a stormy bay while fisherman struggle to pull their boats ashore. Caught in this uproaring of the sea, the tiny figures of fishermen in their boat convey a sense of humans' barely significant place in the order of the universe. 
 The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and he made several sketching trips there in the 1790s. In this early Romantic painting, Turner represented the dramatic effects of natural light, allowing sunshine breaking through the clouds to illuminate the castle and the coast beyond.</text>
                 <author>
-                    <name refid="147804499"  type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
@@ -38,7 +38,7 @@ The Welsh landscape exerted a strong hold on Joseph Mallord William Turner, and 
                 <text>This is the largest of Turner’s four extant watercolors of this medieval castle on the northern coast of Wales. Turner portrays the landscape and ocean in a dramatic fashion, using angry clouds, sunshine, and roiling waves to animate the scene and emphasize the struggle of the fishermen.
 [Source: J. Paul Getty Museum online. www.getty.edu  Page: accessed 2 December 2006.]</text>
                 <author>
-                    <name refid="131347215"  type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>

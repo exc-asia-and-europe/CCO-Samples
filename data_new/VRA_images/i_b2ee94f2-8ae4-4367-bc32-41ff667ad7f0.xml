@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <image id="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0" source="Tamboti" href="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0.jpg">
         <agentSet>
-            <agent pref="true" source="http://www.loc.gov/item/ncr001475/" dataDate="2015-11-12-13-05-32">
+            <agent pref="true" href="http://www.loc.gov/item/ncr001475/" source="Library of Congress" dataDate="2015-11-12-13-05-32">
                 <name refid="151962300" source="viaf" type="corporate" vocab="viaf">Library of Congress</name>
                 <role type="code" vocab="marcrelator">cre</role>
             </agent>

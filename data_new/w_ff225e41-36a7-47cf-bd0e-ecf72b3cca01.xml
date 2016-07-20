@@ -6,16 +6,13 @@
                 <culture>Swiss</culture>
                 <dates type="life">
                     <earliestDate circa="false">1702</earliestDate>
-                    <latestDate circa="false">.1789</latestDate>
+                    <latestDate circa="false">1789</latestDate>
                 </dates>
-                <name refid="61675695" source="viaf" type="personal" vocab="viaf">Liotard, Jean Étienne</name>
+                <name refid="61675695" type="personal" vocab="viaf">Liotard, Jean Étienne</name>
                 <role type="code" vocab="marcrelator">drm</role>
             </agent>
-            <agent pref="false" source="HRA" dataDate="2015-05-06-14-14-06">
-                <dates type="life">
-                    <earliestDate circa="false"/>
-                </dates>
-                <name refid="173081343" source="viaf" type="personal" vocab="viaf">Reede-Athlone, Maria Frederike van</name>
+            <agent pref="false" source="Simon Gruening" dataDate="2015-05-06-14-14-06">
+                <name refid="173081343" type="personal" vocab="viaf">Reede-Athlone, Maria Frederike van</name>
                 <role type="code" vocab="marcrelator">dpc</role>
             </agent>
         </agentSet>
@@ -36,7 +33,7 @@
         <descriptionSet>
             <description pref="false" dataDate="2016-04-26-13-39-43">
                 <text>Liotard exhibited remarkable skill in the difficult medium of pastels, which he preferred when creating portraits of children. Surfaces, textures, and volume are described with subtle gradations of color. At the time he was working on this picture, portraits of children were becoming very popular in Western Europe.
-[Source: J. Paul Getty Museum online. www.getty.edu  Page: accessed 22 October 2006.]</text>
+[Source: J. Paul Getty Museum online. www.getty.edu (accessed 22 October 2006).]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
@@ -47,30 +44,26 @@
 
 Liotard developed remarkable technical skills in the difficult medium of pastels. Brilliantly describing surfaces and defining volume through subtle gradations of color, he depicted forms, textures, and the play of light with great immediacy. He favored using pastels, especially for portraits of children, because they could be manipulated with greater speed and ease, had no odor, and allowed for frequent interruptions.</text>
                 <author>
-                    <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
         <inscriptionSet>
             <inscription href="http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-26-13-39-05">
-                <author refid="61675695" source="viaf" vocab="viaf">Liotard, Jean Étienne</author>
+                <author refid="61675695" vocab="viaf">Liotard, Jean Étienne</author>
                 <position>upper right</position>
                 <text type="signature">peint par / J E Liotard / 1755 &amp; 1756</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
-            <location pref="false" type="repository" dataDate="2016-04-26-13-33-29">
+            <location pref="true" type="repository" dataDate="2016-04-26-13-33-29">
                 <refid type="accession">83.PC.273</refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-                <point epsg="4326">
-                    <lat>34.0775</lat>
-                    <long>-118.475</long>
-                </point>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300250699" source="getty" type="support" vocab="aat">vellum</material>
+            <material pref="false" refid="300250699" type="support" vocab="aat">vellum</material>
         </materialSet>
         <measurementsSet>
             <measurements href="http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/" pref="false" source="J. Paul Getty Museum" type="height" unit="cm">54.9</measurements>
@@ -88,28 +81,28 @@ Liotard developed remarkable technical skills in the difficult medium of pastels
             </source>
             <source pref="false" dataDate="2015-05-06-14-35-47">
                 <refid type="URI">http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/</refid>
-                <name type="electronic">The J. Paul Getty Museum, Online Collection</name>
+                <name type="electronic">J. Paul Getty Museum</name>
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300015637" source="getty" vocab="aat" dataDate="2015-05-06-14-25-34">
+            <subject pref="false" refid="300015637" vocab="aat" dataDate="2015-05-06-14-25-34">
                 <term type="descriptiveTopic">portraits</term>
             </subject>
-            <subject pref="false" refid="300025945" source="getty" vocab="aat">
+            <subject pref="false" refid="300025945" vocab="aat">
                 <term type="descriptiveTopic">children</term>
             </subject>
-            <subject pref="false" refid="300189808" source="getty" vocab="aat">
+            <subject pref="false" refid="300189808" vocab="aat">
                 <term type="descriptiveTopic">figures</term>
             </subject>
-            <subject pref="false" refid="300247581" source="getty" vocab="aat">
+            <subject pref="false" refid="300247581" vocab="aat">
                 <term type="descriptiveTopic">girls</term>
             </subject>
-            <subject pref="false" refid="300250130" source="EXC" vocab="aat" dataDate="2016-04-26-13-37-57">
+            <subject pref="false" refid="300250130" vocab="aat" dataDate="2016-04-26-13-37-57">
                 <term type="descriptiveTopic">Canis familiaris (species)</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300053412" source="getty" vocab="aat">stumping</technique>
+            <technique pref="false" refid="300053412" vocab="aat">stumping</technique>
         </techniqueSet>
         <textrefSet>
             <textref pref="false" dataDate="2016-04-26-13-26-38">
@@ -121,8 +114,8 @@ Liotard developed remarkable technical skills in the difficult medium of pastels
             <title pref="true" type="repository">Portrait of Maria Frederike van Reede-Athlone at Seven Years of Age</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="true" refid="300076922" source="getty" vocab="aat">pastels</worktype>
-            <worktype href="http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/" pref="false" refid="300033973" source="J. Paul Getty Museum, Online Collection" vocab="aat">drawings</worktype>
+            <worktype pref="true" refid="300076922" vocab="aat">pastels</worktype>
+            <worktype href="http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/" pref="false" refid="300033973" source="J. Paul Getty Museum" vocab="aat">drawings</worktype>
         </worktypeSet>
     </work>
 </vra>

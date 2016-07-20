@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <image id="i_b1564def-66cc-4716-8391-e9ff47509445" source="Tamboti" href="i_b1564def-66cc-4716-8391-e9ff47509445.jpg">
         <agentSet>
-            <agent pref="true" source="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-13-56-33">
+            <agent pref="true" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" dataDate="2015-11-12-13-56-33">
                 <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                 <role type="code" vocab="marcrelator">cre</role>
             </agent>

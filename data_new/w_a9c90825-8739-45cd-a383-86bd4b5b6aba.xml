@@ -11,7 +11,7 @@
             <culturalContext pref="false" source="AAT 300111198">Italian (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date pref="false" type="design">
+            <date pref="true" type="design">
                 <earliestDate>
                     <date>1946</date>
                 </earliestDate>
@@ -23,12 +23,12 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" dataDate="2016-03-17-10-30-42">
+            <description pref="true" dataDate="2016-03-17-10-30-42">
                 <text>he Pininfarina company takes its name from “Pinin,” the nickname of its founder, Battista Farina. The two-seater Cisitalia “202” GT was an aesthetic and technical achievement that transformed postwar automobile body design. Building on aerodynamic studies developed for racing cars, the Cisitalia offers one of the most accomplished examples of coachwork (the automobile’s body) conceived as a single shell. The body was basically handcrafted, with its aluminum panels shaped over wooden forms. Because of this time-consuming process, only 170 models were produced between 1947 and 1952.
-[Museum of Modern Art online. www.moma.org (accessed 10 February 2004)]</text>
+[Source: Museum of Modern Art online. www.moma.org (accessed 10 February 2004).]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -37,7 +37,7 @@
                 <name refid="7005688" type="geographic" vocab="tgn">Torino</name>
             </location>
             <location pref="false" type="repository" dataDate="2016-03-17-10-20-35">
-                <refid href="http://www.moma.org/collection/works/3498?locale=en" source="Musem of Modern Art" type="accession">409.1972</refid>
+                <refid href="http://www.moma.org/collection/works/3498?locale=en" source="Musem of Modern Art, NY" type="accession">409.1972</refid>
                 <name refid="268692973" type="corporate" vocab="viaf">Museum of modern art (New York, N.Y.)</name>
             </location>
         </locationSet>
@@ -68,7 +68,7 @@
             </subject>
         </subjectSet>
         <titleSet>
-            <title pref="false" type="brandName">Cisitalia “202” GT Car</title>
+            <title pref="true" type="brandName">Cisitalia “202” GT Car</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300219258" vocab="aat">vehicles</worktype>

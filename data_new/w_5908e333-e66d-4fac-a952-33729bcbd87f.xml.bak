@@ -26,7 +26,7 @@
                 <text>The central portal depicts the Last Judgment. Christ the Judge is flanked by Mary, the Queen of Heaven, and John the Evangelist. Christ displays his Passion wounds; angels carry the instruments of his Passion, the column, lance, crown of thorns, scourge, nails, and cross. The lintel depicts Saint Michael weighing and separating the Saved and the Damned. The iconography complements the two to either side: The left portal portrays the Martyrs, tympanum portrays the martyrdom of Saint Stephen; right portal portrays the Confessors, tympanum portrays good deeds of Saint Martin and Saint Nicholas.
 [Source: Kidson, Peter, in Chartres Cathedral: With source material and selected critical writings. Edited by Robert Branner. London: Thames &amp; Hudson, 1969, p. 202 ff.]</text>
                 <author>
-                    <name refid="131347215"  type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>

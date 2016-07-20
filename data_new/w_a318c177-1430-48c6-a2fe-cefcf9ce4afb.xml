@@ -24,7 +24,7 @@
         </dateSet>
         <locationSet>
             <location pref="false" type="repository" dataDate="2016-06-06-13-04-46">
-                <refid source="http://www.loc.gov/pictures/item/2007662044/" type="accession">LC-USZ62-137560</refid>
+                <refid href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="accession">LC-USZ62-137560</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
             </location>
             <location pref="false" type="site" dataDate="2015-11-12-15-35-25">
@@ -54,7 +54,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300387602" source="http://www.loc.gov/pictures/item/2007662044/" vocab="aat" dataDate="2015-11-12-15-41-29">
+            <subject pref="false" refid="300387602" href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" vocab="aat" dataDate="2015-11-12-15-41-29">
                 <term type="descriptiveTopic">panoramic photography</term>
             </subject>
             <subject pref="false" refid="300005630" vocab="aat" dataDate="2015-11-12-15-38-39">
@@ -72,7 +72,7 @@
         </techniqueSet>
         <titleSet>
             <title pref="true" type="other">Panoramic Photograph of the White House, Washington, DC</title>
-            <title pref="false" source="http://www.loc.gov/pictures/item/2007662044/" type="repository">The White House, Washington, D.C.</title>
+            <title pref="false" href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="repository">The White House, Washington, D.C.</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300046300" vocab="aat">photographs</worktype>

@@ -101,7 +101,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300128222" source="http://www.loc.gov/pictures/collection/coll/item/2002724907/" vocab="aat" dataDate="2016-02-04-10-39-22">
+            <subject pref="false" refid="300128222" href="http://www.loc.gov/pictures/collection/coll/item/2002724907/" source="Library of Congress" vocab="aat" dataDate="2016-02-04-10-39-22">
                 <term type="descriptiveTopic" dataDate="2015-11-16-12-24-04">aerial photographs</term>
             </subject>
             <subject pref="false" refid="300080094" vocab="aat" dataDate="2015-11-16-12-24-04">

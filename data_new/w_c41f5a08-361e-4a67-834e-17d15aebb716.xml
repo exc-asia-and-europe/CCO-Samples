@@ -4,6 +4,7 @@
         <relationSet>
             <relation type="imageIs" relids="i_4d9025f0-dcc1-42bb-9f64-d2c23a895c96" source="Tamboti" pref="true">general view</relation>
             <relation type="imageIs" relids="i_05b9beda-2342-4e0c-8fbe-6e1d7f7ec789" source="Tamboti" pref="false">general view</relation>
+            <relation type="pendantOf" relids="w_0703f5ed-0bbf-45a6-b436-84231f2c7dbd.xml"></relation>
         </relationSet>
         <titleSet>
             <title type="generalView">Work record CCO_online_109--CCO_fig037-pendant.jpg</title>

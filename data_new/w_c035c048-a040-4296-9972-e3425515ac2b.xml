@@ -3,6 +3,7 @@
     <work id="w_c035c048-a040-4296-9972-e3425515ac2b" source="Kurs" refid="c_cc3e7769-4754-49f1-a1d3-c7a96fc64ce9">
         <relationSet>
             <relation type="imageIs" relids="i_549fdb70-fbcc-437b-ab33-0e1ed9d25db7" source="Tamboti" pref="true">general view</relation>
+            <relation type="partnerInSetWith" relids="w_111f9755-334a-4ed2-856d-566049d57f07.xml"></relation>
         </relationSet>
         <titleSet>
             <title type="generalView">Work record CCO_online_123--related_004.jpg</title>

@@ -23,15 +23,15 @@
         <descriptionSet>
             <description href="http://www.britannica.com/place/Great-Zimbabwe" pref="false" dataDate="2016-02-18-18-09-41">
                 <text>One of the three stone-wall enclosures at Great Zimbabwe, it is the largest pre-Colonial structure in sub-Saharan Africa.
-["Great Zimbabwe.” Encyclopædia Britannica Online (accessed 29 July 2006) • 100 Great Archaeological Discoveries. Paul G. Bahn, editor. New York: Barnes and Noble, 1995, p. 46 ff]</text>
+[Source: "Great Zimbabwe.” Encyclopædia Britannica Online (accessed 29 July 2006); 100 Great Archaeological Discoveries. Paul G. Bahn, editor. New York: Barnes and Noble, 1995, 46 ff.]</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator">aut</role>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="site" dataDate="2016-02-18-17-47-15">
+            <location pref="true" type="site" dataDate="2016-02-18-17-47-15">
                 <name refid="6002348" type="geographic" vocab="tgn">Great Zimbabwe</name>
                 <point epsg="4326">
                     <lat>-20.266667</lat>
@@ -41,7 +41,7 @@
         </locationSet>
         <materialSet>
             <material pref="false" refid="300011176" type="medium" vocab="aat">stone</material>
-            <material pref="false" type="medium">daga</material>
+            <material pref="false" refid="300014356" type="medium" vocab="aat">daga (soil)</material>
         </materialSet>
         <measurementsSet>
             <notes>outer wall: around 250 m (820 feet) in circumference; maximum height: 11 m (36 feet)</notes>
@@ -51,11 +51,11 @@
             <measurements extent="maximum height" pref="false" type="height" unit="ft">36</measurements>
         </measurementsSet>
         <relationSet>
-            <relation href="https://en.wikipedia.org/wiki/Great_Zimbabwe" pref="false" relids="https://en.wikipedia.org/wiki/Great_Zimbabwe" type="largerContextFor">Great Zimbabwe National Monument</relation>
+            <relation href="https://en.wikipedia.org/wiki/Great_Zimbabwe" pref="false" source="Wikipedia" type="largerContextFor">Great Zimbabwe National Monument</relation>
             <relation pref="true" relids="i_a48021c5-25a2-4b92-9b6f-3f88cb4c7925" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
-            <source pref="false" dataDate="2016-02-18-18-02-59">
+            <source pref="true" dataDate="2016-02-18-18-02-59">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_144_african_building_complexes</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
@@ -64,7 +64,7 @@
             <subject pref="false" refid="300263552" vocab="aat">
                 <term type="descriptiveTopic">architecture (object genre)</term>
             </subject>
-            <subject pref="false">
+            <subject pref="false" refid="300005425" vocab="aat">
                 <term type="descriptiveTopic">dwellings</term>
             </subject>
             <subject pref="false" refid="300374944" vocab="aat" dataDate="2016-02-18-17-56-58">

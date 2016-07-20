@@ -8,12 +8,12 @@
                     <earliestDate circa="false">1760</earliestDate>
                     <latestDate circa="false">1849</latestDate>
                 </dates>
-                <name refid="69033717" source="viaf" type="personal" vocab="viaf">Hishikawa, Sori</name>
+                <name refid="69033717" type="personal" vocab="viaf">Hishikawa, Sori</name>
                 <role type="code" vocab="marcrelator">prm</role>
             </agent>
             <agent pref="false" dataDate="2016-06-02-10-56-19">
                 <culture>Japanese</culture>
-                <name refid="173788257" source="viaf" type="corporate" vocab="viaf">Nishimura Eijudo</name>
+                <name refid="173788257" type="corporate" vocab="viaf">Nishimura Eijudo</name>
                 <role type="code" vocab="marcrelator">pbl</role>
             </agent>
         </agentSet>
@@ -21,7 +21,6 @@
             <culturalContext pref="false" source="AAT 300018519">Japanese (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <display>ca. 1831-1833</display>
             <date pref="false" type="creation" dataDate="2016-06-02-10-57-21">
                 <earliestDate>
                     <date>1828</date>
@@ -30,7 +29,7 @@
                     <date>1836</date>
                 </latestDate>
             </date>
-            <date pref="false" source="http://www.metmuseum.org/collection/the-collection-online/search/45434" type="creation" dataDate="2015-11-11-16-26-01">
+            <date pref="false" href="http://www.metmuseum.org/collection/the-collection-online/search/45434" source="Metropolitan Museum of Art" type="creation" dataDate="2015-11-11-16-26-01">
                 <earliestDate>
                     <date type="about">1830</date>
                 </earliestDate>
@@ -40,24 +39,24 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/45434" pref="false" source="Metropolitan Museum of Art Online" dataDate="2016-06-02-11-05-59">
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/45434" pref="false" source="Metropolitan Museum of Art" dataDate="2016-06-02-11-05-59">
                 <text>The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue.</text>
                 <author>
-                    <name refid="126238294" source="viaf" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
             <description pref="false" dataDate="2015-11-11-16-26-42">
                 <text>The large wave dominates the scene, with the small mountain in the background. It is said to have inspired both Debussy’s “La Mer” and Rilke’s “Der Berg.”</text>
                 <author>
-                    <name refid="131347215" source="viaf" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription pref="false" source="http://www.metmuseum.org/collection/the-collection-online/search/45434" dataDate="2016-06-02-11-11-16">
-                <author refid="69033717" source="viaf" vocab="viaf">Hishikawa, Sori</author>
+            <inscription pref="false" href="http://www.metmuseum.org/collection/the-collection-online/search/45434" source="Metropolitan Museum of Art" dataDate="2016-06-02-11-11-16">
+                <author refid="69033717" vocab="viaf">Hishikawa, Sori</author>
                 <position>top left</position>
                 <text lang="jpn" script="Jpan" type="signature">前北斎為一筆</text>
                 <text lang="jpn" script="Latn" transliteration="unspecified" type="signature">Zen Hokusai Iitsu hitsu</text>
@@ -78,21 +77,21 @@
                     <long>138.7330</long>
                 </point>
             </location>
-            <location pref="false" type="repository" dataDate="2016-06-02-11-01-28">
+            <location pref="true" type="repository" dataDate="2016-06-02-11-01-28">
                 <refid type="accession">JP1847</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
             </location>
         </locationSet>
         <materialSet>
-            <material extent="polychrome" pref="false" refid="300015012" source="getty" type="medium" vocab="aat">ink</material>
-            <material pref="false" refid="300264870" source="getty" type="medium" vocab="aat">color</material>
-            <material pref="false" refid="300014109" source="getty" type="support" vocab="aat">paper</material>
+            <material extent="polychrome" pref="false" refid="300015012" type="medium" vocab="aat">ink</material>
+            <material pref="false" refid="300264870" type="medium" vocab="aat">color</material>
+            <material pref="false" refid="300014109" type="support" vocab="aat">paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art Online" type="height" unit="cm">25.7</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art Online" type="width" unit="cm">37.9</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art Online" type="height" unit="in">10 1/8</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art Online" type="width" unit="in">14 15/16</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="height" unit="cm">25.7</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="cm">37.9</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="height" unit="in">10 1/8</measurements>
+            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="in">14 15/16</measurements>
         </measurementsSet>
         <relationSet>
             <relation pref="false" relids="w_ba242fd5-8c1a-4b3e-8044-89d29999c338" type="partOf">1st in series: Katsushika Hokusai (Japanese, 1760-1849); Thirty-six Views of Mount Fuji: First Series; 1827-1837</relation>
@@ -101,9 +100,9 @@
         <sourceSet>
             <source pref="false" dataDate="2015-11-11-16-44-28">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/45434</refid>
-                <name type="electronic">The Metropolitan Museum of Art</name>
+                <name type="electronic">Metropolitan Museum of Art</name>
             </source>
-            <source pref="false">
+            <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
@@ -114,25 +113,25 @@
             </stateEdition>
         </stateEditionSet>
         <stylePeriodSet>
-            <stylePeriod pref="false" refid="300106643" source="getty" vocab="aat">Edo</stylePeriod>
+            <stylePeriod pref="false" refid="300106643" vocab="aat">Edo</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject pref="false" refid="300178749" source="getty" vocab="aat" dataDate="2016-06-02-10-58-06">
+            <subject pref="false" refid="300178749" vocab="aat" dataDate="2016-06-02-10-58-06">
                 <term type="descriptiveTopic">boats</term>
             </subject>
-            <subject pref="false" refid="300025608" source="getty" vocab="aat" dataDate="2015-11-11-16-31-28">
+            <subject pref="false" refid="300025608" vocab="aat" dataDate="2015-11-11-16-31-28">
                 <term type="descriptiveTopic">fishermen</term>
             </subject>
-            <subject pref="false" refid="300343616" source="getty" vocab="aat">
+            <subject pref="false" refid="300343616" vocab="aat">
                 <term type="descriptiveTopic">waves</term>
             </subject>
-            <subject pref="false" refid="300117546" source="getty" vocab="aat" dataDate="2016-06-02-10-57-58">
+            <subject pref="false" refid="300117546" vocab="aat" dataDate="2016-06-02-10-57-58">
                 <term type="descriptiveTopic">seascapes</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <technique pref="false" refid="300053319" vocab="aat">printing</technique>
-            <technique pref="false" refid="300053296" source="getty" vocab="aat">woodcut</technique>
+            <technique pref="false" refid="300053296" vocab="aat">woodcut</technique>
         </techniqueSet>
         <textrefSet>
             <textref pref="false" dataDate="2016-06-06-11-29-59">
@@ -141,15 +140,15 @@
             </textref>
         </textrefSet>
         <titleSet>
-            <title pref="false" type="other">Great Wave at Kanagawa</title>
+            <title pref="true" type="other">Great Wave at Kanagawa</title>
             <title pref="false" type="other">In the Hollow of a Wave off the Coast at Kanagawa</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="jpn" pref="false" script="Jpan" source="Metropolitan Museum of Art Online" type="creator">富嶽三十六景　神奈川沖浪裏</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="jpn" pref="false" script="Latn" source="Metropolitan Museum of Art Online" transliteration="unspecified" type="other">Kanagawa oki nami ura</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="eng" pref="false" script="Latn" source="Metropolitan Museum of Art Online" type="translated">Under the Wave off Kanagawa</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="jpn" pref="false" script="Jpan" source="Metropolitan Museum of Art" type="creator">富嶽三十六景　神奈川沖浪裏</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="jpn" pref="false" script="Latn" source="Metropolitan Museum of Art" transliteration="unspecified" type="other">Kanagawa oki nami ura</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="eng" pref="false" script="Latn" source="Metropolitan Museum of Art" type="translated">Under the Wave off Kanagawa</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300041273" vocab="aat">prints</worktype>
-            <worktype pref="false" refid="300041412" source="getty" vocab="aat">color woodcuts</worktype>
+            <worktype pref="false" refid="300041412" vocab="aat">color woodcuts</worktype>
         </worktypeSet>
     </work>
 </vra>

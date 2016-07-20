@@ -17,7 +17,7 @@
                     <earliestDate circa="false">1867</earliestDate>
                     <latestDate circa="false">1959</latestDate>
                 </dates>
-                <name refid="27148716"  type="personal" vocab="viaf">Wright, Frank Lloyd</name>
+                <name refid="27148716" source="viaf" type="personal" vocab="viaf">Wright, Frank Lloyd</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
         </agentSet>

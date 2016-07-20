@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1703</earliestDate>
                     <latestDate circa="false">1770</latestDate>
                 </dates>
-                <name refid="66517093" source="viaf" type="personal" vocab="viaf">Boucher, François</name>
+                <name refid="66517093" type="personal" vocab="viaf">Boucher, François</name>
                 <role type="code" vocab="marcrelator">drm</role>
             </agent>
         </agentSet>
@@ -27,12 +27,12 @@
         </dateSet>
         <inscriptionSet>
             <inscription pref="false">
-                <author refid="66517093" source="viaf" vocab="viaf">Boucher, François</author>
+                <author refid="66517093" vocab="viaf">Boucher, François</author>
                 <position>lower center</position>
                 <text type="signature">fBoucher</text>
             </inscription>
             <inscription pref="false" dataDate="2015-05-13-14-04-00">
-                <author refid="66517093" source="viaf" vocab="viaf">Boucher, François</author>
+                <author refid="66517093" vocab="viaf">Boucher, François</author>
                 <position>lower center</position>
                 <text type="date">1764</text>
             </inscription>
@@ -40,26 +40,22 @@
         <locationSet>
             <location pref="true" type="repository" dataDate="2016-05-18-10-06-11">
                 <refid type="accession">1942.9.657</refid>
-                <name refid="192403070" type="corporate" vocab="viaf">National gallery of art (Washington, D.C.)</name>
-                <point epsg="4326">
-                    <lat>38.89147</lat>
-                    <long>-77.02001</long>
-                </point>
+                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300080058" source="getty" type="medium" vocab="aat">black chalk</material>
-            <material pref="false" refid="300014184" source="getty" type="support" vocab="aat">laid paper</material>
+            <material pref="false" refid="300080058" type="medium" vocab="aat">black chalk</material>
+            <material pref="false" refid="300014184" type="support" vocab="aat">laid paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="cm">33.5</measurements>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="cm">23.1</measurements>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="in">13 3/16</measurements>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="in">9 1/8</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="cm">38.4</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="cm">28.2</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="height" unit="in">15 1/8</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" shape="portrait" source="NGA Washington" type="width" unit="in">11 1/8</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="height" unit="cm">33.5</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="width" unit="cm">23.1</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="height" unit="in">13 3/16</measurements>
+            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="width" unit="in">9 1/8</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="height" unit="cm">38.4</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="width" unit="cm">28.2</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="height" unit="in">15 1/8</measurements>
+            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="width" unit="in">11 1/8</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_fa1f6ebd-fc89-40f1-af69-20ef83b11d8d" source="Tamboti" pref="true">general view</relation>
@@ -78,13 +74,13 @@
             <stylePeriod pref="true" refid="300021155" vocab="aat">Rococo</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject pref="false" refid="300189808" source="getty" vocab="aat">
+            <subject pref="false" refid="300189808" vocab="aat">
                 <term type="descriptiveTopic">figures</term>
             </subject>
             <subject pref="false" refid="300015636" vocab="aat" dataDate="2016-05-18-10-05-33">
                 <term type="descriptiveTopic">landscapes</term>
             </subject>
-            <subject pref="false" refid="300188621" source="getty" vocab="aat" dataDate="2015-05-13-13-59-34">
+            <subject pref="false" refid="300188621" vocab="aat" dataDate="2015-05-13-13-59-34">
                 <term type="descriptiveTopic">lovers</term>
             </subject>
         </subjectSet>

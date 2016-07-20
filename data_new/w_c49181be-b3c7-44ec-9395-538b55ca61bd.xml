@@ -19,10 +19,10 @@
             <display>ca. 1645</display>
             <date pref="false" type="creation" dataDate="2016-03-10-17-38-37">
                 <earliestDate>
-                    <date type="about">1640</date>
+                    <date circa="true" type="about">1640</date>
                 </earliestDate>
                 <latestDate>
-                    <date type="about">1650</date>
+                    <date circa="true" type="about">1650</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -36,9 +36,9 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="repository" dataDate="2016-06-06-14-28-35">
+            <location pref="true" type="repository" dataDate="2016-06-06-14-28-35">
                 <refid type="accession">1992.17.2</refid>
-                <name refid="316398713" vocab="viaf">National Gallery of Art (U.S.)</name>
+                <name refid="316398713" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
             </location>
         </locationSet>
         <materialSet>
@@ -59,7 +59,7 @@
                 <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.74805.html</refid>
                 <name type="electronic">National Gallery of Art, Washington DC</name>
             </source>
-            <source pref="false" dataDate="2016-03-10-17-34-03">
+            <source pref="true" dataDate="2016-03-10-17-34-03">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_42_print_etching</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
@@ -82,7 +82,7 @@
             <technique pref="false" refid="300053241" vocab="aat">etching</technique>
         </techniqueSet>
         <titleSet>
-            <title pref="false" type="repository">Shell (Murex brandaris)</title>
+            <title pref="true" type="repository">Shell (Murex brandaris)</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300041365" vocab="aat">etchings</worktype>

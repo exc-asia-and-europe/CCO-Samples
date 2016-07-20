@@ -2,11 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_d83af974-e8b7-491d-86cf-2e6e0b533c73" source="Kurs" refid="c_1a2ac83d-bd11-41e6-adbb-827c1129a03a">
         <agentSet>
-            <display dataDate="2015-11-30-19-00-42"/>
-            <notes dataDate="2015-11-30-19-00-42"/>
             <agent pref="true" dataDate="2015-11-30-19-00-42">
-                <attribution dataDate="2015-11-30-19-00-42"/>
-                <culture dataDate="2015-11-30-19-00-42"/>
                 <dates type="life" dataDate="2015-11-30-19-00-42"/>
                 <name refid="100643011" type="personal" vocab="viaf" dataDate="2015-11-30-19-00-42">unknown Tang</name>
                 <role type="code" vocab="marcrelator" dataDate="2015-11-30-19-00-42">scl</role>
@@ -17,9 +13,7 @@
             <culturalContext pref="false" source="AAT 300018322">Chinese (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <display dataDate="2015-11-30-19-01-28"/>
-            <notes dataDate="2015-11-30-19-01-28"/>
-            <date pref="false" type="creation" dataDate="2016-06-08-14-51-52">
+            <date pref="true" type="creation" dataDate="2016-06-08-14-51-52">
                 <earliestDate>
                     <date dataDate="2015-11-30-19-01-28">0690</date>
                 </earliestDate>
@@ -29,8 +23,6 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <display dataDate="2015-11-30-19-03-00"/>
-            <notes dataDate="2015-11-30-19-03-00"/>
             <description extent="label text" href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" pref="false" source="Arthur M. Sackler Gallery" dataDate="2015-11-30-19-03-00">
                 <text dataDate="2015-11-30-19-03-00">Carved of dark gray limestone, this imposing Buddha head is characterized by a serene yet remote expression that is typical of early Tang dynasty religious images. Imperial patronage of Buddhism during the Tang dynasty, approximately seven hundred years after knowledge of Buddhism first reached China, resulted in the creation of some of the most impressive sculptures in Chinese history. For this Buddha head, all traces of Indian and Central Asian influence have been replaced by a native Chinese aesthetic. Sculptures of this style are found in the Longmen cave temples in Henan Province and may have been the source for this piece.</text>
                 <author dataDate="2015-11-30-19-03-00">
@@ -48,23 +40,13 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <display dataDate="2015-11-30-19-12-06"/>
-            <notes dataDate="2015-11-30-19-12-06"/>
-            <location pref="false" type="repository" dataDate="2015-11-30-19-12-06">
+            <location pref="true" type="repository" dataDate="2015-11-30-19-12-06">
                 <refid type="accession" dataDate="2015-11-30-19-12-06">S1997.26</refid>
                 <name refid="139247290" vocab="viaf" type="corporate" dataDate="2015-11-30-19-12-06">Arthur M. Sackler Gallery (Smithsonian Institution)</name>
-                <point>
-                    <lat/>
-                    <long/>
-                </point>
             </location>
             <location pref="false" type="discovery" dataDate="2015-11-30-19-12-06">
                 <refid type="accession" dataDate="2015-11-30-19-12-06"/>
                 <name refid="7024371" vocab="tgn" extent="probably" type="geographic" dataDate="2015-11-30-19-12-06">Longmen</name>
-                <point>
-                    <lat/>
-                    <long/>
-                </point>
             </location>
         </locationSet>
         <materialSet>
@@ -80,13 +62,13 @@
             <relation type="imageIs" relids="i_f53c46eb-e3d3-478e-a40e-65bfbf9a7ea1" source="Tamboti" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
-            <source pref="false">
+            <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_81_chinese_sculpture</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons</name>
             </source>
             <source pref="false" dataDate="2016-06-08-14-43-38">
                 <refid type="URI">http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26</refid>
-                <name type="electronic">Freer | Sackler, The Smithonian's Museums of Asian Art</name>
+                <name type="electronic">Arthur M. Sackler Gallery, The Smithonian's Museums of Asian Art</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289"
+          href="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-02-18-16-51-32">
+            <name extent="photographer: Diego Delso"
+                  refid="137022054"
+                  type="corporate"
+                  vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_02fb3ff4-c954-4132-ab91-ab8066ac56d9"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-02-18-16-52-50">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Stonehenge,_Condado_de_Wiltshire,_Inglaterra,_2014-08-12,_DD_10.JPG</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_143.jpg</title>
+      </titleSet>
+   </image>
+</vra>

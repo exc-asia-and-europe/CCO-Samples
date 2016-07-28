@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_72c717e2-d9dd-4d3c-8701-436aad532cd4"
+         refid="c_7b0ab425-7da8-4d44-b201-02d97403c980"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2015-05-04-12-04-00">
+            <dates type="life">
+               <earliestDate circa="false">1746</earliestDate>
+               <latestDate circa="false">1828</latestDate>
+            </dates>
+            <name refid="54343141" type="personal" vocab="viaf">Goya, Francisco</name>
+            <role type="code" vocab="marcrelator">art</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300111215">Spanish (culture or style)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2016-04-26-10-56-19">
+            <earliestDate>
+               <date>1772</date>
+            </earliestDate>
+            <latestDate>
+               <date>1772</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description pref="false" dataDate="2016-04-26-11-06-24">
+            <text>Description: Goya completed this fresco for the Cathedral of El Pilar in four months. The subject is a variation on the more common theme “Adoration of the Name of Jesus.”
+[Source: Beltran, Antonio. Zaragoza y su Provincia. Zaragoza, Spain: Ayuntamiento de Zaragoza, 1969.  Page: 111 ff.]</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">edt</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-04-26-11-03-33">
+            <name refid="7008813" vocab="tgn">Zaragoza</name>
+            <point epsg="4326">
+               <lat>41.656773</lat>
+               <long>-0.878535</long>
+            </point>
+         </location>
+         <location pref="false" type="owner" dataDate="2015-05-04-12-07-52">
+            <name refid="140765063" type="corporate" vocab="viaf">Nuestra Señora del Pilar (Church : Zaragoza, Spain)</name>
+            <point epsg="4326">
+               <lat>41.656773</lat>
+               <long>-0.878535</long>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false"
+                   refid="300013109"
+                   type="medium"
+                   vocab="aat"
+                   source="Simon Gruening">pigment</material>
+         <material pref="false"
+                   refid="300386877"
+                   type="medium"
+                   vocab="aat"
+                   source="Simon Gruening">lime plaster</material>
+      </materialSet>
+      <measurementsSet>
+         <measurements pref="false" type="height" unit="cm">57.78</measurements>
+         <measurements pref="false" type="width" unit="cm">125.09</measurements>
+         <measurements pref="false" type="height" unit="in">22 3/4</measurements>
+         <measurements pref="false" type="width" unit="in">49 1/4</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_54f6e6b0-8131-4719-9bef-d55ccb51076a"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-04-12-19-36">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_22_fresco_painting</refid>
+            <name type="electronic">CCO Commons</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject pref="false"
+                  refid="300073708"
+                  vocab="aat"
+                  dataDate="2015-05-04-12-10-37">
+            <term type="conceptTopic">religions</term>
+         </subject>
+         <subject pref="false"
+                  refid="uuid-f1fbca36-aab0-5572-acdb-22bebe5b8d1c"
+                  vocab="local">
+            <term type="iconographicTopic">adoration</term>
+         </subject>
+         <subject pref="false" refid="300379004" vocab="aat">
+            <term type="descriptiveTopic">angels</term>
+         </subject>
+         <subject pref="false"
+                  refid="300056024"
+                  vocab="aat"
+                  dataDate="2016-04-26-11-07-40">
+            <term type="descriptiveTopic">light</term>
+         </subject>
+         <subject pref="false" refid="300343840" vocab="aat">
+            <term type="descriptiveTopic">clouds</term>
+         </subject>
+         <subject pref="false"
+                  refid="300343851"
+                  vocab="aat"
+                  dataDate="2016-04-26-10-58-57">
+            <term type="iconographicTopic">gods</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300053357" vocab="aat">fresco painting</technique>
+      </techniqueSet>
+      <titleSet>
+         <title pref="true" type="descriptive">Adoration of the Name of God</title>
+         <title href="https://commons.wikimedia.org/wiki/File:El_nombre_de_Dios_adorado_por_los_angeles.jpg"
+                pref="false"
+                type="other"
+                source="Wikimedia Foundation">La Gloria</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
+         <worktype pref="false" refid="300182732" vocab="aat">murals</worktype>
+         <worktype pref="false" refid="300177433" vocab="aat">frescoes</worktype>
+      </worktypeSet>
+   </work>
+</vra>

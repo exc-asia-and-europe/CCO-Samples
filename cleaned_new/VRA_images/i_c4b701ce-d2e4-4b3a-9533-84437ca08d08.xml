@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_c4b701ce-d2e4-4b3a-9533-84437ca08d08"
+          href="i_c4b701ce-d2e4-4b3a-9533-84437ca08d08.jpg"
+          source="Tamboti">
+      <agentSet>
+         <display dataDate="2015-11-16-10-41-25"/>
+         <notes dataDate="2015-11-16-10-41-25"/>
+         <agent pref="true" dataDate="2015-11-16-10-41-25">
+            <attribution dataDate="2015-11-16-10-41-25"/>
+            <culture dataDate="2015-11-16-10-41-25"/>
+            <dates dataDate="2015-11-16-10-41-25"/>
+            <name refid="151962300"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-16-10-41-25">Library of Congress</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-16-10-41-25">cre</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display dataDate="2015-11-16-10-47-50"/>
+         <notes dataDate="2015-11-16-10-47-50"/>
+         <date pref="false" type="other" dataDate="2015-11-16-10-47-50">
+            <earliestDate>
+               <date dataDate="2015-11-16-10-47-50">2015-03-16</date>
+            </earliestDate>
+            <latestDate>
+               <date dataDate="2015-11-16-10-47-50">2015-03-16</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_9de517bd-8590-4015-8429-6639d30af01c"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-16-10-46-41"/>
+         <notes dataDate="2015-11-16-10-46-41"/>
+         <source pref="false" dataDate="2015-11-16-10-46-41">
+            <refid type="URI" dataDate="2015-11-16-10-46-41">http://www.loc.gov/pictures/item/2002723525/</refid>
+            <name type="electronic" dataDate="2015-11-16-10-46-41">Library of Congress, Washington D.C.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <display dataDate="2015-11-16-12-27-09"/>
+         <notes dataDate="2015-11-16-12-27-09"/>
+         <title type="descriptive" pref="false" dataDate="2015-11-16-12-27-09">Eiffel Tower</title>
+      </titleSet>
+   </image>
+</vra>

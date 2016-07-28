@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_f6819cf3-2800-4445-8dc0-ccf5a9f770cf"
+         refid="c_fd45e0bd-22ea-44cb-937e-95237673b3fe"
+         source="Kurs">
+      <agentSet>
+         <agent pref="true" dataDate="2016-02-18-17-38-06">
+            <name refid="100641992" type="personal" vocab="viaf">unknown Shona</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <culturalContext pref="false" source="AAT 300016543">Shona</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <date pref="true" type="creation" dataDate="2016-02-18-17-42-53">
+            <earliestDate>
+               <date>1270</date>
+            </earliestDate>
+            <latestDate>
+               <date>1450</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <description href="http://www.britannica.com/place/Great-Zimbabwe"
+                      pref="false"
+                      dataDate="2016-02-18-18-09-41">
+            <text>One of the three stone-wall enclosures at Great Zimbabwe, it is the largest pre-Colonial structure in sub-Saharan Africa.
+["Great Zimbabwe.” Encyclopædia Britannica Online (accessed 29 July 2006) • 100 Great Archaeological Discoveries. Paul G. Bahn, editor. New York: Barnes and Noble, 1995, p. 46 ff]</text>
+            <author>
+               <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator">aut</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <location pref="false" type="site" dataDate="2016-02-18-17-47-15">
+            <name refid="6002348" type="geographic" vocab="tgn">Great Zimbabwe</name>
+            <point epsg="4326">
+               <lat>-20.266667</lat>
+               <long>30.933333</long>
+            </point>
+         </location>
+      </locationSet>
+      <materialSet>
+         <material pref="false" refid="300011176" type="medium" vocab="aat">stone</material>
+         <material pref="false" type="medium">daga</material>
+      </materialSet>
+      <measurementsSet>
+         <notes>outer wall: around 250 m (820 feet) in circumference; maximum height: 11 m (36 feet)</notes>
+         <measurements extent="outer wall" pref="false" type="circumfrence" unit="m">250</measurements>
+         <measurements extent="outer wall" pref="false" type="circumfrence" unit="ft">820</measurements>
+         <measurements extent="maximum height" pref="false" type="height" unit="m">11</measurements>
+         <measurements extent="maximum height" pref="false" type="height" unit="ft">36</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation pref="false"
+                   relids="https://en.wikipedia.org/wiki/Great_Zimbabwe"
+                   type="largerContextFor">Great Zimbabwe National Monument</relation>
+         <relation pref="true"
+                   relids="i_a48021c5-25a2-4b92-9b6f-3f88cb4c7925"
+                   type="imageIs"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-02-18-18-02-59">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_144_african_building_complexes</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject pref="false" refid="300263552" vocab="aat">
+            <term type="descriptiveTopic">architecture (object genre)</term>
+         </subject>
+         <subject pref="false">
+            <term type="descriptiveTopic">dwellings</term>
+         </subject>
+         <subject pref="false"
+                  refid="300374944"
+                  vocab="aat"
+                  dataDate="2016-02-18-17-56-58">
+            <term type="conceptTopic">chiefdoms</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique pref="false" refid="300374945" vocab="aat">mortarless construction</technique>
+      </techniqueSet>
+      <titleSet>
+         <title pref="true" type="descriptive">Great Enclosure</title>
+         <title pref="false" type="other">Great Zimbabwe National Monument</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype pref="false" refid="300263552" vocab="aat">architecture</worktype>
+         <worktype pref="false" refid="300008057" vocab="aat">ruins</worktype>
+         <worktype pref="false" refid="300000202" vocab="aat">complexes</worktype>
+      </worktypeSet>
+   </work>
+</vra>

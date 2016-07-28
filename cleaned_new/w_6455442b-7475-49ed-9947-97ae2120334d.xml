@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_6455442b-7475-49ed-9947-97ae2120334d"
+         refid="c_f4fb232e-0a39-4917-b90d-5f7ddbf534b1"
+         source="Kurs">
+      <agentSet>
+         <display dataDate="2015-11-26-16-17-52"/>
+         <notes dataDate="2015-11-26-16-17-52"/>
+         <agent pref="false" dataDate="2016-06-07-13-18-33">
+            <attribution dataDate="2015-11-26-16-17-52"/>
+            <culture dataDate="2015-11-26-16-17-52"/>
+            <dates type="life" dataDate="2015-11-26-16-17-52"/>
+            <name refid="100627997"
+                  type="personal"
+                  vocab="viaf"
+                  source="Simon Gruening"
+                  dataDate="2015-11-26-16-17-52">unknown Ancient Greek</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-17-52"/>
+         </agent>
+      </agentSet>
+      <culturalContextSet>
+         <display dataDate="2015-11-26-16-31-03"/>
+         <notes dataDate="2015-11-26-16-31-03"/>
+         <culturalContext pref="false" source="AAT 300020072" dataDate="2015-11-26-16-31-03">Ancient Greek (culture or style)</culturalContext>
+      </culturalContextSet>
+      <dateSet>
+         <display dataDate="2015-11-26-16-18-34">3rd-2nd centuries BCE</display>
+         <notes dataDate="2015-11-26-16-18-34"/>
+         <date pref="false" dataDate="2016-06-07-13-18-46">
+            <earliestDate>
+               <date dataDate="2015-11-26-16-18-34">-0299</date>
+            </earliestDate>
+            <latestDate>
+               <date dataDate="2015-11-26-16-18-34">-0100</date>
+            </latestDate>
+         </date>
+      </dateSet>
+      <descriptionSet>
+         <display dataDate="2015-11-26-16-20-43"/>
+         <notes dataDate="2015-11-26-16-20-43"/>
+         <description extent="label text"
+                      href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                      pref="false"
+                      source="Metropolitan Museum of Art"
+                      dataDate="2015-11-26-16-20-43">
+            <text dataDate="2015-11-26-16-20-43">The complex motion of this dancer is conveyed exclusively through the interaction of the body with several layers of dress. Over an undergarment that falls in deep folds and trails heavily, the figure wears a lightweight mantle, drawn tautly over her head and body by the pressure applied to it by her right arm, left hand, and right leg. Its substance is conveyed by the alternation of the tubular folds pushing through from below and the freely curling softness of the fringe. The woman's face is covered by the sheerest of veils, discernible at its edge below her hairline and at the cutouts for the eyes. Her extended right foot shows a laced slipper. This dancer has been convincingly identified as one of the professional entertainers, a combination of mime and dancer, for which the cosmopolitan city of Alexandria was famous in antiquity.</text>
+            <author dataDate="2015-11-26-16-20-43">
+               <name refid="126238294"
+                     type="corporate"
+                     vocab="viaf"
+                     dataDate="2015-11-26-16-20-43">Metropolitan Museum of Art</name>
+               <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-20-43">aut</role>
+            </author>
+         </description>
+         <description pref="false" dataDate="2016-06-07-13-26-49">
+            <text dataDate="2015-11-26-16-20-43">This dancer has been identified as one of the mime/dancer entertainers for which ancient Alexandria was famous.
+[Source: Metropolitan Museum of Art online. www.metmuseum.org Page: accessed 17 September 2006.]</text>
+            <author dataDate="2015-11-26-16-20-43">
+               <name refid="131347215"
+                     type="corporate"
+                     vocab="viaf"
+                     dataDate="2015-11-26-16-20-43">Visual Resources Association</name>
+               <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-20-43">edt</role>
+            </author>
+         </description>
+      </descriptionSet>
+      <locationSet>
+         <display dataDate="2015-11-26-16-25-06"/>
+         <notes dataDate="2015-11-26-16-25-06"/>
+         <location pref="false" type="repository" dataDate="2015-11-26-16-25-06">
+            <refid type="accession" dataDate="2015-11-26-16-25-06">1972.118.95</refid>
+            <name refid="126238294"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-26-16-25-06">Metropolitan Museum of Art</name>
+         </location>
+         <location pref="false" type="creation" dataDate="2016-06-07-13-20-32">
+            <refid dataDate="2015-11-26-16-25-06"/>
+            <name refid="7001188"
+                  type="geographic"
+                  vocab="tgn"
+                  dataDate="2015-11-26-16-25-06">Al Iskandarīyah</name>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display dataDate="2015-11-26-16-31-35"/>
+         <notes dataDate="2015-11-26-16-31-35"/>
+         <material pref="false"
+                   refid="300010957"
+                   type="medium"
+                   vocab="aat"
+                   dataDate="2015-11-26-16-31-35">bronze</material>
+      </materialSet>
+      <measurementsSet>
+         <display dataDate="2015-11-26-16-35-00"/>
+         <notes dataDate="2015-11-26-16-35-00"/>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="height"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">8 1/16</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="width"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">3 1/2</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="depth"
+                       unit="in"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">4 1/2</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="height"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">20.5</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="width"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">8.9</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="depth"
+                       unit="cm"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">11.4</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="weight"
+                       unit="oz"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">65.6</measurements>
+         <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                       pref="false"
+                       type="weight"
+                       unit="lb"
+                       source="Metropolitan Museum of Art"
+                       dataDate="2015-11-26-16-35-00">4.1</measurements>
+      </measurementsSet>
+      <relationSet>
+         <relation type="imageIs"
+                   relids="i_da09a4b8-5c88-4bd6-ad3c-87783cd70c8d"
+                   pref="true"
+                   source="Tamboti">general view</relation>
+      </relationSet>
+      <sourceSet>
+         <display dataDate="2015-11-26-16-36-20"/>
+         <notes dataDate="2015-11-26-16-36-20"/>
+         <source pref="false" dataDate="2015-11-26-16-36-20">
+            <refid type="URI" dataDate="2015-11-26-16-36-20">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_70_greek_sculpture</refid>
+            <name type="electronic" dataDate="2015-11-26-16-36-20">Cataloging Cultural Objects Commons</name>
+         </source>
+         <source pref="false" dataDate="2016-06-07-13-10-45">
+            <refid type="URI" dataDate="2015-11-26-16-36-20">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
+            <name type="electronic" dataDate="2015-11-26-16-36-20">Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <stylePeriodSet>
+         <display dataDate="2015-11-26-16-36-40"/>
+         <notes dataDate="2015-11-26-16-36-40"/>
+         <stylePeriod pref="false"
+                      refid="300020101"
+                      vocab="aat"
+                      dataDate="2015-11-26-16-36-40">Hellenistic</stylePeriod>
+      </stylePeriodSet>
+      <subjectSet>
+         <display dataDate="2015-11-26-16-27-54"/>
+         <notes dataDate="2015-11-26-16-27-54"/>
+         <subject pref="false"
+                  refid="300262585"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-27-54">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-27-54">drapery</term>
+         </subject>
+         <subject pref="false"
+                  refid="300343595"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-27-54">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-27-54">mimes</term>
+         </subject>
+         <subject pref="false"
+                  refid="300025653"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-27-54">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-27-54">dancers</term>
+         </subject>
+         <subject pref="false"
+                  refid="300025943"
+                  vocab="aat"
+                  dataDate="2015-11-26-16-27-54">
+            <term type="descriptiveTopic" dataDate="2015-11-26-16-27-54">women</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <display dataDate="2015-11-26-16-37-31"/>
+         <notes dataDate="2015-11-26-16-37-31"/>
+         <technique pref="false"
+                    refid="300053104"
+                    vocab="aat"
+                    source="Simon Gruening"
+                    dataDate="2015-11-26-16-37-31">casting</technique>
+      </techniqueSet>
+      <titleSet>
+         <display dataDate="2015-11-26-16-28-50"/>
+         <notes dataDate="2015-11-26-16-28-50"/>
+         <title pref="true" type="other" dataDate="2015-11-26-16-28-50">Statuette of a Veiled and Masked Dancer</title>
+         <title href="http://www.metmuseum.org/collection/the-collection-online/search/255408"
+                pref="false"
+                type="repository"
+                source="Metropolitan Museum of Art"
+                dataDate="2015-11-26-16-28-50">Bronze statuette of a veiled and masked dancer</title>
+      </titleSet>
+      <worktypeSet>
+         <display dataDate="2015-11-26-16-38-02"/>
+         <notes dataDate="2015-11-26-16-38-02"/>
+         <worktype pref="false"
+                   refid="300047090"
+                   vocab="aat"
+                   dataDate="2015-11-26-16-38-02">sculpture</worktype>
+         <worktype pref="false"
+                   refid="300047600"
+                   vocab="aat"
+                   dataDate="2015-11-26-16-38-02">statues</worktype>
+      </worktypeSet>
+   </work>
+</vra>

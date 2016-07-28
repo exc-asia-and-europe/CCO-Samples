@@ -1,42 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_04a6e28e-6897-4c37-925a-d7b1d79d0dea" source="Tamboti" refid="" href="i_04a6e28e-6897-4c37-925a-d7b1d79d0dea.jpg">
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:ext="http://exist-db.org/vra/extension"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_04a6e28e-6897-4c37-925a-d7b1d79d0dea" source="Tamboti" refid=""
+        href="i_04a6e28e-6897-4c37-925a-d7b1d79d0dea.jpg">
         <agentSet>
-    <display/>
-    <notes/>
-    <agent dataDate="2016-02-02-15-44-13" pref="true">
-        <attribution/>
-        <culture/>
-        <dates type="">
-            <earliestDate circa="false" type=""/>
-            <latestDate circa="false" type=""/>
-        </dates>
-        <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
-        <role type="code" vocab="marcrelator">cre</role>
-    </agent>
-</agentSet>
+            <display/>
+            <notes/>
+            <agent dataDate="2016-02-02-15-44-13" pref="true">
+                <attribution/>
+                <culture/>
+                <dates type="">
+                    <earliestDate circa="false" type=""/>
+                    <latestDate circa="false" type=""/>
+                </dates>
+                <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
         <rightsSet>
-    <display/>
-    <notes/>
-    <rights dataDate="2016-02-02-15-49-10" pref="false" type="copyrighted">
-        <rightsHolder>Philadelphia Museum of Art</rightsHolder>
-        <text>Purchased with the Far Eastern Art Revolving Fund, 1982.</text>
-    </rights>
-</rightsSet>
+            <display/>
+            <notes/>
+            <rights dataDate="2016-02-02-15-49-10" pref="false" type="copyrighted">
+                <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+                <text>Purchased with the Far Eastern Art Revolving Fund, 1982.</text>
+            </rights>
+        </rightsSet>
         <sourceSet>
-    <display/>
-    <notes/>
-    <source dataDate="2016-02-02-15-49-51" pref="false">
-        <refid type="URI">http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1</refid>
-        <name type="electronic">Philadelphia Museum of Art online collection</name>
-    </source>
-</sourceSet>
+            <display/>
+            <notes/>
+            <source dataDate="2016-02-02-15-49-51" pref="false">
+                <refid type="URI">http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1</refid>
+                <name type="electronic">Philadelphia Museum of Art online collection</name>
+            </source>
+        </sourceSet>
         <titleSet>
             <display/>
             <title type="generalView">Image record CCO_online_118.jpg</title>
         </titleSet>
         <relationSet>
-            <relation type="imageOf" relids="w_db6dfe4a-cc71-4e21-8f87-399c13fa36db" refid="" source="Tamboti">attachment</relation>
+            <relation type="imageOf" relids="w_db6dfe4a-cc71-4e21-8f87-399c13fa36db" refid=""
+                source="Tamboti">attachment</relation>
         </relationSet>
     </image>
 </vra>

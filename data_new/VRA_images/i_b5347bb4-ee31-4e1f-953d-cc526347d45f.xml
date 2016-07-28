@@ -3,7 +3,7 @@
     <image id="i_b5347bb4-ee31-4e1f-953d-cc526347d45f" source="Tamboti" href="i_b5347bb4-ee31-4e1f-953d-cc526347d45f.jpg">
         <agentSet>
             <agent pref="true" dataDate="2016-06-08-16-28-06">
-                <name extent="photographer: redlegsfan21" refid="182017119" type="uniformtitlework" vocab="viaf">Flickr (Electronic resource)</name>
+                <name extent="photographer: redlegsfan21" refid="182017119" vocab="viaf">Flickr (Electronic resource)</name>
                 <role type="code" vocab="marcrelator">col</role>
             </agent>
         </agentSet>

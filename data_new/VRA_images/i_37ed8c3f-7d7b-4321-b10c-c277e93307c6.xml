@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <image id="i_37ed8c3f-7d7b-4321-b10c-c277e93307c6" source="Tamboti" href="i_37ed8c3f-7d7b-4321-b10c-c277e93307c6.jpg">
         <agentSet>
-            <agent pref="false" dataDate="2015-11-11-11-13-27">
+            <agent pref="true" dataDate="2015-11-11-11-13-27">
                 <name refid="157699250" source="viaf" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
                 <role type="code" vocab="marcrelator">cre</role>
             </agent>
@@ -10,8 +10,14 @@
         <relationSet>
             <relation type="imageOf" relids="w_ffaf235f-3348-4aa6-ab2c-2e5d3ea8f2d1" source="Tamboti">attachment</relation>
         </relationSet>
+        <rightsSet>
+            <rights dataDate="2015-11-11-11-14-50" pref="true" type="publicDomain">
+                <rightsHolder>National Gallery of Art, Washington</rightsHolder>
+                <text>Digital image courtesy of the National Gallery of Art, Washington.</text>
+            </rights>
+        </rightsSet>
         <sourceSet>
-            <source pref="false" dataDate="2015-11-11-11-15-24">
+            <source pref="true" dataDate="2015-11-11-11-15-24">
                 <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html</refid>
                 <name type="electronic">National Gallery of Art, Washington</name>
             </source>

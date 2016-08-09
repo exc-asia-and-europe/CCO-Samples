@@ -10,10 +10,16 @@
         <relationSet>
             <relation type="imageOf" relids="w_30fbddb3-c5f3-4d4a-9f0a-1c552e237dc0" source="Tamboti">attachment</relation>
         </relationSet>
+        <rightsSet>
+            <rights dataDate="2015-04-22-14-59-08" pref="false" type="publicDomain">
+                <rightsHolder>J. Paul Getty Museum</rightsHolder>
+                <text>Digital image courtesy of the Getty's Open Content Program.</text>
+            </rights>
+        </rightsSet>
         <sourceSet>
             <source pref="false" dataDate="2015-04-22-14-58-20">
                 <refid type="URI">http://www.getty.edu/art/collection/objects/198580/francesco-di-giorgio-martini-the-story-of-oenone-and-paris-center-panel-italian-1460s/</refid>
-                <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+                <name type="electronic">J. Paul Getty Museum</name>
             </source>
         </sourceSet>
         <titleSet>

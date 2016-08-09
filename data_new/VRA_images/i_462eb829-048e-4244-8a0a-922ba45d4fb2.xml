@@ -30,6 +30,12 @@
         <relationSet>
             <relation type="imageOf" relids="w_24c88949-3b54-4908-9c9f-0a5ebd2d3328" source="Tamboti">attachment</relation>
         </relationSet>
+        <rightsSet>
+            <rights pref="true" dataDate="2016-08-09" type="publicDomain">
+                <rightsHolder>Library of Congress</rightsHolder>
+                <text>Tissandier Collection</text>
+            </rights>
+        </rightsSet>
         <sourceSet>
             <source pref="false" dataDate="2015-04-22-10-29-02">
                 <refid type="URI">http://hdl.loc.gov/loc.pnp/highsm.18660</refid>
@@ -37,7 +43,7 @@
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView">Image record CCO_fig016-1--CCO_online_not_yet.jpg</title>
+            <title type="generalView">North Christian Church, designed by Eero Saarinen, Columbus, Indiana</title>
         </titleSet>
     </image>
 </vra>

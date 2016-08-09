@@ -3,7 +3,7 @@
     <image id="i_2ca9177b-2211-4fac-8948-91f1ca5a1002" source="Tamboti" href="i_2ca9177b-2211-4fac-8948-91f1ca5a1002.jpg">
         <agentSet>
             <agent pref="true" dataDate="2016-03-08-16-44-37">
-                <name extent="photographer: David Merrett" refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+                <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
                 <role type="code" vocab="marcrelator">col</role>
             </agent>
         </agentSet>
@@ -17,6 +17,14 @@
         <relationSet>
             <relation type="imageOf" relids="w_8d57404d-556f-4214-8e31-0d644bf69377" source="Tamboti">attachment</relation>
         </relationSet>
+        <rightsSet>
+            <display/>
+            <notes/>
+            <rights dataDate="2016-03-08-16-41-23" href="https://creativecommons.org/licenses/by/2.0/" pref="false" type="copyrighted">
+                <rightsHolder>David Merrett</rightsHolder>
+                <text>CC BY 2.0</text>
+            </rights>
+        </rightsSet>
         <sourceSet>
             <source pref="false" dataDate="2016-03-08-16-40-25">
                 <refid type="URI">https://www.flickr.com/photos/davehamster/2973906531</refid>

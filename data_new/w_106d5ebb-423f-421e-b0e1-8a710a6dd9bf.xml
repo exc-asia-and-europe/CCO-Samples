@@ -19,9 +19,6 @@
                 <earliestDate>
                     <date>1722</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1722</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -67,7 +64,7 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
             <measurements href="http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">24</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_2354c674-cde7-4c99-8a71-afde9ee66a33" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_2354c674-cde7-4c99-8a71-afde9ee66a33" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">
@@ -125,7 +122,7 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
         </subjectSet>
         <techniqueSet>
             <technique pref="false" refid="300054216" vocab="aat">painting</technique>
-            <technique pref="false" refid="300178684" source="Simon Gruening" vocab="aat">oil painting</technique>
+            <technique pref="false" refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
         <textrefSet>
             <textref pref="false" dataDate="2016-04-21-11-10-12">
@@ -137,7 +134,7 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
             <title pref="false" type="repository">Vase of Flowers</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300033799" source="Simon Gruening" vocab="aat">oil paintings</worktype>
+            <worktype pref="false" refid="300033799" vocab="aat">oil paintings</worktype>
             <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>

@@ -67,7 +67,7 @@
             <measurements pref="false" type="weight" unit="long tons">45.2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-02-18-17-15-48">
@@ -97,7 +97,7 @@
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300054608" source="Simon Gruening" vocab="aat">construction</technique>
+            <technique pref="false" refid="300054608" vocab="aat">construction</technique>
         </techniqueSet>
         <titleSet>
             <title pref="true" type="descriptive">Stonehenge</title>

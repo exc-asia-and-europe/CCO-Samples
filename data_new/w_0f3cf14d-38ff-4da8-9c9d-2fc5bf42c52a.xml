@@ -76,7 +76,7 @@ Although the instrument bears the label of the celebrated Richard Meares of St. 
             <measurements extent="strings" href="http://www.metmuseum.org/collection/the-collection-online/search/503219" pref="false" source="Metropolitan Museum of Art" type="length" unit="in">25.35</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_77c4076f-65ec-4b06-be42-8069db611bd2" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_77c4076f-65ec-4b06-be42-8069db611bd2" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-02-18-11-40-29">

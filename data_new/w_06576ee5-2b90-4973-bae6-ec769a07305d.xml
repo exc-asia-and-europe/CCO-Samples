@@ -9,9 +9,6 @@
                 <earliestDate>
                     <date>1861</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1861</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -49,7 +46,7 @@
             <measurements extent="sheet" pref="false" shape="rectangle" href="http://www.loc.gov/pictures/item/2008661781/" source="Library of Congress" type="width" unit="cm">48.9</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_c9b27af7-7f02-4af9-91a1-e38c4193ef0d" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_c9b27af7-7f02-4af9-91a1-e38c4193ef0d" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">

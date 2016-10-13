@@ -69,7 +69,7 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
             <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="cm">52.1</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_f98aca0f-71e3-4387-8d3c-71f5c112b013" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_f98aca0f-71e3-4387-8d3c-71f5c112b013" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-04-12-13-12-18">
@@ -106,7 +106,7 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
         </subjectSet>
         <techniqueSet>
             <technique pref="false" refid="300054216" vocab="aat">painting</technique>
-            <technique pref="false" refid="300178675" source="Simon Gruening" vocab="aat">panel painting</technique>
+            <technique pref="false" refid="300178675" vocab="aat">panel painting</technique>
         </techniqueSet>
         <textrefSet>
             <textref pref="false" dataDate="2016-04-12-12-23-22">

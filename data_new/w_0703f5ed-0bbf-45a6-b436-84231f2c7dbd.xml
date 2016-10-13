@@ -51,9 +51,6 @@
                 <earliestDate>
                     <date type="about">1728</date>
                 </earliestDate>
-                <latestDate>
-                    <date type="about">1728</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -112,9 +109,9 @@ GLOBE TERRESTRE DRESSÉ sur les observations les plus nouvelles et le plus exact
         </measurementsSet>
         <relationSet>
             <relation pref="false" relids="w_c41f5a08-361e-4a67-834e-17d15aebb716" type="pendantOf"/>
-            <relation pref="true" relids="i_940af746-b0e4-4d74-a313-e77d9dd1e9bb" source="Tamboti" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_97426f55-5626-4fd6-8ed5-25c0756a2ead" source="Tamboti" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_cf4c7bb4-16b0-4db5-8a83-c9c4f14e022c" source="Tamboti" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_940af746-b0e4-4d74-a313-e77d9dd1e9bb" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_97426f55-5626-4fd6-8ed5-25c0756a2ead" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_cf4c7bb4-16b0-4db5-8a83-c9c4f14e022c" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2016-03-10-17-26-53">

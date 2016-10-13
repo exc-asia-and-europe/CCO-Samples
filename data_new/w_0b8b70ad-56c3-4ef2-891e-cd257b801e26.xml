@@ -79,7 +79,7 @@
             <measurements pref="false" type="area" unit="sqm">139,354.56</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_f865856c-0516-41ca-ad18-d66cb494fa17" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_f865856c-0516-41ca-ad18-d66cb494fa17" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-03-17-16-37-46">
@@ -97,7 +97,7 @@
             <subject pref="false" refid="300054687" vocab="aat">
                 <term type="conceptTopic">research</term>
             </subject>
-            <subject pref="false" refid="300380247" source="Simon Gruening" vocab="aat" dataDate="2016-03-17-16-25-39">
+            <subject pref="false" refid="300380247" vocab="aat" dataDate="2016-03-17-16-25-39">
                 <term type="descriptiveTopic">art libraries</term>
             </subject>
             <subject pref="false" refid="300005135" vocab="aat">

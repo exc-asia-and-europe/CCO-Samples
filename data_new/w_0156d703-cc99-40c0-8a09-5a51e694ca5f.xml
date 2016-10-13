@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_0156d703-cc99-40c0-8a09-5a51e694ca5f" source="Kurs" refid="c_3179051d-0303-4de0-898f-f5ac3a66ce78">
         <agentSet>
-            <agent extent="landscape &amp; architecture" pref="true" dataDate="2016-04-21-12-07-27">
+            <agent extent="landscape and architecture" pref="true" dataDate="2016-04-21-12-07-27">
                 <dates type="life">
                     <earliestDate circa="false">1676</earliestDate>
                     <latestDate circa="false">1730</latestDate>
@@ -18,7 +18,7 @@
                 <name refid="57410829" type="personal" vocab="viaf">Ricci, Sebastiano</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
-            <agent pref="false" source="Simon Gruening; description on Getty website" dataDate="2016-04-21-12-04-16">
+            <agent pref="false" source="description on Getty website" dataDate="2016-04-21-12-04-16">
                 <dates type="life">
                     <earliestDate circa="false">1682</earliestDate>
                     <latestDate circa="false">1770</latestDate>
@@ -76,7 +76,7 @@ Joseph Smith, an English businessman and consul who lived in Venice for many yea
             <measurements pref="false" type="width" unit="in">63 1/2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_e89697f3-a8eb-4ee3-bc3c-7825c593a573" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_e89697f3-a8eb-4ee3-bc3c-7825c593a573" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">
@@ -116,8 +116,8 @@ Joseph Smith, an English businessman and consul who lived in Venice for many yea
             <title pref="false" type="repository">Landscape with Classical Ruins and Figures</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300015636" source="Simon Gruening" vocab="aat">landscapes</worktype>
-            <worktype pref="false" refid="300033799" source="Simon Gruening" vocab="aat">oil paintings</worktype>
+            <worktype pref="false" refid="300015636" vocab="aat">landscapes</worktype>
+            <worktype pref="false" refid="300033799" vocab="aat">oil paintings</worktype>
             <worktype pref="true" refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- problem date @alternativeNotation - validiert nicht -->
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_499c604c-9d7b-4973-9049-cabeca71cf04" source="Kurs" refid="c_d7fcffae-e15d-45ba-a3e8-eca61e5efd83">
         <agentSet>
@@ -73,7 +74,7 @@
             <measurements extent="of rim" pref="false" type="diameter" unit="in">8 1/4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_c1957e81-b021-4fae-b2df-daa271ffcf45" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_c1957e81-b021-4fae-b2df-daa271ffcf45" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-02-02-12-54-24">

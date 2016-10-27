@@ -30,8 +30,8 @@
             <description pref="false" dataDate="2015-04-22-15-05-19">
                 <text>In a continuous narrative designed for the side of a wedding chest, the scene depicts Paris, a shepherd who is the most handsome man in the world. Paris must judge a competition between three goddesses; he hands an apple inscribed "For the fairest" to Aphrodite without even looking at her rival goddesses, Hera and Athena. He thus chooses the love of Helen, the world's most beautiful woman, over greatness or warlike prowess. As a reward, he is granted the fair Helen, and takes her on his horse to the town in the distance.</text>
                 <author>
-                    <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha.</name>
-                    <role type="code" vocab="marcrelator"/>
+                    <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                	<role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
             <description pref="false" dataDate="2015-04-22-15-03-06">
@@ -59,7 +59,7 @@
             <measurements pref="false" shape="landscape" type="width" unit="in">44 1/2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_21b6744b-2ec5-44f5-bfca-8161b54b2baf" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_21b6744b-2ec5-44f5-bfca-8161b54b2baf" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2016-03-24-10-13-21">

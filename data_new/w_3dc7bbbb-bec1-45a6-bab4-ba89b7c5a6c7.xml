@@ -68,7 +68,7 @@ Since the tomb of the princess was beside the pyramid of Senwosret, scholars spe
             <measurements extent="pectoral" href="http://www.metmuseum.org/art/collection/search/544232" pref="false" source="Metropolitan Museum of Art" type="width" unit="in">3 1/4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_38af9154-705e-4427-b317-a2497cf10568" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_38af9154-705e-4427-b317-a2497cf10568" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">

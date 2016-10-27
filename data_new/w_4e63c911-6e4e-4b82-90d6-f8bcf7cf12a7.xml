@@ -82,7 +82,7 @@
             <measurements extent="each" pref="false" type="width" unit="in">3 1/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation href="http://primo.getty.edu/GRI:GETTY_ALMA21124612420001551" pref="false" relids="ZCDV 2" source="Getty Research Institute" type="partOf">Cities and sites cartes-de-visite collection; collection; 1854-ca. 1905. Getty Research Library, Special Collections (Los Angeles, California, United States)</relation>
+            <relation href="http://primo.getty.edu/GRI:GETTY_ALMA21124612420001551" pref="false" refid="ZCDV 2" source="Getty Research Institute" type="partOf">Cities and sites cartes-de-visite collection; collection; 1854-ca. 1905. Getty Research Library, Special Collections (Los Angeles, California, United States)</relation>
             <relation pref="true" relids="i_8bd1804c-377c-4c3c-aaa3-fc75d7cf0737" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>

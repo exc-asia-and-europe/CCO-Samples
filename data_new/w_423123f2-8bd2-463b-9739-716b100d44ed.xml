@@ -35,9 +35,6 @@
                 <earliestDate>
                     <date>1928</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1928</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -108,7 +105,7 @@ through the dark city</text>
             <measurements pref="false" type="width" unit="in">30</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_9bb84dd9-79fc-46c9-9639-c9aca881fd43" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_9bb84dd9-79fc-46c9-9639-c9aca881fd43" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">

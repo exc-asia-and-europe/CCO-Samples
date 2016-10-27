@@ -13,7 +13,7 @@
                 <name refid="27073355" type="personal" vocab="viaf">Giotto</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
-            <agent pref="true" source="Simon Gruening" dataDate="2016-04-26-11-27-15">
+            <agent pref="true" dataDate="2016-04-26-11-27-15">
                 <dates type="life">
                     <latestDate circa="false">1336</latestDate>
                 </dates>
@@ -67,7 +67,7 @@ The cycle recounts the Story of salvation. It starts from high up, on the lunett
             </location>
         </locationSet>
         <relationSet>
-            <relation type="imageIs" relids="i_498c49a8-7978-4dcb-9dc1-d0e14f2b3387" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_498c49a8-7978-4dcb-9dc1-d0e14f2b3387" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-04-26-11-39-23">

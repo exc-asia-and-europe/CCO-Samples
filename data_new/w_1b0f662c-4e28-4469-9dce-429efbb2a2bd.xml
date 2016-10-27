@@ -74,7 +74,7 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
             <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">37 1/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_b40bcaf5-cbd8-4606-9aab-91624372379f" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_b40bcaf5-cbd8-4606-9aab-91624372379f" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">
@@ -109,7 +109,7 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
         </subjectSet>
         <techniqueSet>
             <technique pref="false" refid="300054094" vocab="aat">brushwork</technique>
-            <technique pref="false" refid="300178684" source="Simon Gruening" vocab="aat">oil painting</technique>
+            <technique pref="false" refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
         <textrefSet>
             <textref pref="false" dataDate="2016-04-26-09-40-56">
@@ -122,7 +122,7 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
-            <worktype pref="false" refid="300033799" source="Simon Gruening" vocab="aat">oil paintings</worktype>
+            <worktype pref="false" refid="300033799" vocab="aat">oil paintings</worktype>
         </worktypeSet>
     </work>
 </vra>

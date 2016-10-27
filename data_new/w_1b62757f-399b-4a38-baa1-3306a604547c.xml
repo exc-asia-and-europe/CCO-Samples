@@ -27,9 +27,6 @@
                 <earliestDate>
                     <date>1896</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1896</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -62,7 +59,7 @@ Tournée du Chat Noir de Rodolph Salis</text>
         </inscriptionSet>
         <locationSet>
             <location pref="false" type="other" dataDate="2016-06-01-14-38-56">
-                <name refid="147368137" type="corporate" vocab="viaf">Chat Noir (kabaret : Paříž, Francie)</name>
+            	<name refid="147368137" type="corporate" vocab="viaf">Le Chat noir Paris</name>
             </location>
             <location pref="false" type="creation" dataDate="2015-11-11-14-51-25">
                 <name refid="7013286" type="geographic" vocab="tgn">Montmartre</name>
@@ -80,7 +77,7 @@ Tournée du Chat Noir de Rodolph Salis</text>
             <measurements pref="false" shape="rectangle" source="https://www.google.com/culturalinstitute/asset-viewer/tourn%C3%A9e-du-chat-noir-de-rodolphe-salis-tour-of-rodolphe-salis-chat-noir/BAEF9F-mDJvr0A" type="width" unit="mm">959</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_c8e79758-229e-4692-8a03-ea6e7e543a3d" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_c8e79758-229e-4692-8a03-ea6e7e543a3d" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">

@@ -83,8 +83,8 @@
             <measurements extent="overall with neck defense" href="http://www.metmuseum.org/collection/the-collection-online/search/27272" pref="false" source="Metropolitan Museum of Art" type="length" unit="cm">45.4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="i_f33b61c3-6636-4bd0-a249-047688824568" source="Tamboti" type="imageIs">helmet</relation>
-            <relation pref="true" relids="i_bf71007b-9636-45c8-ab0f-41a4cc15bed4" source="Tamboti" type="imageIs">armor (yoroi)</relation>
+            <relation pref="false" relids="i_f33b61c3-6636-4bd0-a249-047688824568" type="imageIs">helmet</relation>
+            <relation pref="true" relids="i_bf71007b-9636-45c8-ab0f-41a4cc15bed4" type="imageIs">armor (yoroi)</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-02-02-15-38-01">

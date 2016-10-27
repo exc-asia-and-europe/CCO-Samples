@@ -20,9 +20,6 @@
                 <earliestDate>
                     <date>1807</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1807</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -75,8 +72,8 @@
             <measurements pref="false" shape="rectangle" type="width" unit="in">20</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="w_387ea1a7-e52e-46e2-84e7-7c619e8cf6fc" source="Tamboti" type="depicts">The White House</relation>
-            <relation pref="true" relids="i_e11b14dd-38c9-40a0-bfe9-7e2416719588" source="Tamboti" type="imageIs">general view</relation>
+            <relation pref="false" relids="w_387ea1a7-e52e-46e2-84e7-7c619e8cf6fc" type="depicts">The White House</relation>
+            <relation pref="true" relids="i_e11b14dd-38c9-40a0-bfe9-7e2416719588" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-05-14-26-58">

@@ -69,7 +69,7 @@
             <measurements extent="spire rise" pref="false" shape="irregular" type="height" unit="m">58.5</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_462eb829-048e-4244-8a0a-922ba45d4fb2" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_462eb829-048e-4244-8a0a-922ba45d4fb2" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2015-04-22-10-17-37">
@@ -81,13 +81,13 @@
             <stylePeriod pref="false" refid="300264736" vocab="aat">Modern</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject pref="false" refid="300000891" source="Simon Gruening" vocab="aat" dataDate="2015-04-22-10-12-29">
+            <subject pref="false" refid="300000891" vocab="aat" dataDate="2015-04-22-10-12-29">
                 <term type="descriptiveTopic">buttresses</term>
             </subject>
-            <subject pref="false" refid="300002360" source="Simon Gruening" vocab="aat" dataDate="2015-04-22-09-56-50">
+            <subject pref="false" refid="300002360" vocab="aat" dataDate="2015-04-22-09-56-50">
                 <term type="descriptiveTopic">spires</term>
             </subject>
-            <subject pref="false" refid="300263823" source="Simon Gruening" vocab="aat" dataDate="2015-04-22-09-56-29">
+            <subject pref="false" refid="300263823" vocab="aat" dataDate="2015-04-22-09-56-29">
                 <term type="descriptiveTopic">hexagonal</term>
             </subject>
             <subject pref="false" refid="300263552" vocab="aat" dataDate="2015-04-22-09-55-36">

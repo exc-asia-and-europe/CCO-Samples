@@ -8,7 +8,7 @@
                     <earliestDate circa="false">1866</earliestDate>
                     <latestDate circa="false">1946</latestDate>
                 </dates>
-                <name refid="75244946" type="personal" vocab="viaf">Guérin, Jules</name>
+                <name refid="75244946" type="personal" vocab="viaf">Guérin, Jules</name>
                 <role type="code" vocab="marcrelator">drm</role>
             </agent>
             <agent pref="false" dataDate="2016-05-18-15-29-36">
@@ -29,9 +29,6 @@
                 <earliestDate>
                     <date>1912</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1912</date>
-                </latestDate>
             </date>
         </dateSet>
         <locationSet>
@@ -54,7 +51,7 @@
         </materialSet>
         <relationSet>
             <relation pref="false" relids="w_e0d67090-5df9-408a-abf0-5befb69b83b2" type="depicts">Lincoln Memorial</relation>
-            <relation pref="true" relids="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26" source="Tamboti" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26" type="imageIs">general view</relation>
         </relationSet>
         <subjectSet>
             <subject pref="false" refid="300034065" vocab="aat" dataDate="2015-11-05-15-12-26">

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Problem date @alternativeNotation - validiert nicht -->
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_38b8e290-56fa-432a-be58-6ab793b7080e" source="Kurs" refid="c_c3696ad8-2845-434e-b539-486190812580">
         <agentSet>
@@ -46,7 +47,7 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" source="Simon Gruening" type="site" dataDate="2016-03-01-15-21-25">
+            <location pref="false" type="site" dataDate="2016-03-01-15-21-25">
                 <name refid="1100619" type="geographic" vocab="tgn">Pantheon</name>
             </location>
             <location pref="true" type="site" dataDate="2016-03-01-15-21-17">
@@ -68,7 +69,7 @@
             <measurements extent="oculus" pref="false" type="diameter" unit="ft">29,2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_28b3c236-5790-4a8b-b883-de0de3049db0" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_28b3c236-5790-4a8b-b883-de0de3049db0" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2016-03-01-15-59-44">
@@ -97,7 +98,7 @@
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300386948" source="Simon Gruening" vocab="aat">stonemasonry</technique>
+            <technique pref="false" refid="300386948" vocab="aat">stonemasonry</technique>
         </techniqueSet>
         <titleSet>
             <title pref="false" type="popular">Pantheon</title>

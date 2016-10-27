@@ -9,7 +9,8 @@
                     <latestDate circa="false">1986</latestDate>
                 </dates>
                 <name refid="32000652" type="personal" vocab="viaf">Moore, Henry</name>
-                <role extent="also: designer" type="code" vocab="marcrelator">scl</role>
+                <role type="code" vocab="marcrelator">scl</role>
+            	<role type="code" vocab="marcrelator">dsr</role>
             </agent>
         </agentSet>
         <dateSet>
@@ -17,9 +18,6 @@
                 <earliestDate>
                     <date>1971-05-16</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1971-05-16</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -74,7 +72,7 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
             <measurements href="http://siris-artinventories.si.edu/ipac20/ipac.jsp?uri=full=3100001~!319127~!3&amp;ri=2" pref="false" source="Smithonian Museum, Art Inventories Catalog" type="depth" unit="ft">12</measurements>
         </measurementsSet>
         <relationSet>
-            <relation href="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad" pref="true" relids="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad" source="Tamboti" type="imageIs">Henry Moore's "Large Arch," which was installed near the Rogers Library in 1971</relation>
+            <relation href="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad" pref="true" relids="i_ed5cc58a-09e6-4280-96d5-fba4a15e06ad" type="imageIs">Henry Moore's "Large Arch," which was installed near the Rogers Library in 1971</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-01-27-15-59-39">
@@ -94,7 +92,7 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
             <stylePeriod pref="false" refid="300264736" vocab="aat">Modern</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject extent="Paris green, light blue [of 2014]" href="https://en.wikipedia.org/wiki/Large_Arch" pref="false" refid="300065245" source="Wikipedia, Simon Gruening" vocab="aat" dataDate="2016-06-08-16-15-42">
+            <subject extent="Paris green, light blue [of 2014]" href="https://en.wikipedia.org/wiki/Large_Arch" pref="false" refid="300065245" vocab="aat" dataDate="2016-06-08-16-15-42">
                 <term type="descriptiveTopic">patina</term>
             </subject>
             <subject pref="false" refid="300055818" vocab="aat" dataDate="2016-06-08-16-13-30">

@@ -20,9 +20,6 @@
                 <earliestDate>
                     <date>1888-11-23</date>
                 </earliestDate>
-                <latestDate>
-                    <date>1888-11-23</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -73,7 +70,7 @@
         </measurementsSet>
         <relationSet>
             <relation href="w_19665035-0612-4201-a7d1-e9268215db28" pref="false" relids="w_19665035-0612-4201-a7d1-e9268215db28" type="relatedTo">Gustave Eiffel (French, 1832-1923); Eiffel Tower (Paris, France); 1887-1889</relation>
-            <relation pref="true" relids="i_b1564def-66cc-4716-8391-e9ff47509445" source="Tamboti" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_b1564def-66cc-4716-8391-e9ff47509445" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-12-14-36-22">
@@ -86,7 +83,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="uuid-edaed86f-e92d-536e-a129-4f33ab8e9df9" vocab="local" dataDate="2015-11-12-14-24-13">
+        	<subject pref="false" refid="700000116" vocab="cona" dataDate="2016-10-27-11-47-00">
                 <term type="builtworkPlace">Eiffel Tower</term>
             </subject>
             <subject pref="false" refid="300004847" vocab="aat" dataDate="2015-11-12-14-23-51">

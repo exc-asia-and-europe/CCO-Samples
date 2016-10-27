@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- problem date @alternativeNotation - validiert nicht -->
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_4ebbfd87-98ae-4f06-b3f5-f8440db8a467" source="Kurs" refid="c_58a76612-f8c3-4917-927b-837c96b3aa84">
         <agentSet>
-            <display dataDate="2015-11-16-12-57-20"/>
-            <notes dataDate="2015-11-16-12-57-20"/>
             <agent pref="true" dataDate="2016-06-06-14-49-27">
-                <attribution dataDate="2015-11-16-12-57-20"/>
                 <culture dataDate="2015-11-16-12-57-20">Persian</culture>
                 <dates type="life" dataDate="2015-11-16-12-57-20">
                     <earliestDate circa="true" type="about" dataDate="2015-11-16-12-57-20">1570</earliestDate>
@@ -47,8 +45,6 @@
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <display dataDate="2015-11-16-13-22-12"/>
-            <notes dataDate="2015-11-16-13-22-12"/>
             <inscription pref="false" source="Metropolitan Museum of Art" href="http://www.metmuseum.org/collection/the-collection-online/search/451023" dataDate="2015-11-16-13-22-12">
                 <text lang="ara" script="Arab" source="Metropolitan Museum of Art" href="http://www.metmuseum.org/collection/the-collection-online/search/451023" type="signature" dataDate="2015-11-16-13-22-12">در روز 3 شنبه هشتم شهر شوال/ با إقبال سنهٔ 1039 به إتمام رسید. رقم کمینه رضاء عباسى/ ه </text>
                 <author refid="4833075" vocab="viaf" dataDate="2015-11-16-13-22-12">Riza Abbasi</author>
@@ -87,7 +83,7 @@ A.H. 1039 [May 21, 1630 A.D.]. Painted by the humble Riza-yi ‘Abbasi</text>
             <measurements extent="mat" href="http://www.metmuseum.org/collection/the-collection-online/search/451023" pref="false" source="Metropolitan Museum of Art" type="width" unit="cm" dataDate="2015-11-16-13-30-51">36.2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-16-13-32-24">

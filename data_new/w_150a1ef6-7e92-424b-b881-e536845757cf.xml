@@ -73,7 +73,7 @@ In the 1700s, the Chinese produced large quantities of porcelain specifically fo
             <measurements pref="false" type="width" unit="in">9 7/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_afa2b382-f076-4047-a55e-8b372a1c5ece" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_afa2b382-f076-4047-a55e-8b372a1c5ece" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-01-28-16-12-51">

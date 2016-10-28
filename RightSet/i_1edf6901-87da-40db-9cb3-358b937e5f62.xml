@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    
+   <image id="i_1edf6901-87da-40db-9cb3-358b937e5f62"
+          source="Tamboti"
+          href="i_1edf6901-87da-40db-9cb3-358b937e5f62.jpg">
+        <agentSet>
+            <agent pref="true"
+                href="http://www.metmuseum.org/collection/the-collection-online/search/1674"
+                source="Metropolitan Museum of Art"
+                dataDate="2015-11-18-12-29-20">
+                <name refid="126238294"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-18-12-29-20">Metropolitan Museum of Art</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-18-12-29-20">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation pref="false"
+                   relids="w_5651b204-0a3e-4cf5-aff8-875763574ed1"
+                   source="Tamboti"
+                   type="imageOf">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights dataDate="2015-11-18" pref="true" type="publicDomain">
+                <rightsHolder dataDate="2015-11-18">Metropolitan Museum of Art</rightsHolder>
+                <text dataDate="2015-11-18">Digital image courtesy of the Met's Open Access for Scholarly Content program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source pref="true" dataDate="2015-11-18-12-31-57">
+                <refid type="URI" dataDate="2015-11-18-12-31-57">http://www.metmuseum.org/collection/the-collection-online/search/1674</refid>
+                <name type="electronic" dataDate="2015-11-18-12-31-57">Metropolitan Museum of Art Collection Online</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_107.jpg</title>
+        </titleSet>
+    </image>
+</vra>

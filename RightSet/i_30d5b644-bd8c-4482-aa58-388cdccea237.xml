@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    
+   <image id="i_30d5b644-bd8c-4482-aa58-388cdccea237"
+          source="Tamboti"
+          href="i_30d5b644-bd8c-4482-aa58-388cdccea237.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-08-09">
+                <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+                <role type="code" vocab="marcrelator">col</role>
+            </agent>
+        </agentSet>
+        <rightsSet>
+            <rights dataDate="2015-05-04-09-33-44" pref="false" type="copyrighted">
+                <rightsHolder>The Museum of Modern Art, New York / Scala, Florence</rightsHolder>
+                <text>Digital image, The Museum of Modern Art, New York/Scala, Florence.</text>
+            </rights>
+        </rightsSet>
+        <relationSet>
+            <relation type="imageOf"
+                   relids="w_b951bdff-7430-4a2d-a339-4154aac3964d"
+                   source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-05-04-09-34-17">
+                <refid type="URI">http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0121110&amp;posizione=1&amp;numImmagini=15&amp;prmset=on&amp;ANDOR=and&amp;xesearch=les+and+demoiselles+and+d%27%27%27%27avignon&amp;ricerca_s=Les+Demoiselles+d%92Avignon&amp;SC_PROV=RR&amp;SC_Lang=eng&amp;Sort=9&amp;luce=</refid>
+                <name type="electronic">Scala Archives</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_016.jpg</title>
+        </titleSet>
+    </image>
+</vra>

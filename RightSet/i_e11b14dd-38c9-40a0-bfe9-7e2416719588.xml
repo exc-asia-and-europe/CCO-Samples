@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    
+   <image id="i_e11b14dd-38c9-40a0-bfe9-7e2416719588"
+          source="Tamboti"
+          href="i_e11b14dd-38c9-40a0-bfe9-7e2416719588.jpg">
+        
+        
+        
+        
+      <agentSet>
+            
+        <agent pref="false" dataDate="2015-11-05-13-49-59">
+                
+                
+            <name refid="151962300" source="viaf" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+            
+        <relation type="imageOf"
+                   relids="w_22e76684-087f-49fd-bd53-3775de4e77b1"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet xmlns:ext="http://exist-db.org/vra/extension">
+         <display/>
+         <notes/>
+         <rights dataDate="2015-11-05-13-50-29" pref="false" type="publicDomain">
+            <rightsHolder>Library of Congress</rightsHolder>
+            <text>No known restrictions on publication.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+            
+        <source pref="false" dataDate="2015-11-05-13-51-36">
+                
+                
+            <refid type="URI">https://www.loc.gov/item/2001698953</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+            
+        <title type="generalView">Image record CCO_online_038.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_f865856c-0516-41ca-ad18-d66cb494fa17"
+          href="i_f865856c-0516-41ca-ad18-d66cb494fa17.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="false" dataDate="2016-03-17-16-16-02">
+            <name extent="photographer: Kyle Harmon"
+                  refid="182017119"
+                  type="corporate"
+                  vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-04-20-10-07-59">
+            <earliestDate>
+               <date>2009-02-20</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_0b8b70ad-56c3-4ef2-891e-cd257b801e26"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="false" type="copyrighted" dataDate="2015-04-20-10-09-16">
+            <rightsHolder>Kyle Harmon</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-22-12-57-48">
+            <refid type="URI">https://www.flickr.com/photos/wkharmon/3298751531</refid>
+            <name type="electronic">Flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title pref="false" type="descriptive">Aerial View</title>
+      </titleSet>
+   </image>
+</vra>

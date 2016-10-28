@@ -22,7 +22,7 @@
             <xsl:apply-templates select ="vra:materialSet"/>
             <xsl:apply-templates select ="vra:measurementsSet"/>
             <xsl:apply-templates select ="vra:relationSet"/>
-            <xsl:apply-templates select ="vra:rightSet"/>
+            <xsl:apply-templates select ="vra:rightsSet"/>
             <xsl:apply-templates select ="vra:sourceSet"/>
             <xsl:apply-templates select ="vra:stateEditionSet"/>
             <xsl:apply-templates select ="vra:stylePeriodSet"/>

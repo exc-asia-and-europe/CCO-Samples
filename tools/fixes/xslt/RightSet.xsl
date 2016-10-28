@@ -27,7 +27,7 @@
                     <xsl:apply-templates select ="vra:materialSet"/>
                     <xsl:apply-templates select ="vra:measurementsSet"/>
                     <xsl:apply-templates select ="vra:relationSet"/>
-                    <xsl:copy-of select="document(concat('../../../data_old/VRA_images/', $i-id, '.xml'))//*:rightsSet"/>
+                    <xsl:copy-of copy-namespaces="no" select="document(concat('../../../data_old/VRA_images/', $i-id, '.xml'))//vra:rightsSet"/>
                     <xsl:apply-templates select ="vra:sourceSet"/>
                     <xsl:apply-templates select ="vra:stateEditionSet"/>
                     <xsl:apply-templates select ="vra:stylePeriodSet"/>

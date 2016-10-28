@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_2b0c24fe-0c1e-45ce-8aa9-2feae2b94bb5"
+          source="Tamboti"
+          href="i_2b0c24fe-0c1e-45ce-8aa9-2feae2b94bb5.jpg">
+      <agentSet>
+         <agent pref="true" dataDate="2016-08-09">
+            <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="true" type="creation" dataDate="2016-08-09">
+            <earliestDate>
+               <date>2009-02-20</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_e2fabc51-32c4-4486-b348-af9742eda5e3"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights dataDate="2016-08-09"
+                 href="https://creativecommons.org/licenses/by/2.0/deed.en"
+                 pref="true"
+                 type="copyrighted">
+            <rightsHolder>neiljs</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2016-08-09">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Old_Palace_Yard_corner.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_164--CCO_fig008-2.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -134,4 +134,21 @@
     <target name="clean">
         <delete dir="target"/>
     </target>
+    
+   <target name="RightSet">
+        <mkdir dir="RightSet"/>
+        
+        <xslt style="${basedir}/tools/fixes/xslt/RightSet.xsl"
+              destDir="RightSet"
+              force="yes"
+              basedir="${basedir}/data_new/VRA_images"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="fixes">
+        <antcall target="RightSet"/>
+    </target>
 </project>

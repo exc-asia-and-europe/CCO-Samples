@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_573382bb-6f7b-4e23-a5fe-166c616f5582"
+          source="Tamboti"
+          href="i_573382bb-6f7b-4e23-a5fe-166c616f5582.jpg">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-28-15-26-04">
+            <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_7b1d90f0-a0a4-47d3-91c3-ad9e1943b2e6"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet xmlns:ext="http://exist-db.org/vra/extension">
+         <display/>
+         <notes/>
+         <rights dataDate="2015-05-06-14-57-08" pref="false" type="publicDomain">
+            <rightsHolder>Historic Southwest Museum Mt. Washington Campus</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-06-14-57-31">
+            <refid type="URI">http://commons.wikimedia.org/wiki/File:Schlacht_am_Little_Bighorn_-_Bild_von_Kicking_Bear.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_027_neu.jpg</title>
+      </titleSet>
+   </image>
+</vra>

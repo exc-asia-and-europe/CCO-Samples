@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_2354c674-cde7-4c99-8a71-afde9ee66a33"
+          source="Tamboti"
+          href="i_2354c674-cde7-4c99-8a71-afde9ee66a33.jpg">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-21-11-07-19">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_106d5ebb-423f-421e-b0e1-8a710a6dd9bf"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights dataDate="2015-04-29-13-58-37" pref="false" type="publicDomain">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2015-04-29-13-59-16">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/700/jan-van-huysum-vase-of-flowers-dutch-1722/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_010--CCO_fig004-1.jpg</title>
+      </titleSet>
+   </image>
+</vra>

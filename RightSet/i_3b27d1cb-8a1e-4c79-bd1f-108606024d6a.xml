@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_3b27d1cb-8a1e-4c79-bd1f-108606024d6a"
+          source="Tamboti"
+          href="i_3b27d1cb-8a1e-4c79-bd1f-108606024d6a.jpg">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-17-09-46-48">
+            <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2015-04-08-15-50-59">
+            <earliestDate>
+               <date>2011-02-18</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_951e30d4-886c-40e1-bf38-c148d3445286"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights dataDate="2015-04-08-15-51-40"
+                 href="https://creativecommons.org/licenses/by/2.0/"
+                 pref="false"
+                 type="copyrighted">
+            <rightsHolder>Gabe Popa</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-08-15-52-05">
+            <refid type="URI">https://www.flickr.com/photos/gabepopa/14726635679</refid>
+            <name type="electronic">FlickR</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_158.jpg</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_fa1f6ebd-fc89-40f1-af69-20ef83b11d8d"
+          source="Tamboti"
+          href="i_fa1f6ebd-fc89-40f1-af69-20ef83b11d8d.jpg">
+      <agentSet>
+         <agent pref="true" dataDate="2016-05-18-09-06-36">
+            <name refid="192403070" type="corporate" vocab="viaf">National gallery of art (Washington, D.C.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_bf5895a2-05fd-43b9-ab25-3cef3c03fdac"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet xmlns:ext="http://exist-db.org/vra/extension">
+         <display/>
+         <notes/>
+         <rights dataDate="2015-05-13-13-46-29" pref="false" type="publicDomain">
+            <rightsHolder>National Gallery of Art, Washington</rightsHolder>
+            <text>Courtesy National Gallery of Art, Washington.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-13-13-47-06">
+            <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html</refid>
+            <name type="electronic">National Gallery of Art, Washington, Open Access Image Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_031.jpg</title>
+      </titleSet>
+   </image>
+</vra>

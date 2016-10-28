@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_89b6c10c-00af-47f6-8551-a71b858edc30"
+          source="Tamboti"
+          href="i_89b6c10c-00af-47f6-8551-a71b858edc30.jpg">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_fc0c3598-fff2-4209-bae9-94eaa8c3b3d0"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet xmlns:ext="http://exist-db.org/vra/extension">
+         <display/>
+         <notes/>
+         <rights dataDate="2015-11-02-13-32-24" pref="false" type="publicDomain">
+            <rightsHolder>National Museum of Western Art, Tokyo, Japan</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-11-02-13-31-50">
+            <refid type="URI">http://commons.wikimedia.org/wiki/File:Roman_Ruins_(Aedificiorum_illustriumquae_supersunt_reliquiae),_by_Giovanni_Antonio_Dosio,_1569,_etching_-_National_Museum_of_Western_Art,_Tokyo_-_DSC08276.JPG</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_035.jpg</title>
+      </titleSet>
+   </image>
+</vra>

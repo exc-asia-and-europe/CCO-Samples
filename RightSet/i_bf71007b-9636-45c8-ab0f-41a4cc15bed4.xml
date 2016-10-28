@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_bf71007b-9636-45c8-ab0f-41a4cc15bed4"
+          source="Tamboti"
+          href="i_bf71007b-9636-45c8-ab0f-41a4cc15bed4.jpg">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_5026e2a0-e681-4ee4-8d39-eb108bfa2d71"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_113-2.jpg</title>
+      </titleSet>
+   </image>
+</vra>

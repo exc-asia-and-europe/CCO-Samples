@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_f98aca0f-71e3-4387-8d3c-71f5c112b013"
+          href="i_f98aca0f-71e3-4387-8d3c-71f5c112b013.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-12-13-05-37">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_0873c40d-37ad-4ed7-a526-e29604d90a40"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="http://www.metmuseum.org/information/terms-and-conditions"
+                 pref="false"
+                 type="publicDomain"
+                 dataDate="2016-04-12-12-26-41">
+            <rightsHolder>The Metropolitan Museum of Art.</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Robert Lehman Collection, 1975.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-27-12-02-36">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/458971</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_001.jpg</title>
+      </titleSet>
+   </image>
+</vra>

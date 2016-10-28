@@ -8,7 +8,7 @@
         <xslt style="${basedir}/tools/cleanup/xslt/cleanup-basic.xsl"
               destDir="target/basic"
               force="yes"
-              basedir="${basedir}/data_old"
+              basedir="${basedir}/target/RightSet"
             extension=".xml">
             <factory name="net.sf.saxon.TransformerFactoryImpl"/>
             <classpath refid="transform.class.path"/>
@@ -122,16 +122,34 @@
     </target>
     
     <target name="default" depends="xslt-basic-cleanup, xslt-type-cleanup, xslt-source-cleanup, xslt-sort-cleanup, xslt-dates-cleanup, xslt-sets-cleanup, xslt-empty-cleanup, xslt-basic-second-cleanup, xslt-mark">
-        <mkdir dir="cleaned"/>
-        <move toDir="${basedir}/cleaned">
+        <mkdir dir="cleaned_RightSet"/>
+        <move toDir="${basedir}/cleaned_RightSet">
             <fileset dir="${basedir}/target/mark">
                 <include name="**/*.xml"/>
             </fileset>
         </move>
-        <!-- antcall target="clean" /-->
+        <!-- antcall target="clean" / -->
     </target>
     
     <target name="clean">
         <delete dir="target"/>
+    </target>
+    
+   <target name="RightSet">
+        <mkdir dir="${basedir}/target/RightSet"/>
+        
+        <xslt style="${basedir}/tools/fixes/xslt/RightSet.xsl"
+              destDir="${basedir}/target/RightSet"
+              force="yes"
+              basedir="${basedir}/data_new/VRA_images"
+              extension=".xml">
+            <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+            <classpath refid="transform.class.path"/>
+        </xslt>
+    </target>
+    
+    <target name="fixes">
+        <antcall target="RightSet"/>
+        <antcall target="default"/>
     </target>
 </project>

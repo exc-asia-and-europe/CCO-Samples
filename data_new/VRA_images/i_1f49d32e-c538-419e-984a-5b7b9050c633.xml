@@ -6,6 +6,7 @@
                 <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
                 <role type="code" vocab="marcrelator">col</role>
             </agent>
+        </agentSet>
         <dateSet>
             <date pref="true" type="creation" dataDate="2016-08-09">
                 <earliestDate>

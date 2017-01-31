@@ -22,7 +22,7 @@
         <dateSet>
             <date pref="true" type="creation" dataDate="2016-03-01-15-17-56">
                 <earliestDate>
-                    <alternativeNotation>118/119</alternativeNotation>
+                    <alternativeNotation type="about">118/119</alternativeNotation>
                     <date type="about">0118</date>
                 </earliestDate>
                 <latestDate>

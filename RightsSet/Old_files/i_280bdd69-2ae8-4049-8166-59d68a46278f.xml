@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_280bdd69-2ae8-4049-8166-59d68a46278f" source="Tamboti"
+        href="i_280bdd69-2ae8-4049-8166-59d68a46278f.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2015-11-11-09-23-35">
+                <name refid="147804499" source="viaf" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_51d86bf0-5748-4c58-a623-3bc3291b0ed7" source="Tamboti">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights dataDate="2015-11-11-09-25-28" pref="true" type="publicDomain">
+                <rightsHolder>J. Paul Getty Museum</rightsHolder>
+                <text>Digital image courtesy of the Getty's Open Content Program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source pref="true" dataDate="2015-11-11-09-26-10">
+                <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=93888554</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_043.jpg</title>
+        </titleSet>
+    </image>
+</vra>

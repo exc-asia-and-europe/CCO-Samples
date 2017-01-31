@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_7458d2b0-b369-49a2-8fbf-3037ee4cf8d5" source="Tamboti" href="i_7458d2b0-b369-49a2-8fbf-3037ee4cf8d5.jpg">
-        <relationSet>
-            <relation type="imageOf" relids="w_78d5b469-44c7-42cd-9e79-a2273976e234" source="Tamboti">attachment</relation>
-        </relationSet>
-        <sourceSet>
-            <source pref="false" dataDate="2015-05-06-12-22-12">
-                <refid type="URI">https://www.flickr.com/photos/65172294@N00/135519888/in/photolist-cYzkN-2aTwrG</refid>
-                <name type="electronic">Flickr</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_024.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_7458d2b0-b369-49a2-8fbf-3037ee4cf8d5"
+          href="i_7458d2b0-b369-49a2-8fbf-3037ee4cf8d5.jpg"
+          source="Tamboti">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_78d5b469-44c7-42cd-9e79-a2273976e234"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by/2.0/"
+                 pref="false"
+                 type="copyrighted"
+                 dataDate="2015-05-06-12-23-10">
+            <rightsHolder>get directly down</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-06-12-22-12">
+            <refid type="URI">https://www.flickr.com/photos/65172294@N00/135519888/in/photolist-cYzkN-2aTwrG</refid>
+            <name type="electronic">Flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_024.jpg</title>
+      </titleSet>
+   </image>
 </vra>

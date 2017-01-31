@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_83724bfa-78a7-4bc7-8eb0-2e4a800d2cfb" source="Tamboti" href="i_83724bfa-78a7-4bc7-8eb0-2e4a800d2cfb.jpg">
-        <agentSet>
-            <agent pref="true" dataDate="2016-04-26-10-13-58">
-                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_60d99c85-77b7-4654-bea6-1357caf3c57a" source="Tamboti">attachment</relation>
-        </relationSet>
-        <sourceSet>
-            <source pref="false" dataDate="2015-05-04-10-55-51">
-                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/39664</refid>
-                <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_021--cco_fig018-1.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_83724bfa-78a7-4bc7-8eb0-2e4a800d2cfb"
+          href="i_83724bfa-78a7-4bc7-8eb0-2e4a800d2cfb.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-26-10-13-58">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_60d99c85-77b7-4654-bea6-1357caf3c57a"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="false" type="publicDomain" dataDate="2016-04-26-10-14-20">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Louisa Eldridge McBurney Gift, 1953.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-04-10-55-51">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/39664</refid>
+            <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_021--cco_fig018-1.jpg</title>
+      </titleSet>
+   </image>
 </vra>

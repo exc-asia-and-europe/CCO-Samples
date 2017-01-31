@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_38af9154-705e-4427-b317-a2497cf10568" source="Tamboti" href="i_38af9154-705e-4427-b317-a2497cf10568.jpg">
-        <agentSet>
-            <agent pref="true" dataDate="2016-03-22-10-48-29">
-                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_3dc7bbbb-bec1-45a6-bab4-ba89b7c5a6c7" source="Tamboti">attachment</relation>
-        </relationSet>
-        <rightsSet>
-            <display/>
-            <notes/>
-            <rights dataDate="2015-04-22-12-22-47" pref="true" type="publicDomain">
-                <rightsHolder>Metropolitan Museum of Art</rightsHolder>
-                <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Rogers Fund and Henry Walters Gift, 1916.</text>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <source pref="true" dataDate="2015-04-22-12-59-40">
-                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/544232</refid>
-                <name type="electronic">Metropolitan Museum of Art</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_fig020-1--CCO_online_not_yet.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_38af9154-705e-4427-b317-a2497cf10568"
+          href="i_38af9154-705e-4427-b317-a2497cf10568.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-22-10-48-29">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_3dc7bbbb-bec1-45a6-bab4-ba89b7c5a6c7"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="true" type="publicDomain" dataDate="2015-04-22-12-22-47">
+            <rightsHolder>Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Rogers Fund and Henry Walters Gift, 1916.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2015-04-22-12-59-40">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/544232</refid>
+            <name type="electronic">Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_fig020-1--CCO_online_not_yet.jpg</title>
+      </titleSet>
+   </image>
 </vra>

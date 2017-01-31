@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_f33b61c3-6636-4bd0-a249-047688824568" source="Tamboti" href="i_f33b61c3-6636-4bd0-a249-047688824568.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-02-02-14-21-07">
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_5026e2a0-e681-4ee4-8d39-eb108bfa2d71" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2016-02-02-14-22-57">
+                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/27272</refid>
+                <name type="electronic">Metropolitan Museum of Art Collection Online</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title pref="true" type="descriptive">Helmet</title>
+        </titleSet>
+    </image>
+</vra>

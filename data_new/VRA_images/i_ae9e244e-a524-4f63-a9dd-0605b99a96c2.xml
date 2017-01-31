@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_ae9e244e-a524-4f63-a9dd-0605b99a96c2" source="Tamboti" href="i_ae9e244e-a524-4f63-a9dd-0605b99a96c2.jpg">
-        <agentSet>
-            <agent pref="true" dataDate="2016-04-26-08-56-26">
-                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_fc45a5e2-3ea4-4f84-8aa3-31e211d02d00" source="Tamboti">attachment</relation>
-        </relationSet>
-        <sourceSet>
-            <source pref="false" dataDate="2015-05-04-09-10-30">
-                <refid type="URI">http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/</refid>
-                <name type="electronic">The J. Paul Getty Museum Collection Online</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_013--cco_fig025-1.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_ae9e244e-a524-4f63-a9dd-0605b99a96c2"
+          href="i_ae9e244e-a524-4f63-a9dd-0605b99a96c2.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-26-08-56-26">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_fc45a5e2-3ea4-4f84-8aa3-31e211d02d00"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="false" type="publicDomain" dataDate="2015-05-04-09-10-55">
+            <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-05-04-09-10-30">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/</refid>
+            <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_013--cco_fig025-1.jpg</title>
+      </titleSet>
+   </image>
 </vra>

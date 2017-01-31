@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26" source="Tamboti" href="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26.jpg">
-        <agentSet>
-            <agent pref="false" dataDate="2015-11-05-14-54-08">
-                <name refid="172269414" source="viaf" type="corporate" vocab="viaf">National Archives</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_1c85aae8-a23b-4665-abf7-5d6d2c9eed0e" source="Tamboti">attachment</relation>
-        </relationSet>
-        <sourceSet>
-            <source pref="false" dataDate="2015-11-05-14-55-32">
-                <refid type="URI">https://research.archives.gov/id/2581318</refid>
-                <name type="electronic">National Archives</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_039.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26"
+          href="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="false" dataDate="2015-11-05-14-54-08">
+            <name refid="172269414" type="corporate" vocab="viaf">National Archives</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_1c85aae8-a23b-4665-abf7-5d6d2c9eed0e"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://research.archives.gov/id/2581318"
+                 pref="false"
+                 type="publicDomain"
+                 source="National Archives (U.S.)"
+                 dataDate="2015-11-05-14-55-04">
+            <rightsHolder>National Archives (United States of America)</rightsHolder>
+            <text>Access Restriction(s): Unrestricted
+Use Restriction(s): Unrestricted</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-11-05-14-55-32">
+            <refid type="URI">https://research.archives.gov/id/2581318</refid>
+            <name type="electronic">National Archives</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_039.jpg</title>
+      </titleSet>
+   </image>
 </vra>

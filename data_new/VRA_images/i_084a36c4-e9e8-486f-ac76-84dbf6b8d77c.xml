@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c" source="Tamboti"
-        href="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c.jpg">
-        <agentSet>
-            <agent pref="true" dataDate="2015-11-12-11-33-57">
-                <name refid="126238294" source="viaf" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_ba242fd5-8c1a-4b3e-8044-89d29999c338" source="Tamboti">attachment</relation>
-        </relationSet>
-        <rightsSet>
-            <rights dataDate="2015-11-12-11-34-17" pref="true" type="publicDomain">
-                <rightsHolder>Metropolitan Museum of Art</rightsHolder>
-                <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <source pref="true" dataDate="2015-11-12-11-34-45">
-                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/37320</refid>
-                <name type="electronic">Metropolitan Museum of Art</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="descriptive">Image record CCO_online_052-1.jpg</title>
-        </titleSet>
-    </image>
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c"
+          href="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2015-11-12-11-33-57">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_ba242fd5-8c1a-4b3e-8044-89d29999c338"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="true" type="publicDomain" dataDate="2015-11-12-11-34-17">
+            <rightsHolder>Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2015-11-12-11-34-45">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/37320</refid>
+            <name type="electronic">Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="descriptive">Image record CCO_online_052-1.jpg</title>
+      </titleSet>
+   </image>
 </vra>

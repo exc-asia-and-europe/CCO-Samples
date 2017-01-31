@@ -1,36 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_32d806bb-b1ce-45d3-b483-1afcc86d6b3d" source="Tamboti" href="i_32d806bb-b1ce-45d3-b483-1afcc86d6b3d.jpg">
-        <agentSet>
-            <agent pref="true" dataDate="2016-03-17-09-46-48">
-                <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
-                <role type="code" vocab="marcrelator">col</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date pref="true" type="creation" dataDate="2016-03-17-09-47-38">
-                <earliestDate>
-                    <date>2014-03-14</date>
-                </earliestDate>
-            </date>
-        </dateSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_e85cd10d-99e6-41c7-b822-466e633615e3" source="Tamboti">attachment</relation>
-        </relationSet>
-        <rightsSet>
-            <rights dataDate="2016-03-17-09-49-05" pref="true" type="copyrighted" href="https://creativecommons.org/licenses/by/2.0/">
-                <rightsHolder>-JvL-</rightsHolder>
-                <text>CC BY-NC 2.0</text>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <source pref="true" dataDate="2016-03-17-09-49-34">
-                <refid type="URI">https://www.flickr.com/photos/-jvl-/13589432634/</refid>
-                <name type="electronic">Flickr</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_151--cco_fig007-2.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_32d806bb-b1ce-45d3-b483-1afcc86d6b3d"
+          href="i_32d806bb-b1ce-45d3-b483-1afcc86d6b3d.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-17-09-46-48">
+            <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="true" type="creation" dataDate="2016-03-17-09-47-38">
+            <earliestDate>
+               <date>2014-03-14</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_e85cd10d-99e6-41c7-b822-466e633615e3"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="true"
+                 type="copyrighted"
+                 href="https://creativecommons.org/licenses/by/2.0/"
+                 dataDate="2016-03-17-09-49-05">
+            <rightsHolder>-JvL-</rightsHolder>
+            <text>CC BY-NC 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2016-03-17-09-49-34">
+            <refid type="URI">https://www.flickr.com/photos/-jvl-/13589432634/</refid>
+            <name type="electronic">Flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_151--cco_fig007-2.jpg</title>
+      </titleSet>
+   </image>
 </vra>

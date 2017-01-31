@@ -1,32 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_bf68ac9b-96a3-467b-891c-0e0f34623042" source="Tamboti" href="i_bf68ac9b-96a3-467b-891c-0e0f34623042.jpg">
-        <agentSet>
-            <display dataDate="2015-11-26-16-41-36"/>
-            <notes dataDate="2015-11-26-16-41-36"/>
-            <agent pref="true" dataDate="2016-06-08-10-24-42">
-                <attribution dataDate="2015-11-26-16-41-36"/>
-                <culture dataDate="2015-11-26-16-41-36"/>
-                <dates dataDate="2015-11-26-16-41-36">
-                    <earliestDate circa="false"/>
-                </dates>
-                <name refid="168811441" type="corporate" vocab="viaf" dataDate="2015-11-26-16-41-36">United States, National Archives and Records Administration</name>
-                <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-41-36">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_669167ae-e8cb-46c1-9919-8329a1326b76" source="Tamboti">attachment</relation>
-        </relationSet>
-        <sourceSet>
-            <display dataDate="2015-11-26-16-42-59"/>
-            <notes dataDate="2015-11-26-16-42-59"/>
-            <source pref="false" dataDate="2015-11-26-16-42-59">
-                <refid type="URI" dataDate="2015-11-26-16-42-59">https://research.archives.gov/id/192414</refid>
-                <name type="electronic" dataDate="2015-11-26-16-42-59">United States. National Archives and Records Administration</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_073.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_bf68ac9b-96a3-467b-891c-0e0f34623042"
+          href="i_bf68ac9b-96a3-467b-891c-0e0f34623042.jpg"
+          source="Tamboti">
+      <agentSet>
+         <display dataDate="2015-11-26-16-41-36"/>
+         <notes dataDate="2015-11-26-16-41-36"/>
+         <agent pref="true" dataDate="2016-06-08-10-24-42">
+            <attribution dataDate="2015-11-26-16-41-36"/>
+            <culture dataDate="2015-11-26-16-41-36"/>
+            <dates dataDate="2015-11-26-16-41-36"/>
+            <name refid="168811441"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-26-16-41-36">United States, National Archives and Records Administration</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-41-36">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_669167ae-e8cb-46c1-9919-8329a1326b76"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <display dataDate="2015-11-26-16-42-16"/>
+         <notes dataDate="2015-11-26-16-42-16"/>
+         <rights pref="false" type="publicDomain" dataDate="2015-11-26-16-42-16">
+            <rightsHolder dataDate="2015-11-26-16-42-16">United States. National Archives and Records Administration</rightsHolder>
+            <text dataDate="2015-11-26-16-42-16"/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display dataDate="2015-11-26-16-42-59"/>
+         <notes dataDate="2015-11-26-16-42-59"/>
+         <source pref="false" dataDate="2015-11-26-16-42-59">
+            <refid type="URI" dataDate="2015-11-26-16-42-59">https://research.archives.gov/id/192414</refid>
+            <name type="electronic" dataDate="2015-11-26-16-42-59">United States. National Archives and Records Administration</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_073.jpg</title>
+      </titleSet>
+   </image>
 </vra>

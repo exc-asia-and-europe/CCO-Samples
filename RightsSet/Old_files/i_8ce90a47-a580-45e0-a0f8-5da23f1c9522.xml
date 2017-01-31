@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_8ce90a47-a580-45e0-a0f8-5da23f1c9522" source="Tamboti" href="i_8ce90a47-a580-45e0-a0f8-5da23f1c9522.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-04-19-12-22-15">
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_bb06dfc4-786f-44a3-9fe2-df33f7145360" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-04-29-11-20-57">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/</refid>
+                <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_006.jpg</title>
+        </titleSet>
+    </image>
+</vra>

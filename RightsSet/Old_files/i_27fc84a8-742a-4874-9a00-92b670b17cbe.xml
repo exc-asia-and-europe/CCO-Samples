@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_27fc84a8-742a-4874-9a00-92b670b17cbe" source="Tamboti" href="i_27fc84a8-742a-4874-9a00-92b670b17cbe.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-03-22-11-01-07">
+                <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+                <role type="code" vocab="marcrelator">col</role>
+            </agent>
+        </agentSet>
+        <locationSet>
+            <location pref="true" type="creation" dataDate="2016-03-22-11-01-28">
+                <name refid="7018159" vocab="tgn">Venezia</name>
+                <point epsg="4326">
+                    <lat>45.434181</lat>
+                    <long>12.339014</long>
+                </point>
+            </location>
+        </locationSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_ba4b99ba-27e0-4140-8eb0-d0f99cd12dd4" source="Tamboti">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights dataDate="2015-04-22-12-55-21" href="http://creativecommons.org/licenses/by-sa/2.5/deed.en" pref="true" type="copyrighted">
+                <rightsHolder>Nino Babieri</rightsHolder>
+                <text>CC BY-SA 2.5</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source pref="true" dataDate="2015-04-22-12-56-24">
+                <refid type="URI">http://commons.wikimedia.org/wiki/File:Venice_-_St._Marc%27s_Basilica_01.jpg</refid>
+                <name type="electronic">Wikimedia Commons</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_fig021-1--CCO_online_not_yet.jpg</title>
+        </titleSet>
+    </image>
+</vra>

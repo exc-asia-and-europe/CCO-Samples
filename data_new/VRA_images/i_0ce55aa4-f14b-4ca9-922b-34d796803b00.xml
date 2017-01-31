@@ -1,36 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_0ce55aa4-f14b-4ca9-922b-34d796803b00" source="Tamboti" href="i_0ce55aa4-f14b-4ca9-922b-34d796803b00.png">
-        <agentSet>
-            <agent pref="true" dataDate="2016-03-17-09-46-48">
-                <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
-                <role type="code" vocab="marcrelator">col</role>
-            </agent>
-        </agentSet>
-        <dateSet>
-            <date pref="true" type="publication" dataDate="2016-03-17-09-47-38">
-                <earliestDate>
-                    <date>2004-12-04</date>
-                </earliestDate>
-            </date>
-        </dateSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_a9c90825-8739-45cd-a383-86bd4b5b6aba" source="Tamboti">attachment</relation>
-        </relationSet>
-        <rightsSet>
-            <rights dataDate="2016-03-17-09-49-05" pref="true" type="copyrighted">
-                <rightsHolder>thatguyeric</rightsHolder>
-                <text>CC BY-NC-SA 2.0</text>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <source pref="true" dataDate="2016-03-17-09-49-34">
-                <refid type="URI">https://www.flickr.com/photos/thatguyeric/1898389/</refid>
-                <name type="electronic">Flickr</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="descriptive">Image record CCO_online_138.png</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_0ce55aa4-f14b-4ca9-922b-34d796803b00"
+          href="i_0ce55aa4-f14b-4ca9-922b-34d796803b00.png"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-17-09-46-48">
+            <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="true" type="publication" dataDate="2016-03-17-09-47-38">
+            <earliestDate>
+               <date>2004-12-04</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_a9c90825-8739-45cd-a383-86bd4b5b6aba"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="true" type="copyrighted" dataDate="2016-03-17-09-49-05">
+            <rightsHolder>thatguyeric</rightsHolder>
+            <text>CC BY-NC-SA 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2016-03-17-09-49-34">
+            <refid type="URI">https://www.flickr.com/photos/thatguyeric/1898389/</refid>
+            <name type="electronic">Flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="descriptive">Image record CCO_online_138.png</title>
+      </titleSet>
+   </image>
 </vra>

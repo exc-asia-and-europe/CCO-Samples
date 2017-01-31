@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_8721de29-1996-4db3-9149-5d966f9f2258" source="Tamboti" href="i_8721de29-1996-4db3-9149-5d966f9f2258.jpg">
-        <agentSet>
-            <agent pref="true" dataDate="2016-04-12-10-38-38">
-                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_9e7cdcbe-ef97-4a17-ad01-6e18813dd55e" source="Tamboti">attachment</relation>
-        </relationSet>
-        <sourceSet>
-            <source pref="false" dataDate="2015-04-22-15-23-56">
-                <refid type="URI">http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/</refid>
-                <name type="electronic">The J. Paul Getty Museum Online Collection</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_fig030-1--CCO_online_not_yet.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_8721de29-1996-4db3-9149-5d966f9f2258"
+          href="i_8721de29-1996-4db3-9149-5d966f9f2258.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-04-12-10-38-38">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_9e7cdcbe-ef97-4a17-ad01-6e18813dd55e"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="false" type="publicDomain" dataDate="2015-04-22-15-24-42">
+            <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-22-15-23-56">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/</refid>
+            <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_fig030-1--CCO_online_not_yet.jpg</title>
+      </titleSet>
+   </image>
 </vra>

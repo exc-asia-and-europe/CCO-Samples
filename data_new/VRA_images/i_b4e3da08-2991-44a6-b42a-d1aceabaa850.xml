@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <image id="i_b4e3da08-2991-44a6-b42a-d1aceabaa850" source="Tamboti" href="i_b4e3da08-2991-44a6-b42a-d1aceabaa850.jpg">
-        <relationSet>
-            <relation type="imageOf" relids="w_79ef1a44-cd92-4067-bf72-00abd08132df" source="Tamboti">attachment</relation>
-        </relationSet>
-        <titleSet>
-            <title type="generalView">Image record CCO_online_121-2.jpg</title>
-        </titleSet>
-    </image>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_b4e3da08-2991-44a6-b42a-d1aceabaa850"
+          href="i_b4e3da08-2991-44a6-b42a-d1aceabaa850.jpg"
+          source="Tamboti">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_79ef1a44-cd92-4067-bf72-00abd08132df"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_121-2.jpg</title>
+      </titleSet>
+   </image>
 </vra>

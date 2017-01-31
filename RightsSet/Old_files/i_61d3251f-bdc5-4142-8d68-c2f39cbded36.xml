@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <image id="i_61d3251f-bdc5-4142-8d68-c2f39cbded36" source="Tamboti" href="i_61d3251f-bdc5-4142-8d68-c2f39cbded36.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-03-03-12-00-13">
+                <name extent="photographer: Andy Hay" refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+                <role type="code" vocab="marcrelator">col</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date pref="false" type="creation" dataDate="2016-03-03-12-00-31">
+                <earliestDate>
+                    <date>2013-08-07</date>
+                </earliestDate>
+            </date>
+        </dateSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_e9dd4330-cc34-4cfc-8af5-2197fc0ffee5" source="Tamboti">attachment</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2016-03-03-12-01-56">
+                <refid type="URI">https://flic.kr/p/gR43BB</refid>
+                <name type="electronic">Flickr</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Image record CCO_online_149--CCO_fig041-1.jpg</title>
+        </titleSet>
+    </image>
+</vra>

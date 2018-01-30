@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_1b0f662c-4e28-4469-9dce-429efbb2a2bd" source="Kurs" refid="c_b93d9faa-cb10-48dd-bde9-6b3da1939de6">
+        <agentSet>
+	    <display>Vincent van Gogh (Dutch, 1853-1890)</display>
+            <agent dataDate="2016-04-26-09-17-49">
+                <dates type="life">
+                    <earliestDate circa="false">1853</earliestDate>
+                    <latestDate circa="false">1890</latestDate>
+                </dates>
+                <name refid="9854560" type="personal" vocab="viaf">Gogh, Vincent van</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" vocab="AAT" refid="300111175">Dutch (culture or style)</culturalContext>
+            <culturalContext pref="true" vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-04-26-09-27-08">
+                <earliestDate>1889</earliestDate>
+		<latestDate>1889</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="true" source="J. Paul Getty Museum. Handbook of the Collections. Los Angeles: J. Paul Getty Museum, 1991. Page: 129." source="J. Paul Getty Museum online." href="www.getty.edu" dataDate="2006-10-22">
+                <text>This work was painted when the artist was recuperating from a severe attack of mental illness; it depicts the garden at the asylum at Saint-Rémy. The cropped composition, divided into broad areas of vivid color with monumental irises overflowing the borders of the picture, was probably influenced by the decorative patterning of Japanese woodblock prints. There are no known drawings for this painting; Van Gogh himself considered it a study. His brother Theo recognized its quality and submitted it to the Salon des Indépendants in September 1889, writing to Vincent of the exhibition: “[It] strikes the eye from afar. It is a beautiful study full of air and life.”</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-26-09-40-17">
+                <text>In May 1889, after episodes of self-mutilation and hospitalization, Vincent van Gogh chose to enter an asylum in Saint-Rémy, France. There, in the last year before his death, he created almost 130 paintings. Within the first week, he began Irises, working from nature in the asylum's garden. The cropped composition, divided into broad areas of vivid color with monumental irises overflowing its borders, was probably influenced by the decorative patterning of Japanese woodblock prints. 
+
+There are no known drawings for this painting; Van Gogh himself considered it a study. His brother Theo quickly recognized its quality and submitted it to the Salon des Indépendants in September 1889, writing Vincent of the exhibition: "[It] strikes the eye from afar. It is a beautiful study full of air and life." 
+
+Each one of Van Gogh's irises is unique. He carefully studied their movements and shapes to create a variety of curved silhouettes bounded by wavy, twisting, and curling lines. The painting's first owner, French art critic Octave Mirbeau, one of Van Gogh's earliest supporters, wrote: "How well he has understood the exquisite nature of flowers!"</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">rps</role>
+                </author>
+            </description>
+	    <description href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum">
+                <text>Provenance. - 1892
+Julien Tanguy (Père), 1825 - 1894 (Paris, France), sold to Octave Mirbeau, 1892.
+
+1892 - 1905
+Octave Mirbeau, 1848 - 1917 (Paris, France), sold to Auguste Pellerin, 1905.
+
+1905 -
+Auguste Pellerin, 1852 - 1929 (Paris, France)
+
+-
+Galerie Bernheim Jeune (Paris, France)
+
+1925 - 1929
+Jacques Doucet, 1853 - 1929 (Paris, France; Neuilly sur Seine, France), by inheritance to his wife, Mme. Jacques Doucet.
+
+1929 - 1938/1939
+Mme. Jacques Doucet (Neuilly-sur-Seine, France), sold to Jacques Seligmann et Fils, 1938/1939.
+
+1938/1939 - 1945/1946
+Jacques Seligmann et Fils (Paris, France; New York, New York), sold to M. Knoedler &amp; Co., possibly 1945/1946.
+
+1945/1946 - 1947
+Knoedler &amp; Company (New York), 1846 - 2011 (London, England; New York, New York; Paris, France), sold to Joan Whitney Payson, 1947.
+
+1947 - 1975
+Joan Whitney Payson, 1903 - 1975, by inheritance to her son, John Whitney Payson, 1975.
+
+1975 - 1987
+John Whitney Payson [sold, Sotheby's, New York, November 11, 1987, lot 25, to Alan Bond.]
+
+1987 - 1990
+Alan Bond (Perth, Australia), returned to Sotheby's (New York), 1990.
+
+1990
+Sotheby's (New York), sold to the J. Paul Getty Museum by private treaty sale, 1990.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">rps</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription dataDate="2016-04-26-09-38-54">
+                <author refid="9854560" vocab="viaf">Gogh, Vincent van</author>
+                <position>lower right</position>
+                <text type="signature">Vincent (underlined)</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-04-26-09-32-39">
+                <refid type="accession">90.PA.20</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            </location>
+            <location pref="false" type="creation" dataDate="2016-04-26-09-32-14">
+                <name refid="7009654" type="geographic" vocab="tgn">Saint-Rémy-de-Provence</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>oil on canvas, applied with brush and palette knife</display>
+            <material refid="300015050" type="medium" vocab="aat">oil paint</material>
+            <material refid="300014078" type="support" vocab="aat">canvas</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">74.3</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">94.3</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" type="height" unit="in">29 1/4</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">37 1/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_b40bcaf5-cbd8-4606-9aab-91624372379f">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/</refid>
+                <name type="electronic">J. Paul Getty Museum. Irises.</name>
+            </source>
+            <source pref="true" dataDate="2016-04-26-09-16-54">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_14_post_impressionist_painting</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 14: Post-Impressionist painting.</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300021508" vocab="aat">Post-Impressionist</stylePeriod>
+            <stylePeriod refid="300021503" vocab="aat">Impressionist</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject refid="300054467" vocab="aat">
+                <term type="conceptTopic">botany</term>
+            </subject>
+            <subject refid="300343602" vocab="aat">
+                <term type="descriptiveTopic">Iris (genus)</term>
+            </subject>
+            <subject refid="300343606" vocab="aat">
+                <term type="iconographicTopic">regenerations</term>
+            </subject>
+            <subject refid="300014330" vocab="aat" dataDate="2015-05-04-09-19-45">
+                <term type="descriptiveTopic">soil</term>
+            </subject>
+            <subject refid="300179372" vocab="aat" dataDate="2016-04-26-09-29-10">
+                <term type="conceptTopic">Nature (philosophical concept)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300054094" vocab="aat">brushwork</technique>
+            <technique refid="300178684" vocab="aat">oil painting</technique>
+	    <technique refid="300022600" vocab="aat">palette knives (painting equipment)</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref dataDate="2016-04-26-09-40-56">
+                <name type="electronic">CONA</name>
+                <refid type="other" href="https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002212">700002212</refid>
+            </textref>
+	    <textref>
+		<name type="book">Fénéon, Félix. Review of the Exposition de la Société des artistes indépendants. La Vogue (September 1889). Repr. in Félix Fénéon, Oeuvres plus que complètes. Joan U. Halperin, ed. (Geneva: Librairie Droz, 1970)</name>
+		<refid type="citation">p. 168</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Société des artistes indépendants [...] Catalogue des oeuvres exposées, exh. cat. (Paris: impr. A. Lahure, 1889), p. 20, no. 273. Repr. in Modern Art in Paris. Vol. 9, Salons of the "Indépendants," 1884-1891 (New York and London: Garland, 1981)</name>
+		<refid type="citation">p. 20, no. 273</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Exposition Vincent van Gogh, exh. cat. (Paris: Galerie Bernheim Jeune, 1901)</name>
+		<refid type="citation">p. 14, no. 31</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Catalogue de la 21me exposition: 1905, exh. cat. (Paris: Société des artistes indépendants, 1905)</name>
+		<refid type="citation">p. 15, no. 32</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Cinquante ans de peinture française, 1875-1925, exh. cat. (Paris: Musée des Arts Décoratifs, 1925)</name>
+		<refid type="citation">p. 18, no. 79</refid>
+	    </textref>
+	    <textref>
+		<name type="corpus">Faille, J.-B. de la. L'Époque française de Van Gogh (Paris: Bernheim-Jeune, 1927)</name>
+		<refid type="citation">p. 59</refid>
+	    </textref>
+	    <textref>
+		<name type="corpus">Faille, J.-B. de la. L'Oeuvre de Vincent van Gogh: catalogue raisonné. 4 vols. (Paris and Brussels: Les Éditions G. van Oest, 1928)</name>
+		<refid type="citation">vol. 1, p. 171, no. 608</refid>
+		<refid type="citation">vol. 2, pl. 168, no. 608</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Fels, Florent. Vincent van Gogh (Paris: Henri Floury, 1928)</name>
+		<refid type="citation">p. 118, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">Dormoy, Marie. "Jacques Doucet." Kunst und Künstler 27 (March 1929)</name>
+		<refid type="citation" href="http://digi.ub.uni-heidelberg.de/diglit/kk1929/0262">p.235</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Gogh, Vincent van. Further Letters of Vincent van Gogh to His Brother, 1886-1889 (London: Constable &amp; Co.; Boston and New York: Houghton Mifflin Co., 1929)</name>
+		<refid type="citation">pp. 330, 360-61</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Barr, Alfred Hamilton. Cézanne, Gauguin, Seurat, Van Gogh, exh. cat. (New York: The Museum of Modern Art, 1929)</name>
+		<refid type="citation">p. 52, no. 95, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">"Un Musée d'Art Moderne à New York." Beaux-Arts: Chronique des arts et de la curiosité 7, no. 10 (October 15, 1929)</name>
+		<refid type="citation">p. 6, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">Joubin, André. "Jacques Doucet, 1853-1929." Gazette des beaux-arts, 6th ser., 3 (February 1930)</name>
+		<refid type="citation">p. 74</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Exposition d'oeuvres importantes de grands maîtres du dix-neuvième siècle, exh. cat. (Paris: Paul Rosenberg, 1931)</name>
+		<refid type="citation"> p. 15, no. 44, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Scherjon, W. Catalogue des tableaux par Vincent van Gogh décrits ses lettres. Périodes: St. Rémy et Auvers sur Oise (Utrecht: Société d'Editions A. Oosthoek S. A., 1932)</name>
+		<refid type="citation">p. 13, no. 1, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Gogh, Théo van. Lettres à son frère Vincent (Amsterdam: N. V. Maatschappij tot verspreiding van goede en goedkoope lectuur, 1932)</name>
+		<refid type="citation">pp. 64, 71, 74</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">"Ce qu'on en disait." Les Beaux Arts: bulletin du Palais des Beaux-Arts de Bruxelles, special no., L'Impressionnisme (1935)</name>
+		<refid type="citation">p. 26, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">L'Impressionnisme, exh. cat. (Brussels: Palais des Beaux-Arts, 1935)</name>
+		<refid type="citation">unpaginated, no. 95</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Piérard, Louis. Vincent van Gogh (Paris: Braun, 1936)</name>
+		<refid type="citation">unpaginated, pl. 48</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Van Gogh: Exposition internationale de 1937, Groupe I, Classe III, exh. cat. (Paris: Denoël, 1937)</name>
+		<refid type="citation">p. 16, no. 41, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">Huyghe, René. "Vincent van Gogh." L'Illustration 95, no. 4944 (December 4, 1937)</name>
+		<refid type="citation">unpaginated, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Scherjon, W., and Jos. de Gruyter. Vincent van Gogh's Great Period: Arles, St. Rémy and Auvers sur Oise (Amsterdam: "De Spieghel," 1937)</name>
+		<refid type="citation">p. 203, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Faille, J.-B. de la. Vincent van Gogh [...] Préface de Charles Terrasse (Paris: Éditions Hypérion, 1939)</name>
+		<refid type="citation">pp. 419, 588, 591, no. 606, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Paintings by Van Gogh, exh. cat. (Baltimore: Baltimore Museum of Art, 1942)</name>
+		<refid type="citation">p. 21, no. 19, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">The Art and Life of Vincent van Gogh, exh. cat. (New York: Wildenstein, 1943)</name>
+		<refid type="citation">p. 85, no. 44, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Van Gogh: Fourteen Masterpieces, exh. cat. (New York: Knoedler Galleries, 1948)</name>
+		<refid type="citation">unpaginated, no. 11, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Schapiro, Meyer. Vincent van Gogh (New York: Harry N. Abrams, 1950)</name>
+		<refid type="citation">pp. 96-97, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Jourdain, Francis. Né en 76 (Paris: Éditions du Pavillon, 1951)</name>
+		<refid type="citation">p. 253</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Leymarie, Jean. Van Gogh (Paris: Éditions Pierre Tisné, 1951)</name>
+		<refid type="citation">pp. 55, 124, no. 114, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Gachet, Paul. Vincent van Gogh aux "Indépendants" (Paris: Les Beaux Arts, 1953)</name>
+		<refid type="citation">unpaginated, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">Barr, Alfred H., Jr. "Paintings from Private Collections." The Museum of Modern Art Bulletin 22, no. 4 (Summer 1955)</name>
+		<refid type="citation">pp. 13, 31, no. 48, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Rewald, John. Post-Impressionism: From Van Gogh to Gauguin (New York: The Museum of Modern Art, 1956)</name>
+		<refid type="citation">pp. 333-34, 340, 348, 415, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Elgar, Frank. Van Gogh: A Study of His Life and Work (New York and Washington: Frederick A. Praeger, 1958)</name>
+		<refid type="citation">p. 186, no. 170, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Gogh, Vincent van. The Complete Letters of Vincent van Gogh. 3 vols. (London: Thames and Hudson, 1958)</name>
+		<refid type="citation">vol. 3, pp. 169, 193.</refid>
+	    </textref>
+	    <textref>
+		<name type="catalog">Sterling, Charles, and Margaretta M. Salinger. French Paintings: A Catalogue of the Collection of the Metropolitan Museum of Art. Vol. 3, XIX-XX Centuries (New York: The Metropolitan Museum of Art, 1967)</name>
+		<refid type="citation">p. 191, under no. 58.187</refid>
+	    </textref>
+	    <textref>
+		<name type="corpus">Faille, J.-B. de la. The Works of Vincent van Gogh: His Paintings and Drawings (Amsterdam: Meulenhoff International, 1970)</name>
+		<refid type="citation">p. 246, no. F608, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="serial">Lecaldano, Paolo. L'opera pittorica completa di Van Gogh e i suoi nessi grafici. Vol. 2, Da Arles a Auvers (Milan: Rizzoli, 1971)</name>
+		<refid type="citation">pp. 218-19, no. 657, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Lecaldano, Paolo. Tout l'oeuvre peint de Van Gogh. II. 1888-1890. Simone Darses, trans. (Paris: Flammarion, 1971)</name>
+		<refid type="citation">pp. 218-19, no. 657, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Hulsker, Jan. Van Gogh en zijn weg: al zijn tekeningen en schilderijen in hun samenhang en ontwikkeling (Amsterdam: Meulenhoff International, 1977)</name>
+		<refid type="citation">pp. 390-91, no. 1691, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book">Leymarie, Jean. Van Gogh. New ed. James Emmons, trans. (New York: Rizzoli, 1977)</name>
+		<refid type="citation">pp. 145, 158</refid>
+	    </textref>
+	    <textref>
+		<name type="book">The Joan Whitney Payson Gallery of Art (Portland, ME: Westbrook College, 1977)</name>
+		<refid type="citation">unpaginated, no. 25, ill.</refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+	    <textref>
+		<name type="book"></name>
+		<refid type="citation"></refid>
+	    </textref>
+        </textrefSet>
+        <titleSet>
+            <title type="repository">Irises</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300033618" vocab="aat">paintings</worktype>
+            <worktype refid="300033799" vocab="aat">oil paintings</worktype>
+        </worktypeSet>
+    </work>
+</vra>

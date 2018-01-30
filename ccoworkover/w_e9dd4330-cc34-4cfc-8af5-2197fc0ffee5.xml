@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_e9dd4330-cc34-4cfc-8af5-2197fc0ffee5" source="Kurs" refid="c_da18e525-ff9a-4f7e-972e-26ef2131bf30">
+        <agentSet>
+            <display>architect and engineer: begun by Bonanno Pisano (Italian, active late 12th century) or Gherardo di Gherardo (Italian, active late 12th century); continued by Giovanni Pisano (Italian, born ca. 1240, died before 1320) and Giovanni di Simone (Italian, active ca. 1260-ca. 1286); finished by Tommaso Pisano (Italian, died after 1372)</display>
+            <agent pref="false" dataDate="2016-03-03-12-15-28">
+                <attribution>begun by</attribution>
+                <culture>Italian</culture>
+                <dates type="activity">
+                    <earliestDate circa="false">1150</earliestDate>
+                    <latestDate circa="false">1200</latestDate>
+                </dates>
+                <name refid="95743493" type="personal" vocab="viaf">Bonanno Pisano</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false" dataDate="2016-03-03-12-24-24">
+                <attribution>begun by</attribution>
+                <culture>Italian</culture>
+                <dates type="activity">
+                    <earliestDate circa="false">1170</earliestDate>
+                    <latestDate circa="false">1200</latestDate>
+                </dates>
+                <name refid="96565702" type="personal" vocab="viaf">Gherardo di Gherardo</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false">
+                <attribution>continued by</attribution>
+                <culture>Italian</culture>
+                <dates type="life">
+                    <earliestDate circa="true" type="about">1240</earliestDate>
+                    <latestDate circa="true" type="before">1320</latestDate>
+                </dates>
+                <name refid="100174152" type="personal" vocab="viaf">Pisano, Giovanni</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false" dataDate="2016-03-03-12-33-58">
+                <attribution>continued by</attribution>
+                <culture>Italian</culture>
+                <dates type="life">
+                    <latestDate circa="false">1284</latestDate>
+                </dates>
+                <name refid="95801444" type="personal" vocab="viaf">Giovanni di Simone</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false" dataDate="2016-03-03-12-52-50">
+                <attribution>finished by</attribution>
+                <culture>Italian</culture>
+                <dates type="life">
+                    <latestDate circa="true" type="after">1372</latestDate>
+                </dates>
+                <name refid="96537147" type="personal" vocab="viaf">Tommaso Pisano</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300111198">Italian (culture or style)</culturalContext>
+            <culturalContext vocab="AAT" refid="300020756">Medieval (European)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>tower was begun in 1173 and completed in the 14th century</display>
+            <date type="creation" dataDate="2016-03-03-16-27-33">
+                <earliestDate>1173</earliestDate>
+                <latestDate>1399</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description source="Touring Club Italiano: Toscana (1984), 117 ff.; Soprintendenza ai Beni Ambientali Architettonici Artistici e Storici per le provincie di Pisa Livorno Lucca Massa Carrara online (accessed 4 February 2004)." pref="true" dataDate="2016-03-03-17-05-10">
+                <text>Historian Giorgio Vasari reports that the tower was begun by Bonanno Pisano, but modern research indicates the plan may have been by Gherardo di Gherardo. The uneven settling of the campanile’s foundations during its construction caused the tower to lean. Work was continued by Giovanni Pisano and Giovanni di Simone in 1275, with the addition of another three floors in a direction that bent opposite to the inclination to compensate for the flaw; but the added weight caused the tower to lean even more. According to Vasari, Tommaso di Andrea Pisano completed the belfry between 1350 and 1372. Modern efforts are underway to prevent the further leaning and ultimate collapse of the tower.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+	    <description href="https://www.britannica.com/topic/Leaning-Tower-of-Pisa" source="Leaning Tower of Pisa. Encyclopaedia Britannica (accessed September 04, 2017).">
+		<text>The foundations have been strengthened by the injection of cement grout and various types of bracing and reinforcement, but in the late 20th century the structure was still subsiding, at the rate of 0.05 inch (1.2 mm) per year, and was in danger of collapse. In 1990 the tower was closed and all the bells silenced as engineers undertook a major straightening project. Earth was siphoned from underneath the foundations, decreasing the lean by 17 inches (44 cm) to 13.5 feet (4.1 metres); the work was completed in May 2001, and the structure was reopened to visitors. The tower continued to straighten without further excavation, until in May 2008 sensors showed that the motion had finally stopped, at a total improvement of 19 inches (48 cm). Engineers expected the tower to remain stable for at least 200 years.</text>
+		<author>
+		    <name refid="152011302" type="corporate" vocab="viaf">Encyclopædia Britannica, Inc.</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+		</author>
+	    </description>
+	    <description>
+		<text>It is known that the tower must have been tilting to the south when work on the bell chamber was commenced as it is noticeably more vertical than the remainder of the tower. Indeed on the north side there are four steps from the seventh cornice up to the floor of the bell chamber while on the south side there are six steps. Another important detail of the history of the tower is that in 1838 the architect Gherardesca excavated a walk-way around the foundations. This is known as the catino and its purpose was to expose the column plinths and foundation steps for all to see as was originally intended. This activity resulted in an inrush of water on the south side, since here the excavation is below the water table, and there is evidence to suggest that the inclination of the tower increased significantly at this time.</text>
+		<author>
+		    <name refid="267430318" type="personal" vocab="viaf">Burland, J. B.</name>
+		    <role type="code" vocab="marcrelator">aut</role>
+		</author>
+	    </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="site" dataDate="2016-03-08-17-32-28">
+                <name refid="7059154" type="geographic" vocab="tgn">Piazza dei Miracoli</name>
+                <name refid="7006082" type="geographic" vocab="tgn" extent="inhabited place">Pisa</name>
+                <name refid="7009760" type="geographic" vocab="tgn" extent="region">Tuscany</name>
+                <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>bearing masonry, cut stone construction, round plan, white marble inlaid on the exterior with colored marble</display>
+            <material refid="300011443" type="medium" vocab="aat">marble</material>
+            <material refid="300011571" type="medium" vocab="aat">white marble</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="count" unit="stories">8</measurements>
+            <measurements pref="true" type="height" unit="m">56</measurements>
+            <measurements pref="false" type="height" unit="ft">185</measurements>
+            <measurements extent="inclination; off the perpendicular" pref="true" type="other" unit="m">4.9</measurements>
+            <measurements extent="inclination; off the perpendicular" pref="false" type="other" unit="ft">16</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002011" pref="false" relids="700002011" source="CONA 700002011" type="partOf">Cathedral of Pisa</relation>
+            <relation pref="true" relids="i_61d3251f-bdc5-4142-8d68-c2f39cbded36" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2016-03-03-17-08-08">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_149_romanesque_tower_component</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 149: Romanesque tower, component.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_8-Description.pdf#page=13</refid>
+                <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 257. Figure 41. Work Record with a Description: Romanesque Tower.</name>
+            </source>
+	    <source pref="false">
+		<refid type="URI">https://www.britannica.com/topic/Leaning-Tower-of-Pisa</refid>
+		<name type="electronic">'Leaning Tower of Pisa.' Encyclopædia Britannica.</name>
+	    </source>
+	    <source pref="false">
+		<refid type="URI">http://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=2604&context=icchge</refid>
+		<name type="serial">Burland, J. B., "The Leaning Tower of Pisa Revisited" (2004). International Conference on Case Histories in Geotechnical Engineering. 3. http://scholarsmine.mst.edu/icchge/5icchge/session00f/3</name>
+	    </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300020768" vocab="aat">Romanesque</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject dataDate="2016-03-03-17-03-24">
+                <term refid="300343664" vocab="aat" type="descriptiveTopic">circular plan</term>
+            </subject>
+            <subject>
+                <term refid="300070045" vocab="aat" type="descriptiveTopic">dimension stone</term>
+            </subject>
+            <subject>
+                <term refid="300002557" vocab="aat" type="descriptiveTopic">bearing walls</term>
+            </subject>
+            <subject dataDate="2016-03-03-16-29-28">
+                <term refid="300004848" vocab="aat" type="descriptiveTopic">bell towers</term>
+            </subject>
+            <subject>
+                <term refid="300073708" vocab="aat" type="conceptTopic">religions (concept)</term>
+            </subject>
+            <subject>
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture (object genre)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300386948" vocab="aat">stonemasonry</technique>
+            <technique refid="300053850" vocab="aat">inlay</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref dataDate="2016-03-03-17-08-57">
+                <name type="electronic">CONA</name>
+                <refid type="other">700000100</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <title pref="true" type="popular">Leaning Tower of Pisa</title>
+            <title pref="false" type="other">Campanile</title>
+            <title pref="false" type="other">Torre Pedente</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300004847" vocab="aat">towers</worktype>
+            <worktype refid="300132457" vocab="aat">campaniles</worktype>
+        </worktypeSet>
+    </work>
+</vra>

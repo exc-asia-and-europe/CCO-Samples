@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_a0b660af-3ab0-4cc1-a64d-4955554f09bf" source="Kurs" refid="c_1e494120-dda6-4354-97fd-a5444206eed1">
+        <agentSet>
+            <agent pref="false" dataDate="2016-03-10-13-50-06">
+                <culture>French</culture>
+                <dates type="other" extent="owned">
+                    <earliestDate circa="false">1984</earliestDate>
+                </dates>
+                <name refid="151182274" type="personal" vocab="viaf">Alain Moatti</name>
+                <role type="code" vocab="marcrelator">fmo</role>
+            </agent>
+            <agent pref="false" dataDate="2016-06-08-11-47-34">
+                <culture>French</culture>
+                <dates type="other" extent="owned">
+                    <earliestDate circa="true" type="about">1900</earliestDate>
+                    <latestDate circa="false">1984</latestDate>
+                </dates>
+                <name refid="316589559" type="personal" vocab="viaf">Lebaudy family</name>
+                <role type="code" vocab="marcrelator">fmo</role>
+            </agent>
+            <agent pref="true" dataDate="2016-03-10-13-06-50">
+                <culture>Flemish</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1624</earliestDate>
+                    <latestDate circa="false">1698</latestDate>
+                </dates>
+                <name refid="50280490" type="personal" vocab="viaf">Verhulst, Rombout</name>
+                <role type="code" vocab="marcrelator">scl</role>
+            </agent>
+            <agent pref="false" dataDate="2016-03-10-13-08-02">
+                <culture>Dutch</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1625</earliestDate>
+                    <latestDate circa="false">1675</latestDate>
+                </dates>
+                <name refid="173081389" type="personal" vocab="viaf">Reygersberg, Jacob van</name>
+                <role type="code" vocab="marcrelator">dpc</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300111175">Dutch (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date extent="Same Art Ltd., sold to the J. Paul Getty Museum, 1984." href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="other" dataDate="2016-03-10-13-43-49">
+                <earliestDate>
+                    <date>1984</date>
+                </earliestDate>
+            </date>
+            <date extent="Alain Moatti (Paris, France), sold to Same Art Ltd., 1984." href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="other" dataDate="2016-03-10-13-43-30">
+                <earliestDate>
+                    <date>1984</date>
+                </earliestDate>
+            </date>
+            <date extent="Collection Lebaudy (Paris, France) [sold, Hôtel Drouot, Dessins et tableaux anciens, objets d'art et de très bel ameublement, June 6, 1984, lot 39, to Alain Moatti.]" href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="other" dataDate="2016-03-10-13-42-45">
+                <earliestDate>
+                    <date>1900</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1984</date>
+                </latestDate>
+            </date>
+            <date extent="The Glory of the Golden Age, Rijksmuseum Amsterdam." href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-03-10-13-35-21">
+                <earliestDate>
+                    <date>2000-04-15</date>
+                </earliestDate>
+                <latestDate>
+                    <date>2000-09-17</date>
+                </latestDate>
+            </date>
+            <date pref="true" type="creation" dataDate="2016-06-08-11-49-00">
+                <earliestDate>
+                    <date>1671</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1671</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="The J. Paul Getty Museum online" dataDate="2016-03-10-13-31-32">
+                <text>Although represented in the artificial format of a bust, cut off at mid-chest, the marble statue of Jacob van Reygersberg nevertheless strikes the viewer with its extraordinary realism. The sculptor Rombout Verhulst conveyed the figure's motion and spontaneity through the twisted head, furrowed brow, and pursed lips. Verhulst's facility in differentiating textures--Van Reygersberg's shield has a smooth hardness, his cravat a lacy delicacy, and his skin an unusual, satiny texture-heightens the realism. Decorative scrolls, which also lead the viewer's gaze up toward the subject's face, is soften the figure's sudden truncation at mid-chest. 
+
+Jacob van Reygersberg was a wealthy provincial politician who had recently been sent to the States General, the national governing body of the Netherlands, to represent the Dutch province of Zeeland. His armor identifies him as a member of the noble class.</text>
+                <author>
+                    <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="true" dataDate="2016-06-08-11-53-49">
+                <text>The virtuosity of the sculptor is apparent in the rendering of a variety of textures, including flesh, hair, lace, satins. Verhulst has employed an ingenious method to mitigate the truncation of the figure at the shoulders and chest, namely by using decorative foliage and curving volutes below the armor. Jacob van Reygersberg was a wealthy provincial politician who had recently been sent to the States General, the national governing body of the Netherlands, to represent the Dutch province of Zeeland. His armor identifies him as a member of the noble class.
+[Source: J. Paul Getty Museum online. www.getty.edu  Page: accessed 21 December 2006.]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription dataDate="2016-03-10-13-25-38">
+                <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
+                <position>on the front</position>
+                <text type="text">MEA SORTE CONTENTUS</text>
+            </inscription>
+            <inscription>
+                <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
+                <position>on the left</position>
+                <text type="signature">R. Verhulst fec.</text>
+            </inscription>
+            <inscription>
+                <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
+                <position>on the right</position>
+                <text type="date">Anno 1671</text>
+            </inscription>
+            <inscription dataDate="2016-03-10-13-28-05">
+                <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
+                <position>on the back</position>
+                <text type="text">DIT IS HET AFBEELTSEL VAN / IACOB VAN REIGERSBERGH. / GEBOREN IN MIDDELBURGH / DEN.X.APRIL.1625. / WEGENS DE PROVINTIE / VAN ZEELANT GEDEPUTEERDT / TER VERGADERINGH VAN / HAER HOOGH MOGENTHEDEN / DEN.17.7.BER DES IAERS 1663 / STURF DEN.29.APRIL.1675</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location extent="Collection Lebaudy, Alain Moatti" href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="formerOwner" dataDate="2016-03-10-13-51-45">
+                <name refid="7008038" type="geographic" vocab="tgn">Paris</name>
+            </location>
+            <location extent="April 15 to September 17, 2000" href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-03-10-13-40-13">
+                <name refid="290597016" type="corporate" vocab="viaf">Rijksmuseum (Amsterdam)</name>
+            </location>
+            <location pref="true" type="repository" dataDate="2016-06-08-11-52-56">
+                <refid href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" source="J. Paul Getty Museum" type="accession">84.SA.743</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300011443" type="medium" vocab="aat">marble</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="height" unit="cm">63</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">57</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="true" source="J. Paul Getty Museum" type="length" unit="cm">33</measurements>
+            <measurements pref="false" type="height" unit="in">24 13/16</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">22 7/16</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/" pref="false" source="J. Paul Getty Museum" type="length" unit="in">13</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation href="https://www.rijksmuseum.nl/en/collection/BK-NM-10557" pref="false" relids="BK-NM-10557" source="Rijksmuseum Amsterdam" type="basedOn">Portret of Jacob van Reygersbergh, Rombout Verhulst, 1671, Rijksmuseum Amsterdam</relation>
+            <relation pref="true" relids="i_ff8ce0a4-54f1-4386-acd6-87b2d2bcbb74" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2016-06-08-11-33-35">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+            <source pref="true" dataDate="2016-03-10-17-24-25">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_74_baroque_bust</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 74: Baroque bust.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject refid="300214143" vocab="aat" dataDate="2016-03-10-13-10-37">
+                <term type="conceptTopic">commemorations</term>
+            </subject>
+            <subject refid="300236021" vocab="aat">
+                <term type="descriptiveTopic">aristocrats</term>
+            </subject>
+            <subject refid="300015637" vocab="aat">
+                <term type="descriptiveTopic">portraits</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300186211" vocab="aat">drillwork</technique>
+            <technique refid="300053149" vocab="aat">carving</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="descriptive">Bust of Jacob van Reygersberg</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300047457" vocab="aat">busts</worktype>
+            <worktype refid="300047600" vocab="aat">statues</worktype>
+            <worktype refid="300047090" vocab="aat">sculpture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

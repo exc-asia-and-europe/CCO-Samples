@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_e85cd10d-99e6-41c7-b822-466e633615e3" source="Kurs" refid="c_44487997-2512-4075-86ee-bae6b0c1fb77">
+        <agentSet>
+            <display>designed by Michelangelo Buonarroti (Florentine, 1475-1564), design revisedby Giacomo della Porta (Italian, 1532/1533-1602)and Domenico Fontana (Italian, 1543-1607)</display>
+            <agent pref="true" dataDate="2016-03-08-14-18-26">
+                <culture>Florentine</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1475</earliestDate>
+                    <latestDate circa="false">1564</latestDate>
+                </dates>
+                <name refid="24585191" type="personal" vocab="viaf">Michelangelo Buonarroti</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false">
+                <attribution>revisions to design</attribution>
+                <culture>Italian</culture>
+                <name refid="121738475" type="personal" vocab="viaf">Della Porta, Giacomo</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+            <agent pref="false" dataDate="2016-03-08-14-54-31">
+                <attribution>revisions to design</attribution>
+                <culture>Italian</culture>
+                <name refid="51762694" type="personal" vocab="viaf">Fontana, Domenico</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>designed mid-1550s,constructed late 16th century</display>
+            <date pref="false" type="design">
+                <earliestDate>
+                    <date>1530</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1570</date>
+                </latestDate>
+            </date>
+            <date pref="true" type="creation" dataDate="2016-03-08-15-34-45">
+                <earliestDate>
+                    <date>1551</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1600</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" dataDate="2016-03-08-16-34-53">
+                <text>The brick dome uses four iron chains for a compression ring; it is buttressed by the apses and supported internally by four massive piers more than 18m thick. Bramante’s original floor plan called for the dome over a Greek cross plan. Michelangelo designed the dome; after his death Giacomo della Porta and Domenico Fontana executed the dome,altering the shape to make it steeper and taller than Michelangelo’s design. The dome was finally completed under Sixtus V; Gregory XIV ordered the erection of the lantern.
+[Source: Millon, Henry A. and Craig Hugh Smyth. Michelangelo architect: the facade of San Lorenzo and the drum and dome of Saint Peter’s.Milan: Olivetti, 1988.]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="site" dataDate="2016-03-08-15-52-37">
+                <name extent="Saint Peter's Basilica" refid="7001168" type="geographic" vocab="tgn">Santa Sede</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display> brick, with ironchain compression ring</display>
+            <material refid="300010463" type="medium" vocab="aat">brick</material>
+            <material refid="300011002" type="medium" vocab="aat">iron</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="diameter" unit="m">42</measurements>
+            <measurements pref="false" type="diameter" unit="ft">138</measurements>
+            <measurements extent="above the street" pref="true" type="height" unit="m">138</measurements>
+            <measurements extent="above the street" pref="false" type="height" unit="ft">452</measurements>
+            <measurements extent="above the floor" pref="true" type="height" unit="m">119</measurements>
+            <measurements extent="above the floor" pref="false" type="height" unit="ft">390</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="w_8d57404d-556f-4214-8e31-0d644bf69377" source="CONA 700000166" type="partOf">Basilica di San Pietro in Vaticano</relation>
+            <relation pref="true" relids="i_c3b6c987-bbd2-487a-9d55-a83c5d3825c2" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_32d806bb-b1ce-45d3-b483-1afcc86d6b3d" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2016-03-08-18-18-33">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_151_renaissance_dome_component</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 151: Renaissance dome, component.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject dataDate="2016-03-08-15-50-30">
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture (object genre)</term>
+            </subject>
+            <subject>
+                <term refid="300001280" vocab="aat" type="descriptiveTopic">domes (architectural element)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique extent="compression reinforcement" refid="300223809" vocab="aat">reinforcement</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="true" type="descriptive">Dome of Saint Peter's</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300001280" vocab="aat">domes</worktype>
+        </worktypeSet>
+    </work>
+</vra>

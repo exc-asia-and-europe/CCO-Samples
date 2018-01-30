@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_76afc7a1-d257-462e-981f-7729bd4c33fb" source="Kurs" refid="c_a983060c-0d92-4117-89a6-086dd3d1d38b">
+        <relationSet>
+            <relation type="imageIs" relids="i_b57ade9a-394c-4e2a-a335-2233082b135a" pref="true">general view</relation>
+            <relation type="partnerInSetWith" relids="w_111f9755-334a-4ed2-856d-566049d57f07.xml">Unicorn in Captivity</relation>
+            <relation type="partnerInSetWith" relids="w_4b23f0f9-dc19-4c55-bf54-ab4a4cac2e93.xml"></relation>
+        </relationSet>
+        <titleSet>
+            <title type="generalView">Work record CCO_online_123--related_001.jpg</title>
+        </titleSet>
+    </work>
+</vra>

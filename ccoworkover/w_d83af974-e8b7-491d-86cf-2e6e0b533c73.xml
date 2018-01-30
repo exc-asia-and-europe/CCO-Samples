@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_d83af974-e8b7-491d-86cf-2e6e0b533c73" source="Kurs" refid="c_1a2ac83d-bd11-41e6-adbb-827c1129a03a">
+        <agentSet>
+            <agent dataDate="2015-11-30-19-00-42">
+                <dates type="life" dataDate="2015-11-30-19-00-42"/>
+                <name refid="100643011" type="personal" vocab="viaf" dataDate="2015-11-30-19-00-42">unknown Tang</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-30-19-00-42">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300018420">Tang (Chinese culture, style, period)</culturalContext>
+            <culturalContext vocab="AAT" refid="300018322">Chinese (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-06-08-14-51-52">
+                <earliestDate>
+                    <date dataDate="2015-11-30-19-01-28">0690</date>
+                </earliestDate>
+                <latestDate>
+                    <date dataDate="2015-11-30-19-01-28">0710</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description extent="label text" href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" pref="false" source="Arthur M. Sackler Gallery" dataDate="2015-11-30-19-03-00">
+                <text dataDate="2015-11-30-19-03-00">Carved of dark gray limestone, this imposing Buddha head is characterized by a serene yet remote expression that is typical of early Tang dynasty religious images. Imperial patronage of Buddhism during the Tang dynasty, approximately seven hundred years after knowledge of Buddhism first reached China, resulted in the creation of some of the most impressive sculptures in Chinese history. For this Buddha head, all traces of Indian and Central Asian influence have been replaced by a native Chinese aesthetic. Sculptures of this style are found in the Longmen cave temples in Henan Province and may have been the source for this piece.</text>
+                <author dataDate="2015-11-30-19-03-00">
+                    <name refid="139247290" type="corporate" vocab="viaf" dataDate="2015-11-30-19-03-00">Arthur M. Sackler Gallery (Smithsonian Institution)</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-30-19-03-00">aut</role>
+                </author>
+            </description>
+            <description pref="true" dataDate="2016-06-08-15-51-25">
+                <text dataDate="2015-11-30-19-03-00">Probably from Longmen caves. Carved of dark gray limestone, this imposing Buddha head is characterized by a serene yet remote expression that is typical of early Tang dynasty religious images. Imperial patronage of Buddhism during the Tang dynasty, approximately seven hundred years after knowledge of Buddhism first reached China, resulted in the creation of some of the most impressive sculptures in Chinese history. For this Buddha head, all traces of Indian and Central Asian influence have been replaced by a native Chinese aesthetic. Sculptures of this style are found in the Longmen cave temples in Henan Province.
+[Source: Sackler Gallery online. www.asia.si.edu  Page: accessed 22 December 2006.]</text>
+                <author dataDate="2015-11-30-19-03-00">
+                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-30-19-03-00">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-30-19-03-00">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2015-11-30-19-12-06">
+                <refid type="accession" dataDate="2015-11-30-19-12-06">S1997.26</refid>
+                <name refid="139247290" vocab="viaf" type="corporate" dataDate="2015-11-30-19-12-06">Arthur M. Sackler Gallery (Smithsonian Institution)</name>
+            </location>
+            <location pref="false" type="discovery" dataDate="2015-11-30-19-12-06">
+                <refid type="accession" dataDate="2015-11-30-19-12-06"/>
+                <name refid="7024371" vocab="tgn" extent="probably" type="geographic" dataDate="2015-11-30-19-12-06">Longmen</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" refid="300011286" source="Arthur M. Sackler Gallery" type="medium" vocab="aat">limestone</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" pref="true" source="Arthur M. Sackler Gallery" type="height" unit="cm">76.2</measurements>
+            <measurements href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" pref="true" source="Arthur M. Sackler Gallery" type="weight" unit="kg">129.3</measurements>
+            <measurements href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" pref="false" source="Arthur M. Sackler Gallery" type="height" unit="in">30</measurements>
+            <measurements href="http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26" pref="false" source="Arthur M. Sackler Gallery" type="weight" unit="lb">285.1</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_f53c46eb-e3d3-478e-a40e-65bfbf9a7ea1">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_81_chinese_sculpture</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 81: Chinese sculpture.</name>
+            </source>
+            <source pref="false" dataDate="2016-06-08-14-43-38">
+                <refid type="URI">http://www.asia.si.edu/collections/edan/object.php?q=fsg_S1997.26</refid>
+                <name type="electronic">Arthur M. Sackler Gallery, The Smithonian's Museums of Asian Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300018420" vocab="aat">Tang</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject dataDate="2016-06-08-15-19-56">
+                <term refid="300343850" vocab="aat" type="descriptiveTopic">deities</term>
+            </subject>
+            <subject>
+                <term refid="300073738" vocab="aat" type="conceptTopic">Buddhism</term>
+            </subject>
+            <subject dataDate="2016-06-08-15-11-50">
+                <term refid="300375054" vocab="aat" type="descriptiveTopic">heads (animal or human components)</term>
+            </subject>
+            <subject>
+                <term refid="300025928" vocab="aat" type="descriptiveTopic">men (male humans)</term>
+            </subject>
+            <subject>
+                <term refid="300262950" vocab="aat" type="iconographicTopic">Buddhas</term>
+            </subject>
+            <subject>
+                <term refid="300073708" vocab="aat" type="conceptTopic">religions (concept)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053149" vocab="aat">carving</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="repository">Head of a Buddha</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300047600" vocab="aat">statues</worktype>
+            <worktype refid="300047090" vocab="aat">sculpture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

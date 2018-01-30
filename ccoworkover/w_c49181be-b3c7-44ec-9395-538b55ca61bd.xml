@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_c49181be-b3c7-44ec-9395-538b55ca61bd" source="Kurs" refid="c_ac8adda4-5a5c-4122-9513-8819434cc35a">
+        <agentSet>
+            <agent dataDate="2016-05-19-13-00-28">
+                <culture>Bohemian</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1607</earliestDate>
+                    <latestDate circa="false">1677</latestDate>
+                </dates>
+                <name refid="54449428" type="personal" vocab="viaf">Hollar, Wenceslaus</name>
+                <role type="code" vocab="marcrelator">prm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300266148">Bohemian</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>ca. 1645</display>
+            <date type="creation" dataDate="2016-03-10-17-38-37">
+                <earliestDate>
+                    <date circa="true" type="about">1640</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="true" type="about">1650</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" dataDate="2016-03-10-17-46-00">
+                <text>Pliny’s dye-producing “purpura” was probably this species, Murex brandaris.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-06-06-14-28-35">
+                <refid type="accession">1992.17.2</refid>
+                <name refid="316398713" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300015012" type="medium" vocab="aat">ink</material>
+            <material extent="New Hollstein, no. 1291, State only" refid="300014184" type="support" vocab="aat">laid paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements extent="plate" pref="true" type="height" unit="cm">9.5</measurements>
+            <measurements extent="plate" pref="true" type="width" unit="cm">13.6</measurements>
+            <measurements extent="plate" pref="false" type="height" unit="in">3 3/4</measurements>
+            <measurements extent="plate" pref="false" type="width" unit="in">5 3/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_91b479e1-4b36-4d43-984f-96a33188160f">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false">
+                <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.74805.html</refid>
+                <name type="electronic">National Gallery of Art, Washington DC</name>
+            </source>
+            <source pref="true" dataDate="2016-03-10-17-34-03">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_42_print_etching</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 42: Print, etching.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject extent="Murex brandaris (marine mollusk)" dataDate="2016-03-10-17-41-04">
+                <term refid="300311514" vocab="aat" type="descriptiveTopic">Murex</term>
+            </subject>
+            <subject>
+                <term refid="300011829" vocab="aat" type="descriptiveTopic">shell</term>
+            </subject>
+            <subject>
+                <term refid="300015638" vocab="aat" type="descriptiveTopic">still lifes</term>
+            </subject>
+            <subject>
+                <term refid="300249395" vocab="aat" type="descriptiveTopic">Animalia (kingdom)</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053241" vocab="aat">etching</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="true" type="repository">Shell (Murex brandaris)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300041365" vocab="aat">etchings</worktype>
+            <worktype refid="300041273" vocab="aat">prints</worktype>
+        </worktypeSet>
+    </work>
+</vra>

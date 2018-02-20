@@ -160,7 +160,7 @@ In the central panel of the upper tier, the Virgin holds the Christ Child, who r
         <worktypeSet>
             <worktype refid="300075940" vocab="aat">altarpieces</worktype>
             <worktype refid="300178235" vocab="aat">polyptychs</worktype>
-            <worktype refid="300033656" vocab="aat">panel paintings</worktype>
+            <worktype refid="300033656" source="Simon Gruening" vocab="aat">panel paintings</worktype>
             <worktype href="http://www.getty.edu/art/collection/objects/584/bartolomeo-vivarini-polyptych-with-saint-james-major-madonna-and-child-and-saints-italian-1490/?dz=0.5000,0.4072,0.77" refid="300033618" source="J. Paul Getty Museum" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>

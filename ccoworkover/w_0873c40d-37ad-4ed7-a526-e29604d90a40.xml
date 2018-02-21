@@ -5,6 +5,10 @@
 	    <display>Giovanni di Paolo (Sienese, active by 1426, died 1482)</display>
             <agent dataDate="2016-04-12-12-41-06">
                 <culture>Sienese</culture>
+		<dates type="life">
+		    <earliestDate circa="true">1403</earliestDate>
+		    <latestDate circa="true">1482</latestDate>
+		</dates>
                 <dates type="activity">
                     <earliestDate circa="false">1426</earliestDate>
                     <latestDate circa="false">1482</latestDate>

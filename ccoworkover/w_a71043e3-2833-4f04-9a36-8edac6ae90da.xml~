@@ -97,7 +97,7 @@ Saenredam did not create this painting until 1646, and in it he altered the real
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_99317e0a-7e69-4a9a-b8fa-4a5e12ac1027">general view</relation>
-	    <relation type="depicts" refid="700000175" vocab="CONA" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000175">Cathedral of Saint John at 's-Hertogenbosch</relation>
+	    <relation type="depicts" refid="" vocab="" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000175">Cathedral of Saint John at 's-Hertogenbosch</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">

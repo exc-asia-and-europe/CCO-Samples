@@ -51,21 +51,6 @@ The faces of the figures at the right are influenced by African masks, which Pic
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description pref="false" source="MoMA Learning" href="https://www.moma.org/learn/moma_learning/pablo-picasso-les-demoiselles-davignon-paris-june-july-1907">
-                <text>Of Primal Instincts and Formal Innovations: Picasso’s Les Demoiselles d’Avignon
-
-Among Picasso’s profuse output of more than 20,000 paintings, prints, drawings, sculptures, ceramics, theater sets, and costume designs is Les Demoiselles d’Avignon (1907). In this painting, he did away with pre-existing artistic conventions, like naturalism and perspective, hurling even the most forward-thinking viewers into a future they weren’t quite ready for.
-
-Picasso was a 25-year-old Spanish immigrant to France when he painted Les Demoiselles d’Avignon, working in a cramped warren of studios on the Parisian hill of Montmartre. The story of its making begins with hundreds of preparatory paintings and drawings, which he generated over an intensive six-month period, working out his ideas. They reflected Picasso’s responses to Paul Cézanne’s structured, almost sculptural depiction of objects and figures and his prismatic structuring of space in his still lifes and scenes of bathers. They also reflected his fascination with the African, Iberian, and Oceanic masks and statuary populating France’s ethnographic museums, as well as the lusts and anxieties wrapped up in his own, complex relationships with women.
-
-Out of this intellectual-emotional tumult came a painting in which form and content were equalized. Its title, which translates to “The Young Women of Avignon,” refers to Avignon Street in Barcelona, home to the prostitutes the artist frequented. The five women’s pinkish-peach-colored bodies, appearing larger than human-scale, fill the space of the painting, which is eight feet high by just over seven feet wide. The women’s shoulders, hips, and limbs are depicted with angular lines and flat, geometric planes. Cubic shapes or, in the case of the woman standing left of center, half-circles, form their breasts. Their faces, too, are sharp-edged and radically simplified, especially those of the two women at right, which he modeled directly after African masks.
-
-As his preparatory studies reveal, Picasso initially conceived of the figure at the left of the painting as a male medical student, in the act of entering the brothel. Deciding that such a narrative detail would interfere with the work’s visual impact, he ultimately transformed the figure into a fifth prostitute. The women emerge from brown, white, and blue curtains that look like shattered glass, their bodies thrust forward toward the viewer by the scene’s lack of depth. Their eyes—enormous and almond-shaped, and inspired by African and Iberian carvings—are fixed daringly on the viewer. Near their feet sits a small arrangement of fruit, with a scythe-like sliver of melon set behind a bunch of grapes, an apple, and a pear, and which, like the women’s bodies, seems too sharp to touch.</text>
-                <author>
-                    <name refid="163771056" type="corporate" vocab="viaf">Museum of Modern Art, NY</name>
-                    <role type="code" vocab="marcrelator">rps</role>
-                </author>
-            </description>
             <description pref="false" source="Museum of Modern Art" href="https://www.moma.org/collection/works/79766">
                 <text>Provenance.
 The artist, Paris. 1907 - 1924
@@ -89,9 +74,11 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
 		<name refid="1000001" vocab="tgn" type="geographic" extent="continent">North and Central America</name>
             </location>
             <location pref="false" type="creation">
-                <name refid="7008038" vocab="tgn" type="geographic" extent="inhabited place">Paris</name>
-		<name refid="1000070" vocab="tgn" type="geographic" extent="nation">France</name>
-		<name refid="1000003" vocab="tgn" type="geographic" extent="continent">Europe</name>
+                <name refid="7008038" vocab="tgn" type="geographic">Paris, France</name>
+		<name refid="" vocab="tgn" type="geographic" extent="inhabited place"></name>
+		<name refid="" vocab="tgn" type="geographic" extent="state"></name>
+		<name refid="" vocab="tgn" type="geographic" extent="nation"></name>
+		<name refid="" vocab="tgn" type="geographic" extent="continent"></name>
             </location>
         </locationSet>
         <materialSet>

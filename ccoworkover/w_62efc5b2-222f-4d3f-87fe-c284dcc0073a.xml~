@@ -35,7 +35,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="false" source="Philadelphia Museum of Art, Online Collection" dataDate="2015-05-06-13-25-20">
+            <description href="http://www.philamuseum.org/collections/permanent/44463.html?mulR=1171602426|1" pref="true" source="Philadelphia Museum of Art, Online Collection" dataDate="2015-05-06-13-25-20">
                 <text>This striking Persian mosaic was created during the Safavid dynasty (1501–1722). It is said to have come from a Sufi Muslim monastery that was located in the city of Isfahan, then the capital city of Persia (present-day Iran). The panel, with its alternating palmette and star motifs, is composed of myriad pieces of ceramic tile in which mirror-black, mingled with various shades of faun and umber, predominates. It is set into a background of brilliant turquoise, a color for which sixteenth-century Persian tilemakers were renowned.</text>
                 <author>
                     <name refid="137352121"  type="corporate" vocab="viaf">Philadelphia Museum of Art</name>

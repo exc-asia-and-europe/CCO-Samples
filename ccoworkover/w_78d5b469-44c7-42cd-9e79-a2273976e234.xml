@@ -13,7 +13,7 @@
                 <name refid="231805730" type="personal" vocab="viaf">Darius</name>
                 <role type="code" vocab="marcrelator">dpc</role>
             </agent>
-            <agent pref="true" dataDate="2015-05-06-12-24-01">
+            <agent pref="false" dataDate="2015-05-06-12-24-01">
                 <dates type="life">
                     <earliestDate circa="false">-0356</earliestDate>
                     <latestDate circa="false">-0323</latestDate>
@@ -23,7 +23,7 @@
             </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext pref="false" vocab="AAT" refid="300020533">Roman (ancient Italian culture or period)</culturalContext>
+            <culturalContext vocab="AAT" refid="300020533">Roman (ancient Italian culture or period)</culturalContext>
         </culturalContextSet>
         <dateSet>
             <date type="creation" dataDate="2015-05-06-12-24-54">
@@ -37,9 +37,26 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description dataDate="2016-04-26-12-56-58">
-                <text>Probably a Roman copy of a Hellenistic painting. Decorated the floor of a room in the House of the Faun in Pompeii. It depicts the Battle of the Granicus, which took place in the early summer of 334 BCE. It was the first victory won by Alexander the Great in his invasion of the Persian Empire.
-[Source: Janson, H. W. History of Art. New York: Harry N. Abrams, Inc., 1971.  Page: 151.]</text>
+            <description source="Janson, H. W. History of Art. New York: Harry N. Abrams, Inc., 1971.  Page: 151." dataDate="2016-04-26-12-56-58">
+                <text>Probably a Roman copy of a Hellenistic painting. Decorated the floor of a room in the House of the Faun in Pompeii. It depicts the Battle of the Granicus, which took place in the early summer of 334 BCE. It was the first victory won by Alexander the Great in his invasion of the Persian Empire.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description source="Museo archeologico nazionale di Napoli">
+                <text>The mosaic, the largest in the House of the Faun in Pompeii, made with the use of about one million tesserae, depicts the battle of Issus fought between Alexander the Great and Darius III in 333 BC; it marked the end of the Persian Empire.
+
+The mosaic, on the left side, shows Alexander who, astride his horse Bucephalus, leads his men against the fleeing Persians. Opposite Alexander towers the figure of Darius on his retreating war chariot. Between the two is a Persian prince who displays his loyalty by using his body to shield his king, while a soldier offers him his own horse, thus condemning himself to certain death.
+
+The use of opus vermiculatum (a technique of mosaic which uses very small tesserae) enabled the craftsman to render all the effects of luminosity, the changes in colour, the details of the armour and the faces, and even the moods.</text>
+                <author>
+                    <name refid="136677014" type="corporate" vocab="viaf">Museo archeologico nazionale di Napoli</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description source="Grove Art Online; http://www.oxfordartonline.com (accessed 5/25/2009); from the VRA Core Example">
+                <text>The greatest number of fine mosaics in any one house came from the House of the Faun, dating to ca. 100 BCE. Outstanding here is the Alexander Mosaic, probably representing the Battle of Issus [Issos] in Cilicia between Alexander the Great (reigned 336-323 BCE) and Darius III (reigned 335-331 BCE). The panel contained an estimated four million tesserae, all of natural stone, in a four-colour technique recalling that of Greek Late Classical painting; it was undoubtedly copied from an original painting, usually ascribed to Philoxenos of Eretria, done shortly after the battle itself. This painting was a commission for Kassander of Macedon and depicted either that at Issos (333 BCE) or that at Gaugamela (331 BCE).</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
@@ -47,8 +64,11 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <location extent="Casa del Fauno" href="http://en.wikipedia.org/wiki/House_of_the_Faun" pref="false" type="formerSite">
-                <name refid="7004658" vocab="tgn">Pompeii</name>
+            <location pref="false" type="formerSite">
+		<name type="other">Casa del Fauno/House of the Faun</name>
+                <name refid="7004658" vocab="tgn" extent="deserted settlement">Pompeii</name>
+                <name refid="1000080" vocab="tgn" extent="nation">Italy</name>
+                <name refid="1000003" vocab="tgn" extent="continent">Europe</name>
                 <point epsg="4326">
                     <lat>40.75125</lat>
                     <long>14.484583</long>
@@ -56,6 +76,9 @@
             </location>
             <location pref="true" type="repository" dataDate="2016-04-26-12-32-11">
                 <name refid="136677014" type="corporate" vocab="viaf">Museo archeologico nazionale di Napoli</name>
+                <name refid="7004474" vocab="tgn" extent="inhabited place">Naples</name>
+                <name refid="1000080" vocab="tgn" extent="nation">Italy</name>
+                <name refid="1000003" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <measurementsSet>
@@ -80,41 +103,56 @@
                 <refid type="URI">http://en.wikipedia.org/wiki/Alexander_Mosaic</refid>
                 <name type="electronic">Wikipedia - Alexander Mosaic</name>
             </source>
+            <source pref="false">
+                <refid type="URI">https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/mosaics/</refid>
+                <name type="electronic">Museo archeologico nazionale di Napoli</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://www.core.vraweb.org/examples/html/example007_full_xml.html</refid>
+                <name type="electronic">VRA Core 4 Example 7: Ancient mosaic floor [complex record]</name>
+            </source>
         </sourceSet>
+        <stylePeriodSet>
+            <display>Greco-Roman; Hellenistic</display>
+            <stylePeriod source="VRA Core Example" vocab="AAT">Greco-Roman</stylePeriod>
+            <stylePeriod source="VRA Core Example" vocab="AAT" refid="300020101">Hellenistic</stylePeriod>
+        </stylePeriodSet>
         <subjectSet>
             <subject refid="300000885" vocab="aat" dataDate="2015-05-06-12-55-49">
                 <term type="descriptiveTopic">architectural elements</term>
             </subject>
-            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" refid="300010150" source="Wikipedia" vocab="aat" dataDate="2015-05-06-12-51-16">
-                <term type="descriptiveTopic">vermiculation</term>
+            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" source="Wikipedia" dataDate="2015-05-06-12-51-16">
+                <term refid="300010150" vocab="aat" type="descriptiveTopic">vermiculation</term>
             </subject>
-            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" refid="300010730" source="Wikipedia" vocab="aat">
-                <term type="descriptiveTopic">tesserae</term>
+            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" source="Wikipedia">
+                <term refid="300010730" vocab="aat" type="descriptiveTopic">tesserae</term>
             </subject>
-            <subject refid="300055923" vocab="aat" dataDate="2015-05-06-12-39-35">
-                <term type="descriptiveTopic">legends</term>
+            <subject dataDate="2015-05-06-12-39-35">
+                <term refid="300055923" vocab="aat" type="descriptiveTopic">legends</term>
             </subject>
-            <subject refid="300185692" vocab="aat">
-                <term type="descriptiveTopic">battles</term>
+            <subject>
+                <term refid="300185692" vocab="aat" type="descriptiveTopic">battles</term>
             </subject>
-            <subject refid="300374810" vocab="aat">
-                <term type="descriptiveTopic">victories</term>
+            <subject>
+                <term refid="300374810" vocab="aat" type="descriptiveTopic">victories</term>
             </subject>
-            <subject refid="300250148" vocab="aat">
-                <term type="descriptiveTopic">Equus caballus</term>
+            <subject>
+                <term refid="300250148" vocab="aat" type="descriptiveTopic">Equus caballus</term>
             </subject>
-            <subject refid="300261945" vocab="aat">
-                <term type="descriptiveTopic">warriors</term>
+            <subject>
+                <term refid="300261945" vocab="aat" type="descriptiveTopic">warriors</term>
             </subject>
-            <subject refid="300002060" vocab="aat">
-                <term type="descriptiveTopic">floors</term>
+            <subject>
+                <term refid="300002060" vocab="aat" type="descriptiveTopic">floors</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300138684" vocab="aat">mosaic</technique>
+	    <technique source="Museo archeologico nazionale di Napoli" refid="300404032" vocab="aat">opus vermiculatum</technique>
         </techniqueSet>
         <titleSet>
-            <title type="descriptive">Alexander the Great Defeating the Persian King Darius</title>
+            <title pref="false" type="descriptive">Alexander the Great Defeating the Persian King Darius</title>
+	    <title pref="true" type="repository">Battle of Issus between Alexander and Darius III</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300378995" vocab="aat">architectural ornament</worktype>

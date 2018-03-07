@@ -150,6 +150,12 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
         <relationSet>
             <relation type="imageIs" relids="i_7dada336-af10-479e-9b02-7bd1487b9ea2">general view</relation>
         </relationSet>
+	<rightsSet>
+	    <right>
+		<rightsHolder>National Gallery of Art, U.S.A.</rightsHolder>
+		<text>Gift of the Avalon Foundation</text>
+	    </rights>
+	</rightsSet>
         <sourceSet>
             <source pref="false">
                 <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html</refid>
@@ -185,13 +191,13 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
             <subject>
                 <term refid="300343621" vocab="aat" type="descriptiveTopic">dawn</term>
             </subject>
-            <subject extent="interpretation">
+            <subject>
                 <term refid="300179372" vocab="aat" type="conceptTopic">Nature</term>
             </subject>
-            <subject extent="interpretation" dataDate="2016-04-21-11-55-42">
+            <subject dataDate="2016-04-21-11-55-42">
                 <term refid="300056276" vocab="aat" type="conceptTopic">harmony</term>
             </subject>
-            <subject extent="interpretation" dataDate="2016-04-21-11-39-59">
+            <subject dataDate="2016-04-21-11-39-59">
                 <term refid="300260027" vocab="aat" type="conceptTopic">peace</term>
             </subject>
 	    <subject>

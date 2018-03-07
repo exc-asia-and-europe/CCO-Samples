@@ -33,10 +33,10 @@
         <dateSet>
             <date type="creation" dataDate="2016-04-21-12-04-41">
                 <earliestDate>
-                    <date type="about">1725</date>
+                    <date circa="true" type="about">1725</date>
                 </earliestDate>
                 <latestDate>
-                    <date type="about">1730</date>
+                    <date circa="true" type="about">1730</date>
                 </latestDate>
             </date>
 	    <date type="exhibition">

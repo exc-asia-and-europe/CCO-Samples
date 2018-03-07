@@ -133,6 +133,26 @@ Exhibition History
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
+            <description href="https://www.nga.gov/collection/art-object-page.46132.html#history" pref="false" source="National Gallery of Art Washington">
+                <text>
+Technical Summary
+
+The cradled support panel is composed of three vertically grained oak boards. Dendrochronology gives a felling date of approximately 1630 for all three boards.[1] Board widths are roughly equal at left and center and slightly narrower at right. Several checks exist at top and bottom, and gouges, some fairly deep, are found along the edges and in an intermittent horizontal band across the center.
+
+Infrared reflectography at 1.5 to 1.8 microns[2] reveals a detailed fine-line underdrawing apparently based upon a preliminary construction drawing. Minor changes appear in the spear held by the sculpted figure at the far right, in the statue to the right of center, and in the arc of the ribs in the vault.
+
+Paint was applied in transparent washes, glazes, and fine brushwork that leave the thin off-white ground layer and architectural underdrawing plainly visible. Scattered small losses indicate a history of flaking. Abrasion is found overall, particularly in the stone floor, the pilaster and engaged statue to the right of the altar, and the pilaster to the left of the altar. A conservation treatment was carried out in 1987–1990 to remove discolored varnish and inpainting and accurately reconstruct abraded passages.
+
+　
+
+[1] Dendrochronology was performed by Dr. Peter Klein, Universität Hamburg (see report dated January 27, 1987, in NGA Conservation department files).
+
+[2] Infrared reflectography was performed with a Santa Barbara Focalplane array InSb camera fitted with an H filter. </text>
+                <author>
+                    <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art (Washington, D. C.)</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
         </descriptionSet>
         <inscriptionSet>
             <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" source="National Gallery of Art Washington">
@@ -208,9 +228,9 @@ Exhibition History
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other"></refid>		
-		<name refid="" type="corporate" vocab="viaf"></name>
-                <name refid="7006837" type="geographic" vocab="tgn" extent="inhabited place">'s-Hertogenbosch</name>
+		<refid type="other">1961 Pieter Jansz. Saenredam</refid>		
+		<name refid="156126202" type="corporate" vocab="viaf">Centraal Museum</name>
+                <name refid="7006926" type="geographic" vocab="tgn" extent="inhabited place">Utrecht</name>
 		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
 	    </location>

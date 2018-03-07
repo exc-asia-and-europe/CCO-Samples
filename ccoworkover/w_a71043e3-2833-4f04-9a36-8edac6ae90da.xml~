@@ -169,27 +169,6 @@ Exhibition History
                     <long>5.308498</long>
                 </point>
             </location>
-            <location pref="false" type="exhibition">
-                <refid type="other">Pieter Jansz. Saenredam 1597-1665, Museum Boymans, Rotterdam; Museum Fodor, Amsterdam, 1937-1938, no. 13, repro.</refid>
-                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
-	    </location>
-            <location pref="false" type="exhibition">
-                <refid type="other">1961.9.33</refid>
-                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
-	    </location>
-            <location pref="false" type="exhibition">
-                <refid type="other">1961.9.33</refid>
-                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
-	    </location>
         </locationSet>
         <materialSet>
             <material refid="300015050" type="medium" vocab="aat">oil paint</material>

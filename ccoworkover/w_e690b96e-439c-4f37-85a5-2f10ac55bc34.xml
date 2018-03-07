@@ -147,7 +147,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
                 </point>
             </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"Masterpieces of Drawing: Diamond Jubilee Exhibition"</refid>
+		<refid type="other">Philadelphia Museum of Art. "Masterpieces of Drawing: Diamond Jubilee Exhibition," November 4, 1950–February 11, 1951.</refid>
 		<name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
 		<name refid="7014406" type="geographic" vocab="tgn" extent="inhabited place">Philadelphia</name>
 		<name refid="7007710" type="geographic" vocab="tgn" extent="state">Pennsylvania</name>
@@ -155,7 +155,8 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">Drawings from New York Collections I: The Italian Renaissance"</refid>
+		<refid type="other">The Metropolitan Museum of Art. "Drawings from New York Collections I: The Italian Renaissance," November 8, 1965–January 9, 1966.
+</refid>
 		<name refid="126238294" type="corporate" vocab="viaf">The Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
@@ -163,7 +164,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"Michelangelo Draftsman"</refid>
+		<refid type="other">National Gallery of Art, Washington D.C. "Michelangelo Draftsman," October 9, 1988–December 11, 1988.</refid>
 		<name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art, Washington D.C.</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
 		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
@@ -171,7 +172,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"Drawings and Prints: Selections from the Permanent Collection"</refid>
+		<refid type="other">The Metropolitan Museum of Art. "Drawings and Prints: Selections from the Permanent Collection," May 6, 1996–July 28, 1996.</refid>
 		<name refid="126238294" type="corporate" vocab="viaf">The Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
@@ -179,7 +180,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"Peter Paul Rubens 1577-1640"</refid>
+		<refid type="other">The Metropolitan Museum of Art. "Peter Paul Rubens 1577-1640," January 14, 2005–April 3, 2005.</refid>
 		<name refid="126238294" type="corporate" vocab="viaf">The Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
@@ -187,7 +188,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"From Raphael to the Carracci: The Art of Papal Rome"</refid>
+		<refid type="other">National Gallery of Canada, Ottawa. "From Raphael to the Carracci: The Art of Papal Rome," May 29, 2009–September 6, 2009.</refid>
 		<name refid="152365555" type="corporate" vocab="viaf">National Gallery of Canada, Ottawa.</name>
 		<name refid="7013088" type="geographic" vocab="tgn" extent="inhabited place">Ottawa</name>
 		<name refid="7013154" type="geographic" vocab="tgn" extent="province">Ontario</name>
@@ -195,15 +196,22 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"Michelangelo: The Drawings of a Genius"</refid>
+		<refid type="other">Albertina, Vienna. "Michelangelo: The Drawings of a Genius," October 7, 2010–January 9, 2011.</refid>
 		<name refid="265452143" type="corporate" vocab="viaf">Albertina, Vienna.</name>
-		<name refid="" type="geographic" vocab="tgn" extent=""></name>
-		<name refid="" type="geographic" vocab="tgn" extent=""></name>
-		<name refid="" type="geographic" vocab="tgn" extent=""></name>
-		<name refid="" type="geographic" vocab="tgn" extent=""></name>
+		<name refid="7003321" type="geographic" vocab="tgn" extent="inhabited place">Vienna</name>
+		<name refid="1000062" type="geographic" vocab="tgn" extent="nation">Austria</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
 	    </location>
 	    <location pref="false" type="exhibition">
-		<refid type="other">"Unfinished: Thoughts Left Visible"</refid>
+		<refid type="other">New York. The Metropolitan Museum of Art [The Met Breuer]. "Unfinished: Thoughts Left Visible," March 18–September 4, 2016.</refid>
+		<name refid="126238294" type="corporate" vocab="viaf">The Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+                <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+	    </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">The Metropolitan Museum of Art. "Michelangelo: Divine Draftsman &amp; Designer," November 13, 2017–February 12, 2018.</refid>
 		<name refid="126238294" type="corporate" vocab="viaf">The Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>

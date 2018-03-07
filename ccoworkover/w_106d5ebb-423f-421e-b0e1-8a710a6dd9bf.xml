@@ -241,6 +241,7 @@ Still Life: Flowers.</name>
             </subject>
             <subject dataDate="2016-04-21-11-27-38">
                 <term refid="300055137" vocab="aat" type="conceptTopic">senses</term>
+	    </subject>
 	    <subject>
                 <term refid="300179388" vocab="aat" type="conceptTopic">odors</term>
             </subject>

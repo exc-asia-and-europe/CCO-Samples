@@ -86,6 +86,12 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
         <relationSet>
             <relation type="imageIs" relids="i_f98aca0f-71e3-4387-8d3c-71f5c112b013">general view</relation>
         </relationSet>
+	<rightsSet>
+	    <rights href="http://www.metmuseum.org/art/collection/search/458971" source="Metropolitan Museum of Art">
+		<rightsHolder>The Metropolitan Museum of Art, New York</rightsHolder>
+		<text>Robert Lehman Collection, 1975</text>
+	    </rights>
+	</rightsSet>
         <sourceSet>
             <source pref="true" dataDate="2016-04-12-13-12-18">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_1_predella_panel_named_artist</refid>

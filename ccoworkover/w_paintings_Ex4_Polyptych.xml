@@ -32,6 +32,14 @@
                     <date>1490</date>
                 </latestDate>
             </date>
+            <date type="exhibition">
+                <earliestDate>
+                    <date>1972-06-29</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1972-09-03</date>
+                </latestDate>
+            </date>
         </dateSet>
         <descriptionSet>
             <description href="http://www.getty.edu/art/collection/objects/584/bartolomeo-vivarini-polyptych-with-saint-james-major-madonna-and-child-and-saints-italian-1490/?dz=0.5000,0.4072,0.77" pref="false" dataDate="2016-04-12-14-22-05">
@@ -39,6 +47,36 @@
 At the lower left, Saint John the Baptist wears his customary tunic of animal skins and a pale gray-green mantle and stands in a rocky setting along the river Jordan, unlike the other figures who stand before a marble ledge. To his left stands Saint John the Evangelist. 
 At the lower right, Saint Bartholomew holds a book and a knife, the symbol of his martyrdom, and an elderly Saint Peter holds the keys to the kingdom of heaven. 
 In the central panel of the upper tier, the Virgin holds the Christ Child, who raises his right arm in blessing. At the top left, Saint Catherine of Alexandria holds a broken wheel, her symbol of martyrdom, and Saint Ursula clasps two rods with banners. On the Virgin's left, Saint Apollonia holds a book and a pincer with a tooth, referring to the instruments of her martyrdom, and Saint Lucy holds an oil lamp that alludes to the significance of her name, saint of light.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description href="http://www.getty.edu/art/collection/objects/584/bartolomeo-vivarini-polyptych-with-saint-james-major-madonna-and-child-and-saints-italian-1490/?dz=0.5000,0.4072,0.77" pref="false">
+                <text>Provenance.
+1490 - 1702 San Giacomo Source: F. Rossi (1979).
+1702 Parish Church, Somendenna
+by 1775 - Possibly Sant'Agostino (Bergamo, Italy) Source: Andrea Pasta (1775). Description may correspond to the Getty picture.
+- 1784 Giacomo Caniana Source: F. Rossi (1979).
+by 1857 - Possibly Don Clemente
+by 1857 - and S. Martino Maggiore Source: Ellis Waterhouse letter to Burton Fredericksen (September 14, 1974), quoting from the diary of Otto Mündler (p. 87v).
+1858 - Giuseppe Baslini Source: Eastlake (1858).
+- Vito Enei
+before 1871 - Valentinis
+before 1871 - before 1914 Private Dealer
+before 1914 - 1929 Joseph Spiridon [sold, Spiridon sale, Cassirer and Helbig, Berlin, May 31, 1929, lot 67.]
+- Torlonia
+- 1955 Count Alessandro Contini-Bonacossi, Italian, 1878 - 1955, by inheritance within the Contini-Bonacossi family.
+1955 - 1971 Contini-Bonacossi Family, sold to Spencer A. Samuels &amp; Company, Ltd., 1971.
+1971 Spencer A. Samuels &amp; Company, Ltd., sold to the J. Paul Getty Museum, 1971.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description href="http://www.getty.edu/art/collection/objects/584/bartolomeo-vivarini-polyptych-with-saint-james-major-madonna-and-child-and-saints-italian-1490/?dz=0.5000,0.4072,0.77" pref="false">
+                <text>Exhibition.
+The J. Paul Getty Collection (June 29 to September 3, 1972): The Minneapolis Institute of Art (Minneapolis), June 29 to September 3, 1972</text>
                 <author>
                     <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">aut</role>
@@ -63,7 +101,19 @@ In the central panel of the upper tier, the Virgin holds the Christ Child, who r
             <location pref="true" type="repository" dataDate="2016-04-12-14-05-42">
                 <refid type="accession">71.PB.30</refid>
                 <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">The J. Paul Getty Collection (June 29 to September 3, 1972)</refid>
+		<name refid="328149196260774790417" type="corporate" vocab="viaf">The Minneapolis Institute of Art</name>
+		<name refid="7014080" type="geographic" vocab="tgn" extent="inhabited place">Minneapolis</name>
+		<name refid="7007521" type="geographic" vocab="tgn" extent="state">Minnesota</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+	    </location> 
         </locationSet>
         <materialSet>
             <material refid="300014657" type="support" vocab="aat">panels</material>

@@ -169,6 +169,51 @@ Exhibition History
                     <long>5.308498</long>
                 </point>
             </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">1937 Pieter Jansz. Saenredam 1597-1665</refid>		
+		<name refid="151782417" type="corporate" vocab="viaf">Museum Boymans-van Beuningen</name>
+                <name refid="7006792" type="geographic" vocab="tgn" extent="inhabited place">Rotterdam</name>
+		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+	    </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">1937 Pieter Jansz. Saenredam 1597-1665</refid>		
+		<name refid="138086258" type="corporate" vocab="viaf">Museum Fodor</name>
+                <name refid="7006952" type="geographic" vocab="tgn" extent="inhabited place">Amsterdam</name>
+		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+	    </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">1954 Dutch Painting in the Golden Age</refid>		
+		<name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+                <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+	    </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">1954 Dutch Painting in the Golden Age</refid>		
+		<name refid="146435543" type="corporate" vocab="viaf">Toledo Museum of Art</name>
+                <name refid="7014378" type="geographic" vocab="tgn" extent="inhabited place">Toledo</name>
+                <name refid="7007706" type="geographic" vocab="tgn" extent="state">Ohio</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+	    </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other">1954 Dutch Painting in the Golden Age</refid>		
+		<name refid="151879312" type="corporate" vocab="viaf">Art Gallery of Ontario</name>
+                <name refid="7013284" type="geographic" vocab="tgn" extent="inhabited place">Toronto</name>
+                <name refid="7013154" type="geographic" vocab="tgn" extent="province">Ontario</name>
+		<name refid="7005685" type="geographic" vocab="tgn" extent="nation">Canada</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+	    </location>
+	    <location pref="false" type="exhibition">
+		<refid type="other"></refid>		
+		<name refid="" type="corporate" vocab="viaf"></name>
+                <name refid="7006837" type="geographic" vocab="tgn" extent="inhabited place">'s-Hertogenbosch</name>
+		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+	    </location>
         </locationSet>
         <materialSet>
             <material refid="300015050" type="medium" vocab="aat">oil paint</material>

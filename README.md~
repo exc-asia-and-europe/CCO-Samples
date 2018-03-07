@@ -12,14 +12,17 @@ Wherever possible, this project aims to include all information from the reposit
 
 Although both Date and Location posses a type="exhibition", the link between certain dates and locations cannot be made more specific. To counter this, a general exhibition information has been inserted into the Description field, and the names of the exhibitions usually along with the dates have been inserted into the location refid subelement, with type="other".
 
-### Textref
+### Provenance
 
-Fortunately, many institutions give the visitor ample information on textual sources concerning the cultural object in their care. However, these have most often proven to be too much information for this project, and as such, their incorporation was more often than not neglected.
+As there is currently no separate set 
 
 ### Subject
 
 The subject types in the CCO examples, like in Example 11, have not been incorporated because of VRA Core's own types for subjects. 
 
+### Textref
+
+Fortunately, many institutions give the visitor ample information on textual sources concerning the cultural object in their care. However, these have most often proven to be too much information for this project, and as such, their incorporation was more often than not neglected.
 
 # CCO-Samples
 

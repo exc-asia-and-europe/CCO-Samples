@@ -23,8 +23,12 @@
         <dateSet>
             <display>ca. 1445</display>
             <date type="creation" dataDate="2016-04-12-12-41-41">
-                <earliestDate circa="true" type="about">1440</earliestDate>
-                <latestDate circa="true" type="about">1450</latestDate>
+                <earliestDate>
+			<date circa="true" type="about">1440</date>
+		</earliestDate>
+                <latestDate>
+			<date circa="true" type="about">1450</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>

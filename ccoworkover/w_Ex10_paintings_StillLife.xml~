@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex10_paintings_StillLife" refid="c_4ff6a6b0-347b-4e07-956d-c6792a06afa8">
+    <work id="w_106d5ebb-423f-421e-b0e1-8a710a6dd9bf" source="Kurs" refid="c_4ff6a6b0-347b-4e07-956d-c6792a06afa8">
         <agentSet>
             <agent dataDate="2015-04-29-14-08-00">
                 <dates type="life">

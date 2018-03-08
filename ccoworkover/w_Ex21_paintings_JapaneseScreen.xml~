@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex21_paintings_JapaneseScreen" refid="c_abd3bde5-5a13-4a86-b781-ad320d7441c0">
+    <work id="w_60d99c85-77b7-4654-bea6-1357caf3c57a" source="Kurs" refid="c_abd3bde5-5a13-4a86-b781-ad320d7441c0">
         <agentSet>
             <agent dataDate="2015-05-04-10-58-58">
                 <dates type="life">

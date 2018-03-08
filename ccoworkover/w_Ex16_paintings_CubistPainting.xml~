@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex16_paintings_CubistPainting" refid="c_e7009011-de46-4c0a-a405-1d703901daaa">
+    <work id="w_b951bdff-7430-4a2d-a339-4154aac3964d" source="Kurs" refid="c_e7009011-de46-4c0a-a405-1d703901daaa">
         <agentSet>
 	    <display>Pablo Picasso (Spanish, 1881-1973)</display>
             <agent dataDate="2015-05-04-09-37-13">

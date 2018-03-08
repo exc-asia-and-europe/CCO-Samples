@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex27_paintings_WatercolorOnMuslin" refid="c_e830411d-22bd-4fae-96b5-28e913c9124a">
+    <work id="w_7b1d90f0-a0a4-47d3-91c3-ad9e1943b2e6" source="Kurs" refid="c_e830411d-22bd-4fae-96b5-28e913c9124a">
         <agentSet>
             <agent pref="true" dataDate="2016-04-28-15-59-13">
                 <dates type="life">

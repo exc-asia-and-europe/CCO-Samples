@@ -152,14 +152,14 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
             <technique refid="300053418" vocab="aat">heightening</technique>
         </techniqueSet>
 	<textrefSet>
-	    <textref href="https://www.nga.gov/collection/art-object-page.1835.html#bibliography" pref="false" source="NGA Washington">
+	    <textref>
 		<name type="book">Ananoff, Alexandre. L'oeuvre dessine de Francois Boucher (1703-1770). Paris, 1966.</name>
 	    </textref>
-	    <textref href="https://www.nga.gov/collection/art-object-page.1835.html#bibliography" pref="false" source="NGA Washington">
+	    <textref>
 		<name type="catalog">Slatkin 1973</name>
 		<refid type="citation">82</refid>
 	    </textref>
-	    <textref href="https://www.nga.gov/collection/art-object-page.1835.html#bibliography" pref="false" source="NGA Washington">
+	    <textref>
 		<name type="catalog">Walker, John. National Gallery of Art, Washington. Rev. ed. New York, 1984</name>
 		<refid type="citation">675, no. 1080, color repro.</refid>
 	    </textref>

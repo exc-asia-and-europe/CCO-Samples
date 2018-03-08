@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex24_decoutil_AncientMosaic" refid="c_3b750faf-21d3-4074-bf63-0d9b915437d2">
+    <work id="w_78d5b469-44c7-42cd-9e79-a2273976e234" source="Kurs" refid="c_3b750faf-21d3-4074-bf63-0d9b915437d2">
         <agentSet>
             <agent pref="true" dataDate="2015-05-06-12-41-23">
                 <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>

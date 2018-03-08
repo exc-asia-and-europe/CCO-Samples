@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex25_decoutil_PersianMosaic" refid="c_2c3b827e-558a-47ee-81cf-2072a79fca4e">
+    <work id="w_62efc5b2-222f-4d3f-87fe-c284dcc0073a" source="Kurs" refid="c_2c3b827e-558a-47ee-81cf-2072a79fca4e">
         <agentSet>
             <agent pref="true" dataDate="2015-05-06-13-17-51">
                 <name refid="100626900" type="personal" vocab="viaf">unknown Persian</name>

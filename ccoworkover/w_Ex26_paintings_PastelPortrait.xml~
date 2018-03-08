@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex26_paintings_PastelPortrait" refid="c_3606f205-5ea6-4adf-9019-a6428fce1f4a">
+    <work id="w_ff225e41-36a7-47cf-bd0e-ecf72b3cca01" source="Kurs" refid="c_3606f205-5ea6-4adf-9019-a6428fce1f4a">
         <agentSet>
             <agent pref="true" dataDate="2016-04-26-13-29-29">
                 <culture>Swiss</culture>

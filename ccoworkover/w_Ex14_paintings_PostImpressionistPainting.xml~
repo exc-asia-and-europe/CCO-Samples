@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex14_paintings_PostImpressionistPainting" refid="c_b93d9faa-cb10-48dd-bde9-6b3da1939de6">
+    <work id="w_1b0f662c-4e28-4469-9dce-429efbb2a2bd" source="Kurs" refid="c_b93d9faa-cb10-48dd-bde9-6b3da1939de6">
         <agentSet>
 	    <display>Vincent van Gogh (Dutch, 1853-1890)</display>
             <agent dataDate="2016-04-26-09-17-49">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex7_paintings_RococoPortrait" refid="c_d9fb111d-c1da-4eec-9cad-d32174dc842a">
+    <work id="w_df00cf78-2359-4aa6-82da-bacc14401d20" source="Kurs" refid="c_d9fb111d-c1da-4eec-9cad-d32174dc842a">
         <agentSet>
             <agent pref="true" dataDate="2015-04-29-12-21-19">
                 <dates type="life">

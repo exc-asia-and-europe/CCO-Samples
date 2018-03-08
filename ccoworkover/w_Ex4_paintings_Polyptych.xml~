@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex4_paintings_Polyptych" refid="c_8369cab4-a9d5-44af-97c1-d98eb4d8dab0">
+    <work id="w_e3643e9d-f416-4212-9a4c-e21505d5b275" source="Kurs" refid="c_8369cab4-a9d5-44af-97c1-d98eb4d8dab0">
         <agentSet>
             <agent pref="false" dataDate="2016-04-12-13-49-50">
                 <culture>Italian</culture>

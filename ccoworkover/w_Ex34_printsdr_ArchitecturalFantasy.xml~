@@ -262,25 +262,25 @@ The Lure of Italy: Artists' Views (May 9 to July 30, 2017)
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location type="exhibition">
-                <refid type="other">Drawing Italy in the Age of the Grand Tour (February 5 to May 12, 2002)</refid>
+                <refid type="other"></refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place"> Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location type="exhibition">
-                <refid type="other">The Poetry of Paper (July 23 to October 20, 2013) </refid>
+                <refid type="other"></refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place"> Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location type="exhibition">
-                <refid type="other">The Lure of Italy: Artists' Views (May 9 to July 30, 2017) </refid>
+                <refid type="other"></refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place"> Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>

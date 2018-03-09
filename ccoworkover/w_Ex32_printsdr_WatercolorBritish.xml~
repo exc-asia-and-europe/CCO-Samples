@@ -244,9 +244,9 @@ Luminous Paper: British Watercolors and Drawings (July 19 to October 23, 2011)
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location pref="false" type="exhibition">
-                <refid type="other">Luminous Paper: British Watercolors and Drawings (July 19 to October 23, 2011) </refid>
+                <refid type="other"></refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place"> Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>

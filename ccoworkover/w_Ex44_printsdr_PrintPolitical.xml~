@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex44_printsdr_PrintPolitical" refid="c_42519c16-484c-4c45-84b0-39959848d2ea">
+    <work id="w_06576ee5-2b90-4973-bae6-ec769a07305d" source="Kurs" refid="c_42519c16-484c-4c45-84b0-39959848d2ea">
         <agentSet>
             <agent>
                 <culture>American</culture>

@@ -84,13 +84,19 @@
             </inscription>
         </inscriptionSet>
         <locationSet>
+            <location pref="false" type="site" dataDate="2016-06-01-13-18-21">
+                <name refid="7014356" type="geographic" vocab="tgn">Rocky Mountains</name>
+            </location>
             <location pref="true" type="repository" dataDate="2016-06-01-13-13-43">
                 <refid type="accession">PGA-Smillie—Rocky Mountains</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" source="Google Maps" type="site" dataDate="2015-11-11-14-04-21">
+                <name refid="2785933" type="geographic" vocab="tgn">Yosemite Gulch</name>
+                <point epsg="3857">
+                    <lat>40.511066</lat>
+                    <long>-112.103545</long>
+                </point>
             </location>
         </locationSet>
         <materialSet>

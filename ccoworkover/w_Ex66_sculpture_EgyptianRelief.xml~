@@ -3,6 +3,10 @@
     <work id="w_Ex66_sculpture_EgyptianRelief" refid="c_46b367b2-bb53-4292-8ff4-259affad88d5">
         <agentSet>
             <display dataDate="2015-11-26-14-00-20">Egyptian, reign of Nebheptere Mentuhotep</display>
+            <agent pref="false" dataDate="2016-06-07-12-00-31">
+                <name refid="96605231" type="personal" vocab="viaf">Mentuhotep II</name>
+                <role type="code" vocab="marcrelator">dpc</role>
+            </agent>
             <agent pref="true" dataDate="2016-06-07-11-55-53">
                 <name refid="100627978" source="Simon Gruening" type="personal" vocab="viaf" dataDate="2015-11-26-14-00-20">unknown Ancient Egyptian</name>
                 <role type="code" vocab="marcrelator" dataDate="2015-11-26-14-00-20">scl</role>

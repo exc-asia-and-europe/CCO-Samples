@@ -85,7 +85,7 @@
         </inscriptionSet>
         <locationSet>
             <location pref="true" type="repository" dataDate="2016-06-01-13-13-43">
-                <refid type="accession">PGA-Smillie—Rocky Mountains</refid>
+                <refid type="accession">PGA - Smillie (J.D.)--Rocky Mountains (D size) [P&amp;P]</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
 		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
@@ -104,6 +104,7 @@
         </measurementsSet>
         <relationSet>
             <relation pref="false" type="partOf">Library of Congress (Washington, District of Columbia, United States); group: Indians of North America; 1860-1870</relation>
+            <relation pref="false" type="derivedFrom" href="https://www.metmuseum.org/art/collection/search/10154">The Rocky Mountains, Lander's Peak</relation>
             <relation pref="true" relids="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e" source="Tamboti" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>

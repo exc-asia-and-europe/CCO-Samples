@@ -276,8 +276,8 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 	    <location pref="false" type="exhibition">
                 <refid type="other">"Hokusai: Thirty-Six Views of Mount Fuji," March 24, 2012–June 17, 2012.</refid>
                 <name refid="311378280" type="corporate" vocab="viaf">Freer and Sackler Galleries.</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>

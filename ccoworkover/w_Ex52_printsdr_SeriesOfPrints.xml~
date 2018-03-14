@@ -77,7 +77,7 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
             <measurements extent="average plate size" pref="false" shape="rectangle" type="width" unit="in">14 5/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="w_Ex51_printsdr_PrintInASeries" type="largerContextFor">Great Wave at Kanagawa</relation>
+            <relation pref="false" relids="w_cef53ec7-0794-482d-8d85-3d0287b8a05f" type="largerContextFor">Great Wave at Kanagawa</relation>
             <relation pref="true" relids="i_084a36c4-e9e8-486f-ac76-84dbf6b8d77c" type="imageIs">general view</relation>
             <relation pref="false" relids="i_946b1e74-3393-480a-b06e-717e44a79d11" type="imageIs">general view</relation>
             <relation pref="false" relids="i_18801aba-65bb-43ee-9f74-e80a1a2814a2" type="imageIs">general view</relation>

@@ -113,9 +113,9 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
             </location>
             <location pref="false" type="exhibition">
                 <refid type="other">The Eiffel Tower, A Tour de Force (April 17 to June 3, 1989)</refid>
-                <name refid="123849158" type="corporate" vocab="viaf">Grolier Club</name>
-		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
-		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>

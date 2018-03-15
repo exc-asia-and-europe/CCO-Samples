@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_f8cf40b7-310e-44bf-893c-204c39b2cc36" source="Kurs" refid="c_5208b880-6fd6-4b1c-abf7-c7b4d16249d6">
+    <work id="w_Ex55_photography_PhotographAnonymous" refid="c_5208b880-6fd6-4b1c-abf7-c7b4d16249d6">
         <agentSet>
             <agent pref="true" dataDate="2016-06-06-11-53-24">
                 <name refid="100626577" type="personal" vocab="viaf">unknown American</name>
                 <role type="code" vocab="marcrelator">pht</role>
             </agent>
         </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
+        </culturalContextSet>
         <dateSet>
             <date href="http://www.loc.gov/item/ncr001475/" pref="false" source="Library of Congress" type="publication" dataDate="2016-06-06-11-54-12">
                 <earliestDate>
@@ -15,11 +18,8 @@
             </date>
             <date pref="true" type="creation" dataDate="2015-11-12-13-44-22">
                 <earliestDate>
-                    <date type="uncertain">1921</date>
+                    <date circa="true" type="uncertain">1921</date>
                 </earliestDate>
-                <latestDate>
-                    <date type="uncertain">1921</date>
-                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -51,12 +51,20 @@
             </inscription>
         </inscriptionSet>
         <locationSet>
+<!-- This locationSet demonstrates the Cluster point extension, which helps specify locations that are difficult to give with vocabularies. -->
             <location pref="true" type="repository" dataDate="2015-11-12-13-16-39">
-                <refid type="accession">NV8-CF80-16</refid>
+                <refid type="accession">AFC 1991/021: NV8-CF80-16 </refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="site" dataDate="2016-06-06-11-56-55">
-                <name refid="239239009" type="geographic" vocab="viaf">Passobreve (Sagliano Micca, Piedmont, Italy)</name>
+            <location pref="false" type="creation" dataDate="2016-06-06-11-56-55">
+                <name refid="239239009" type="geographic" vocab="viaf">Sagliano Micca</name>
+		<name refid="7024833" type="geographic" vocab="tgn" extent="province">Biella</name>
+		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
                 <point epsg="4326">
                     <lat>45.616667</lat>
                     <long>8.05</long>
@@ -64,13 +72,13 @@
             </location>
         </locationSet>
         <measurementsSet>
-            <measurements pref="false" type="height" unit="cm">8.38</measurements>
-            <measurements pref="false" type="width" unit="cm">8.64</measurements>
+            <measurements pref="true" type="height" unit="cm">8.38</measurements>
+            <measurements pref="true" type="width" unit="cm">8.64</measurements>
             <measurements pref="false" type="height" unit="in">3 1/8</measurements>
             <measurements pref="false" type="width" unit="in">3 3/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-12-13-41-55">
@@ -83,27 +91,30 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject pref="false" refid="300005517" vocab="aat" dataDate="2016-06-06-11-55-45">
-                <term type="descriptiveTopic">villas</term>
+            <subject dataDate="2016-06-06-11-55-45">
+                <term refid="300005517" vocab="aat" type="descriptiveTopic">villas</term>
             </subject>
-            <subject pref="false" refid="300015571" vocab="aat" dataDate="2015-11-12-13-32-42">
-                <term type="descriptiveTopic">cityscapes</term>
+            <subject dataDate="2015-11-12-13-32-42">
+                <term refid="300015571" vocab="aat" type="descriptiveTopic">cityscapes</term>
             </subject>
-            <subject pref="false" refid="300263552" vocab="aat" dataDate="2016-06-06-11-55-07">
-                <term type="descriptiveTopic">architecture</term>
+            <subject dataDate="2016-06-06-11-55-07">
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
+            </subject>
+            <subject>
+                <term refid="300054319" vocab="aat" type="conceptTopic">ethnography</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <technique pref="false" refid="300162056" vocab="aat">black-and-white photography</technique>
         </techniqueSet>
         <titleSet>
-            <title href="http://www.loc.gov/item/ncr001475/#about-this-item" pref="false" source="Library of Congress" type="repository">Passobreve, Italy, 1921</title>
-            <title pref="true" type="descriptive">Villa in Piedmont, Italy</title>
+            <title href="http://www.loc.gov/item/ncr001475/#about-this-item" pref="true" source="Library of Congress" type="repository">Passobreve, Italy, 1921</title>
+            <title pref="false" type="descriptive">Villa in Piedmont, Italy</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300046300" vocab="aat">photographs</worktype>
-            <worktype pref="false" refid="300128347" vocab="aat">black-and-white photographs</worktype>
-            <worktype href="http://www.loc.gov/item/ncr001475/" pref="false" refid="300128371" source="Library of Congress" vocab="aat">slides</worktype>
+            <worktype refid="300046300" vocab="aat">photographs</worktype>
+            <worktype refid="300128347" vocab="aat">black-and-white photographs</worktype>
+            <worktype href="http://www.loc.gov/item/ncr001475/" refid="300128371" source="Library of Congress" vocab="aat">slides</worktype>
         </worktypeSet>
     </work>
 </vra>

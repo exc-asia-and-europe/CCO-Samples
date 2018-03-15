@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex92_decoutil_ChineseAndFrenchBowl" refid="c_a42108b9-3c54-4e5f-b6aa-a4f5c2d9e9d1">
+    <work id="w_150a1ef6-7e92-424b-b881-e536845757cf" source="Kurs" refid="c_a42108b9-3c54-4e5f-b6aa-a4f5c2d9e9d1">
         <agentSet>
             <agent pref="true" dataDate="2016-06-15-10-02-22">
                 <attribution>ceramic</attribution>

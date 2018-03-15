@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_8bd1804c-377c-4c3c-aaa3-fc75d7cf0737"
+          href="i_8bd1804c-377c-4c3c-aaa3-fc75d7cf0737.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2015-11-12-15-51-08">
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex59_photography_Collection"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="false"
+                 type="publicDomain"
+                 source="http://search.getty.edu/gri/records/griobject?objectid=798525144"
+                 dataDate="2015-11-12-15-52-07">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-10-13-01-39">
+            <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=798525144</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title href="http://search.getty.edu/gri/records/griobject?objectid=798525144"
+                pref="false"
+                type="generalView"
+                source="Getty Research Gateway">CCO_online_059.jpg</title>
+      </titleSet>
+   </image>
+</vra>

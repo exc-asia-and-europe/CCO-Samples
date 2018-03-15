@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_2ca9177b-2211-4fac-8948-91f1ca5a1002"
+          href="i_2ca9177b-2211-4fac-8948-91f1ca5a1002.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-03-08-16-44-37">
+            <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date pref="false" type="creation" dataDate="2016-03-08-16-48-03">
+            <earliestDate>
+               <date>2008-10-07</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex152_architecture_RenaissanceBaroque"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by/2.0/"
+                 pref="false"
+                 type="copyrighted"
+                 dataDate="2016-03-08-16-41-23">
+            <rightsHolder>David Merrett</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2016-03-08-16-40-25">
+            <refid type="URI">https://www.flickr.com/photos/davehamster/2973906531</refid>
+            <name type="electronic">Flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Image record CCO_online_152.jpg</title>
+      </titleSet>
+   </image>
+</vra>

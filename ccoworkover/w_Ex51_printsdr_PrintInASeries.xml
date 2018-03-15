@@ -295,7 +295,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
             <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="in">14 15/16</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="w_ba242fd5-8c1a-4b3e-8044-89d29999c338" type="partOf">1st in series: Katsushika Hokusai (Japanese, 1760-1849); Thirty-six Views of Mount Fuji: First Series; 1827-1837</relation>
+            <relation pref="false" relids="w_Ex52_printsdr_SeriesOfPrints" type="partOf">1st in series: Katsushika Hokusai (Japanese, 1760-1849); Thirty-six Views of Mount Fuji: First Series; 1827-1837</relation>
             <relation pref="true" relids="i_a6828de3-fe74-43ab-b2cf-0af10bf8467b" type="imageIs">general view</relation>
         </relationSet>
 	<rightsSet>

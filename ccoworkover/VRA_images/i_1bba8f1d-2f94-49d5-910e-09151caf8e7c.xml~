@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_1bba8f1d-2f94-49d5-910e-09151caf8e7c"
+          href="i_1bba8f1d-2f94-49d5-910e-09151caf8e7c.jpg"
+          source="Tamboti">
+      <agentSet>
+         <agent pref="true" dataDate="2016-08-09">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">rps</role>
+         </agent>
+      </agentSet>
+      <locationSet>
+         <location pref="true" type="repository" dataDate="2016-08-09">
+            <refid extent="Digital ID" type="other">cph 3b51521</refid>
+            <name type="corporate">Library of Congress</name>
+         </location>
+      </locationSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_9de517bd-8590-4015-8429-6639d30af01c"
+                   source="Tamboti">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights pref="true" type="publicDomain" dataDate="2016-08-09">
+            <rightsHolder>Library of Congress</rightsHolder>
+            <text>Tissandier Collection</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true" dataDate="2016-08-09">
+            <refid type="URI">https://www.loc.gov/pictures/resource/cph.3b51521/</refid>
+            <name type="electronic">Library of Congress, Prints &amp; Photographs Online Catalog</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Men building the Fountain St. Vidal near the Eiffel Tower, Paris Exposition, 1889</title>
+      </titleSet>
+   </image>
+</vra>

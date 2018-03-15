@@ -56,7 +56,7 @@
             <material pref="false" refid="300014109" type="support" vocab="aat">paper</material>
         </materialSet>
         <relationSet>
-            <relation pref="false" relids="w_e0d67090-5df9-408a-abf0-5befb69b83b2" type="depicts">Lincoln Memorial</relation>
+            <relation pref="false" relids="w_Ex155_architecture_NineteenthCentury" type="depicts">Lincoln Memorial</relation>
             <relation pref="true" relids="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26" type="imageIs">general view</relation>
         </relationSet>
 	<sourceSet>

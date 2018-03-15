@@ -67,7 +67,7 @@
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location pref="false" type="exhibition">
-                <refid  type="other">ADE - UNIT 2564, no. 3 (B size) (Cabinet A) [P&amp;P]</refid>
+                <refid type="other">American Treasures of the Library of Congress</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
 		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>

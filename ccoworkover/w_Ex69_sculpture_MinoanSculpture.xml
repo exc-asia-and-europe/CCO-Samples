@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex69_sculpture_MinoanSculpture" refid="c_3b2f51a1-c679-4af1-99a9-d26775d17a1d">
         <agentSet>
-            <agent pref="true" dataDate="2015-11-26-15-45-30">
+            <agent dataDate="2015-11-26-15-45-30">
                 <name refid="100627187" type="personal" vocab="viaf" dataDate="2015-11-26-15-45-30">unknown Minoan</name>
                 <role type="code" vocab="marcrelator" dataDate="2015-11-26-15-45-30">art</role>
             </agent>
@@ -11,22 +11,37 @@
             <culturalContext vocab="AAT" refid="300020224" dataDate="2015-11-26-16-05-50">Minoan</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display dataDate="2015-11-26-15-46-28"> Middle Minoan Palace period, ca. 1600 BCE</display>
             <date pref="false" type="creation" dataDate="2015-11-26-15-46-28">
                 <earliestDate>
-                    <date dataDate="2015-11-26-15-46-28" circa="true" type="about">-1630</date>
+                    <date dataDate="2015-11-26-15-46-28" circa="false">-1630</date>
                 </earliestDate>
                 <latestDate>
-                    <date dataDate="2015-11-26-15-46-28" circa="true" type="about">-1570</date>
+                    <date dataDate="2015-11-26-15-46-28" circa="false">-1570</date>
                 </latestDate>
+            </date>
+            <date pref="true" type="creation">
+                <earliestDate>
+                    <date circa="true" type="about">-1600</date>
+                </earliestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" dataDate="2015-11-26-15-46-56">
+            <description pref="true" dataDate="2015-11-26-15-46-56">
                 <text dataDate="2015-11-26-15-46-56">The statue represents a goddess or priestess. Figure wears a tight Minoan bodice that reveals bare breasts and a tall tiara with animal (owl or cat) perched on top; snakes are wrapped around her waist and arms; mending is apparent on both upper arms, neck and headdress. There are painted linear decorations on the apron, skirt, and hem.</text>
                 <author dataDate="2015-11-26-15-46-56">
                     <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-26-15-46-56">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator" dataDate="2015-11-26-15-46-56">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="Archaiologikon Mouseion Hērakleiou." href="http://heraklionmuseum.gr/?page_id=1638&lang=en" dataDate="2018-03-16">
+                <text>THE “SNAKE GODESSES”
+The most important cult objects from the Knossos Temple Repositories are the figurines of the “Snake Goddess”. They are named after the snake twining around the body and arms of the larger figure, and the two snakes that the smaller figure holds in her upraised hands. The snakes symbolize the chthonic character of the cult of the goddess, while the feline creature on the head of the smaller figure suggests her dominion over wildlife. The goddesses wear luxurious garments, consisting of a long flounced skirt, an embroidered apron and a close-fitting bodice that exposes the large breasts, symbolic of the fertility of women and, by implication, nature itself.
+Knossos – Temple Repositories, 1650-1550 BC.</text>
+                <author>
+                    <name refid="158400708" type="corporate" vocab="viaf">Archaiologikon Mouseion Hērakleiou.</name>
+                    <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
@@ -34,22 +49,30 @@
             <location pref="true" type="repository" dataDate="2016-06-07-13-06-10">
                 <refid type="accession" dataDate="2015-11-26-15-48-41">no. 65</refid>
                 <name refid="158400708" vocab="viaf" dataDate="2015-11-26-15-48-41">Archaiologikon Mouseion Hērakleiou.</name>
+                <name refid="7010879" type="geographic" vocab="tgn" extent="inhabited place">Iráklion</name>
+                <name refid="7012056" type="geographic" vocab="tgn" extent="region">Crete</name>
+                <name refid="1000074" type="geographic" vocab="tgn" extent="nation">Greece</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
             <location pref="false" type="discovery" dataDate="2015-11-26-15-48-41">
-                <refid dataDate="2015-11-26-15-48-41"/>
-                <name extent="central sanctuary" refid="316746119" vocab="viaf" dataDate="2015-11-26-15-48-41">Palace of Knossos (Knossos)</name>
+		<refid type="other">central sanctuary</refid>
+                <name refid="316746119" vocab="viaf" dataDate="2015-11-26-15-48-41">Palace of Knossos (Knossos)</name>
+                <name refid="7010870" type="geographic" vocab="tgn" extent="deserted settlement">Knossós</name>
+                <name refid="7012056" type="geographic" vocab="tgn" extent="region">Crete</name>
+                <name refid="1000074" type="geographic" vocab="tgn" extent="nation">Greece</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
-            <material pref="false" refid="300265183" type="medium" vocab="aat" dataDate="2015-11-26-15-59-20">faience</material>
-            <material pref="false" refid="300010669" type="medium" vocab="aat" dataDate="2015-11-26-15-59-20">terracotta</material>
+            <material refid="300265183" type="medium" vocab="aat" dataDate="2015-11-26-15-59-20">faience</material>
+            <material refid="300010669" type="medium" vocab="aat" dataDate="2015-11-26-15-59-20">terracotta</material>
         </materialSet>
         <measurementsSet>
-            <measurements pref="false" type="height" unit="cm" dataDate="2015-11-26-16-02-35">34.29</measurements>
+            <measurements pref="true" type="height" unit="cm" dataDate="2015-11-26-16-02-35">34.29</measurements>
             <measurements pref="false" type="height" unit="in" dataDate="2015-11-26-16-02-35">13 1/2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_4541ce89-e112-4dfd-98b7-d960c8ee9085" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_4541ce89-e112-4dfd-98b7-d960c8ee9085" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2015-11-26-16-03-20">
@@ -81,8 +104,8 @@
             <title type="other" pref="true" dataDate="2015-11-26-15-53-34">Snake Goddess</title>
         </titleSet>
         <worktypeSet>
-            <worktype pref="false" refid="300047600" vocab="aat" dataDate="2015-11-26-16-06-47">statues</worktype>
-            <worktype pref="false" refid="300047090" vocab="aat" dataDate="2015-11-26-16-06-47">sculpture</worktype>
+            <worktype refid="300047600" vocab="aat" dataDate="2015-11-26-16-06-47">statues</worktype>
+            <worktype refid="300047090" vocab="aat" dataDate="2015-11-26-16-06-47">sculpture</worktype>
         </worktypeSet>
     </work>
 </vra>

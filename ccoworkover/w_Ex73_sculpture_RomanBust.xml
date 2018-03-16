@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_669167ae-e8cb-46c1-9919-8329a1326b76" source="Kurs" refid="c_44b82cb2-543c-4e86-8bee-22be0d6640cd">
+    <work id="w_Ex73_sculpture_RomanBust" refid="c_44b82cb2-543c-4e86-8bee-22be0d6640cd">
         <agentSet>
             <agent dataDate="2016-06-08-10-29-03">
                 <name refid="100628022" type="personal" vocab="viaf" dataDate="2015-11-26-16-44-06">unknown Ancient Roman</name>
@@ -31,9 +31,15 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <location type="repository" dataDate="2016-06-08-11-24-20">
+            <location type="repository">
                 <refid type="accession" dataDate="2015-11-26-16-47-05">NLJ-MCOLL-M01</refid>
-                <name refid="168811441" type="corporate" vocab="viaf" dataDate="2015-11-26-16-47-05">United States, National Archives and Records Administration</name>
+		<refid type="accession">ARC Identifier: 192414</refid>
+		<refid type="accession">Other Identifier: 64.3.4</refid>
+                <name refid="127936815" type="corporate" vocab="viaf">Lyndon Baines Johnson Library and Museum</name>
+		<name refid="7007826" type="geographic" vocab="tgn" extent="inhabited place">Austin</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="state">Texas</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <materialSet>
@@ -61,20 +67,20 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject refid="300184644" vocab="aat" dataDate="2015-11-26-16-54-12">
-                <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">funerary sculpture</term>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300184644" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">funerary sculpture</term>
             </subject>
-            <subject refid="300025944" vocab="aat" dataDate="2015-11-26-16-54-12">
-                <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">youth</term>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300025944" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">youth</term>
             </subject>
-            <subject refid="300025928" vocab="aat" dataDate="2015-11-26-16-54-12">
-                <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">men</term>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300025928" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">men</term>
             </subject>
-            <subject refid="300247598" vocab="aat" dataDate="2016-06-08-11-25-01">
-                <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">boys</term>
+            <subject dataDate="2016-06-08-11-25-01">
+                <term refid="300247598" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">boys</term>
             </subject>
-            <subject refid="300015637" vocab="aat" dataDate="2015-11-26-16-54-12">
-                <term type="descriptiveTopic" dataDate="2015-11-26-16-54-12">portraits</term>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300015637" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">portraits</term>
             </subject>
         </subjectSet>
         <techniqueSet>

@@ -120,7 +120,9 @@ Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</tex
         </titleSet>
         <worktypeSet>
             <worktype refid="300263511" vocab="aat" dataDate="2015-11-23-11-36-45">animation cels</worktype>
-
+            <worktype refid="300265265" vocab="aat" dataDate="2015-11-23-11-36-45">cel set-ups</worktype>
+            <worktype refid="300265273" vocab="aat" dataDate="2015-11-23-11-36-45">production cels</worktype>
+            <worktype refid="300263516" vocab="aat" dataDate="2015-11-23-11-36-45">courvoisiers</worktype>
         </worktypeSet>
     </work>
 </vra>

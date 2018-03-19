@@ -276,18 +276,10 @@
             </date>
             <date pref="false" type="exhibition">
                 <earliestDate>
-                    <date>2009-02-24</date>
+                    <date>20</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2009-05-24</date>
-                </latestDate>
-            </date>
-            <date pref="false" type="exhibition">
-                <earliestDate>
-                    <date>2014-12-12</date>
-                </earliestDate>
-                <latestDate>
-                    <date>2015-03-15</date>
+                    <date></date>
                 </latestDate>
             </date>
         </dateSet>

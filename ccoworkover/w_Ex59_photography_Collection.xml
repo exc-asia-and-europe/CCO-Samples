@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <collection id="w_4e63c911-6e4e-4b82-90d6-f8bcf7cf12a7" source="Kurs" refid="c_cc1070e1-6e81-4356-ac27-0ec58b8194b1">
+    <collection id="w_Ex59_photography_Collection" refid="c_cc1070e1-6e81-4356-ac27-0ec58b8194b1">
         <agentSet>
             <agent pref="false" dataDate="2016-03-10-10-57-26">
                 <culture>Peruvian</culture>
                 <dates type="activity">
-                    <earliestDate circa="true" type="about">1863</earliestDate>
+                    <earliestDate>1863</earliestDate>
                     <latestDate circa="true" type="about">1873</latestDate>
                 </dates>
                 <name refid="137110511" type="corporate" vocab="viaf">Courret, Hermanos</name>
@@ -23,9 +23,29 @@
         </agentSet>
         <dateSet>
             <display>ca. 1870-ca. 1880</display>
-            <date pref="true" type="creation" dataDate="2016-06-06-13-14-37">
-                <earliestDate circa="true" type="about">1865</earliestDate>
-                <latestDate circa="true" type="about">1885</latestDate>
+            <date pref="true" type="creation" source="CCO Example 59" dataDate="2016-06-06-13-14-37">
+                <earliestDate>
+			<date>1865</date>
+		</earliestDate>
+                <latestDate>
+			<date>1885</date>
+		</latestDate>
+            </date>
+            <date pref="false" type="creation" source="CCO Book Figure 5">
+                <earliestDate>
+			<date>1860</date>
+		</earliestDate>
+                <latestDate>
+			<date>1890</date>
+		</latestDate>
+            </date>
+            <date pref="false" type="creation">
+                <earliestDate>
+			<date circa="true" type="about">1870</date>
+		</earliestDate>
+                <latestDate>
+			<date circa="true" type="about">1880</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -37,7 +57,7 @@
                 </author>
             </description>
 	    <description href="http://primo.getty.edu/GRI:GETTY_ALMA21124612420001551" source="Getty Research Institute">
-		<text>Repository also owns same images of some of the individuals depicted, though in other formats (three veiled women, the soldier and his companion (accn. no. 95.R.29)).</text>
+		<text>Title devised by cataloger. Repository also owns same images of some of the individuals depicted, though in other formats (three veiled women, the soldier and his companion (accn. no. 95.R.29)).</text>
 		<author>
 		    <name refid="154037452" type="corporate" vocab="viaf">Getty Research Institute, Research Library</name>
 		    <role type="code" vocab="marcrelator">aut</role>
@@ -57,7 +77,7 @@
 		<name refid="1000002" type="geographic" vocab="tgn" extent="continent">South America</name>
             </location>
             <location pref="false" type="repository" dataDate="2016-03-10-11-51-52">
-                <refid type="accession">91-F46</refid>
+                <refid type="accession">91-F46 ZCDV 2 (S1P4)</refid>
                 <name refid="154037452" type="corporate" vocab="viaf">Getty Research Institute, Research Library</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
@@ -69,14 +89,15 @@
             <material href="http://search.getty.edu/gri/records/griobject?objectid=798525144" refid="300011802" source="Getty Research Gateway" type="medium" vocab="aat">albumen</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="items" pref="true" type="count" unit="items">11</measurements>
-            <measurements extent="each" pref="true" type="height" unit="cm">9</measurements>
-            <measurements extent="each" pref="true" type="width" unit="cm">8</measurements>
-            <measurements extent="each" pref="false" type="height" unit="in">3 1/2</measurements>
-            <measurements extent="each" pref="false" type="width" unit="in">3 1/8</measurements>
+	    <display>11 items, 9 x 8 cm each (3 1/2 x 3 1/8 inches)</display>
+            <measurements pref="true" type="count" unit="items">11</measurements>
+            <measurements pref="true" type="height" unit="cm">9</measurements>
+            <measurements pref="true" type="width" unit="cm">8</measurements>
+            <measurements pref="false" type="height" unit="in">3 1/2</measurements>
+            <measurements pref="false" type="width" unit="in">3 1/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation href="http://primo.getty.edu/GRI:GETTY_ALMA21124612420001551" pref="false" refid="ZCDV 2" source="Getty Research Institute" type="partOf">Cities and sites cartes-de-visite collection; collection; 1854-ca. 1905. Getty Research Library, Special Collections (Los Angeles, California, United States)</relation>
+            <relation href="http://primo.getty.edu/GRI:GETTY_ALMA21124612420001551" pref="false" refid="1368-773 ZCDV 2" source="Getty Research Institute" type="partOf">Cities and sites cartes-de-visite collection; collection; 1854-ca. 1905. Getty Research Library, Special Collections (Los Angeles, California, United States)</relation>
             <relation pref="true" relids="i_8bd1804c-377c-4c3c-aaa3-fc75d7cf0737" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>

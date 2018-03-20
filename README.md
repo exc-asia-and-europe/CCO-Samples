@@ -36,6 +36,14 @@ Identifiable depicted persons have been made part of the subjectSet, in line wit
 
 Although the locationSet allows for the type of formerOwner, this is optimized for repositories that have or had a known location. In case of persons, however, the exact location of the object in their property isn't neccessarily available, and there is no place to attach dates associated with the person(s).
 
+### Conditions
+
+Currently there exists no separate category for describing an object's current condition, events of restoration or alterations. This data has been recorded in the descriptions, and where possible in the dateSet.
+
+### Writing styles/calligraphic hands
+
+Currently there is no proper place to note styles of writing or calligraphy for a cultural object.
+
 # CCO-Samples
 
 To "clean up" the data files you can use ant (with build.xml for "data_old" or build_new.xml for "data_new") with the default target or run the xslt-files in the following order:

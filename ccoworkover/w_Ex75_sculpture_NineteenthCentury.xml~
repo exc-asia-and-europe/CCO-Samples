@@ -44,14 +44,6 @@ Rodin's debt to Michelangelo goes even further, for in the contorted, uncomforta
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/191803" pref="false" source="Metropolitan Museum of Art online">
-                <text>Provenance.
-commissioned by The Metropolitan Museum of Art from the artist </text>
-                <author>
-                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art, NY</name>
-                    <role type="code" vocab="marcrelator">aut</role>
-                </author>
-            </description>
             <description pref="true" source="Metropolitan Museum of Art online. www.metmuseum.org  Page: accessed 17 September 2006." dataDate="2016-06-08-12-13-43">
                 <text dataDate="2015-11-30-15-11-40">Figure represents Adam being first roused to life, and makes obvious references to the scene by Michelangelo in the Sistine Chapel; design was originally intended for Rodin’s Gates of Hell.</text>
                 <author dataDate="2015-11-30-15-11-40">

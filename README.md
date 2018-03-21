@@ -38,7 +38,7 @@ Although the locationSet allows for the type of formerOwner, this is optimized f
 
 ### Conditions
 
-Currently there exists no separate category for describing an object's current condition, events of restoration or alterations. This data has been recorded in the descriptions, and where possible in the dateSet.
+Currently there exists no separate category for describing an object's current condition, events of restoration, vandalism or alterations. This data has been recorded in the descriptions, and where possible in the dateSet.
 
 ### Writing styles/calligraphic hands
 

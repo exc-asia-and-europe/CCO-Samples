@@ -92,7 +92,7 @@ New Haven. Yale University Art Gallery. "The Cosmic Dancer: Shiva Nataraja," Feb
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location href="http://www.metmuseum.org/collection/the-collection-online/search/39328" pref="false" source="Metropolitan Museum of Art" type="creation" dataDate="2016-06-08-13-23-24">
-                <name refid="7001797" vocab="tgn" extent="state" dataDate="2015-11-30-17-36-02">Tamil Nādu</name>
+                <name refid="7001797" vocab="tgn" dataDate="2015-11-30-17-36-02">Tamil Nādu</name>
 		<name refid="7000198" type="geographic" vocab="tgn" extent="nation">India</name>
 		<name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
             </location>

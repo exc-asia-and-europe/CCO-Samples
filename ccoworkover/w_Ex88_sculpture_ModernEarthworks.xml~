@@ -76,16 +76,13 @@ notes
             <measurements pref="false" type="width" unit="ft">15</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="true" relids="i_b5347bb4-ee31-4e1f-953d-cc526347d45f" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_58457981-e7ad-4b19-b9f5-8661927f76c6" type="imageIs">general view</relation>
-	    <relation pref="false" href="http://www.robertsmithson.com/drawings/spiral_jetty_300.htm" source="Robert Smithson website" type="relatedTo">Spiral Jetty in Red Salt Water, drawing, n.d. circa 1970</relation>
-	    <relation pref="false" href="http://www.robertsmithson.com/drawings/spirals_300.htm" source="Robert Smithson website" type="relatedTo">Spirals, drawing, n.d. circa 1970</relation>
-	    <relation pref="false" href="http://www.robertsmithson.com/films/txt/spiral.html" source="Robert Smithson website" type="relatedTo">Spiral Jetty, film, 1970</relation>
+            <relation href="i_b5347bb4-ee31-4e1f-953d-cc526347d45f" pref="true" relids="i_b5347bb4-ee31-4e1f-953d-cc526347d45f" type="imageIs">general view</relation>
+            <relation href="i_58457981-e7ad-4b19-b9f5-8661927f76c6" pref="false" relids="i_58457981-e7ad-4b19-b9f5-8661927f76c6" type="imageIs">general view</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="Dia Art Foundation">
 		<rightsHolder>Dia Art Foundation</rightsHolder>
-		<text>In 1999, through the generosity of the artist Nancy Holt, Smithson’s wife, and the Estate of Robert Smithson, the artwork was donated to Dia Art Foundation.</text>
+		<text>Gift of Xenia and J. Irwin Miller, 1971</text>
 	    </rigths>
 	</rightsSet>
         <sourceSet>
@@ -96,10 +93,6 @@ notes
             <source pref="false">
                 <refid type="URI">https://diaart.org/visit/visit/robert-smithson-spiral-jetty</refid>
                 <name type="electronic">Dia Art Foundation</name>
-            </source>
-            <source pref="false">
-                <refid type="URI">http://www.robertsmithson.com/earthworks/spiral_jetty.htm</refid>
-                <name type="electronic">Robert Smithson website</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

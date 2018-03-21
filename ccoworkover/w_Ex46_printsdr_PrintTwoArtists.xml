@@ -103,7 +103,6 @@
             <measurements extent="sheet size" pref="false" type="width" unit="in">15 1/4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" type="partOf">Library of Congress (Washington, District of Columbia, United States); group: Indians of North America; 1860-1870</relation>
             <relation pref="false" type="derivedFrom" href="https://www.metmuseum.org/art/collection/search/10154">The Rocky Mountains, Lander's Peak</relation>
             <relation pref="true" relids="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e" type="imageIs">general view</relation>
         </relationSet>
@@ -121,6 +120,9 @@
             <subject dataDate="2015-11-11-14-08-18">
                 <term refid="300379660" vocab="aat" type="descriptiveTopic">indigenous people</term>
             </subject>
+	    <subject dataDate="2018-03-21-13-10-05">
+		<term refid="sh85065184" vocab="lcsh" type="descriptiveTopic">Indians of North America</term>
+	    </subject>
             <subject dataDate="2015-11-11-14-07-18">
                 <term refid="300008680" vocab="aat" type="descriptiveTopic">lakes</term>
             </subject>

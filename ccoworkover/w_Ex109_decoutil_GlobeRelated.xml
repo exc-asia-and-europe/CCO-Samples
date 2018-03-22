@@ -122,6 +122,10 @@ GLOBE TERRESTRE DRESSÉ sur les observations les plus nouvelles et le plus exact
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_109_globe_related_work</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 109: Globe, related work.</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_7-Class.pdf#page=8</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 242. Figure 37. Work Record Linked to an Authority Record for Class: Globe.</name>
+	    </source>
         </sourceSet>
         <subjectSet>
             <subject refid="300053163" vocab="aat" dataDate="2016-03-10-15-39-11">

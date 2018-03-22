@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex066_sculpture_EgyptianRelief" refid="c_CCO_Examples">
+        <agentSet>
+            <display dataDate="2015-11-26-14-00-20">Egyptian, reign of Nebheptere Mentuhotep</display>
+            <agent pref="true" dataDate="2016-06-07-11-55-53">
+                <name refid="100627978" source="Simon Gruening" type="personal" vocab="viaf" dataDate="2015-11-26-14-00-20">unknown Ancient Egyptian</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-26-14-00-20">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300020251" dataDate="2015-11-26-14-53-09">Egyptian (ancient)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display dataDate="2015-11-26-14-03-18">during or immediately after the reign of Nebhepetre Mentuhotep</display>
+            <date type="creation" dataDate="2016-06-07-11-56-23">
+                <earliestDate>
+                    <date dataDate="2015-11-26-14-03-18">-2050</date>
+                </earliestDate>
+                <latestDate>
+                    <date dataDate="2015-11-26-14-03-18">-2000</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="Metropolitan Museum of Art" dataDate="2016-06-07-12-07-17">
+                <text dataDate="2015-11-26-14-25-27">King Nebhepetre Mentuhotep (Mentuhotep II) was revered by the Egyptians as the ruler who reunited Egypt after the era of disunity (the First Intermediate Period) that followed the end of the Old Kingdom. Descended from a family of Theban rulers the king built his tomb and mortuary temple at Deir el-Bahri in western Thebes. This relief was originally part of the decoration of the temple's main sanctuary that was added to the building at the end of the king's reign. The fine balance between figures and inscriptions on this block as well as the clear outline and regular proportions of the king's image with its individualized facial features exemplify the peak of a relief art that had developed over the decades while the vast temple complex was built and decorated. The figure of the goddess Hathor on the right of the block was chiselled away during the Amarna period, when King Akhenaten propagated the sole worship of the god Aten. Hathor was repaired in plaster in early Dynasty 19 and some of the paint on the whole block may also have been renewed at the time.</text>
+                <author dataDate="2015-11-26-14-25-27">
+                    <name refid="126238294" type="corporate" vocab="viaf" dataDate="2015-11-26-14-25-27">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-26-14-25-27">aut</role>
+                </author>
+            </description>
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="Metropolitan Museum of Art">
+                <text>Provenance
+Naville excavations at Deir el-Bahri working for the Egypt Exploration Fund. Acquired by the EEF in the division of finds. Given by the EEF to the Museum for its contribution to the excavations, 1907.</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description source="Metropolitan Museum of Art online. www.metmuseum.org Page: accessed 15 December 2006." pref="true" dataDate="2015-11-26-14-22-01">
+                <text dataDate="2015-11-26-14-22-01">Mentuhotep II was the founder of the Middle Kingdom, reuniting Egypt after the chaotic First Intermediate Period. This relief comes from his mortuary temple at Deir el-Bahri in western Thebes. The high standards of the royal Theban workshops are evident in the delicately modeled low relief and the finely painted details.</text>
+                <author dataDate="2015-11-26-14-22-01">
+                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-26-14-22-01">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-26-14-22-01">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription dataDate="2016-06-07-12-06-14">
+                <author refid="100627978" vocab="viaf" dataDate="2015-11-26-14-56-16">unknown Ancient Egyptian</author>
+                <position dataDate="2015-11-26-14-56-16"/>
+                <text type="other" dataDate="2015-11-26-14-56-53">In part, the hieroglyphics include the name Mentuhotep (“Montu [a local Theban god] is satisfied”), enclosed in the oval-shaped cartouche in front of his face; his Horus name, Sematawy (“Uniter of the Two Lands [Upper and Lower Egypt]”) is seen at the top of the rectangular device (a serekh) next to the cartouche.</text>
+            </inscription>
+	    <inscription source="Metropolitan Museum of Art, Niv Allon 2017" href="https://www.metmuseum.org/art/collection/search/548212" >
+                <author refid="100627978" vocab="viaf">unknown Ancient Egyptian</author>
+		<position>Divine speech (of Amun), furthest left</position>
+		<text type="text">…[nb tA.wj] Nswt-bj.tj nb-xpt-ra zA-raw MnT.w-[Htp.w]
+pA(w.t) r j(t).w=k nb n-aA-[mr.wt]</text>
+		<text type="translation">"…Lord of the Two Lands, King of Upper and Lower Egypt Nebkhepetre, Son of Re Mentuhotep… Provisions more than all your ancestors inasmuch as…"</text>
+	    </inscription>
+	    <inscription source="Metropolitan Museum of Art, Niv Allon 2017" href="https://www.metmuseum.org/art/collection/search/548212" >
+                <author refid="100627978" vocab="viaf">unknown Ancient Egyptian</author>
+		<position>Second left, above the papyrus plant one could still see the remains of a figure of a vulture. Below, the inscription reads:</position>
+		<text type="text">HD.t-nxn Aw.t-a nb(.t)</text>
+		<text type="translation">The white one of Hierakonpolis with the outstretched arm, mistress of…(Nekhbet)"</text>
+	    </inscription>
+	    <inscription source="Metropolitan Museum of Art, Niv Allon 2017" href="https://www.metmuseum.org/art/collection/search/548212" >
+                <author refid="100627978" vocab="viaf">unknown Ancient Egyptian</author>
+		<position>Above the king, the inscription reads:</position>
+		<text type="text">smA-tA.wj mnT.w-Htp.w anx(.w) D.t</text>
+		<text type="translation">Sematwai Mentuhotep, may he live forever</text>
+	    </inscription>
+	    <inscription source="Metropolitan Museum of Art, Niv Allon 2017" href="https://www.metmuseum.org/art/collection/search/548212" >
+                <author refid="100627978" vocab="viaf">unknown Ancient Egyptian</author>
+		<position>Before the king</position>
+		<text type="text">dwA nTr</text>
+		<text type="translation">Adoring Amun</text>
+	    </inscription>
+	    <inscription source="Metropolitan Museum of Art, Niv Allon 2017" href="https://www.metmuseum.org/art/collection/search/548212" >
+                <author refid="100627978" vocab="viaf">unknown Ancient Egyptian</author>
+		<position>Behind the king</position>
+		<text type="text">wn=f Xnt.j [kA.w anx.w nb Di(.w) anx mj raw D.t]</text>
+		<text type="translation">May he be foremost [of the all the living spirits (ka), may he be given life forever like Re]</text>
+	    </inscription>
+	    <inscription source="Metropolitan Museum of Art, Niv Allon 2017" href="https://www.metmuseum.org/art/collection/search/548212" >
+                <author refid="100627978" vocab="viaf">unknown Ancient Egyptian</author>
+		<position>In front of Hathor:</position>
+		<text type="text">...smA.n(=i) n=k tA.wi mi wD.t.n bA.w[jwnw mrr.w Tw anx.ti D.t]…Aw.t-jb nb </text>
+		<text type="translation">For you I united the two lands as the powers of [Heliopolis, who love you] commanded [may you live forever]…all joy</text>
+	    </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2015-11-26-14-29-50">
+                <refid type="accession" dataDate="2015-11-26-14-29-50">07.230.2</refid>
+                <name refid="126238294" type="corporate" vocab="viaf" dataDate="2015-11-26-14-29-50">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="creation" dataDate="2015-11-26-14-29-50">
+		<name type="other">mortuary temple of Nebhepetre, Temple of Mentuhotep II, Egypt Exploration Fund excavations, 1907</name>                
+		<name refid="7525427" type="geographic" vocab="tgn" extent="deserted settlement">Dayr al Baḩrī</name>
+		<name refid="7016833" type="geographic" vocab="tgn" extent="nation">Egypt</name>
+		<name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
+                <point epsg="4326">
+                    <lat>25.738333</lat>
+                    <long>32.607778</long>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+	    <display>painted limestone, low relief carving</display>
+            <material refid="300015029" type="medium" vocab="aat" dataDate="2015-11-26-14-58-05">paint</material>
+            <material type="support" refid="300011286" vocab="aat" dataDate="2015-11-26-14-58-05">limestone</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm" dataDate="2015-11-26-15-01-55">36</measurements>
+            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm" dataDate="2015-11-26-15-01-55">98</measurements>
+            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="Metropolitan Museum of Art" type="height" unit="in" dataDate="2015-11-26-15-01-55">14 3/16</measurements>
+            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="false" source="Metropolitan Museum of Art" type="width" unit="in" dataDate="2015-11-26-15-01-55">38 9/16</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_Ex066_sculpture_EgyptianRelief">general view</relation>
+        </relationSet>
+	<rightsSet>
+	    <rights type="other">
+		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+		<text>Gift of Egypt Exploration Fund, 1907</text>
+	    </rights>
+	</rightsSet>
+        <sourceSet>
+            <source pref="true" dataDate="2015-11-26-13-47-18">
+                <refid type="URI" dataDate="2015-11-26-13-47-18">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_66_egyptian_relief</refid>
+                <name type="electronic" dataDate="2015-11-26-13-47-18">Cataloging Cultural Objects Commons. Example 66: Egyptian relief.</name>
+            </source>
+            <source pref="false" dataDate="2015-11-26-13-47-18">
+                <refid type="URI" dataDate="2015-11-26-13-47-18">http://www.metmuseum.org/collection/the-collection-online/search/548212</refid>
+                <name type="electronic" dataDate="2015-11-26-13-47-18">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300020315" vocab="aat" dataDate="2015-11-26-15-15-53">Middle Kingdom</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject dataDate="2015-11-26-14-43-07">
+                <term refid="300025928" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-14-43-07">men</term>
+            </subject>
+            <subject dataDate="2015-11-26-14-43-07">
+                <term refid="300028721" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-14-43-07">hieroglyphics</term>
+            </subject>
+            <subject dataDate="2015-11-26-14-43-07">
+                <term refid="300150507" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-14-43-07">pharaohs</term>
+            </subject>
+            <subject dataDate="2015-11-26-14-43-07">
+                <term refid="300234126" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-14-43-07">funerary objects</term>
+            </subject>
+            <subject dataDate="2015-11-26-14-43-07">
+                <term refid="300073708" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-14-43-07">religions</term>
+            </subject>
+            <subject>
+             	<term refid="96605231" type="personalName" vocab="viaf">Mentuhotep II</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053623" vocab="aat" dataDate="2015-11-26-15-16-12">bas-relief</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="false" type="other" dataDate="2015-11-26-14-52-19">Relief of Nebhepetra Mentuhotep</title>
+            <title href="http://www.metmuseum.org/collection/the-collection-online/search/548212" pref="true" source="Metropolitan Museum of Art" type="repository" dataDate="2015-11-26-14-52-19">Relief of Nebhepetre Mentuhotep II and the Goddess Hathor</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300047230" vocab="aat" dataDate="2015-11-26-15-18-20">reliefs</worktype>
+            <worktype refid="300184633" vocab="aat" dataDate="2015-11-26-15-18-20">bas-reliefs</worktype>
+            <worktype refid="300182732" vocab="aat" dataDate="2015-11-26-15-18-20">murals</worktype>
+            <worktype refid="300047090" vocab="aat" dataDate="2015-11-26-15-18-20">sculpture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

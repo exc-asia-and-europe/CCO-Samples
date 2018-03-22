@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex046_printsdr_PrintTwoArtists" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="false" dataDate="2015-11-11-13-41-22">
+                <culture>American</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1833</earliestDate>
+                    <latestDate circa="false">1909</latestDate>
+                </dates>
+                <name refid="62351142" type="personal" vocab="viaf">Smillie, James David</name>
+                <role type="code" vocab="marcrelator">egr</role>
+            </agent>
+            <agent pref="false" dataDate="2016-06-01-13-03-34">
+                <culture>American</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1830</earliestDate>
+                    <latestDate circa="false">1902</latestDate>
+                </dates>
+                <name refid="27338209" type="personal" vocab="viaf">Bierstadt, Albert</name>
+                <role type="code" vocab="marcrelator">dsr</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>published ca. 1866</display>
+            <date pref="true" type="creation" dataDate="2016-06-01-13-05-58">
+                <earliestDate>
+                    <date>1861</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1871</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="creation">
+                <earliestDate>
+                    <date circa="true" type="about">1866</date>
+                </earliestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2016-06-01-14-00-10">
+                <text> Print shows a Native encampment near lake in the Yosemite Valley of the Rocky Mountains.
+
+- Title from item.
+- Signed on plate "ABierstadt 1863" lower right.
+- Entered according to Act of Congress in the year 1866, by Edward Bierstadt, in the Clerk's Office of the U.S. District Court for the Southern District of New York.
+- Library has two impressions, one proof before letters.
+- Library's proof before letters is signed in pencil "A. Bierstadt" lower right and blind stamped "Estate of Henry Ward Beecher - American Art Association (Sale) 1887" lower left.</text>
+                <author>
+                    <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description pref="pref" dataDate="2015-11-11-13-56-16">
+                <text>Lake in the Yosemite Gulch of the Rocky Mountains, with a Native American encampment.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription dataDate="2016-06-01-13-45-52">
+                <author refid="62351142" vocab="viaf">Smillie, James David</author>
+                <position>lower center</position>
+                <text type="text">Rocky Mountains / J. Smillie</text>
+            </inscription>
+            <inscription extent="library's proof, blind stamped" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2016-06-01-13-48-53">
+                <position>proof, lower left</position>
+                <text type="text">Estate of Henry Ward Beecher - American Art Association (Sale) 1887</text>
+            </inscription>
+            <inscription extent="library's proof before letters is signed in pencil" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2015-11-11-14-13-12">
+                <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
+                <position>proof, lower right</position>
+                <text type="signature">A. Bierstadt</text>
+            </inscription>
+            <inscription href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2015-11-11-14-14-11">
+                <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
+                <position>on plate, lower right</position>
+                <text type="signature">ABierstadt 1863</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-06-01-13-13-43">
+                <refid type="accession">PGA - Smillie (J.D.)--Rocky Mountains (D size) [P&amp;P]</refid>
+                <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements extent="sheet size" pref="true" type="height" unit="cm">28.57</measurements>
+            <measurements extent="sheet size" pref="true" type="width" unit="cm">38.74</measurements>
+            <measurements extent="sheet size" pref="false" type="height" unit="in">11 1/4</measurements>
+            <measurements extent="sheet size" pref="false" type="width" unit="in">15 1/4</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" type="derivedFrom" href="https://www.metmuseum.org/art/collection/search/10154">The Rocky Mountains, Lander's Peak</relation>
+            <relation pref="true" relids="i_Ex046_printsdr_PrintTwoArtists" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-11-14-21-07">
+                <refid type="URI">http://www.loc.gov/pictures/item/95513915/</refid>
+                <name type="electronic">Library of Congress</name>
+            </source>
+            <source pref="true" dataDate="2015-11-11-14-20-54">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_46_print_two_artists_a_work_in_a_group</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 46: Print, two artists, a work in a group.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject dataDate="2015-11-11-14-08-18">
+                <term refid="300379660" vocab="aat" type="descriptiveTopic">indigenous people</term>
+            </subject>
+	    <subject dataDate="2018-03-21-13-10-05">
+		<term refid="sh85065184" vocab="lcsh" type="descriptiveTopic">Indians of North America</term>
+	    </subject>
+            <subject dataDate="2015-11-11-14-07-18">
+                <term refid="300008680" vocab="aat" type="descriptiveTopic">lakes</term>
+            </subject>
+            <subject dataDate="2015-11-11-14-06-52">
+                <term refid="300257104" vocab="aat" type="descriptiveTopic">camps</term>
+            </subject>
+            <subject dataDate="2016-06-01-13-10-05">
+                <term refid="300015636" vocab="aat" type="descriptiveTopic">landscapes</term>
+            </subject>
+            <subject>
+                <term refid="7014356" vocab="tgn" type="geographicPlace">Rocky Mountains</term>
+            </subject>
+            <subject>
+                <term refid="2785933" vocab="tgn" type="geographicPlace">Yosemite Gulch</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053225" vocab="aat">engraving</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="inscribed">Rocky Mountains</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300041340" vocab="aat">engravings</worktype>
+            <worktype refid="300041273" vocab="aat">prints</worktype>
+        </worktypeSet>
+    </work>
+</vra>

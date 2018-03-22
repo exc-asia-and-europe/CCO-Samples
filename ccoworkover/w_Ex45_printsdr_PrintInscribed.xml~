@@ -86,7 +86,7 @@
             <measurements source="National Gallery of Art, Washington" extent="sheet" type="width" unit="cm">28.5</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_37ed8c3f-7d7b-4321-b10c-c277e93307c6" source="Tamboti" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_37ed8c3f-7d7b-4321-b10c-c277e93307c6" pref="true">general view</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other">

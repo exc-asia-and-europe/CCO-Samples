@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex007_paintings_RococoPortrait" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="true" dataDate="2015-04-29-12-21-19">
+                <dates type="life">
+                    <earliestDate circa="false">1715</earliestDate>
+                    <latestDate circa="false">1783</latestDate>
+                </dates>
+                <name refid="24871247" type="personal" vocab="viaf">Perronneau, Jean Baptiste</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+            <agent pref="false" dataDate="2015-04-29-12-20-56">
+                <name refid="172163094" type="personal" vocab="viaf">Pinceloup de la Grange, Magdaleine</name>
+                <role type="code" vocab="marcrelator">dpc</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-04-19-13-37-30">
+                <earliestDate>
+                    <date>1747</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1747</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-19-13-42-47">
+                <text>Facing leftward, Magdaleine Pinceloup de la Grange gazes into the distance. Her refined dress is accented by flowers, ribbons, and pearls. But Magdaleine does not appear quite as at ease as her husband, Charles-François, in a companion portrait. She sits straight upright, her back parallel to, but not quite touching, the chair behind her. 
+
+With both hands, Magdaleine grasps a large gray-blue cat that bemusedly engages the viewer. Because of its large size and distinctive coloration, the cat can be identified as a chartreux, one of the oldest and most cherished French breeds. Jean-Baptiste Perronneau included feline companions in several of his portraits of female subjects, reinforcing the elegance and sophistication of his sitters. Here, the bells on the chartreux's collar echo the pearls around Magdaleine's neck, suggesting that cat and sitter alike are refined objects for visual delectation.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">rps</role>
+                </author>
+            </description>
+            <description pref="true" dataDate="2016-04-19-13-43-17" source="J. Paul Getty Museum online. www.getty.edu Page: accessed 10 October 2006">
+                <text>The sitter was from the provincial French region of Orléans, but the artist imbued her with Parisian sophistication. The cat she holds is known as a “Chartreux cat,” descriptions of which first appeared in 18th-century France. While some at this time valued this breed as a companion animal, it was primarily bred for its fur.
+[Source: J. Paul Getty Museum online. www.getty.edu Page: accessed 10 October 2006.]</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+	    <description>
+		<text>Provenance. 
+1747 - 1984 Pinceloup Family [sold, Galerie des Ventes, Orléans, March 15, 1984, lot 110 (with its pendant, lot 111), to Stair Sainty Fine Art, Inc. and Patrick Matthiesen.]
+
+1984 Stair Sainty Matthiesen and The Matthiesen Gallery, sold to the J. Paul Getty Museum.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">rps</role>
+                </author>
+	    </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" source="J. Paul Getty Museum" dataDate="2016-04-19-13-45-18">
+                <author refid="24871247" vocab="viaf">Perronneau, Jean Baptiste</author>
+                <position>center right</position>
+                <text type="signature">1747/ Perroneau</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-04-19-13-40-30">
+                <refid type="accession">84.PA.665</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300015050" type="medium" vocab="aat">oil paint</material>
+            <material refid="300014078" type="support" vocab="aat">canvas</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">65.1</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">52.4</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" pref="false" source="J. Paul Getty Museum" type="height" unit="in">25 5/8</measurements>
+            <measurements href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" pref="false" source="J. Paul Getty Museum" type="width" unit="in">20 5/8</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="w_R_Ex7_paintings_RococoPortrait" type="pendantOf"/>
+            <relation pref="true" relids="i_Ex007_paintings_RococoPortrait" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+            <source pref="true" dataDate="2016-04-19-13-35-35">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_7_rococo_portrait</refid>
+                <name type="electronic">Cataloging Cultural Objects Online. Example 7: Rococo portrait.</name>
+            </source>
+	    <source pref="false">
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=27</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 233. Figure 36. Work Record Linked to Other Authorities for Subject: Portrait.</name>
+	    </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300021155" vocab="aat">Rococo</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" source="J. Paul Getty Museum" dataDate="2016-04-19-13-39-09">
+                <term refid="300178794" vocab="aat" type="conceptTopic">companion portraits</term>
+            </subject>
+            <subject dataDate="2015-04-29-12-33-10">
+                <term refid="300265960" vocab="aat" type="descriptiveTopic">Felis domesticus</term>
+            </subject>
+            <subject dataDate="2016-04-19-13-39-17">
+                <term refid="300015637" vocab="aat" type="descriptiveTopic">portraits</term>
+            </subject>
+	    <subject>
+		<term refid="172163094" vocab="viaf" type="personalName">Pinceloup de la Grange, Magdaleine</term>
+	    </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300054216" vocab="aat">painting</technique>
+            <technique refid="300178684" vocab="aat">oil painting</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref dataDate="2016-04-21-10-59-16">
+                <name type="electronic">CONA</name>
+                <refid type="other">700002159</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <title pref="true" type="repository">Magdaleine Pinceloup de la Grange, née de Parseval</title>
+            <title href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/?dz=0.5000,0.6228,0.45" pref="false" source="J. Paul Getty Museum" type="other">Portrait of Magdaleine Pinceloup de la Grange</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300033618" vocab="aat">paintings</worktype>
+        </worktypeSet>
+    </work>
+</vra>

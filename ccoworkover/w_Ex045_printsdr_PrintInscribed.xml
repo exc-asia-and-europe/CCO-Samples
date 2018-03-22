@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex045_printsdr_PrintInscribed" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="true" dataDate="2016-05-19-14-49-50">
+                <culture>French</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1755</earliestDate>
+                    <latestDate circa="false">1832</latestDate>
+                </dates>
+                <name refid="5138481" type="personal" vocab="viaf">Debucourt, Philibert-Louis</name>
+                <role type="code" vocab="marcrelator">prm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-05-19-14-50-03">
+                <earliestDate>
+                    <date>1786</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1786</date>
+                </latestDate>
+            </date>
+            <date type="exhibition">
+                <earliestDate>
+                    <date>2003-10-26</date>
+                </earliestDate>
+                <latestDate>
+                    <date>2004-02-16</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html" pref="false" source="National Gallery of Art, Washington">
+                <text>Exhibition History
+2003 Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France, National Gallery of Art, Washington, 2003-2004, no. 58a, as Le Menuet de la marieé (The Bride's Minuet).</text>
+                <author>
+                    <name refid="192403070" type="corporate" vocab="viaf">National gallery of art (Washington, D.C.)</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015057596234;view=1up;seq=130" pref="true" source="Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France. Exh. cat. National Gallery of Art, Washington, 2003-2004: no. 58a. P. 114.">
+                <text>The print was first announced in the Gazette de France on 16 October 1786 as a pendant to Descourtis' Noce de village (cat. 55j), published the year before. Still a relative newcomer to the field of color printmaking, Debucourt nevertheless proved himself to be Descourtis' equal - and more. Whereas Descourtis' print was based on a drawing by Taunay, Debucourt's composition was his own invention. He presented a livelier, busier scene, with many more participants and a greater interest in character and facial expression in the individual figures. He also dressed his players in more elaborate fashions that allowed him to show off his ability to convey the complex folds and frills of women's dresses and hats and the sheen of fancy fabrics, especially the color effects of shot silk.</text>
+                <author>
+                    <name refid="192403070" type="corporate" vocab="viaf">National gallery of art (Washington, D.C.)</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription source="Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France. Exh. cat. National Gallery of Art, Washington, 2003-2004: no. 58a. P. 114.">
+                <author refid="5138481" vocab="viaf">Debucourt, Philibert-Louis</author>
+                <text type="mark">T DUPVY FIN / AUVERGNE 1742</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-05-19-15-01-33">
+                <refid type="accession">1942.9.2261</refid>
+                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition">
+                <refid type="other">Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France, National Gallery of Art, Washington, 2003-2004, no. 58a, as Le Menuet de la marieé (The Bride's Minuet).</refid>
+                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+	    <display>etching and engraving printed in yellow, red, blue, pink, and black inks from five plates / etching and wash manner, printed in blue, orange-red, pale pink, yellow, and black inks</display>
+            <material refid="300015012" type="medium" vocab="aat">ink</material>
+            <material refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements source="National Gallery of Art, Washington" extent="outer framing line" type="height" unit="cm">30.7</measurements>
+            <measurements source="National Gallery of Art, Washington" extent="outer framing line" type="width" unit="cm">23.4</measurements>
+            <measurements source="National Gallery of Art, Washington" extent="plate" type="height" unit="cm">38.6</measurements>
+            <measurements source="National Gallery of Art, Washington" extent="sheet" type="width" unit="cm">28.5</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_Ex045_printsdr_PrintInscribed" pref="true">general view</relation>
+        </relationSet>
+	<rightsSet>
+	    <rights type="other">
+		<rightsHolder>National Gallery of Art, Washington D.C.</rightHolder>
+		<text>Widener Collection</text>
+	    </rights>
+	</rightsSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-11-11-38-02">
+                <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html#</refid>
+                <name type="electronic">National Gallery of Art, Washington D.C.</name>
+            </source>
+            <source pref="true" dataDate="2015-11-11-11-37-40">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_45_print_inscribed_title</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 45: Print, inscribed title.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">https://babel.hathitrust.org/cgi/pt?id=mdp.39015057596234;view=1up;seq=130</refid>
+                <name type="book">Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France. Exh. cat. National Gallery of Art, Washington, 2003-2004: no. 58a. P. 114.</name>
+            </source>
+        </sourceSet>
+        <stateEditionSet>
+            <stateEdition count="vi" num="iv" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html#" source="National Gallery of Art, Washington" type="state" dataDate="2015-11-11-11-35-27">
+                <description>Fenaille 1899, no. 8, State iv/vi</description>
+            </stateEdition>
+        </stateEditionSet>
+        <subjectSet>
+            <subject dataDate="2015-11-11-11-21-58">
+                <term refid="300055475" vocab="aat" type="conceptTopic">marriage</term>
+            </subject>
+            <subject dataDate="2015-11-11-11-21-26">
+                <term refid="300343613" vocab="aat" type="descriptiveTopic">brides</term>
+            </subject>
+            <subject dataDate="2015-11-11-11-20-56">
+                <term refid="300069158" vocab="aat" type="descriptiveTopic">weddings</term>
+            </subject>
+            <subject dataDate="2015-11-11-11-20-37">
+                <term refid="300343612" vocab="aat" type="descriptiveTopic">minuets</term>
+            </subject>
+            <subject dataDate="2015-11-11-11-20-24">
+                <term refid="300139140" vocab="aat" type="iconographicTopic">genre</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique pref="false" refid="300053329" vocab="aat">color printing</technique>
+            <technique pref="false" refid="300053225" vocab="aat">engraving</technique>
+            <technique pref="false" refid="300053241" vocab="aat">etching</technique>
+        </techniqueSet>
+	<textrefSet>
+	    <textref>
+		<name type="catalog">Fenaille, Maurice. L'Oeuvre grave de P.L. Debucourt (1755-1832). Paris: Librairie Damascene Morgand, 1899.</name>
+		<refid type="citation">no. 8, State iv/vi</refid>
+	    </textref>
+	</textrefSet>
+        <titleSet>
+            <title pref="false" type="inscribed" xml:lang="fr">Menuet de la Mariée</title>
+            <title pref="false" type="translated" xml:lang="en">Minuet of the Bride</title>
+            <title href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html" pref="false" source="National Gallery of Art, Washington" type="repository">Le Menuet de la mariee (The Bride's Minuet)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype pref="false" refid="300041273" vocab="aat">prints</worktype>
+            <worktype pref="false" refid="300041504" vocab="aat">color prints</worktype>
+            <worktype pref="false" refid="300041365" vocab="aat">etchings</worktype>
+        </worktypeSet>
+    </work>
+</vra>

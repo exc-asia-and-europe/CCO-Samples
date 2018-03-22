@@ -76,6 +76,10 @@
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_164_parliament_buildings_images</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 164: Parliament buildings, images.</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=40</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 40. Figure 8. Work Record for a Work and Related Images: 19th-Century Parliament Buildings.</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021452" vocab="aat">Gothic Revival</stylePeriod>

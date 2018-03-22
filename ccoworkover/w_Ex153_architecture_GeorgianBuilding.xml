@@ -67,6 +67,10 @@
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_153_georgian_building</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 153: Georgian building.</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=26</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 181. Figure 24. Work Record Linked to Authority Records: Neoclassical Building.</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021048" vocab="aat">Georgian</stylePeriod>

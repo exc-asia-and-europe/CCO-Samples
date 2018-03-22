@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex073_sculpture_RomanBust" refid="c_CCO_Examples">
+        <agentSet>
+            <agent dataDate="2016-06-08-10-29-03">
+                <name refid="100628022" type="personal" vocab="viaf" dataDate="2015-11-26-16-44-06">unknown Ancient Roman</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-44-06">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300020533" dataDate="2015-11-26-16-56-19">Roman (ancient Italian culture or period)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display dataDate="2015-11-26-16-44-28">1st century CE</display>
+            <date dataDate="2015-11-26-16-44-28">
+                <earliestDate>
+                    <date dataDate="2015-11-26-16-44-28">0001</date>
+                </earliestDate>
+                <latestDate>
+                    <date dataDate="2015-11-26-16-44-28">0099</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="https://research.archives.gov/id/192414" source="United States. National Archives and Records Administration" dataDate="2016-06-08-11-23-58">
+                <text dataDate="2015-11-26-16-45-46">This marble bust, which is a funerary portrait of a young boy, dates to the 1st Century A. D., Tiberian period. It was given to Lyndon B. Johnson by His Excellency Antonio Segni, President of Italy. The artist is unknown.</text>
+                <author dataDate="2015-11-26-16-45-46">
+                    <name refid="168811441" type="corporate" vocab="viaf" dataDate="2015-11-26-16-45-46">United States, National Archives and Records Administration</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-45-46">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <refid type="accession" dataDate="2015-11-26-16-47-05">NLJ-MCOLL-M01</refid>
+		<refid type="accession">ARC Identifier: 192414</refid>
+		<refid type="accession">Other Identifier: 64.3.4</refid>
+                <name refid="127936815" type="corporate" vocab="viaf">Lyndon Baines Johnson Library and Museum</name>
+		<name refid="7007826" type="geographic" vocab="tgn" extent="inhabited place">Austin</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="state">Texas</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300011443" type="medium" vocab="aat" dataDate="2015-11-26-16-56-47">marble</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="height" unit="cm" dataDate="2015-11-26-16-58-24">29.85</measurements>
+            <measurements pref="true" type="width" unit="cm" dataDate="2015-11-26-16-58-24">15.88</measurements>
+            <measurements pref="true" type="depth" unit="cm" dataDate="2015-11-26-16-58-24">17.15</measurements>
+            <measurements pref="false" type="height" unit="in" dataDate="2015-11-26-16-58-24">11 3/4</measurements>
+            <measurements pref="false" type="width" unit="in" dataDate="2015-11-26-16-58-24">6 1/4</measurements>
+            <measurements pref="false" type="depth" unit="in" dataDate="2015-11-26-16-58-24">6 3/4</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_Ex073_sculpture_RomanBust">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2015-11-26-16-59-37">
+                <refid type="URI" dataDate="2015-11-26-16-59-37">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_73_roman_bust</refid>
+                <name type="electronic" dataDate="2015-11-26-16-59-37">Cataloging Cultural Objects Commons. Example 73: Roman bust.</name>
+            </source>
+            <source pref="false" dataDate="2015-11-26-16-59-37">
+                <refid type="URI" dataDate="2015-11-26-16-59-37">https://research.archives.gov/id/192414</refid>
+                <name type="electronic" dataDate="2015-11-26-16-59-37">United States. National Archives and Records Administration</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300184644" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">funerary sculpture</term>
+            </subject>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300025944" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">youth</term>
+            </subject>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300025928" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">men</term>
+            </subject>
+            <subject dataDate="2016-06-08-11-25-01">
+                <term refid="300247598" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">boys</term>
+            </subject>
+            <subject dataDate="2015-11-26-16-54-12">
+                <term refid="300015637" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-54-12">portraits</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053149" vocab="aat" dataDate="2015-11-26-17-04-32">carving</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="repository" dataDate="2015-11-26-16-55-26">Bust of a Youth in the Age of Tiberius</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300047457" vocab="aat" dataDate="2015-11-26-17-05-20">busts</worktype>
+            <worktype refid="300047600" vocab="aat" dataDate="2015-11-26-17-05-20">statues</worktype>
+            <worktype refid="300047090" vocab="aat" dataDate="2015-11-26-17-05-20">sculpture</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_e690b96e-439c-4f37-85a5-2f10ac55bc34" source="Kurs" refid="c_4d864487-f2f4-458c-9dd3-6a1822b3031a">
+    <work id="w_Ex028_printsdr_RenaissanceDrawing" refid="c_CCO_Examples">
         <agentSet>
             <agent dataDate="2016-04-28-16-42-45">
                 <culture>Italian</culture>

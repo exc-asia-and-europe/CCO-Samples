@@ -57,6 +57,10 @@
                 <refid type="URI" dataDate="2015-11-18-17-48-05">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church</refid>
                 <name type="electronic" dataDate="2015-11-18-17-48-05">Cataloging Cultural Objects Commons. Example 150: Gothic church.</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=28</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 75. Figure 13. Work Record Linked to Another Work Record: Medieval Cathedral and Its Portal.</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020775" vocab="aat" dataDate="2015-11-18-17-48-58">Gothic</stylePeriod>

@@ -99,6 +99,10 @@
                 <refid type="URI">https://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=25</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 72. Figure 10. Work Record Linked to an Authority Record for Work Type: Ancient Greek Vessel.</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020118" vocab="aat">Attic</stylePeriod>

@@ -45,12 +45,11 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description pref="false" source="Wikipedia" dataDate="2016-06-08-16-14-53">
-                <text>Large Arch is an abstract bronze sculpture of an arch created by Henry Moore. The shape of the sculpture suggests human hip and leg bones, while the negative space on the interior of the arch suggests an abstracted human torso with head. It is 19 feet 6 inches tall. The width of the sculpture at its base is 12 feet 3 inches wide, but is 13 feet 9 inches at its widest at the top. While the sculpture is hollow, it weighs approximately 11,000 lb (5,000 kg). Despite the fact that it was sandcast in 50 sections and then assembled on site in 1971, the surface of the sculpture is smooth with little evidence of the joins. The surface of the sculpture was originally patinated green, and was expected to change very little with age. Moore described the original color as Paris green. As of 2014 the patina has progressed, with a light blue patina forming in areas that are most exposed to rain. The deep wrinkles and rough surface of the sculpture is part of the original design, which I.M. Pei has described as "elephant skin."
-The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</text>
+            <description pref="false" source="Henry Moore Foundation">
+                <text>Installed by I M Pei. Dedicated at the same time as the Cleo Rogers Memorial Library building, May 16, 1971.</text>
                 <author>
-                    <name refid="195846295" type="corporate" vocab="viaf">Wikipedia</name>
-                    <role type="code" vocab="marcrelator">edt</role>
+                    <name refid="129948349" type="corporate" vocab="viaf">The Henry Moore Foundation</name>
+                    <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>

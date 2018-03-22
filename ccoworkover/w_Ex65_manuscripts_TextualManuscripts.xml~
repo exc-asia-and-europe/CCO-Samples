@@ -143,6 +143,7 @@
         </subjectSet>
         <techniqueSet>
             <technique refid="300252927" vocab="aat" dataDate="2015-11-26-13-31-13">handwriting</technique>
+            <technique vocab="AAT" refid="300053162" source="VRA Core">calligraphy (process)</technique>
         </techniqueSet>
         <titleSet>
             <title type="repository" dataDate="2015-11-26-12-53-58">Declaration of Independence</title>

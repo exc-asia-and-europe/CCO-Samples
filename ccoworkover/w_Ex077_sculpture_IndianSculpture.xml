@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex077_sculpture_IndianSculpture" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="true" dataDate="2015-11-30-17-24-26">
+                <name refid="100626803" type="personal" vocab="viaf" dataDate="2015-11-30-17-24-26">unknown Indian</name>
+                <role type="code" vocab="marcrelator" dataDate="2015-11-30-17-24-26">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext href="http://www.metmuseum.org/collection/the-collection-online/search/39328" source="Metropolitan Museum of Art" vocab="AAT" refid="300386956" dataDate="2015-11-30-17-46-13">Tamil (culture or style)</culturalContext>
+            <culturalContext vocab="AAT" refid="300018863" dataDate="2015-11-30-17-46-13">Indian (South Asian)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display dataDate="2015-11-30-17-25-12">ca. 11th century</display>
+            <date pref="true" type="creation" dataDate="2015-11-30-17-25-12">
+                <earliestDate>
+                    <date dataDate="2015-11-30-17-25-12" circa="true">975</date>
+                </earliestDate>
+                <latestDate>
+                    <date dataDate="2015-11-30-17-25-12" circa="true">1125</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition">
+                <earliestDate>
+                    <date>1992-03-09</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1992-06-28</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition">
+                <earliestDate>
+                    <date>1992-09-16</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1992-10-25</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition">
+                <earliestDate>
+                    <date>1993-02-07</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1993-04-11</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/39328" pref="false" source="Metropolitan Museum of Art" dataDate="2015-11-30-17-28-46">
+                <text dataDate="2015-11-30-17-28-46">As a symbol, Shiva Nataraja is a brilliant invention. It combines in a single image Shiva's roles as creator, preserver, and destroyer of the universe and conveys the Indian conception of the never-ending cycle of time. Although it appeared in sculpture as early as the fifth century, its present, world-famous form evolved under the rule of the Cholas. Shiva's dance is set within a flaming halo. The god holds in his upper right hand the damaru (hand drum that made the first sounds of creation). His upper left hand holds agni (the fire that will destroy the universe). With his lower right hand, he makes abhayamudra (the gesture that allays fear). The dwarflike figure being trampled by his right foot represents apasmara purusha (illusion, which leads mankind astray). Shiva's front left hand, pointing to his raised left foot, signifies refuge for the troubled soul. The energy of his dance makes his hair fly to the sides. The symbols imply that, through belief in Shiva, his devotees can achieve salvation.</text>
+                <author dataDate="2015-11-30-17-28-46">
+                    <name refid="126238294" type="corporate" vocab="viaf" dataDate="2015-11-30-17-28-46">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-30-17-28-46">aut</role>
+                </author>
+            </description>
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/39328" pref="false" source="Metropolitan Museum of Art">
+                <text>Provenance.
+[ R. H. Ellsworth Ltd. , New York, until 1987, donated to MMA] </text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description href="http://www.metmuseum.org/collection/the-collection-online/search/39328" pref="false" source="Metropolitan Museum of Art">
+                <text>Exhibition history.
+New York. Asia Society. "The Cosmic Dancer: Shiva Nataraja," March 9, 1992–June 28, 1992.
+
+Honolulu Academy of Arts. "The Cosmic Dancer: Shiva Nataraja," September 16, 1992–October 25, 1992.
+
+New Haven. Yale University Art Gallery. "The Cosmic Dancer: Shiva Nataraja," February 7, 1993–April 11, 1993.</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="Metropolitan Museum of Art online. www.metmuseum.org  Page: accessed 21 December 2006." dataDate="2016-06-08-13-26-58">
+                <text dataDate="2015-11-30-17-28-46">Shiva as Lord of the Dance with a Flaming Body Halo. In his dance of ecstasy Shiva raised his left leg, and, in a gesture known as the “gaja hasta,” pointed to his lifted leg to provide refuge for the troubled soul. He thus imparted the lesson that through belief in him, the soul of mankind can be transported from the bondage of illusion and ignorance to salvation and eternal serenity. Encircling Shiva is a flaming body halo (“prabhamandala,” or surrounding effulgence) that not only establishes the visual limits of this complex and dynamic composition but also symbolizes the boundaries of the cosmos.</text>
+                <author dataDate="2015-11-30-17-28-46">
+                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-30-17-28-46">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator" dataDate="2015-11-30-17-28-46">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2015-11-30-17-36-02">
+                <refid type="accession" dataDate="2015-11-30-17-36-02">1987.80.1</refid>
+                <name refid="126238294" vocab="viaf" dataDate="2015-11-30-17-36-02">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location href="http://www.metmuseum.org/collection/the-collection-online/search/39328" pref="false" source="Metropolitan Museum of Art" type="creation" dataDate="2016-06-08-13-23-24">
+                <name refid="7001797" vocab="tgn" extent="state" dataDate="2015-11-30-17-36-02">Tamil Nādu</name>
+		<name refid="7000198" type="geographic" vocab="tgn" extent="nation">India</name>
+		<name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
+            </location>
+	    <location pref="false" type="exhibition">
+                <refid type="other">"The Cosmic Dancer: Shiva Nataraja," March 9, 1992–June 28, 1992.</refid>
+                <name refid="130725541" type="corporate" vocab="viaf">Asia Society</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location> 
+	    <location pref="false" type="exhibition">
+                <refid type="other">"The Cosmic Dancer: Shiva Nataraja," September 16, 1992–October 25, 1992.</refid>
+                <name refid="139320214" type="corporate" vocab="viaf">Honolulu Academy of Arts</name>
+		<name refid="7013718" type="geographic" vocab="tgn" extent="inhabited place">Honolulu</name>
+		<name refid="7007249" type="geographic" vocab="tgn" extent="state">Hawaii</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location> 
+	    <location pref="false" type="exhibition">
+                <refid type="other">"The Cosmic Dancer: Shiva Nataraja," February 7, 1993–April 11, 1993.</refid>
+                <name refid="158793816" type="corporate" vocab="viaf">Yale University. Art Gallery.</name>
+		<name refid="7014210" type="geographic" vocab="tgn" extent="inhabited place">New Haven</name>
+		<name refid="7007159" type="geographic" vocab="tgn" extent="state">Connecticut</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location> 
+        </locationSet>
+        <materialSet>
+            <material refid="300010942" type="medium" vocab="aat" dataDate="2015-11-30-17-46-41">copper alloy</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="height" unit="cm" dataDate="2015-11-30-17-48-15">68.3</measurements>
+            <measurements pref="false" type="height" unit="in" dataDate="2015-11-30-17-48-15">26 7/8</measurements>
+            <measurements pref="true" type="diameter" unit="cm" dataDate="2015-11-30-17-48-15">56.5</measurements>
+            <measurements pref="false" type="diameter" unit="in" dataDate="2015-11-30-17-48-15">22 1/4</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="true" relids="i_Ex077_sculpture_IndianSculpture" type="imageIs" dataDate="2015-11-30-17-44-52">general view</relation>
+        </relationSet>
+	<rightsSet>
+	    <rights type="other">
+		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+		<text>Gift of R. H. Ellsworth Ltd., in honor of Susan Dillon, 1987</text>
+	    </rigths>
+	</rightsSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-30-17-49-00">
+                <refid type="URI" dataDate="2015-11-30-17-49-00">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_77_indian_sculpture</refid>
+                <name type="electronic" dataDate="2015-11-30-17-49-00">Cataloging Cultural Objects Commons. Example 77: Indian sculpture.</name>
+            </source>
+            <source pref="false" dataDate="2016-06-08-12-45-15">
+                <refid type="URI" dataDate="2015-11-30-17-49-00">http://www.metmuseum.org/collection/the-collection-online/search/39328</refid>
+                <name type="electronic" dataDate="2015-11-30-17-49-00">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300018913" vocab="aat" dataDate="2015-11-30-17-49-29">Chola</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject dataDate="2015-11-30-17-43-28">
+                <term refid="300025928" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-17-43-28">men</term>
+            </subject>
+            <subject>
+                <term refid="12H13(SHIVA)" vocab="iconclass" type="iconographicTopic">Shiva, god of fertility of nature</term>
+            </subject>
+            <subject>
+                <term refid="sh95009208" vocab="lcsh" type="iconographicTopic">Naṭarāja (Hindu deity)</term>
+            </subject>
+            <subject dataDate="2015-11-30-17-43-28">
+                <term refid="300389779" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-17-43-28">dancing</term>
+            </subject>
+            <subject dataDate="2015-11-30-17-41-04">
+                <term refid="300073727" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-17-43-28">deities</term>
+            </subject>
+            <subject dataDate="2015-11-30-17-43-28">
+                <term refid="300073727" vocab="aat" type="conceptTopic" dataDate="2015-11-30-17-43-28">Hinduism</term>
+            </subject>
+            <subject dataDate="2015-11-30-17-41-04">
+                <term refid="300073708" vocab="aat" type="conceptTopic" dataDate="2015-11-30-17-41-04">religions</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053113" vocab="aat" dataDate="2015-11-30-17-49-43">lost-wax process</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="repository" dataDate="2015-11-30-17-44-15">Shiva as Lord of Dance (Nataraja)</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300047090" vocab="aat" dataDate="2015-11-30-17-50-10">sculpture</worktype>
+            <worktype refid="300047600" vocab="aat" dataDate="2015-11-30-17-50-10">statues</worktype>
+        </worktypeSet>
+    </work>
+</vra>

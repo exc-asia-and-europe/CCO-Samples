@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex049_printsdr_PrintMap" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="true" dataDate="2016-06-01-14-54-35">
+                <culture>Dutch</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1637</earliestDate>
+                    <latestDate circa="true" type="before">1707</latestDate>
+                </dates>
+                <name refid="27049976" type="personal" vocab="viaf">Stopendael, Bastiaen</name>
+                <role type="code" vocab="marcrelator">prm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300020656">European</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-06-01-14-54-51">
+                <earliestDate>
+                    <date>1663</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1663</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description href="http://search.getty.edu/gri/records/griobject?objectid=885833095" source="Getty Research Institute" dataDate="2015-11-11-15-37-22">
+                <text>Plate consists of two double folded leaves. It is the first, unnumbered plate. Signed Bastiaen Stopendaal.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <author refid="27049976" vocab="viaf">Stopendael, Bastiaen</author>
+                <text type="text">Napoli</text>
+            </inscription>
+            <inscription dataDate="2016-06-01-15-00-37">
+                <author refid="27049976" vocab="viaf">Stopendael, Bastiaen</author>
+                <position>in the plate</position>
+                <text type="signature">Bastiaen Stopendaal</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-06-01-14-58-10">
+                <refid type="accession">92-B27718-plate 1</refid>
+                <name refid="154037452" type="corporate" vocab="viaf">Getty Research Institute, Research Library</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements extent="sheet" pref="true" href="http://search.getty.edu/gri/records/griobject?objectid=885833095" source="Getty Research Institute" type="height" unit="cm">51</measurements>
+            <measurements extent="sheet" pref="true" href="http://search.getty.edu/gri/records/griobject?objectid=885833095" source="Getty Research Institute" type="width" unit="cm">105</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="92-B27718" extent="plate 1" href="http://primo.getty.edu/GRI:GETTY_ALMA21132893560001551" type="partOf">Blaeu, Joan. Theatrum civitatum nec non admirandorum Neapolis et Siciliae regnorum; Amsterdam: Joan Blaeu, 1663.</relation>
+            <relation pref="true" relids="i_Ex049_printsdr_PrintMap" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-11-16-00-51">
+                <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=885833095</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 49: Print, map, part of a volume.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject dataDate="2016-06-01-14-57-02">
+                <term refid="300266304" vocab="aat" type="otherTopic">rare books</term>
+            </subject>
+            <subject dataDate="2015-11-11-15-47-23">
+                <term refid="300008678" vocab="aat" type="descriptiveTopic">harbors</term>
+            </subject>
+            <subject dataDate="2015-11-11-15-46-34">
+                <term refid="300015537" vocab="aat" type="descriptiveTopic">panoramas</term>
+            </subject>
+            <subject dataDate="2015-11-11-15-47-38">
+                <term refid="300015571" vocab="aat" type="descriptiveTopic">cityscapes</term>
+            </subject>
+	    <subject>
+                <term refid="7004474" type="geographicPlace" vocab="tgn">Napoli</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300133555" vocab="aat">hand coloring</technique>
+            <technique refid="300053241" vocab="aat">etching</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="true" type="descriptive">View of Naples</title>
+            <title pref="false" type="inscribed">Napoli</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300041273" vocab="aat">prints</worktype>
+            <worktype refid="300015424" vocab="aat">views</worktype>
+            <worktype refid="300041365" vocab="aat">etchings</worktype>
+        </worktypeSet>
+    </work>
+</vra>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex022_paintings_FrescoPainting.xml" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="true" dataDate="2015-05-04-12-04-00">
+                <dates type="life">
+                    <earliestDate circa="false">1746</earliestDate>
+                    <latestDate circa="false">1828</latestDate>
+                </dates>
+                <name refid="54343141" type="personal" vocab="viaf">Goya, Francisco</name>
+                <role type="code" vocab="marcrelator">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300111215">Spanish (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-04-26-10-56-19">
+                <earliestDate>
+                    <date>1772</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1772</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description source="Beltran, Antonio. Zaragoza y su Provincia. Zaragoza, Spain: Ayuntamiento de Zaragoza, 1969. Page: 111 ff." dataDate="2016-04-26-11-06-24">
+                <text>Goya completed this fresco for the Cathedral of El Pilar in four months. The subject is a variation on the more common theme “Adoration of the Name of Jesus.”</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+	    <description source="Carr-Gomm, Sarah. 2011. Francisco Goya. New York: Parkstone International. Page: 45">
+		<text>The Adoration of the Name of God by Angels (pp.46-7) glorifies the church triumphant in tradition baroque fashion. In the centre of the composition, the Name of God appears in Hebrew on a triangle, which represents the Trinity. Behind it, an explosion of golden light illuminates a host of angels floating on billowing clouds in an infinite space. The fresco's astounding illusionistic effects attracted much attention and established Goya's career, making him within three years the most prosperous painter in Saragossa.</text>
+		<author>
+		    <name refid="94173522" type="personal" vocab="viaf">Carr-Gomm, Sarah</name>
+		    <role type="code" vocab="marcrelator">aut</role>
+		</author>
+	    </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="true" type="owner" dataDate="2015-05-04-12-07-52">
+                <name refid="140765063" type="corporate" vocab="viaf">Nuestra Señora del Pilar (Church : Zaragoza, Spain)</name>
+                <name refid="7008813" type="geographic" vocab="tgn" extent="inhabited place">Zaragoza</name>
+                <name refid="7002759" type="geographic" vocab="tgn" extent="autonomous community">Aragon</name>
+                <name refid="1000095" type="geographic" vocab="tgn" extent="nation">Spain</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+                <point epsg="4326">
+                    <lat>41.656773</lat>
+                    <long>-0.878535</long>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300013109" type="medium" vocab="aat">pigment</material>
+            <material refid="300386877" type="medium" vocab="aat">lime plaster</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="height" unit="cm">57.78</measurements>
+            <measurements pref="true" type="width" unit="cm">125.09</measurements>
+            <measurements pref="false" type="height" unit="in">22 3/4</measurements>
+            <measurements pref="false" type="width" unit="in">49 1/4</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_Ex022_paintings_FrescoPainting" pref="true">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source dataDate="2015-05-04-12-19-36">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_22_fresco_painting</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 22: Fresco painting.</name>
+            </source>
+	    <source>
+		<refid type="URI">http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html</refid>
+		<name type="electronic">InfoGoya; Universidad de Zaragoza; catalogue of Goya's works</name>
+	    </source>
+	    <source>
+		<refid type="citation">Page 45.</refid>
+		<name type="book">Carr-Gomm, Sarah. 2011. Francisco Goya. New York: Parkstone International.</name>
+	    </source>
+        </sourceSet>
+        <subjectSet>
+            <subject dataDate="2015-05-04-12-10-37">
+                <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
+            </subject>
+            <subject>
+                <term refid="11Q" vocab="iconclass" type="iconographicTopic">the worship of God</term>
+            </subject>
+            <subject>
+                <term refid="300379004" vocab="aat" type="descriptiveTopic">angels</term>
+            </subject>
+            <subject dataDate="2016-04-26-11-07-40">
+                <term refid="300056024" vocab="aat" type="descriptiveTopic">light</term>
+            </subject>
+            <subject>
+                <term refid="300343840" vocab="aat" type="descriptiveTopic">clouds</term>
+            </subject>
+            <subject dataDate="2016-04-26-10-58-57">
+                <term refid="300343851" vocab="aat" type="iconographicTopic">gods</term>
+            </subject>
+            <subject>
+                <term refid="12A111" vocab="iconclass" type="iconographicTopic">tetragram (in Hebrew script)</term>
+            </subject>
+            <subject>
+                <term refid="11B" vocab="iconclass" type="iconographicTopic">the Holy Trinity, 'Trinitas coelestis'; Father, Son and Holy Ghost</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053357" vocab="aat">fresco painting</technique>
+        </techniqueSet>
+	<textrefSet>
+	    <textref source="InfoGoya" href="http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html">
+		<name type="catalog">Gassier, P. Goya. Ginebra, 1955</name>
+		<refid type="citation">30</refid>
+            </textref>
+	    <textref source="InfoGoya" href="http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html">
+		<name type="catalog">Gassier, P. y Wilson-Bareau, J. Vie et oeuvre de Francisco de Goya. Friburgo, 1970 (Barcelona, 1974)</name>
+		<refid type="citation">30</refid>
+            </textref>
+	    <textref source="InfoGoya" href="http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html">
+		<name type="catalog">Gudiol, J.Goya. Nueva York, 1941. Goya. Madrid, 1970.Goya. Madrid, 1975</name>
+		<refid type="citation">25</refid>
+            </textref>
+	    <textref source="InfoGoya" href="http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html">
+		<name type="catalog">Salas, X. de. Goya. Nueva York, 1981.</name>
+		<refid type="citation">29</refid>
+            </textref>
+	    <textref source="InfoGoya" href="http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html">
+		<name type="catalog">Morales, J. L.Goya : Catálogo de la pintura. Madrid, 1995</name>
+		<refid type="citation">16</refid>
+            </textref>
+	</textrefSet>
+        <titleSet>
+            <title pref="true" type="descriptive">Adoration of the Name of God</title>
+            <title href="http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html" pref="false" source="InfoGoya; Universidad de Zaragoza; catalogue of Goya's works" type="other">El nombre de Dios adorado por los ángeles o La gloria</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300033618" vocab="aat">paintings</worktype>
+            <worktype refid="300182732" vocab="aat">murals</worktype>
+            <worktype refid="300177433" vocab="aat">frescoes</worktype>
+        </worktypeSet>
+    </work>
+</vra>

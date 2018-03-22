@@ -178,6 +178,10 @@
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_152_renaissance_baroque_basilica</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 152: Renaissance/Baroque basilica.</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=38</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 38. Figure 7. Work Records for Related Works: Whole/Part Relationships for Renaissance/Baroque Basilica.</name>
+	    </source>
         </sourceSet>
         <subjectSet>
             <subject refid="300002557" vocab="aat" dataDate="2016-03-08-17-34-48">

@@ -74,8 +74,8 @@ The portrait was painted near the outset of Jean-Baptiste Perronneau's career. P
             <measurements pref="false" type="width" unit="in">21 3/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="w_df00cf78-2359-4aa6-82da-bacc14401d20" type="pendantOf">Magdaleine Pinceloup de la Grange, née de Parseval</relation>
-            <relation pref="true" relids="i_071a8db7-8b2e-48f3-9f8f-ddd2e3b105a5" type="imageIs">general view</relation>
+            <relation pref="false" relids="w_Ex007_paintings_RococoPortrait" type="pendantOf">Magdaleine Pinceloup de la Grange, née de Parseval</relation>
+            <relation pref="true" relids="i_R_Ex007_paintings_RococoPortrait.xml" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source dataDate="2015-04-29-12-54-09">

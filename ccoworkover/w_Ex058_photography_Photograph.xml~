@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex058_photography_Photograph" refid="c_CCO_Examples">
+        <agentSet>
+            <agent dataDate="2016-06-06-12-51-10">
+                <culture>American</culture>
+                <name refid="143142172" type="corporate" vocab="viaf">Haines Photo Co. (Conneaut, Ohio)</name>
+                <role type="code" vocab="marcrelator">pht</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>ca. 1909</display>
+            <date type="creation" dataDate="2016-06-06-12-52-08">
+                <earliestDate>
+                    <date>1904</date>
+                </earliestDate>
+                <latestDate>
+                    <date>1914</date>
+                </latestDate>
+            </date>
+            <date type="creation">
+                <earliestDate>
+                    <date circa="true" type="about">1909</date>
+                </earliestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-06-06-13-04-46">
+                <refid href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="accession">LC-USZ62-137560</refid>
+                <refid href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="accession">PAN US GEOG - District of Columbia no. 8 (E size) [P&amp;P]</refid>
+                <name refid="149612800" type="corporate" vocab="viaf">Library of Congress. Prints and Photographs Division.</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <measurementsSet>
+            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="true" source="Library of Congress" type="height" unit="cm">25.4</measurements>
+            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="true" source="Library of Congress" type="width" unit="cm">71.12</measurements>
+            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="false" source="Library of Congress" type="height" unit="in">10</measurements>
+            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="false" source="Library of Congress" type="width" unit="in">28</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="w_387ea1a7-e52e-46e2-84e7-7c619e8cf6fc.xml" type="depicts">The White House (Washington, District of Columbia, United States); 1792-1817</relation>
+            <relation pref="false" href="http://www.loc.gov/pictures/collection/pan/" type="partOf">Panoramic photographs (Library of Congress)</relation>
+            <relation pref="true" relids="i_Ex058_photography_Photograph" type="imageIs">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-12-15-43-32">
+                <refid type="URI">http://www.loc.gov/pictures/item/2007662044/</refid>
+                <name type="electronic">Library of Congress</name>
+            </source>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_58_photograph_photography_company</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 58: Photograph, photography company.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" dataDate="2015-11-12-15-41-29">
+                <term refid="300387602" vocab="aat" type="descriptiveTopic">panoramic photography</term>
+            </subject>
+            <subject dataDate="2015-11-12-15-38-39">
+                <term refid="300005630" vocab="aat" type="descriptiveTopic">official residences</term>
+            </subject>
+            <subject>
+                <term refid="300015537" vocab="aat" type="descriptiveTopic">panoramas</term>
+            </subject>
+            <subject dataDate="2016-06-06-12-53-39">
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300139114" vocab="aat">gelatin silver process</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="false" type="other">Panoramic Photograph of the White House, Washington, DC</title>
+            <title pref="true" href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="repository">The White House, Washington, D.C.</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300046300" vocab="aat">photographs</worktype>
+            <worktype refid="300128695" vocab="aat">gelatin silver prints</worktype>
+        </worktypeSet>
+    </work>
+</vra>

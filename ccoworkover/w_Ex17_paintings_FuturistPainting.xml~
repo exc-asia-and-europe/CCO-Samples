@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex17_paintings_FuturistPainting" source="Kurs" refid="c_96119182-a003-4a19-93e8-930d7c066f6d">
+    <work id="w_Ex17_paintings_FuturistPainting" refid="c_96119182-a003-4a19-93e8-930d7c066f6d">
         <agentSet>
             <agent pref="true" dataDate="2015-05-04-10-30-18">
                 <dates type="life">

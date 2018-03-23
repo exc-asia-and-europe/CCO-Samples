@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex006_paintings_ManneristPortrait"
+          href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/">
+      <agentSet>
+         <agent dataDate="2016-04-19-12-22-15">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex6_paintings_ManneristPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-04-29-11-20-29">
+            <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-29-11-20-57">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/</refid>
+            <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Portrait of a Halberdier (Francesco Guardi?)</title>
+      </titleSet>
+   </image>
+</vra>

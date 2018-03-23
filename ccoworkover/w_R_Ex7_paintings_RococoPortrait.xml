@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_8e2dc96f-7d95-4dc6-9184-476d37ee416f" source="Kurs" refid="c_06ed07b4-af2a-4a63-bd6a-1a2c2403eb5d">
+    <work id="w_R_Ex7_paintings_RococoPortrait" refid="c_CCO_Examples">
         <agentSet>
             <agent pref="true" dataDate="2015-04-29-12-43-10">
                 <dates type="life">
@@ -10,10 +10,6 @@
                 <name refid="24871247" type="personal" vocab="viaf">Perronneau, Jean Baptiste</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
-            <agent pref="false">
-                <name refid="305192204" type="personal" vocab="viaf">Pinceloup de la Grange, Charles-François</name>
-                <role type="code" vocab="marcrelator">dpc</role>
-            </agent>
         </agentSet>
         <culturalContextSet>
             <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
@@ -21,8 +17,11 @@
         <dateSet>
             <date type="creation" dataDate="2015-04-29-12-43-26">
                 <earliestDate>
-                    <date>1747</date>
+                    <date circa="false">1747</date>
                 </earliestDate>
+		<latestDate>
+		    <date circa="false">1747</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -75,11 +74,11 @@ The portrait was painted near the outset of Jean-Baptiste Perronneau's career. P
         </measurementsSet>
         <relationSet>
             <relation pref="false" relids="w_Ex007_paintings_RococoPortrait" type="pendantOf">Magdaleine Pinceloup de la Grange, née de Parseval</relation>
-            <relation pref="true" relids="i_R_Ex007_paintings_RococoPortrait.xml" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_R_Ex007_paintings_RococoPortrait" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source dataDate="2015-04-29-12-54-09">
-                <refid type="URI">http://www.getty.edu/art/collection/objects/746/jean-baptiste-perronneau-charles-francois-pinceloup-de-la-grange-french-1747/?dz=0.7543,0.6751,2.04</refid>
+                <refid type="URI">http://www.getty.edu/art/collection/objects/746/jean-baptiste-perronneau-charles-francois-pinceloup-de-la-grange-french-1747/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
         </sourceSet>
@@ -87,26 +86,57 @@ The portrait was painted near the outset of Jean-Baptiste Perronneau's career. P
             <stylePeriod refid="300021155" vocab="aat">Rococo</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject refid="300178794" vocab="aat" dataDate="2015-04-29-12-47-33">
-                <term type="conceptTopic">companion portraits</term>
+            <subject dataDate="2015-04-29-12-47-33">
+                <term refid="300178794" vocab="aat" type="conceptTopic">companion portraits</term>
             </subject>
-            <subject refid="300236547" vocab="aat" dataDate="2015-04-29-12-45-33">
-                <term type="descriptiveTopic">noblemen</term>
+            <subject dataDate="2015-04-29-12-45-33">
+                <term refid="300236547" vocab="aat" type="descriptiveTopic">noblemen</term>
             </subject>
-            <subject refid="300015637" vocab="aat" dataDate="2015-04-29-12-45-09">
-                <term type="descriptiveTopic">portraits</term>
+            <subject dataDate="2015-04-29-12-45-09">
+                <term refid="300015637" vocab="aat" type="descriptiveTopic">portraits</term>
             </subject>
+	    <subject>
+                <term refid="305192204" type="personalName" vocab="viaf">Pinceloup de la Grange, Charles-François</term>
+	    </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
         <titleSet>
-            <title type="repository">Charles-François Pinceloup de la Grange</title>
-	    <title type="other">Portrait of Charles-François Pinceloup de la Grange</title>
+            <title pref="true" type="repository">Charles-François Pinceloup de la Grange</title>
+	    <title pref="false" type="other">Portrait of Charles-François Pinceloup de la Grange</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033799" vocab="aat">oil paintings</worktype>
             <worktype refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_R_Ex007_paintings_RococoPortrait"
+          href="http://www.getty.edu/art/collection/objects/746/jean-baptiste-perronneau-charles-francois-pinceloup-de-la-grange-french-1747/">
+      <agentSet>
+         <agent dataDate="2016-08-09">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_R_Ex7_paintings_RococoPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-08-09">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-29-12-41-54">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/746/jean-baptiste-perronneau-charles-francois-pinceloup-de-la-grange-french-1747/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Charles-François Pinceloup de la Grange</title>
+      </titleSet>
+   </image>
 </vra>

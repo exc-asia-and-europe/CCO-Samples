@@ -17,34 +17,34 @@
         <dateSet>
             <date type="creation" dataDate="2016-04-21-10-35-36">
                 <earliestDate>
-                    <date>1646</date>
+                    <date circa="false">1646</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1646</date>
+                    <date circa="false">1646</date>
                 </latestDate>
             </date>
 	    <date type="exhibition">
 		<earliestDate>
-		    <date>1937</date>
+		    <date circa="false">1937</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1937</date>
+		    <date circa="false">1937</date>
 		</latestDate>
 	    </date>
 	    <date type="exhibition">
 		<earliestDate>
-		    <date>1954</date>
+		    <date circa="false">1954</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1954</date>
+		    <date circa="false">1954</date>
 		</latestDate>
 	    </date>
 	    <date type="exhibition">
 		<earliestDate>
-		    <date>1961</date>
+		    <date circa="false">1961</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1961</date>
+		    <date circa="false">1961</date>
 		</latestDate>
 	    </date>
         </dateSet>
@@ -56,7 +56,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" pref="false" source="National Gallery of Art Washington" dataDate="2016-04-21-10-55-41">
+            <description pref="false" source="National Gallery of Art Washington" dataDate="2016-04-21-10-55-41">
                 <text>Pieter Saenredam specialized in the painting of church interiors characterized by a luminous and detailed treatment of the architecture that carries the elegance of abstract design. In this portrayal of the fifteenth-century Cathedral of Saint John, an inscription on the choir stall in the lower left corner identifies the subject and dates the picture 1646. Saenredam seems to provide an accurate rendering of the spacious and light-filled interior; yet the relationship of this image to the actual site is quite complicated.
 
 In 1629 ’s-Hertogenbosch had been recaptured by the rebel forces of the United Provinces; as a result, the cathedral became a site of Protestant worship and was stripped of all objects associated with Catholic liturgy, including the stained-glass windows. On July 1, 1632, Saenredam visited the church and made four drawings of its interior. One of these shows the whitewashed vaulted ceiling, the elaborate black-and-white baroque altar with statues of the Virgin and Child with Saint John, a curtain where the altarpiece used to be, and the memorial tablets to the Habsburg rulers Philip II and Albert of Austria above the altar. A second drawing depicts the baroque tomb of Gisbertus Masius, a former bishop of ’s-Hertogenbosch, with a life-size effigy of Masius kneeling in front of an altar.
@@ -67,7 +67,7 @@ Saenredam did not create this painting until 1646, and in it he altered the real
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46132.html#entry" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>
 In this depiction of the Sint Janskathedraal (Cathedral of Saint John),[1] one of Saenredam’s grandest paintings, the artist has brought the viewer into the apse of this great cathedral to experience the full majesty of the soaring architecture towering above. He achieved this sensation in many ways: through careful compositional arrangement that reinforced the dynamic character of the architecture; through subtle use of linear and atmospheric perspective that helped open the space and fill it with light and air; and, finally, through his choice of a vertically proportioned, large panel that allowed him to paint on a scale suitable for such an imposing setting.
 
@@ -101,7 +101,7 @@ No record of this painting has been found in seventeenth-century archives, hence
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46132.html#provenance" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>Provenance
 
 Possibly Pierre Daguerre, Bayonne and Amsterdam, in the early eighteenth century; possibly by inheritance to his daughter, Marie-Anne Daguerre Harader, Itxassou, near Bayonne, mid-18th century; parish church, Itxassou;[1] (D.A. Hoogendijk, Amsterdam), by 1937.[2] J.A.G. Sandberg, Wassenaar; (Wildenstein &amp; Co., New York); sold February 1954 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA.
@@ -116,7 +116,7 @@ Possibly Pierre Daguerre, Bayonne and Amsterdam, in the early eighteenth century
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46132.html#history" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>
 Exhibition History
 
@@ -133,7 +133,7 @@ Exhibition History
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46132.html#history" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>
 Technical Summary
 
@@ -155,20 +155,21 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" source="National Gallery of Art Washington">
+<!-- This inscriptionSet demonstrates the Cluster extension which allows for specification of language, script and transliteration systems, based on ISO standards. -->
+            <inscription source="National Gallery of Art Washington">
                 <author refid="9881086" vocab="viaf">Saenredam, Pieter Jansz</author>
                 <position>lower left on choir stall</position>
-                <text type="signature">Ao.1646 / pieter Saenredam dit geschildert / de sintjans kerck in shartogenbosch</text>
+                <text lang="dut" script="Latn" type="signature">Ao.1646 / pieter Saenredam dit geschildert / de sintjans kerck in shartogenbosch</text>
             </inscription>
-            <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" source="National Gallery of Art Washington">
+            <inscription source="National Gallery of Art Washington">
                 <author refid="9881086" vocab="viaf">Saenredam, Pieter Jansz</author>
                 <position>center on right escutcheon behind altar</position>
-                <text type="text">AL.BERTO AVSTRIA CO / 1621 / PATRI PATRIAE / SILVA-DVCIS / DICAT CONSECRAT.</text>
+                <text lang="lat" script="Latn" type="text">AL.BERTO AVSTRIA CO / 1621 / PATRI PATRIAE / SILVA-DVCIS / DICAT CONSECRAT.</text>
             </inscription>
-            <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" source="National Gallery of Art Washington" dataDate="2016-04-21-10-58-09">
+            <inscription source="National Gallery of Art Washington" dataDate="2016-04-21-10-58-09">
                 <author refid="9881086" vocab="viaf">Saenredam, Pieter Jansz</author>
                 <position>on left escutcheon behind altar</position>
-                <text type="text">1598</text>
+                <text type="date">1598</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
@@ -184,26 +185,22 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
                 <name refid="7006837" type="geographic" vocab="tgn" extent="inhabited place">'s-Hertogenbosch</name>
 		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
-                <point epsg="4326">
-                    <lat>51.688003</lat>
-                    <long>5.308498</long>
-                </point>
             </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="National Gallery of Art Washington">
 		<refid type="other">1937 Pieter Jansz. Saenredam 1597-1665</refid>		
 		<name refid="151782417" type="corporate" vocab="viaf">Museum Boymans-van Beuningen</name>
                 <name refid="7006792" type="geographic" vocab="tgn" extent="inhabited place">Rotterdam</name>
 		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="National Gallery of Art Washington">
 		<refid type="other">1937 Pieter Jansz. Saenredam 1597-1665</refid>		
 		<name refid="138086258" type="corporate" vocab="viaf">Museum Fodor</name>
                 <name refid="7006952" type="geographic" vocab="tgn" extent="inhabited place">Amsterdam</name>
 		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="National Gallery of Art Washington">
 		<refid type="other">1954 Dutch Painting in the Golden Age</refid>		
 		<name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -211,7 +208,7 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="National Gallery of Art Washington">
 		<refid type="other">1954 Dutch Painting in the Golden Age</refid>		
 		<name refid="146435543" type="corporate" vocab="viaf">Toledo Museum of Art</name>
                 <name refid="7014378" type="geographic" vocab="tgn" extent="inhabited place">Toledo</name>
@@ -219,7 +216,7 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="National Gallery of Art Washington">
 		<refid type="other">1954 Dutch Painting in the Golden Age</refid>		
 		<name refid="151879312" type="corporate" vocab="viaf">Art Gallery of Ontario</name>
                 <name refid="7013284" type="geographic" vocab="tgn" extent="inhabited place">Toronto</name>
@@ -227,7 +224,7 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
 		<name refid="7005685" type="geographic" vocab="tgn" extent="nation">Canada</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="National Gallery of Art Washington">
 		<refid type="other">1961 Pieter Jansz. Saenredam</refid>		
 		<name refid="156126202" type="corporate" vocab="viaf">Centraal Museum</name>
                 <name refid="7006926" type="geographic" vocab="tgn" extent="inhabited place">Utrecht</name>
@@ -245,15 +242,21 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             <measurements pref="true" type="width" unit="cm">87</measurements>
             <measurements pref="false" type="height" unit="in">50 3/4</measurements>
             <measurements pref="false" type="width" unit="in">34 1/4</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" pref="true" source="National Gallery of Art Washington" type="height" unit="cm">168.3</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" pref="true" source="National Gallery of Art Washington" type="width" unit="cm">127</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" pref="false" source="National Gallery of Art Washington" type="height" unit="in">66 1/4</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" pref="false" source="National Gallery of Art Washington" type="width" unit="in">50</measurements>
+            <measurements pref="true" source="National Gallery of Art Washington" type="height" unit="cm" extent="framed">168.3</measurements>
+            <measurements pref="true" source="National Gallery of Art Washington" type="width" unit="cm" extent="framed">127</measurements>
+            <measurements pref="false" source="National Gallery of Art Washington" type="height" unit="in" extent="framed">66 1/4</measurements>
+            <measurements pref="false" source="National Gallery of Art Washington" type="width" unit="in" extent="framed">50</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex008_paintings_PaintingOfArchitecture">general view</relation>
 	    <relation type="depicts" refid="700000175" vocab="CONA" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000175">Cathedral of Saint John at 's-Hertogenbosch</relation>
         </relationSet>
+	<rightsSet>
+	    <rights type="other" source="National Gallery of Art Washington">
+		<rightsHolder>National Gallery of Art Washington</rightsHolder>
+		<text>Samuel H. Kress Collection</text>
+	    </rights>
+	</rightsSet>
         <sourceSet>
             <source pref="false">
                 <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html</refid>
@@ -269,11 +272,26 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             <stylePeriod refid="300021147" vocab="aat">Baroque</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" refid="300115251" source="National Gallery of Art Washington" vocab="aat" dataDate="2016-04-21-10-41-54">
-                <term type="descriptiveTopic">patrons</term>
+            <subject source="National Gallery of Art Washington">
+                <term refid="48A1" vocab="iconclass" type="conceptTopic">patron</term>
             </subject>
-            <subject href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html" refid="300007466" source="National Gallery of Art Washington" vocab="aat" dataDate="2016-04-21-10-54-15">
-                <term type="descriptiveTopic">churches</term>
+            <subject source="National Gallery of Art Washington">
+                <term refid="11P2" vocab="iconclass" type="descriptiveTopic">churches</term>
+            </subject>
+            <subject source="National Gallery of Art Washington">
+                <term refid="11P23" vocab="iconclass" type="conceptTopic">Roman Catholicism</term>
+            </subject>
+            <subject source="National Gallery of Art Washington">
+                <term refid="44F" vocab="iconclass" type="conceptTopic">revolution +Dutch Revolt</term>
+            </subject>
+            <subject source="National Gallery of Art Washington">
+                <term refid="49D7" vocab="iconclass" type="conceptTopic">mathematical perspective</term>
+            </subject>
+            <subject source="National Gallery of Art Washington">
+                <term refid="71521316" vocab="viaf" type="personalName">Isabel Clara Eugenia</term>
+            </subject>
+            <subject source="National Gallery of Art Washington">
+                <term refid="48C145" vocab="iconclass" type="descriptiveTopic">architectural settings in paintings, sculptures, etc.</term>
             </subject>
             <subject dataDate="2015-04-29-13-23-57">
                 <term refid="300022041" vocab="aat" type="conceptTopic">Reformation</term>
@@ -321,4 +339,32 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             <worktype refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex008_paintings_PaintingOfArchitecture"
+       href="https://www.nga.gov/collection/art-object-page.46132.html">
+      <agentSet>
+         <agent dataDate="2016-04-21-09-31-54">
+            <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex008_paintings_PaintingOfArchitecture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-21-09-32-49">
+            <rightsHolder>National Gallery of Art, Washington</rightsHolder>
+            <text>Digital image courtesy of the National Gallery of Art, Washington.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-04-21-09-33-40">
+            <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html</refid>
+            <name type="electronic">National Gallery of Art Washington</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Cathedral of Saint John at 's-Hertogenbosch</title>
+      </titleSet>
+   </image>
 </vra>

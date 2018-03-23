@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex6_paintings_ManneristPortrait" refid="c_b445615e-84b9-4c08-9a43-85ebdd3a46be">
+    <work id="w_Ex006_paintings_ManneristPortrait" refid="c_CCO_Examples">
         <agentSet>
             <agent pref="true" dataDate="2015-04-29-11-53-54">
                 <dates type="life">
@@ -10,56 +10,85 @@
                 <name refid="110043526" type="personal" vocab="viaf">Pontormo, Jacopo Carucci</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
-            <agent pref="false" dataDate="2016-04-19-12-35-54">
-                <dates type="life">
-                    <earliestDate circa="false">1712</earliestDate>
-                    <latestDate circa="false">1793</latestDate>
-                </dates>
-                <name refid="27073465" type="personal" vocab="viaf">Guardi, Francesco</name>
-                <role type="code" vocab="marcrelator">dpc</role>
-            </agent>
         </agentSet>
         <culturalContextSet>
             <culturalContext vocab="AAT" refid="300111198">Italian (culture or style)</culturalContext>
-            <culturalContext href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" source="J. Paul Getty Museum" vocab="AAT" refid="300386003">Florentine</culturalContext>
+            <culturalContext source="J. Paul Getty Museum" vocab="AAT" refid="300386003">Florentine</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>created ca. 1528-1530</display>
-            <date type="creation" pref="true" dataDate="2016-04-19-12-35-39">
+            <date type="creation" dataDate="2016-04-19-12-35-39">
                 <earliestDate>
-                    <date circa="true" type="about">1523</date>
+                    <date circa="false">1523</date>
                 </earliestDate>
                 <latestDate>
-                    <date circa="true" type="about">1535</date>
+                    <date circa="false">1535</date>
                 </latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1934-05-01</earliestDate>
-            	<latestDate>1934-11-01</latestDate>
+            <date type="creation">
+                <earliestDate>
+                    <date circa="true" type="about">1528</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="true" type="about">1530</date>
+                </latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1937-01-26</earliestDate>
-            	<latestDate>1937-02-10</latestDate>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1934-05-01</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1934-11-01</date>
+		</latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1939-05</earliestDate>
-            	<latestDate>1939-10</latestDate>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1937-01-26</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1937-02-10</date>
+		</latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1954-02-14</earliestDate>
-            	<latestDate>1954-03-28</latestDate>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1939-05</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1939-10</date>
+		</latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1956</earliestDate>
-            	<latestDate>1956</latestDate>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1954-02-14</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1954-03-28</date>
+		</latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1967-05-17</earliestDate>
-            	<latestDate>1967-08-29</latestDate>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1956</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1956</date>
+		</latestDate>
             </date>
-            <date type="exhibition" href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum">
-            	<earliestDate>1996-09-28</earliestDate>
-            	<latestDate>1997-01-06</latestDate>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1967-05-17</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1967-08-29</date>
+		</latestDate>
+            </date>
+            <date type="exhibition" source="J. Paul Getty Museum">
+            	<earliestDate>
+		   <date circa="false">1996-09-28</date>
+		</earliestDate>
+            	<latestDate>
+		   <date circa="false">1997-01-06</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -70,14 +99,14 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-19-13-30-09">
+            <description pref="false" source="J. Paul Getty Museum">
                 <text>Standing before a fortress wall, this well-dressed foot soldier holds a combination spear and battle-ax called a halberd. His direct stare and swaggering pose are strikingly poignant, given the smooth unlined face and slim body that betray him as no more than a teenager. As a portraitist, Jacopo Pontormo was renowned for his subtle, complex psychological studies; here he conveyed the naive arrogance and vulnerability of youth. Court painter to Duke Cosimo de' Medici, Pontormo pioneered the Mannerist style in Florence, initiating a new, sophisticated type of portraiture in which elegance and aristocratic reserve play key roles. The sitter's identity has been much discussed. The Florentine painter Giorgio Vasari noted that during the siege of Florence in about 1528 Pontormo painted a "most beautiful work," a portrait of young nobleman Francesco Guardi as a soldier. Francesco's birthdate of 1514 would make him about the age of Pontormo's teenage sitter. Based on a Florentine inventory, Cosimo de' Medici himself has also been suggested as the painting's subject.</text>
                 <author>
                     <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-19-13-30-09">
+            <description pref="false" source="J. Paul Getty Museum">
                 <text>Provenance.
 - 1612
 Riccardo Romolo Riccardi (Florence, Italy), by inheritance through the Riccardi family, 1612.
@@ -136,7 +165,7 @@ Chauncey Devereaux Stillman, 1907 - 1989 (New York, New York), sold, Christie's,
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-19-13-30-09">
+            <description pref="false" source="J. Paul Getty Museum">
                 <text>Exhibitions.
 A Century of Progress (June to November 1934) (p. 131, pl. xxii): The Art Institute of Chicago, June 1 to November 1, 1934.
 43 Portraits (January 26 to February 10, 1937): Wadsworth Atheneum (Hartford), January 26 to February 10, 1937.
@@ -160,60 +189,61 @@ L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="creation" dataDate="2016-04-19-12-41-08">
+            <location pref="false" source="J. Paul Getty Museum" type="creation" dataDate="2016-04-19-12-41-08">
+                <name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florence</name>
                 <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">A Century of Progress (June to November 1934) (p. 131, pl. xxii)</refid>
-					 <name refid="131375374" type="corporate" vocab="viaf">The Art Institute of Chicago</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">A Century of Progress (June to November 1934) (p. 131, pl. xxii)</refid>
+		<name refid="131375374" type="corporate" vocab="viaf">The Art Institute of Chicago</name>                
                 <name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
                 <name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">43 Portraits (January 26 to February 10, 1937)</refid>
-					 <name refid="123797534" type="corporate" vocab="viaf">Wadsworth Atheneum</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">43 Portraits (January 26 to February 10, 1937)</refid>
+		<name refid="123797534" type="corporate" vocab="viaf">Wadsworth Atheneum</name>                
                 <name refid="7013695" type="geographic" vocab="tgn" extent="inhabited place">Hartford</name>
                 <name refid="7007159" type="geographic" vocab="tgn" extent="state">Connecticut</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">Masterpieces of Art (European Paintings and Sculpture from 1300-1800) (May to October, 1939) (Cat. 287)</refid>
-					 <name refid="138402118" type="corporate" vocab="viaf">New York World's Fair 1939-1940</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">Masterpieces of Art (European Paintings and Sculpture from 1300-1800) (May to October, 1939) (Cat. 287)</refid>
+		<name refid="138402118" type="corporate" vocab="viaf">New York World's Fair 1939-1940</name>                
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">Pontormo to Greco: The Age of Mannerism (February 14 to March 28, 1954) (11)</refid>
-					 <name refid="147476952" type="corporate" vocab="viaf">Indianapolis Museum of Art</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">Pontormo to Greco: The Age of Mannerism (February 14 to March 28, 1954) (11)</refid>
+		<name refid="147476952" type="corporate" vocab="viaf">Indianapolis Museum of Art</name>                
                 <name refid="7012924" type="geographic" vocab="tgn" extent="inhabited place">Indianapolis</name>
                 <name refid="7007252" type="geographic" vocab="tgn" extent="state">Indiana</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">Mostra del Pontormo e del primo manierismo fiorentino (1956) (63)</refid>
-					 <name refid="128366919" type="corporate" vocab="viaf">Palazzo Strozzi</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">Mostra del Pontormo e del primo manierismo fiorentino (1956) (63)</refid>
+		<name refid="128366919" type="corporate" vocab="viaf">Palazzo Strozzi</name>                
                 <name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florence</name>
                 <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">The Italian Heritage (May 17 to August 29, 1967) (20)</refid>
-					 <name refid="960145857880023020120" type="corporate" vocab="viaf">Wildenstein and Company (New York, N.Y.)</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">The Italian Heritage (May 17 to August 29, 1967) (20)</refid>
+		<name refid="960145857880023020120" type="corporate" vocab="viaf">Wildenstein and Company (New York, N.Y.)</name>                
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="exhibition" dataDate="2016-04-19-12-41-08">
-					 <refid type="other">L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism in Florentine Art (September 28, 1996 to January 6, 1997)</refid>
-					 <name refid="169401840" type="corporate" vocab="viaf">Galleria degli Uffizi</name>                
+            <location pref="false" source="J. Paul Getty Museum" type="exhibition">
+		<refid type="other">L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism in Florentine Art (September 28, 1996 to January 6, 1997)</refid>
+		<name refid="169401840" type="corporate" vocab="viaf">Galleria degli Uffizi</name>                
                 <name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florence</name>
                 <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
@@ -222,18 +252,18 @@ L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism
         <materialSet>
 	    <display>Oil (or oil and tempera) on panel transferred to canvas</display>
             <material refid="300015050" type="medium" vocab="aat">oil paint</material>
-            <material extent="maybe" refid="300015062" type="medium" vocab="aat">tempera</material>
-            <material extent="transferred to" refid="300014078" type="support" vocab="aat">canvas</material>
+            <material refid="300015062" type="medium" vocab="aat">tempera</material>
+            <material refid="300014078" type="support" vocab="aat">canvas</material>
             <material refid="300014657" type="support" vocab="aat">panels</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">95.3</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">73</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="height" unit="in">37 1/2</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">28 3/4</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="height" unit="cm">95.3</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="width" unit="cm">73</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="height" unit="in">37 1/2</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="width" unit="in">28 3/4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_8ce90a47-a580-45e0-a0f8-5da23f1c9522">general view</relation>
+            <relation type="imageIs" relids="w_Ex006_paintings_ManneristPortrait">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">
@@ -274,6 +304,7 @@ L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism
         <titleSet>
             <title pref="true" type="repository">Portrait of a Halberdier (Francesco Guardi?)</title>
             <title pref="false" type="former">Portrait of Cosimo I de’Medici</title>
+	    <title pref="false" type="other" source="J. Paul Getty Museum">Portrait of a Halberdier (probably Francesco Guardi)</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033618" vocab="aat">paintings</worktype>

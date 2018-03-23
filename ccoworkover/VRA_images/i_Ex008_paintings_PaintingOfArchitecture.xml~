@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex008_paintings_PaintingOfArchitecture"
-          href="http://images.nga.gov/?service=asset&action=show_preview&asset=148651">
+   <image id="i_99317e0a-7e69-4a9a-b8fa-4a5e12ac1027"
+          href="i_99317e0a-7e69-4a9a-b8fa-4a5e12ac1027.jpg">
       <agentSet>
          <agent dataDate="2016-04-21-09-31-54">
             <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>

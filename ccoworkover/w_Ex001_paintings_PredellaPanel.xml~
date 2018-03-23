@@ -7,7 +7,7 @@
                 <culture>Sienese</culture>
 		<dates type="life">
 		    <earliestDate circa="true">1403</earliestDate>
-		    <latestDate circa="true">1482</latestDate>
+		    <latestDate circa="false">1482</latestDate>
 		</dates>
                 <dates type="activity">
                     <earliestDate circa="false">1426</earliestDate>
@@ -21,13 +21,22 @@
             <culturalContext vocab="AAT" refid="300386004">Sienese</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>ca. 1445</display>
-            <date type="creation" dataDate="2016-04-12-12-41-41">
+            <date pref="true" type="creation" dataDate="2016-04-12-12-41-41">
                 <earliestDate>
-			<date circa="true" type="about">1440</date>
+			<date circa="false">1440</date>
 		</earliestDate>
                 <latestDate>
-			<date circa="true" type="about">1450</date>
+			<date circa="false">1450</date>
+		</latestDate>
+            </date>
+            <date pref="false" type="creation">
+                <earliestDate>
+			<date circa="true" type="about">1445</date>
+		</earliestDate>
+                <latestDate>
+			<date circa="true" type="about">1445</date>
 		</latestDate>
             </date>
         </dateSet>
@@ -39,7 +48,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description pref="false" dataDate="2015-04-27-12-16-45">
+            <description pref="false" source="Metropolitan Museum of Art" dataDate="2015-04-27-12-16-45">
                 <text>This masterpiece of Sienese painting combines Giovanni di Paolo’s exquisite visionary effects and narrative detail. The picture presents a vision of Paradise reminiscent of that described by the great Florentine poet Dante in "The Divine Comedy." The universe is shown as a celestial globe, with the earth at the center surrounded by a series of concentric circles representing first the four elements, the known planets (including the sun, in accordance with medieval and Renaissance cosmology), and finally the constellations of the zodiac. Presiding over the scene of Creation is God the Father, bathed in a glowing celestial light as he is borne aloft by seraphim. Beside the "mappamondo" (map of the world) is the garden of Paradise, its four rivers issuing from the ground at the lower right. The garden's effulgent flora symbolize the pure and sinless state of man before the Fall. A diminutive Adam and Eve are expelled from the garden by a lithe angel whose unusual nakedness and human form may symbolize his deep compassion for the corrupted state of humankind after the fall from grace. 
 This panel was originally at the far left of the predella from Giovanni di Paolo's "Guelfi Altarpiece" formerly in the Church of San Domenico in Siena (now Galleria degli Uffizi, Florence). It originally joined a representation of Paradise, now in the Museum (06.1046). For a reconstruction of the altarpiece, see http://www.metmuseum.org/collection/the-collection-online/search/436512?rpp=30&amp;pg=1&amp;ft=giovanni+di+paolo&amp;pos=1 (additional images).</text>
                 <author>
@@ -47,25 +56,23 @@ This panel was originally at the far left of the predella from Giovanni di Paolo
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-	    <description>
+	    <description pref="false" source="Metropolitan Museum of Art">
 		<text>Provenance
 Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M. Logan, "L'exposition de l'ancien art siennois," Gazette des Beaux-Arts, ser. 3, vol. 32, 1904, pp. 210-11; Crowe and Cavalcaselle, New History, vol. 3 1914, p. 178); F. Kleinberger, Paris; acquired by Philip Lehman in January 1917</text>
 		<author>
                     <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art.</name>
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
-	    </deccription>
+	    </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="creation">
+            <location pref="false" type="creation" source="Metropolitan Museum of Art">
+                <refid type="other">This panel was originally part of the predella (the lowermost horizontal component) of Giovanni di Paolo's "Guelfi Altarpiece," formerly in the Church of San Domenico in Siena (now Galleria degli Uffizi, Florence).</refid>
+		<name refid="153654719" type="geographic" vocab="viaf">San Domenico (Church : Siena, Italy)</name>
                 <name refid="7011179" vocab="tgn" type="geographic" extent="inhabited place">Siena</name>
                 <name refid="7009760" type="geographic" vocab="tgn" extent="region">Tuscany</name>
                 <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
-                <point epsg="4326">
-                    <lat>43.318451</lat>
-                    <long>11.331693</long>
-                </point>
             </location>
             <location pref="true" type="repository" dataDate="2016-04-12-12-52-04">
                 <refid type="accession">1975.1.31</refid>
@@ -82,16 +89,17 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <material refid="300015062" type="medium" vocab="aat">tempera</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" source="Metropolitan Museum of Art" type="height" unit="in">18 1/4</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="false" source="Metropolitan Museum of Art" type="width" unit="in">20 1/2</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">46.4</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/458971" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">52.1</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="height" unit="in">18 1/4</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="width" unit="in">20 1/2</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">46.4</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">52.1</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_f98aca0f-71e3-4387-8d3c-71f5c112b013">general view</relation>
+            <relation type="imageIs" relids="i_Ex001_paintings_PredellaPanel">general view</relation>
+	        <relation type="formerlyPartOf" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700009239" refid="700009239" source="CONA">Guelfi Altarpiece</relation>
         </relationSet>
 	<rightsSet>
-	    <rights href="http://www.metmuseum.org/art/collection/search/458971" source="Metropolitan Museum of Art">
+	    <rights type="other" source="Metropolitan Museum of Art">
 		<rightsHolder>The Metropolitan Museum of Art, New York</rightsHolder>
 		<text>Robert Lehman Collection, 1975</text>
 	    </rights>
@@ -113,10 +121,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <subject dataDate="2016-04-12-12-48-01">
                 <term refid="300028442" vocab="aat" type="descriptiveTopic">world maps</term>
             </subject>
-            <subject dataDate="2016-04-12-12-37-59">
-                <term refid="300003745" vocab="aat" type="descriptiveTopic">predellas</term>
-            </subject>
-            <subject dataDate="2015-04-27-12-23-39">
+            <subject source="HRA" dataDate="2015-04-27-12-23-39">
                 <term refid="300055986" vocab="aat" type="iconographicTopic">paradise</term>
             </subject>
             <subject>
@@ -125,7 +130,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <subject>
                 <term refid="11c23" vocab="iconclass" type="iconographicTopic">God the Father as bearded old man, usually with crown or tiara or sceptre and/or globe</term>
             </subject>
-            <subject>
+            <subject source="HRA">
                 <term refid="11g11" vocab="iconclass" type="iconographicTopic">Seraphim</term>
             </subject>
             <subject>
@@ -153,7 +158,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
         </textrefSet>
         <titleSet>
             <title pref="false" type="other">The Creation and the Expulsion of Adam and Eve from Paradise</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/458971" pref="true" source="Metropolitan Museum of Art" type="repository">The Creation of the World and the Expulsion from Paradise</title>
+            <title pref="true" source="Metropolitan Museum of Art" type="repository">The Creation of the World and the Expulsion from Paradise</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033656" vocab="aat">panel paintings</worktype>
@@ -161,4 +166,34 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
 	    <worktype refid="300003745" vocab="aat">predellas</worktype>
         </worktypeSet>
     </work>
+    <image id="i_Ex001_paintings_PredellaPanel"
+          href="https://images.metmuseum.org/CRDImages/rl/web-large/DT707.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-12-13-05-37">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex001_paintings_PredellaPanel">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="http://www.metmuseum.org/information/terms-and-conditions"
+                 type="publicDomain"
+                 dataDate="2016-04-12-12-26-41">
+            <rightsHolder>The Metropolitan Museum of Art.</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Robert Lehman Collection, 1975.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-27-12-02-36">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/458971</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">The Creation of the World and the Expulsion from Paradise</title>
+      </titleSet>
+   </image>
 </vra>

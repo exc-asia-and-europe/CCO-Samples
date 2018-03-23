@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex5_paintings_ManneristPortrait" refid="c_227f4cac-469d-41bc-b9b2-c0d13925c8f5">
+    <work id="w_Ex005_paintings_ManneristPortrait" refid="c_CCO_Examples">
         <agentSet>
             <agent dataDate="2015-04-29-10-46-15">
                 <dates type="life">
@@ -13,60 +13,98 @@
         </agentSet>
         <culturalContextSet>
             <culturalContext vocab="AAT" refid="300111198">Italian (culture or style)</culturalContext>
-            <culturalContext vocab="AAT" refid="300386003">Florentine</culturalContext>
+            <culturalContext vocab="AAT" refid="300386003" source="Metropolitan Museum of Art">Florentine</culturalContext>
         </culturalContextSet>
         <dateSet>
 	    <display>created in the 1530s</display>
             <date type="creation" dataDate="2015-04-29-10-47-15">
                 <earliestDate>
-                    <date circa="true" type="about">1530</date>
+                    <date circa="false">1530</date>
                 </earliestDate>
                 <latestDate>
-                    <date circa="true" type="about">1539</date>
+                    <date circa="false">1539</date>
                 </latestDate>
             </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1874-04-23</earliestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		    <date circa="false">1874-04-23</date>
+		</earliestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1915-04-06</earliestDate>
-		<latestDate>1915-04-24</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		    <date circa="false">1915-04-06</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1915-04-24</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1930-03-11</earliestDate>
-		<latestDate>1930-11-02</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		    <date circa="false">1930-03-11</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1930-11-02</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1952-11-07</earliestDate>
-		<latestDate>1953-09-07</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">1952-11-07</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1953-09-07</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1970-09-16</earliestDate>
-		<latestDate>1970-11-01</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">1970-09-16</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1970-11-01</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1970-11-15</earliestDate>
-		<latestDate>1971-02-15</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">1970-11-15</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1971-02-15</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1971-06-15</earliestDate>
-		<latestDate>1971-08-15</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">1971-06-15</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1971-08-15</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>1993-03-27</earliestDate>
-		<latestDate>1993-06-20</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">1993-03-27</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1993-06-20</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>2010-01-20</earliestDate>
-		<latestDate>2010-04-18</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">2010-01-20</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">2010-04-18</date>
+		</latestDate>
 	    </date>
-	    <date type="exhibition"href="http://www.metmuseum.org/art/collection/search/435802" source="Metropolitan Museum of Art">
-		<earliestDate>2010-09-24</earliestDate>
-		<latestDate>2011-01-23</latestDate>
+	    <date type="exhibition" source="Metropolitan Museum of Art">
+		<earliestDate>
+		   <date circa="false">2010-09-24</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">2011-01-23</date>
+		</latestDate>
 	    </date>
         </dateSet>
         <descriptionSet>
-            <description href="http://www.metmuseum.org/art/collection/search/435802" pref="false" source="Metropolitan Museum of Art" dataDate="2016-04-19-12-02-34">
+            <description pref="false" source="Metropolitan Museum of Art" dataDate="2016-04-19-12-02-34">
                 <text>This arresting portrait of an unidentified young Florentine is dated by most scholars to the 1530s. During that decade Bronzino was often engaged in painting members of a close-knit circle of acquaintances with whom he shared literary interests, and this sitter—who so conspicuously holds open a book—may be from among that group. Vasari mentions the names of several of these sitters early in his biography of the artist and it has recently been suggested that this panel may portray Bonaccorso di Pietro Pinadori (born 1502), mentioned by the author alongside Ugolino Martelli and Lorenzo Lenzi, both of whose portraits have been identified (an earlier hypothesis that the picture is a self-portrait has not been taken up in the literature).
 
 The elegant young man wears a black satin doublet, with fashionably slashed sleeves, over a white camicia with a ruffled collar, and with a brilliant blue belt. Both his hat and the ties supporting his codpiece are decorated with gold aglets, and he wears one ring. He stands between an elaborately decorated table and chair within an architectural setting meant to suggest a Florentine palace. Both pieces of furniture include grotesque masks; that of the remarkable table is stretched as if made of fabric rather than stone. A third "mask" is suggested in an insistent pattern resembling a face within the drapery of the lower part of the costume. The meaning of these grotesque masks is debated; it may be that they are in some way analogous to poetic ideas of the time and refer to identity as a kind of mask. Bronzino was himself a poet. It is clear that they are meant to provide a contrast to the sitter's refined facial features and bearing.</text>
@@ -75,7 +113,7 @@ The elegant young man wears a black satin doublet, with fashionably slashed slee
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/art/collection/search/435802" pref="false" source="Metropolitan Museum of Art" dataDate="2016-04-19-12-03-06">
+            <description pref="false" source="Metropolitan Museum of Art" dataDate="2016-04-19-12-03-06">
                 <text>The numerous and important changes made by the artist as he painted were documented in x-radiographs as early as 1930. These have been clarified, and Bronzino's artistic process further elucidated, through new x-radiography and infrared reflectography of 2009 revealing underdrawing (see Additional Images). Most conspicuously, the architectural setting was transformed: initially a straight molding ran at a diagonal behind the sitter (the underdrawing includes a corbel below that visible now at the left to coincide with this first idea for the setting). Two types of underdrawing have been revealed. The more unusual was done, probably with the butt end of a brush, directly into the panel's thick white imprimitura, or preparation layer. It was used vigorously to describe the draped grotesque mask at the left, outlining contours but also indicating shadows with diagonal hatching. Many of the artist's original compositional ideas are indicated in this type of drawing (these can be seen as well in the x-radiograph): they include the first position of the proper right hand and book, with the hand in stricter profile and the book shown with its spine facing the viewer and covers splayed; the placement of the proper left hand with the thumb tucked behind the waist; different contours of the sleeves, collar, and cuffs of the costume; and an elaboration in the area of the codpiece, into which an article of clothing—almost certainly gloves—was originally tucked. More traditional underdrawing in black chalk or charcoal and carbon-based ink or paint applied with a brush is found throughout the head and the hands. As seen in the x-radiograph as well, drawing of the head shows its initial shape to have been much narrower but with the features identically placed (dispelling the possibility that the final version is of a second sitter). The x-radiograph also indicates changes in the furniture at right that are not easily decipherable. Because of the extent of these changes, it has sometimes been speculated that the painting was begun at one time and then finished later—perhaps years later.</text>
                 <author>
                     <name refid="3732769" type="personal" vocab="viaf">Hale, Charlotte</name>
@@ -89,14 +127,14 @@ The elegant young man wears a black satin doublet, with fashionably slashed slee
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-	    <description href="http://www.metmuseum.org/art/collection/search/435802" pref="false" source="Metropolitan Museum of Art">
+	    <description pref="false" source="Metropolitan Museum of Art">
 		<text>Provenance. Lucien Bonaparte, Prince of Canino, Rome (by 1808–16; his sale, Stanley, London, May 14–16, 1816, no. 163, as "A Florentine Gentleman," by Sebastiano del Piombo); [Charles J. Nieuwenhuys, London, from 1816]; James Alexandre, comte de Pourtalès-Gorgier, Paris (by 1841–d. 1855; cat., 1841, no. 49; his estate sale, Paris, March 27ff., 1865, no. 114, as by Sebastiano del Piombo); baron Achille Seillière, Paris and Château de Mello (1865–d. 1873); Jeanne Marguérite Seillière, princesse de Sagan, later duchesse de Talleyrand-Périgord, Paris (from 1873); M. Bourdariat, Paris (until 1898; sold for Fr 140,000 to Durand-Ruel); [Durand-Ruel, Paris and New York, 1898; sold for $40,000 to Havemeyer]; Mr. and Mrs. H. O. Havemeyer, New York (1898–his d. 1907); Mrs. H. O. (Louisine W.) Havemeyer, New York (1907–d. 1929)</text>
 	      <author>
 		  <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
 		  <role type="code" vocab="marcrelator">aut</role>
 	      </author>
 	    </description>
-	    <description href="http://www.metmuseum.org/art/collection/search/435802" pref="false" source="Metropolitan Museum of Art">
+	    <description pref="false" source="Metropolitan Museum of Art">
 		<text>Exhibition history. Paris. Palais de la Présidence du Corps Législatif. "Ouvrages de peinture exposés au profit de la colonisation de l'Algérie par les Alsaciens-Lorrains," April 23–?, 1874, no. 19 (lent by the princesse de Sagan).
 
 New York. M. Knoedler &amp; Co. "Loan Exhibition of Masterpieces by Old and Modern Painters," April 6–24, 1915, no. 1 (as "Portrait of the Duke of Urbino," lent anonymously).
@@ -132,18 +170,18 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="creation" dataDate="2016-04-19-12-42-10">
-                <name refid="7000457" type="geographic" vocab="tgn"extent="inhabited place">Florance</name>
+            <location pref="false" type="creation" source="Metropolitan Museum of Art">
+                <name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florance</name>
 		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">Palais de la Présidence du Corps Législatif. "Ouvrages de peinture exposés au profit de la colonisation de l'Algérie par les Alsaciens-Lorrains," April 23–?, 1874, no. 19 (lent by the princesse de Sagan).</refid>
                 <name refid="7008038" type="geographic" vocab="tgn" extent="inhabited place">Paris</name>
                 <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">M. Knoedler &amp; Co. "Loan Exhibition of Masterpieces by Old and Modern Painters," April 6–24, 1915, no. 1 (as "Portrait of the Duke of Urbino," lent anonymously).</refid>
                 <name refid="137034852" type="corporate" vocab="viaf">M. Knoedler &amp; Co.</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -151,7 +189,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">The Metropolitan Museum of Art. "The H. O. Havemeyer Collection," March 11–November 2, 1930, no. 1 [2nd ed., 1958, no. 184, ill.].</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -159,7 +197,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">The Metropolitan Museum of Art. "Art Treasures of the Metropolitan," November 7, 1952–September 7, 1953, no. 108.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -167,7 +205,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">Museum of Fine Arts, Boston. "Masterpieces of Painting in The Metropolitan Museum of Art," September 16–November 1, 1970, unnumbered cat. (p. 20).
 </refid>
                 <name refid="151846308" type="corporate" vocab="viaf">Museum of Fine Arts, Boston</name>
@@ -176,7 +214,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">The Metropolitan Museum of Art. "Masterpieces of Fifty Centuries," November 15, 1970–February 15, 1971, no. 214.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -184,7 +222,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">The Metropolitan Museum of Art. "Florentine Paintings in the Metropolitan Museum," June 15–August 15, 1971, no catalogue.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -192,7 +230,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">The Metropolitan Museum of Art. "Splendid Legacy: The Havemeyer Collection," March 27–June 20, 1993, no. A45.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -200,7 +238,7 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">The Metropolitan Museum of Art. "The Drawings of Bronzino," January 20–April 18, 2010, no cat. number.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -208,10 +246,10 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
 	    </location>
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
 		<refid type="other">Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici," September 24, 2010–January 23, 2011, no. V.4 (as "Portrait of a Young Man with a Book").</refid>
                 <name refid="128366919" type="corporate" vocab="viaf">Palazzo Strozzi</name>
-                <name refid="7000457" type="geographic" vocab="tgn"extent="inhabited place">Florance</name>
+                <name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florance</name>
 		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
 	    </location>
@@ -227,8 +265,17 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
             <measurements pref="false" type="width" unit="in">29 1/2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_d14808bf-8a9e-4977-a3fe-18deee87fbf0" pref="true">general view</relation>
+            <relation pref="true" type="imageIs" relids="i_Ex005_paintings_ManneristPortrait_1">general view</relation>
+            <relation pref="false" type="imageIs" relids="i_Ex005_paintings_ManneristPortrait_2">Portrait of a Young Man, Infrared reflectogram (overall)</relation>
+            <relation pref="false" type="imageIs" relids="i_Ex005_paintings_ManneristPortrait_3">Portrait of a Young Man, Infrared reflectogram (detail:face)</relation>
+            <relation pref="false" type="imageIs" relids="i_Ex005_paintings_ManneristPortrait_4">Portrait of a Young Man, X-radiograph (overall)</relation>
         </relationSet>
+	<rightsSet>
+	    <rights type="other" source="Metropolitan Museum of Art">
+		<rightsHolder>The Metropolitan Museum of Art, New York</rightsHolder>
+		<text>H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929</text>
+	    </rights>
+	</rightsSet>
         <sourceSet>
             <source pref="false" dataDate="2015-04-29-11-04-05">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/435802</refid>
@@ -269,4 +316,144 @@ Florence. Palazzo Strozzi. "Bronzino: Artist and Poet at the Court of the Medici
             <worktype refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex005_paintings_ManneristPortrait_1"
+          href="https://images.metmuseum.org/CRDImages/ep/web-large/DP-14286-011.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-12-14-41-31">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex005_paintings_ManneristPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-12-14-42-16">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.  H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-29-10-44-23">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/435802</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Portrait of a Young Man, general view</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex005_paintings_ManneristPortrait_2"
+          href="https://images.metmuseum.org/CRDImages/ep/web-large/Bronzino%20overall.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-12-14-41-31">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex005_paintings_ManneristPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-12-14-42-16">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.  H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-29-10-44-23">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/435802</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Portrait of a Young Man, Infrared reflectogram (overall)</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex005_paintings_ManneristPortrait_3"
+          href="https://images.metmuseum.org/CRDImages/ep/web-large/Bronzino%20detail%20of%20face.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-12-14-41-31">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex005_paintings_ManneristPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-12-14-42-16">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.  H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-29-10-44-23">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/435802</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Portrait of a Young Man, Infrared reflectogram (detail:face)</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex005_paintings_ManneristPortrait_4"
+          href="https://images.metmuseum.org/CRDImages/ep/web-large/Bronzino%20X-radiograph%20overall.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-12-14-41-31">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex005_paintings_ManneristPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-12-14-42-16">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.  H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-29-10-44-23">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/435802</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Portrait of a Young Man, X-radiograph (overall)</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex005_paintings_ManneristPortrait_5"
+          href="https://images.metmuseum.org/CRDImages/ep/web-large/Bronzino%20x-radiograph%20detail%20head.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-12-14-41-31">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex005_paintings_ManneristPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-12-14-42-16">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.  H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="false" dataDate="2015-04-29-10-44-23">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/435802</refid>
+            <name type="electronic">The Metropolitan Museum of Art Online Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Portrait of a Young Man, X-radiograph (detail: head)</title>
+      </titleSet>
+   </image>
 </vra>

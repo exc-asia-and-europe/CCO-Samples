@@ -5,7 +5,7 @@
    <image id="i_Ex004_paintings_Polyptych"
           href="http://www.getty.edu/art/collection/objects/584/bartolomeo-vivarini-polyptych-with-saint-james-major-madonna-and-child-and-saints-italian-1490/">
       <agentSet>
-         <agent dataDate="2016-04-12-13-33-02">
+         <agent pref="true" dataDate="2016-04-12-13-33-02">
             <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
             <role type="code" vocab="marcrelator">cre</role>
          </agent>
@@ -29,7 +29,7 @@
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Polyptych with Saint James Major, Madonna and Child, and Saints</title>
+         <title type="generalView">Image record CCO_online_004.jpg</title>
       </titleSet>
    </image>
 </vra>

@@ -148,31 +148,4 @@ Nearly a year was needed to check that the environmental control system was work
             <worktype refid="300177433" vocab="aat">frescoes</worktype>
         </worktypeSet>
     </work>
-   <image id="i_Ex022_paintings_FrescoPainting"
-          href="https://www.wga.hu/art/g/giotto/padova/01view.jpg">
-      <agentSet>
-         <agent>
-            <name refid="129204604" type="corporate" vocab="viaf">Web Gallery of Art</name>
-            <role type="code" vocab="marcrelator">cre</role>
-         </agent>
-      </agentSet>
-      <relationSet>
-         <relation type="imageOf"
-                   relids="w_Ex022_paintings_FrescoPainting">attachment</relation>
-      </relationSet>
-      <rightsSet>
-         <rights type="copyrighted">
-            <rightsHolder>Web Gallery of Art</rightsHolder>
-         </rights>
-      </rightsSet>
-      <sourceSet>
-         <source>
-            <refid type="URI">https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html</refid>
-            <name type="electronic">Web Gallery of Art</name>
-         </source>
-      </sourceSet>
-      <titleSet>
-         <title type="generalView">The Chapel viewed towards the entrance</title>
-      </titleSet>
-   </image>
 </vra>

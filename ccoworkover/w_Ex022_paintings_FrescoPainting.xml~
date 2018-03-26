@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex22_paintings_FrescoPainting.xml" refid="c_7b0ab425-7da8-4d44-b201-02d97403c980">
+    <work id="w_Ex022_paintings_FrescoPainting.xml" refid="c_CCO_Examples">
         <agentSet>
             <agent pref="true" dataDate="2015-05-04-12-04-00">
                 <dates type="life">
@@ -64,7 +64,7 @@
             <measurements pref="false" type="width" unit="in">49 1/4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_54f6e6b0-8131-4719-9bef-d55ccb51076a" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_Ex022_paintings_FrescoPainting" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source dataDate="2015-05-04-12-19-36">

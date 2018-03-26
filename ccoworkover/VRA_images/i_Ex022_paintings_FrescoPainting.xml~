@@ -14,23 +14,23 @@
          </agent>
       </agentSet>
       <dateSet>
-         <date type="publication">
+         <date type="publication" dataDate="2016-04-26-10-51-16">
             <earliestDate>
-               <date>2006-07-24</date>
+               <date></date>
             </earliestDate>
          </date>
       </dateSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex022_paintings_FrescoPainting">attachment</relation>
+                   relids="w_72c717e2-d9dd-4d3c-8701-436aad532cd4">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights type="publicDomain">
+         <rights pref="false" type="publicDomain">
             <rightsHolder>Stephantom</rightsHolder>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source dataDate="2015-05-04-12-02-16">
+         <source pref="false" dataDate="2015-05-04-12-02-16">
             <refid type="URI">https://commons.wikimedia.org/wiki/File:Anbetung_des_Namen_des_Herrn,_1772.jpg</refid>
             <name type="electronic">Wikimedia Commons</name>
          </source>

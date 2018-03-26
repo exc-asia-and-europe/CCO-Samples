@@ -20,7 +20,7 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <source>
+         <source pref="false" dataDate="2015-05-04-12-26-46">
             <refid type="URI">https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html</refid>
             <name type="electronic">Web Gallery of Art</name>
          </source>

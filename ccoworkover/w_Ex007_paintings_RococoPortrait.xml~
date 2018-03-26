@@ -132,4 +132,26 @@ With both hands, Magdaleine grasps a large gray-blue cat that bemusedly engages 
             <worktype refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
+   <image id=" i_Ex007_paintings_RococoPortrait"
+          href="http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex007_paintings_RococoPortrait">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-04-29-12-19-38">
+            <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-29-12-18-43">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/747/jean-baptiste-perronneau-magdaleine-pinceloup-de-la-grange-nee-de-parseval-french-1747/</refid>
+            <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Magdaleine Pinceloup de la Grange, née de Parseval</title>
+      </titleSet>
+   </image>
 </vra>

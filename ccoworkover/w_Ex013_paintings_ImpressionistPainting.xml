@@ -16,20 +16,36 @@
         </culturalContextSet>
         <dateSet>
             <date pref="true" type="creation" dataDate="2016-04-26-08-59-41">
-                <earliestDate>1891</earliestDate>
-                <latestDate>1891</latestDate>
+                <earliestDate>
+		   <date circa="false">1891</date>
+		</earliestDate>
+                <latestDate>
+		   <date circa="false">1891</date>
+		</latestDate>
             </date>
-	    <date pref="false" type="exhibition">
-		<earliestDate>1936-04-02</earliestDate>
-		<latestDate>1936-04-30</latestDate>
+	    <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+		<earliestDate>
+		   <date circa="false">1936-04-02</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1936-04-30</date>
+		</latestDate>
 	    </date>
-	    <date pref="false" type="exhibition">
-		<earliestDate>1976-10-27</earliestDate>
-		<latestDate>1976-11-28</latestDate>
+	    <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+		<earliestDate>
+		   <date circa="false">1976-10-27</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1976-11-28</date>
+		</latestDate>
 	    </date>
-	    <date pref="false" type="exhibition">
-		<earliestDate>1987-06-20</earliestDate>
-		<latestDate>1987-08-30</latestDate>
+	    <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+		<earliestDate>
+		   <date circa="false">1987-06-20</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1987-08-30</date>
+		</latestDate>
 	    </date>
         </dateSet>
         <descriptionSet>
@@ -40,7 +56,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-26-09-07-59">
+            <description pref="false" source="J. Paul Getty Museum" dataDate="2016-04-26-09-07-59">
                 <text>In the fall of 1890, Impressionist Claude Monet arranged to have the wheatstacks near his home left out over the winter. By the following summer he had painted them at least thirty times, at different times throughout the seasons. Wheatstacks was Monet's first series and the first in which he concentrated on a single subject, differentiating pictures only by color, touch, composition, and lighting and weather conditions. He said, "For me a landscape hardly exists at all as a landscape, because its appearance is constantly changing; but it lives by virtue of its surroundings, the air and the light which vary continually." 
 
 After beginning outdoors, Monet reworked each painting in his studio to create the color harmonies that unify each canvas. The pinks in the sky echo the snow's reflections, and the blues of the wheatstacks' shadows are found in the wintry light shining on the stacks, in the houses' roofs, and in the snowy earth. With raised, broken brushstrokes, Monet captured nuances of light and created a solid, geometric structure that prevents the surface from simply melting into blobs. The wheatstacks are solid forms, and, while the outlying houses are indecipherable close-up, they are clear from a distance.</text>
@@ -49,7 +65,7 @@ After beginning outdoors, Monet reworked each painting in his studio to create t
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-	    <description>
+	    <description source="J. Paul Getty Museum" pref="false">
 		<text>Provenance.
 1891
 Boussod, Valadon &amp; Cie. (Paris, France), purchased from the artist, 1891; sold to Lonquety, 1891.
@@ -78,7 +94,7 @@ Henryk de Kwiatkowski (New York, New York), sold through Apollo Art Advisory Ser
                     <role type="code" vocab="marcrelator">aut</role>
 		</author>
 	    </description>
-	    <description>
+	    <description source="J. Paul Getty Museum" pref="false">
 		<text>Exhibitions.
 Exposition d'oeuvres de Claude Monet (1840-1927): Oeuvres de 1891 à 1919 (April 2 to April 30, 1936) (Cat. 2)
 Galerie Paul Rosenberg (Paris), April 2 to April 30, 1936
@@ -93,7 +109,7 @@ Philadelphia Museum of Art (Philadelphia), June 20 to August 30, 1987</text>
 	    </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891" source="J. Paul Getty Museum" dataDate="2016-04-26-09-08-32">
+            <inscription source="J. Paul Getty Museum" dataDate="2016-04-26-09-08-32">
                 <author refid="24605513" vocab="viaf">Monet, Claude</author>
                 <position>lower left</position>
                 <text type="signature">Claude Monet 91</text>
@@ -114,7 +130,7 @@ Philadelphia Museum of Art (Philadelphia), June 20 to August 30, 1987</text>
                 <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition" dataDate="2016-04-26-09-05-24">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
 		<refid type="other">Exposition d'oeuvres de Claude Monet (1840-1927): Oeuvres de 1891 à 1919 (April 2 to April 30, 1936) (Cat. 2)</refid>
                 <name refid="76145857928823021863" type="corporate" vocab="viaf">Galerie Paul Rosenberg</name>
                 <name refid="7008038" type="geographic" vocab="tgn" extent="inhabited place">Paris</name>
@@ -122,7 +138,7 @@ Philadelphia Museum of Art (Philadelphia), June 20 to August 30, 1987</text>
                 <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition" dataDate="2016-04-26-09-05-24">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
 		<refid type="other">Claude Monet (October 27 to November 28, 1976) (Cat. 53)</refid>
                 <name refid="132158863" type="corporate" vocab="viaf">Acquavella Galleries</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -130,7 +146,7 @@ Philadelphia Museum of Art (Philadelphia), June 20 to August 30, 1987</text>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition" dataDate="2016-04-26-09-05-24">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
 		<refid type="other">Claude Monet: Philadelphia (June 20 to August 30, 1987) (no cat.)</refid>
                 <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
                 <name refid="7014406" type="geographic" vocab="tgn" extent="inhabited place">Philadelphia</name>
@@ -144,10 +160,10 @@ Philadelphia Museum of Art (Philadelphia), June 20 to August 30, 1987</text>
             <material refid="300014078" type="support" vocab="aat">canvas</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">64.8</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">99.7</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/" pref="false" source="J. Paul Getty Museum" type="height" unit="in">25 1/2</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">39 1/4</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="height" unit="cm">64.8</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="width" unit="cm">99.7</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="height" unit="in">25 1/2</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="width" unit="in">39 1/4</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex013_paintings_ImpressionistPainting">general view</relation>
@@ -208,4 +224,32 @@ Philadelphia Museum of Art (Philadelphia), June 20 to August 30, 1987</text>
             <worktype refid="300015636" vocab="aat">landscapes</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex013_paintings_ImpressionistPainting"
+          href="http://media.getty.edu/museum/images/web/download/00108801.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-26-08-56-26">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex013_paintings_ImpressionistPainting">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-05-04-09-10-55">
+            <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-09-10-30">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/900/claude-monet-wheatstacks-snow-effect-morning-meules-effet-de-neige-le-matin-french-1891/</refid>
+            <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Wheatstacks, Snow Effect, Morning (Meules, Effet de Neige, Le Matin)</title>
+      </titleSet>
+   </image>
 </vra>

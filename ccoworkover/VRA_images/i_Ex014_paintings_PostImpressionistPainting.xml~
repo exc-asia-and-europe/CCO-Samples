@@ -2,32 +2,32 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex012_paintings_LandscapePainting"
-          href="http://www.getty.edu/art/collection/objects/559/marco-ricci-and-sebastiano-ricci-landscape-with-classical-ruins-and-figures-italian-about-1725-1730/">
+   <image id="i_Ex014_paintings_PostImpressionistPainting"
+          href="i_b40bcaf5-cbd8-4606-9aab-91624372379f.jpg">
       <agentSet>
-         <agent dataDate="2016-04-21-11-57-20">
+         <agent dataDate="2016-04-26-09-12-47">
             <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
             <role type="code" vocab="marcrelator">cre</role>
          </agent>
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex012_paintings_LandscapePainting">attachment</relation>
+                   relids="w_Ex014_paintings_PostImpressionistPainting">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights type="publicDomain" dataDate="2015-04-29-15-12-13">
+         <rights type="publicDomain" dataDate="2015-05-04-09-29-57">
             <rightsHolder>The J. Paul Getty Museum</rightsHolder>
             <text>Digital image courtesy of the Getty's Open Content Program.</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source dataDate="2015-04-29-15-12-49">
-            <refid type="URI">http://www.getty.edu/art/collection/objects/559/marco-ricci-and-sebastiano-ricci-landscape-with-classical-ruins-and-figures-italian-about-1725-1730/</refid>
-            <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+         <source dataDate="2015-05-04-09-29-34">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/</refid>
+            <name type="electronic">The J. Paul Getty Museum Collection Online</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Landscape with Classical Ruins and Figures</title>
+         <title type="generalView">Irises</title>
       </titleSet>
    </image>
 </vra>

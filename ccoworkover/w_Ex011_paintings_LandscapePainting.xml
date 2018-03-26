@@ -17,12 +17,108 @@
         <dateSet>
             <date type="creation" dataDate="2016-04-21-11-37-25">
                 <earliestDate>
-                    <date>1860</date>
+                    <date circa="false">1860</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1860</date>
+                    <date circa="false">1860</date>
                 </latestDate>
             </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1860</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1860</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1862</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1862</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1966</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1966</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1968</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1968</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1969</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1969</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1970</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1971</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1985-01-21</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1985-01-21</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1987</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1988</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1988</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1988</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">1994</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">1994</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">2000</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">2000</date>
+		</latestDate>
+	    </date>
+	    <date type="exhibition" source="National Gallery of Art Washington">
+		<earliestDate>
+		    <date circa="false">2002</date>
+		</earliestDate>
+		<latestDate>
+		    <date circa="false">2002</date>
+		</latestDate>
+	    </date>
         </dateSet>
         <descriptionSet>
             <description pref="true" source="National Gallery of Art online. www.nga.gov (accessed 29 July 2006)." dataDate="2016-04-21-11-49-43">
@@ -32,7 +128,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="false" source="National Gallery of Art Washington" dataDate="2016-04-21-11-49-57">
+            <description pref="false" source="National Gallery of Art Washington" dataDate="2016-04-21-11-49-57">
                 <text>This monumental view of the Hudson River Valley was painted from memory in the artist's London studio. Cropsey adopted a high vantage point, looking southeast toward the distant Hudson River and the flank of Storm King Mountain. A small stream leads from the foreground, where three hunters and their dogs gaze into the sunlight. All along the meandering tributary there are signs of man's peaceful coexistence with nature: a small log cabin, grazing sheep, children playing on a bridge, and cows standing placidly in the water. Here, man neither conquers nor is subservient to nature; both coexist harmoniously. In fact, the landscape is depicted as a ready arena for further agricultural expansion. While autumnal scenes traditionally are associated with the transience of life, Cropsey's painting is more a celebration of American nationalism. As a critic wrote in 1860, the picture represents "not the solemn wasting away of the year, but its joyful crowning festival."
 
 The painting created a sensation among many British viewers who had never seen such a colorful panorama of fall foliage. Indeed, because the autumn in Britain customarily is far less colorful than in the United States, the artist decided to display specimens of North American leaves alongside his painting to persuade skeptical visitors that his rendition was botanically accurate.</text>
@@ -41,7 +137,7 @@ The painting created a sensation among many British viewers who had never seen s
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46474.html#provenance" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>Provenance
 
 Purchased from the artist 1862 by Thomas Slattery, London.[1] Arthur Jocelyn Charles, 6th Earl of Arran [1868-1958]; (Earl of Arran sale, Sotheby's, London, 11 July 1951, no. 150); "Duke"; private collection; (John Nicholson Gallery, New York), by November 1959; purchased 15 October 1963 by NGA.
@@ -52,7 +148,7 @@ Purchased from the artist 1862 by Thomas Slattery, London.[1] Arthur Jocelyn Cha
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46474.html#history" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>
 Exhibition History
 
@@ -98,7 +194,7 @@ Exhibition History
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description href="https://www.nga.gov/collection/art-object-page.46474.html#consvNotes" pref="false" source="National Gallery of Art Washington">
+            <description pref="false" source="National Gallery of Art Washington">
                 <text>
 Technical Summary
 
@@ -111,7 +207,7 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" source="National Gallery of Art Washington" dataDate="2016-04-21-11-50-19">
+            <inscription source="National Gallery of Art Washington" dataDate="2016-04-21-11-50-19">
                 <author refid="283830" vocab="viaf">Cropsey, Jasper Francis</author>
                 <position>lower center</position>
                 <text type="signature">Autumn, -on the Hudson River / J. F Cropsey / London 1860</text>
@@ -122,6 +218,7 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
                 <refid type="accession">1963.9.1</refid>
                 <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art, Washington D.C.</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
@@ -129,6 +226,142 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
                 <name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
 		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1860 Pall Mall, London, 1860, no cat. </refid>
+                <name refid="309645735" type="corporate" vocab="viaf">Pall Mall</name>
+		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1862 London Exhibition of the Industry of All Nations, London, 1862, no. 2871.</refid>
+                <name refid="156619675" type="corporate" vocab="viaf">International Exhibition (1862 : London, England)</name>
+		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1966 Art of the United States: 1670-1966, Whitney Museum of American Art, New York, 1966, no. 57.</refid>
+                <name refid="157861829" type="corporate" vocab="viaf">Whitney Museum of American Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1968 Jasper F. Cropsey, 1823-1900: A Retrospective View of America's Painter of Autumn, University of Maryland Art Gallery, College Park, 1968, 26, 27, 30, 48, no. 19 (cat. by Peter Bermingham).</refid>
+                <name refid="155685945" type="corporate" vocab="viaf">University of Maryland, College Park. Art Gallery</name>
+		<name refid="7013633" type="geographic" vocab="tgn" extent="inhabited place">College Park</name>
+		<name refid="7007516" type="geographic" vocab="tgn" extent="state">Maryland</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1969 In Memoriam, Ailsa Mellon Bruce, National Gallery of Art, Washington, D.C., 1969, unnumbered checklist.</refid>
+                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art, Washington D.C.</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1970 Jasper F. Cropsey 1823-1900, The Cleveland Museum of Art; Munson-Williams-Proctor Institute, Utica; National Collection of Fine Arts, Washington, D.C., 1970-1971, no. 35, color repro. 57 (cat. by William S. Talbot).</refid>
+                <name refid="145127626" type="corporate" vocab="viaf">Cleveland Museum of Art</name>
+		<name refid="7013608" type="geographic" vocab="tgn" extent="inhabited place">Cleveland</name>
+		<name refid="7007706" type="geographic" vocab="tgn" extent="state">Ohio</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1970 Jasper F. Cropsey 1823-1900, The Cleveland Museum of Art; Munson-Williams-Proctor Institute, Utica; National Collection of Fine Arts, Washington, D.C., 1970-1971, no. 35, color repro. 57 (cat. by William S. Talbot).</refid>
+                <name refid="144240547" type="corporate" vocab="viaf">Munson-Williams-Proctor Institute</name>
+		<name refid="7014679" type="geographic" vocab="tgn" extent="inhabited place">Utica</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1970 Jasper F. Cropsey 1823-1900, The Cleveland Museum of Art; Munson-Williams-Proctor Institute, Utica; National Collection of Fine Arts, Washington, D.C., 1970-1971, no. 35, color repro. 57 (cat. by William S. Talbot).</refid>
+                <name refid="262476313" type="corporate" vocab="viaf">National Collection of Fine Arts</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1985 Presidential Inaugural luncheon, U.S. Capitol, Washington, D.C., 21 January 1985.</refid>
+                <name refid="156416989" type="corporate" vocab="viaf">United States Capitol</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1987 American Paradise: The World of the Hudson River School, The Metropolitan Museum of Art, New York, 1987-1988, 206-207, no cat. no. (entry by Carrie Rebora).</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1988 Bilder aus der Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhundts., Orangerie des Schlosses Charlottenburg, Berlin, Germany; Kunsthaus Zurich, Switzerland, 1988-1989, no. 19 (cat. by Thomas W. Gaehtgens).</refid>
+                <name refid="140475663" type="corporate" vocab="viaf">Schloss Charlottenburg. Grosse Orangerie</name>
+		<name refid="7003712" type="geographic" vocab="tgn" extent="inhabited place">Berlin</name>
+		<name refid="7003670" type="geographic" vocab="tgn" extent="state">Berlin</name>
+		<name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1988 Bilder aus der Neuen Welt: Amerikanische Malerei des 18. und 19. Jahrhundts., Orangerie des Schlosses Charlottenburg, Berlin, Germany; Kunsthaus Zurich, Switzerland, 1988-1989, no. 19 (cat. by Thomas W. Gaehtgens).</refid>
+                <name refid="145553015" type="corporate" vocab="viaf">Kunsthaus Zürich</name>
+		<name refid="7007302" type="geographic" vocab="tgn" extent="inhabited place">Zürich</name>
+		<name refid="7003765" type="geographic" vocab="tgn" extent="canton">Zürich</name>
+		<name refid="7011731" type="geographic" vocab="tgn" extent="nation">Switzerland</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">1994 Jasper Francis Cropsey's 'The Spirit of War' and 'The Spirit of Peace', National Gallery of Art, Washington, D.C., 1994-1995, brochure, no.3, repro.</refid>
+                <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art, Washington D.C.</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">2000 Scenes from a Century Past--Reflections of the Spirit: Vibrant Forces for Rebirth as We Enter the New Millennium, Newington-Cropsey Foundation, Hastings-on-Hudson, 2000, unnumbered catalogue, repro.</refid>
+                <name refid="150182732" type="corporate" vocab="viaf">Newington-Cropsey Foundation</name>
+		<name refid="7020170" type="geographic" vocab="tgn" extent="inhabited place">Hastings-on-Hudson</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">2002 American Sublime: Landscape Painting in the United States 1820-1880, Tate Britain, London; Museum of American Art of the Pennsylvania Academy of the Fine Arts, Philadelphia; The Minneapolis Institute of Arts, 2002, no. 27, repro.</refid>
+                <name refid="138978031" type="corporate" vocab="viaf">Tate Britain</name>
+		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">2002 American Sublime: Landscape Painting in the United States 1820-1880, Tate Britain, London; Museum of American Art of the Pennsylvania Academy of the Fine Arts, Philadelphia; The Minneapolis Institute of Arts, 2002, no. 27, repro.</refid>
+                <name refid="146747524" type="corporate" vocab="viaf">Pennsylvania Academy of the Fine Arts. Museum of American Art</name>
+		<name refid="7014406" type="geographic" vocab="tgn" extent="inhabited place">Philadelphia</name>
+		<name refid="7007710" type="geographic" vocab="tgn" extent="state">Pennsylvania</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="National Gallery of Art Washington">
+                <refid type="other">2002 American Sublime: Landscape Painting in the United States 1820-1880, Tate Britain, London; Museum of American Art of the Pennsylvania Academy of the Fine Arts, Philadelphia; The Minneapolis Institute of Arts, 2002, no. 27, repro.</refid>
+                <name refid="157703898" type="corporate" vocab="viaf">Minneapolis Institute of Arts</name>
+		<name refid="7014080" type="geographic" vocab="tgn" extent="inhabited place">Minneapolis</name>
+		<name refid="7007521" type="geographic" vocab="tgn" extent="state">Minnesota</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <materialSet>
@@ -140,18 +373,18 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
             <measurements pref="true" type="width" unit="cm">274.9</measurements>
             <measurements pref="false" type="height" unit="in">59 3/4</measurements>
             <measurements pref="false" type="width" unit="in">108 1/4</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="true" source="National Gallery of Art Washington" type="height" unit="cm">200.7</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="true" source="National Gallery of Art Washington" type="width" unit="cm">321.3</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="true" source="National Gallery of Art Washington" type="depth" unit="cm">21</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="true" source="National Gallery of Art Washington" type="height" unit="cm">79</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="false" source="National Gallery of Art Washington" type="width" unit="in">126 1/2</measurements>
-            <measurements extent="framed" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.46474.html" pref="false" source="National Gallery of Art Washington" type="depth" unit="in">8 1/4</measurements>
+            <measurements pref="true" source="National Gallery of Art Washington" type="height" unit="cm" extent="framed">200.7</measurements>
+            <measurements pref="true" source="National Gallery of Art Washington" type="width" unit="cm" extent="framed">321.3</measurements>
+            <measurements pref="true" source="National Gallery of Art Washington" type="depth" unit="cm" extent="framed">21</measurements>
+            <measurements pref="true" source="National Gallery of Art Washington" type="height" unit="in" extent="framed">79</measurements>
+            <measurements pref="false" source="National Gallery of Art Washington" type="width" unit="in" extent="framed">126 1/2</measurements>
+            <measurements pref="false" source="National Gallery of Art Washington" type="depth" unit="in" extent="framed">8 1/4</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex011_paintings_LandscapePainting">general view</relation>
         </relationSet>
 	<rightsSet>
-	    <right>
+	    <rights type="other">
 		<rightsHolder>National Gallery of Art, U.S.A.</rightsHolder>
 		<text>Gift of the Avalon Foundation</text>
 	    </rights>
@@ -167,7 +400,7 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
             </source>
 	    <source pref="false">
 		<refid type="URI">http://www.core.vraweb.org/examples/html/example026_full.html</refid>
-		<name type="electronic">VRA Core 4 Example 26: Landscape painting</name>
+		<name type="electronic">VRA Core 4 Example 26: Landscape painting.</name>
 	    </source>
         </sourceSet>
 	<stylePeriodSet>
@@ -206,6 +439,12 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
 	    <subject>
 		<term refid="7013729" vocab="tgn" type="geographicPlace">Hudson River (river)</term>
 	    </subject>
+            <subject source="VRA Core 4 Example 26: Landscape painting">
+                <term type="iconographicTopic" vocab="LCSAF" refid="sh 85063138">Hunting in art</term>
+            </subject>
+            <subject source="VRA Core 4 Example 26: Landscape painting">
+                <term type="descriptiveTopic" vocab="LCSAF" refid="sh 85114250">Rivers</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054216" vocab="aat">painting</technique>
@@ -219,7 +458,7 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
         </textrefSet>
         <titleSet>
             <title pref="false" type="other">Autumn: On the Hudson River</title>
-	    <title pref="true" type="repository">Autumn - On the Hudson River</title>
+	    <title pref="true" type="repository" source="National Gallery of Art Washington">Autumn - On the Hudson River</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300015636" vocab="aat">landscapes</worktype>
@@ -227,4 +466,32 @@ The support is a coarse but tightly woven, plain-weave fabric that has been line
             <worktype refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex011_paintings_LandscapePainting"
+          href="https://media.nga.gov/public/objects/4/6/4/7/4/46474-primary-0-440x400.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-21-11-50-53">
+            <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex011_paintings_LandscapePainting">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-04-29-14-42-28">
+            <rightsHolder>National Gallery of Art, Washington</rightsHolder>
+            <text>Digital image courtesy of the National Gallery of Art, Washington.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html</refid>
+            <name type="electronic">National Gallery of Art Washington</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Autumn - On the Hudson River</title>
+      </titleSet>
+   </image>
 </vra>

@@ -90,18 +90,18 @@ The J. Paul Getty Collection (June 29 to September 3, 1972): The Minneapolis Ins
             <location type="repository" dataDate="2016-04-21-12-13-39">
                 <refid type="accession">70.PA.33</refid>
                 <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
-                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
-                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+		<name refid="7023900" type="geographical" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographical" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location type="exhibition" dataDate="2016-04-21-12-13-39" source="J. Paul Getty Museum">
                 <refid type="other">The J. Paul Getty Collection</refid>
                 <name refid="328149196260774790417" type="corporate" vocab="viaf">The Minneapolis Institute of Art</name>
-                <name refid="7014080" type="geographic" vocab="tgn" extent="inhabited place">Minneapolis</name>
-                <name refid="7007521" type="geographic" vocab="tgn" extent="state">Minnesota</name>
-                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+		<name refid="7014080" type="geographical" vocab="tgn" extent="inhabited place">Minneapolis</name>
+		<name refid="7007521" type="geographical" vocab="tgn" extent="state">Minnesota</name>
+		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <materialSet>
@@ -164,7 +164,7 @@ The J. Paul Getty Collection (June 29 to September 3, 1972): The Minneapolis Ins
         </worktypeSet>
     </work>
    <image id="i_Ex012_paintings_LandscapePainting"
-          href="http://www.getty.edu/museum/media/images/web/download/00060301.jpg">
+          href="http://www.getty.edu/art/collection/objects/559/marco-ricci-and-sebastiano-ricci-landscape-with-classical-ruins-and-figures-italian-about-1725-1730/">
       <agentSet>
          <agent dataDate="2016-04-21-11-57-20">
             <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>

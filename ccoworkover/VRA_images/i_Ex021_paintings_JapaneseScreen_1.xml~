@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex021_paintings_JapaneseScreen_2"
-          href="https://images.metmuseum.org/CRDImages/as/web-large/DT230.jpg">
+   <image id="i_Ex021_paintings_JapaneseScreen_1"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/DT231.jpg">
       <agentSet>
          <agent dataDate="2016-04-26-10-13-58">
             <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
@@ -27,7 +27,7 @@
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Irises at Yatsuhashi, Left screen</title>
+         <title type="generalView">Image record CCO_online_021--cco_fig018-1.jpg</title>
       </titleSet>
    </image>
 </vra>

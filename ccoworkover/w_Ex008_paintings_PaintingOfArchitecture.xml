@@ -23,7 +23,7 @@
                     <date circa="false">1646</date>
                 </latestDate>
             </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="National Gallery of Art Washington">
 		<earliestDate>
 		    <date circa="false">1937</date>
 		</earliestDate>
@@ -31,7 +31,7 @@
 		    <date circa="false">1937</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="National Gallery of Art Washington">
 		<earliestDate>
 		    <date circa="false">1954</date>
 		</earliestDate>
@@ -39,7 +39,7 @@
 		    <date circa="false">1954</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="National Gallery of Art Washington">
 		<earliestDate>
 		    <date circa="false">1961</date>
 		</earliestDate>
@@ -340,7 +340,7 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
         </worktypeSet>
     </work>
    <image id="i_Ex008_paintings_PaintingOfArchitecture"
-       href="https://www.nga.gov/collection/art-object-page.46132.html">
+       href="https://media.nga.gov/public/objects/4/6/1/3/2/46132-primary-0-440x400.jpg">
       <agentSet>
          <agent dataDate="2016-04-21-09-31-54">
             <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>

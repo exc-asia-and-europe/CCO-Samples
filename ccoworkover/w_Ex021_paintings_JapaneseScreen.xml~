@@ -15,138 +15,139 @@
             <culturalContext vocab="AAT" refid="300018519">Japanese (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension for the creation date given by the repository in addition to the dates given in the CCO example to express more specifically the circa value. -->
             <display>probably done sometime between 1711 and 1716</display>
-            <date pref="true" type="creation" dataDate="2016-04-26-10-36-24">
+            <date type="creation" dataDate="2016-04-26-10-36-24">
                 <earliestDate>
-			<date>1711</date>
+			<date circa="false">1711</date>
 		</earliestDate>
                 <latestDate>
-			<date>1716</date>
+			<date circa="false">1716</date>
 		</latestDate>
             </date>
-            <date href="http://www.metmuseum.org/art/collection/search/39664" pref="false" source="Metropolitan Museum of Art" type="creation" dataDate="2015-05-04-11-00-06">
+            <date source="Metropolitan Museum of Art" type="creation" dataDate="2015-05-04-11-00-06">
                 <earliestDate>
                     <date circa="true" type="after">1709</date>
                 </earliestDate>
             </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1971-01-14</date>
+		    <date circa="false">1971-01-14</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1971-03-14</date>
+		    <date circa="false">1971-03-14</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1972-10-10</date>
+		    <date circa="false">1972-10-10</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1972-12-03</date>
+		    <date circa="false">1972-12-03</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1989-05-12</date>
+		    <date circa="false">1989-05-12</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1989-07-12</date>
+		    <date circa="false">1989-07-12</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1995</date>
+		    <date circa="false">1995</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1995</date>
+		    <date circa="false">1995</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1996-05-01</date>
+		    <date circa="false">1996-05-01</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1996-09-08</date>
+		    <date circa="false">1996-09-08</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1998-04-27</date>
+		    <date circa="false">1998-04-27</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1998-09-27</date>
+		    <date circa="false">1998-09-27</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>1999</date>
+		    <date circa="false">1999</date>
 		</earliestDate>
 		<latestDate>
-		    <date>1999</date>
+		    <date circa="false">1999</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2000-03-21</date>
+		    <date circa="false">2000-03-21</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2000-08-09</date>
+		    <date circa="false">2000-08-09</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2002-05-08</date>
+		    <date circa="false">2002-05-08</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2002-09-08</date>
+		    <date circa="false">2002-09-08</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2003-03-22</date>
+		    <date circa="false">2003-03-22</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2003-09-21</date>
+		    <date circa="false">2003-09-21</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2004-02-14</date>
+		    <date circa="false">2004-02-14</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2004-06-13</date>
+		    <date circa="false">2004-06-13</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2005-12-17</date>
+		    <date circa="false">2005-12-17</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2006-06-04</date>
+		    <date circa="false">2006-06-04</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2006-12-21</date>
+		    <date circa="false">2006-12-21</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2007-06-03</date>
+		    <date circa="false">2007-06-03</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2012-04-21</date>
+		    <date circa="false">2012-04-21</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2012-05-20</date>
+		    <date circa="false">2012-05-20</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="Metropolitan Museum of Art">
 		<earliestDate>
-		    <date>2012-05-26</date>
+		    <date circa="false">2012-05-26</date>
 		</earliestDate>
 		<latestDate>
-		    <date>2013-01-13</date>
+		    <date circa="false">2013-01-13</date>
 		</latestDate>
 	    </date>
         </dateSet>
@@ -158,7 +159,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description pref="false" source="Metropolitan Museum of Art" href="http://www.metmuseum.org/art/collection/search/39664" dataDate="2016-04-26-10-46-20">
+            <description pref="false" source="Metropolitan Museum of Art" dataDate="2016-04-26-10-46-20">
                 <text>The stately, vertical forms of irises set against an angular bridge that sweeps diagonally across both screens refer to an episode in The Ise Stories (Ise monogatari). Exiled from Kyoto after an affair with a high-ranking court lady, the story’s protagonist stops at Yatsuhashi, a place where a stream branches into eight channels, each with its own bridge. The sight of irises prompts him to compose a nostalgic love poem. The first syllable of each line forms the Japanese word for irises (kakitsubata). The English translation, though unable to convey the complex wordplay of the original, is also an acrostic:
 
 Karagoromo 
@@ -184,11 +185,11 @@ Sadness fills my thoughts.
 
 2　Yatsuhashi Originally located in Mikawa 三河 province (now Aichi prefecture) just off the Eastern Sea Road, Toukaidou 東海道, where the Azuma 逢妻 River (lit. wife meeting river) branched into eight streams, each requiring a bridge. Mentioned in Episode 9 of ISE MONOGATARI 伊勢物語 (The Tales of Ise : see *ise monogatari-e 伊勢物語絵 and *Azumakudari 東下り) as a place famous for irises kakitsubata 燕子花. The protagonist, often identified as Ariwara no Narihira 在原業平 (825-880), composes the following acrostic on kakitsubata: かきつばた;Karagoromo /kitsutsu narenishi /tsuma shi areba /harubaru kinuru /tabi wo shi zo omou からごろも　きつつなれにし　つましあれば　はるばるきぬる　たびをしぞおもふ [I have a beloved wife /Familiar as the skirt /Of a well-worn robe /And so this distant jouneying /Fills my heart with grief] (trans. McCullough). The theme sometimes rendered only as irises and a few (not eight) foot bridges without human figures is found in *Rinpa 琳派 paintings, lacquer ware decoration and in *ukiyo-e 浮世絵. The most famous example associated with this episode is a pair of folding screens of "The Irises" Kakitsubata-zu 燕子花図 by Ogata Kourin 尾形光琳 (1658-1716) in the Nezu 根津 Museum, Tokyo, where only patternized flowers are depicted without bridge or human figures. </text>
                 <author>
-                    <name type="corporate">JAANUS</name>
+                    <name refid="94446570" type="personal" vocab="viaf">Parent, Mary Neighbour</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description source="Metropolitan Museum of Art" href="http://www.metmuseum.org/art/collection/search/39664" pref="false">
+            <description source="Metropolitan Museum of Art" pref="false">
                 <text>Provenance.
 Marquis Ikeda, Tottori (sale; Tokyo Bijutsu Kurubu, Tokyo, 1919; to Heisando); [ Heisandō Co., Ltd. , Tokyo; sold to Mutō Sanji]; Mutō Sanji , Japan (sold to Sometani Kanji); [ Sometani Kanji , Kyoto; sold to Mizutani Nisaburō].; [ Mizutani Nisaburō , Kyoto; sold to Yamanaka &amp; Co].; [ Yamanaka &amp; Co. , Kyoto, 1953; sold to MMA]. </text>
                 <author>
@@ -196,7 +197,7 @@ Marquis Ikeda, Tottori (sale; Tokyo Bijutsu Kurubu, Tokyo, 1919; to Heisando); [
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description source="Metropolitan Museum of Art" href="http://www.metmuseum.org/art/collection/search/39664" pref="false">
+            <description source="Metropolitan Museum of Art" pref="false">
                 <text>Exhibition History
 New York. Asia House Gallery. "Byōbu: Japanese Screens from New York Collections," January 14, 1971–March 14, 1971.
 
@@ -235,17 +236,17 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.metmuseum.org/art/collection/search/39664" source="Metropolitan Museum of Art" dataDate="2015-05-04-11-53-54">
+            <inscription source="Metropolitan Museum of Art" dataDate="2015-05-04-11-53-54">
                 <author refid="95891668" vocab="viaf">Ogata, Kōrin</author>
                 <position>right screen</position>
                 <text type="signature">Seisei Kōrin</text>
             </inscription>
-            <inscription href="http://www.metmuseum.org/art/collection/search/39664" source="Metropolitan Museum of Art" dataDate="2015-05-04-11-22-21">
+            <inscription source="Metropolitan Museum of Art" dataDate="2015-05-04-11-22-21">
                 <author refid="95891668" vocab="viaf">Ogata, Kōrin</author>
                 <position>left screen</position>
                 <text type="signature">Hokkyō Kōrin</text>
             </inscription>
-            <inscription href="http://www.metmuseum.org/art/collection/search/39664" source="Metropolitan Museum of Art" dataDate="2016-04-26-10-45-06">
+            <inscription source="Metropolitan Museum of Art" dataDate="2016-04-26-10-45-06">
                 <position>seal on both screens</position>
                 <text type="mark">Masatoki</text>
             </inscription>
@@ -259,7 +260,12 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="creation" source=" Bridge of Dreams: the Mary Griggs Burke collection of Japanese art. (2000) p. 312." href="http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/153737">
+		<name refid="7004603" type="geographic" vocab="tgn" extent="inhabited place">Kyōto</name>
+                <name refid="1000120" type="geographic" vocab="tgn" extent="nation">Japan</name>
+                <name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
+            </location>
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. Asia House Gallery. "Byōbu: Japanese Screens from New York Collections," January 14, 1971–March 14, 1971.</refid>
                 <name refid="124830423" type="corporate" vocab="viaf">Asia House Gallery</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -267,14 +273,14 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">Tokyo National Museum. "Rimpa: Outstanding Works of the Korin School," October 10, 1972–December 3, 1972.</refid>
                 <name refid="135962112" type="corporate" vocab="viaf">Tokyo National Museum</name>
 		<name refid="7004472" type="geographic" vocab="tgn" extent="inhabited place">Tokyo</name>
                 <name refid="1000120" type="geographic" vocab="tgn" extent="nation">Japan</name>
                 <name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Courtly Romance in Japanese Art," May 12, 1989–July 12, 1989.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -282,7 +288,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Kodai-ji Lacquer," 1995.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -290,7 +296,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Seasonal Pleasures in Japanese Art, Part II," May 1, 1996–September 8, 1996.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -298,7 +304,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "The Resonant Image: Tradition in Japanese Art (Part Two)," April 27, 1998–September 27, 1998.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -306,7 +312,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Arts of Japan," 1999.
 </refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
@@ -315,7 +321,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Blossoms of Many Colors: A Selection from the Permanent Collection of Japanese Art," March 21, 2000–August 9, 2000.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -323,7 +329,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "A Sense of Place: Landscape in Japanese Art," May 8, 2002–September 8, 2002.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -331,7 +337,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Great Waves: Chinese Themes in the Arts of Korea and Japan II," March 22, 2003–September 21, 2003.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -339,7 +345,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Birds, Flowers, and Buddhist Paradise Imagery in Japanese Art," February 14, 2004–June 13, 2004.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -347,7 +353,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "A Sensitivity to the Seasons: Spring and Summer," December 17, 2005–June 4, 2006.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -355,7 +361,7 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Flowing Streams: Scenes from Japanese Arts and Life," December 21, 2006–June 3, 2007.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -363,14 +369,14 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">Tokyo. Nezu Museum. "Korin: National Treasure Irises of the Nezu Museum and Eight-Planked Bridge of The Metropolitan Museum of Art," April 21, 2012–May 20, 2012.</refid>
                 <name refid="173025845" type="corporate" vocab="viaf">Nezu bijutsukan</name>
 		<name refid="7004472" type="geographic" vocab="tgn" extent="inhabited place">Tokyo</name>
                 <name refid="1000120" type="geographic" vocab="tgn" extent="nation">Japan</name>
                 <name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
             </location>
-            <location type="exhibition">
+            <location type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic in Japanese Art," May 26, 2012–January 13, 2013.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -385,27 +391,34 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
             <material refid="300264870" type="medium" vocab="aat">color</material>
             <material refid="300264831" type="medium" vocab="aat">gold leaf</material>
             <material refid="300014109" type="support" vocab="aat">paper</material>
-            <material refid="300014657" type="support" vocab="aat">panels</material>
         </materialSet>
         <measurementsSet>
 	    <display>Pair of six-panel folding screens; each 179.1 x 371.5 cm</display>
             <measurements pref="true" type="count" unit="components">2</measurements>
-            <measurements extent="Image (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">163.7</measurements>
-            <measurements extent="Image (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">352.4</measurements>
-            <measurements extent="Image (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="false" source="Metropolitan Museum of Art" type="height" unit="in">64 7/16</measurements>
-            <measurements extent="Image (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="false" source="Metropolitan Museum of Art" type="width" unit="ft, in">11' 6 3/4''</measurements>
-            <measurements extent="Overall (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">179.1</measurements>
-            <measurements extent="Overall (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">371.5</measurements>
-            <measurements extent="Overall (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="false" source="Metropolitan Museum of Art" type="height" unit="in">70 1/2''</measurements>
-            <measurements extent="Overall (each screen)" href="http://www.metmuseum.org/art/collection/search/39664" pref="false" source="Metropolitan Museum of Art" type="width" unit="ft, in">12' 2 1/4''</measurements>
+            <measurements extent="Image (each screen)" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">163.7</measurements>
+            <measurements extent="Image (each screen)" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">352.4</measurements>
+            <measurements extent="Image (each screen)" pref="false" source="Metropolitan Museum of Art" type="height" unit="in">64 7/16</measurements>
+            <measurements extent="Image (each screen)" pref="false" source="Metropolitan Museum of Art" type="width" unit="ft, in">11' 6 3/4''</measurements>
+            <measurements extent="Overall (each screen)" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">179.1</measurements>
+            <measurements extent="Overall (each screen)" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">371.5</measurements>
+            <measurements extent="Overall (each screen)" pref="false" source="Metropolitan Museum of Art" type="height" unit="in">70 1/2''</measurements>
+            <measurements extent="Overall (each screen)" pref="false" source="Metropolitan Museum of Art" type="width" unit="ft, in">12' 2 1/4''</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_Ex021_paintings_JapaneseScreen_1" pref="true">general view</relation>
-            <relation type="imageIs" relids="i_Ex021_paintings_JapaneseScreen_2" pref="false">general view</relation>
+            <relation type="imageIs" relids="i_Ex021_paintings_JapaneseScreen_1" pref="false">Irises at Yatsuhashi, Right screen</relation>
+            <relation type="imageIs" relids="i_Ex021_paintings_JapaneseScreen_2" pref="false">Irises at Yatsuhashi, Left screen</relation>
+            <relation type="imageIs" relids="i_Ex021_paintings_JapaneseScreen_3" pref="true">Irises at Yatsuhashi, Both screens</relation>
+            <relation type="imageIs" relids="i_Ex021_paintings_JapaneseScreen_4" pref="false">Irises at Yatsuhashi, Inscription</relation>
         </relationSet>
+	<rightsSet>
+	    <rights type="other">
+		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+		<text>Purchase, Louisa Eldridge McBurney Gift, 1953</text>
+	    </rights>
+	</rightsSet>
         <sourceSet>
             <source pref="false">
-                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/39664?=&amp;imgno=0&amp;tabname=object-information</refid>
+                <refid type="URI">https://www.metmuseum.org/art/collection/search/39664</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
             </source>
             <source pref="true" dataDate="2016-04-26-10-13-20">
@@ -414,16 +427,14 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
             </source>
 	    <source>
 		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_3-PhysicalCharacteristics.pdf#page=51</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 51. Figure 18. Work Record Linked to a Concept Authority Record: Japanese Screen.</name>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 151. Figure 18. Work Record Linked to a Concept Authority Record: Japanese Screen.</name>
 	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300106643" vocab="aat">Edo</stylePeriod>
+            <stylePeriod refid="sh85125339" vocab="lcsh" source="HRA">Sōtatsu-Kōrin School</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject dataDate="2015-05-04-11-25-31">
-                <term refid="300265156" vocab="aat" type="descriptiveTopic">folding screens</term>
-            </subject>
             <subject dataDate="2015-05-04-11-17-06">
                 <term refid="300008626" vocab="aat" type="descriptiveTopic">landscapes</term>
             </subject>
@@ -452,14 +463,16 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
         <textrefSet>
             <textref dataDate="2015-05-04-11-51-24">
                 <name type="book">Ise Monogatari</name>
+		<refid type="other">Viaf ID 182175898</refid>
             </textref>
         </textrefSet>
         <titleSet>
-            <title href="http://www.metmuseum.org/art/collection/search/39664" pref="true" source="Metropolitan Museum of Art" type="repository" xml:lang="jp">八橋図屏風</title>
-            <title pref="false" type="other">Yatsuhashi zu byōbu</title>
-            <title pref="false" type="translated">Folding screen with image of a yatsuhashi</title>
-            <title href="http://www.metmuseum.org/art/collection/search/39664" pref="false" source="Metropolitan Museum of Art" type="repository">Irises at Yatsuhashi (Eight Bridges)</title>
-            <title pref="false" type="other">Eight-Planked Bridge (Yatsuhashi)</title>
+<!-- This titleSet applies and sets as preferred the title given to the work in its original cultural context using the Cluster extension, which allows for specification of script and transliteration systems, based on ISO standards. -->
+            <title pref="true" source="Metropolitan Museum of Art" type="repository" lang="jpn" script="Jpan">八橋図屏風</title>
+            <title pref="false" type="other" lang="jpn" script="Latn" transliteration="hepburn">Yatsuhashi zu byōbu</title>
+            <title pref="false" type="translated" lang="eng" script="Latn">Folding screen with image of a yatsuhashi</title>
+            <title pref="false" source="Metropolitan Museum of Art" type="repository" lang="eng" script="Latn">Irises at Yatsuhashi (Eight Bridges)</title>
+            <title pref="false" type="other" lang="eng" script="Latn">Eight-Planked Bridge (Yatsuhashi)</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300033618" vocab="aat">paintings</worktype>
@@ -467,4 +480,116 @@ New York. The Metropolitan Museum of Art. "Designing Nature: The Rinpa Aesthetic
             <worktype pref="true" refid="300265156" vocab="aat">folding screens</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex021_paintings_JapaneseScreen_1"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/DT231.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-26-10-13-58">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex021_paintings_JapaneseScreen">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-26-10-14-20">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Louisa Eldridge McBurney Gift, 1953.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-10-55-51">
+            <refid type="URI">https://www.metmuseum.org/art/collection/search/39664</refid>
+            <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Irises at Yatsuhashi, Right screen</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex021_paintings_JapaneseScreen_2"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/DT230.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-26-10-13-58">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex021_paintings_JapaneseScreen">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-26-10-14-20">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Louisa Eldridge McBurney Gift, 1953.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-10-55-51">
+            <refid type="URI">https://www.metmuseum.org/art/collection/search/39664</refid>
+            <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Irises at Yatsuhashi, Left screen</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex021_paintings_JapaneseScreen_3"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/as53.7.1,2.R.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-26-10-13-58">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex021_paintings_JapaneseScreen">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-26-10-14-20">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Louisa Eldridge McBurney Gift, 1953.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-10-55-51">
+            <refid type="URI">https://www.metmuseum.org/art/collection/search/39664</refid>
+            <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Irises at Yatsuhashi, Both screens</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex021_paintings_JapaneseScreen_4"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/DP153048.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-26-10-13-58">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N. Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex021_paintings_JapaneseScreen">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-26-10-14-20">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program. Purchase, Louisa Eldridge McBurney Gift, 1953.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-10-55-51">
+            <refid type="URI">https://www.metmuseum.org/art/collection/search/39664</refid>
+            <name type="electronic">The Metropolitan Museum of Art. The Collection Online.</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Irises at Yatsuhashi, Inscription</title>
+      </titleSet>
+   </image>
 </vra>

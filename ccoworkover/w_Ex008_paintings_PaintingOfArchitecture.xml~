@@ -23,7 +23,7 @@
                     <date circa="false">1646</date>
                 </latestDate>
             </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="National Gallery of Art Washington">
 		<earliestDate>
 		    <date circa="false">1937</date>
 		</earliestDate>
@@ -31,7 +31,7 @@
 		    <date circa="false">1937</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="National Gallery of Art Washington">
 		<earliestDate>
 		    <date circa="false">1954</date>
 		</earliestDate>
@@ -39,7 +39,7 @@
 		    <date circa="false">1954</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="National Gallery of Art Washington">
 		<earliestDate>
 		    <date circa="false">1961</date>
 		</earliestDate>
@@ -339,4 +339,32 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             <worktype refid="300033618" vocab="aat">paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex008_paintings_PaintingOfArchitecture"
+       href="https://media.nga.gov/public/objects/4/6/1/3/2/46132-primary-0-440x400.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-21-09-31-54">
+            <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex008_paintings_PaintingOfArchitecture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-04-21-09-32-49">
+            <rightsHolder>National Gallery of Art, Washington</rightsHolder>
+            <text>Digital image courtesy of the National Gallery of Art, Washington.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-04-21-09-33-40">
+            <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html</refid>
+            <name type="electronic">National Gallery of Art Washington</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Cathedral of Saint John at 's-Hertogenbosch</title>
+      </titleSet>
+   </image>
 </vra>

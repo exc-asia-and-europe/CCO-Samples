@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex012_paintings_LandscapePainting"
-          href="http://www.getty.edu/art/collection/objects/559/marco-ricci-and-sebastiano-ricci-landscape-with-classical-ruins-and-figures-italian-about-1725-1730/">
+   <image id="i_e89697f3-a8eb-4ee3-bc3c-7825c593a573"
+          href="i_e89697f3-a8eb-4ee3-bc3c-7825c593a573.jpg">
       <agentSet>
          <agent dataDate="2016-04-21-11-57-20">
             <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
@@ -12,7 +12,7 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex012_paintings_LandscapePainting">attachment</relation>
+                   relids="w_0156d703-cc99-40c0-8a09-5a51e694ca5f">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain" dataDate="2015-04-29-15-12-13">

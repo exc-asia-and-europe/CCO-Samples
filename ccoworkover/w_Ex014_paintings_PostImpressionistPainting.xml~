@@ -13,155 +13,155 @@
             </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" vocab="AAT" refid="300111175">Dutch (culture or style)</culturalContext>
+            <culturalContext pref="false" source="J. Paul Getty Museum" vocab="AAT" refid="300111175">Dutch (culture or style)</culturalContext>
             <culturalContext pref="true" vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
             <date type="creation" dataDate="2016-04-26-09-27-08">
                 <earliestDate>
-			<date>1889</date>
+			<date circa="false">1889</date>
 		</earliestDate>
 		<latestDate>
-			<date>1889</date>
+			<date circa="false">1889</date>
 		</latestDate>
             </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1889-09-03</date>
+			<date circa="false">1889-09-03</date>
 		</earliestDate>
 		<latestDate>
-			<date>1889-10-04</date>
+			<date circa="false">1889-10-04</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1901-03-15</date>
+			<date circa="false">1901-03-15</date>
 		</earliestDate>
 		<latestDate>
-			<date>1901-03-31</date>
+			<date circa="false">1901-03-31</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1905-03-24</date>
+			<date circa="false">1905-03-24</date>
 		</earliestDate>
 		<latestDate>
-			<date>1905-04-30</date>
+			<date circa="false">1905-04-30</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1925-05-28</date>
+			<date circa="false">1925-05-28</date>
 		</earliestDate>
 		<latestDate>
-			<date>1925-07-12</date>
+			<date circa="false">1925-07-12</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1927-06</date>
+			<date circa="false">1927-06</date>
 		</earliestDate>
 		<latestDate>
-			<date>1927-07</date>
+			<date circa="false">1927-07</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1929-11</date>
+			<date circa="false">1929-11</date>
 		</earliestDate>
 		<latestDate>
-			<date>1929-11</date>
+			<date circa="false">1929-11</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1931-05-18</date>
+			<date circa="false">1931-05-18</date>
 		</earliestDate>
 		<latestDate>
-			<date>1931-06-27</date>
+			<date circa="false">1931-06-27</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1935-06-15</date>
+			<date circa="false">1935-06-15</date>
 		</earliestDate>
 		<latestDate>
-			<date>1935-09-29</date>
+			<date circa="false">1935-09-29</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1937-06</date>
+			<date circa="false">1937-06</date>
 		</earliestDate>
 		<latestDate>
-			<date>1937-10</date>
+			<date circa="false">1937-10</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1942-09-18</date>
+			<date circa="false">1942-09-18</date>
 		</earliestDate>
 		<latestDate>
-			<date>1942-11-28</date>
+			<date circa="false">1942-11-28</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1943-10-06</date>
+			<date circa="false">1943-10-06</date>
 		</earliestDate>
 		<latestDate>
-			<date>1943-11-07</date>
+			<date circa="false">1943-11-07</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1948-03-30</date>
+			<date circa="false">1948-03-30</date>
 		</earliestDate>
 		<latestDate>
-			<date>1948-04-17</date>
+			<date circa="false">1948-04-17</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1949</date>
+			<date circa="false">1949</date>
 		</earliestDate>
 		<latestDate>
-			<date>1949</date>
+			<date circa="false">1949</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1980-09-13</date>
+			<date circa="false">1980-09-13</date>
 		</earliestDate>
 		<latestDate>
-			<date>1980-12-09</date>
+			<date circa="false">1980-12-09</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1984-06-28</date>
+			<date circa="false">1984-06-28</date>
 		</earliestDate>
 		<latestDate>
-			<date>1985-04-22</date>
+			<date circa="false">1985-04-22</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1986-11-25</date>
+			<date circa="false">1986-11-25</date>
 		</earliestDate>
 		<latestDate>
-			<date>1987-03-22</date>
+			<date circa="false">1987-03-22</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
-			<date>1989-06-29</date>
+			<date circa="false">1989-06-29</date>
 		</earliestDate>
 		<latestDate>
-			<date>1989-09-03</date>
+			<date circa="false">1989-09-03</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
 			<date>1999-01-19</date>
 		</earliestDate>
@@ -169,7 +169,7 @@
 			<date>1999-03-21</date>
 		</latestDate>
 	    </date>
-	    <date type="exhibition">
+	    <date type="exhibition" source="J. Paul Getty Museum">
 		<earliestDate>
 			<date>1999-06-11</date>
 		</earliestDate>
@@ -186,7 +186,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" dataDate="2016-04-26-09-40-17">
+            <description pref="false" source="J. Paul Getty Museum" dataDate="2016-04-26-09-40-17">
                 <text>In May 1889, after episodes of self-mutilation and hospitalization, Vincent van Gogh chose to enter an asylum in Saint-Rémy, France. There, in the last year before his death, he created almost 130 paintings. Within the first week, he began Irises, working from nature in the asylum's garden. The cropped composition, divided into broad areas of vivid color with monumental irises overflowing its borders, was probably influenced by the decorative patterning of Japanese woodblock prints. 
 
 There are no known drawings for this painting; Van Gogh himself considered it a study. His brother Theo quickly recognized its quality and submitted it to the Salon des Indépendants in September 1889, writing Vincent of the exhibition: "[It] strikes the eye from afar. It is a beautiful study full of air and life." 
@@ -197,7 +197,7 @@ Each one of Van Gogh's irises is unique. He carefully studied their movements an
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-	    <description href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum">
+	    <description pref="false" source="J. Paul Getty Museum">
                 <text>Provenance. 
 - 1892
 Julien Tanguy (Père), 1825 - 1894 (Paris, France), sold to Octave Mirbeau, 1892.
@@ -239,7 +239,7 @@ Sotheby's (New York), sold to the J. Paul Getty Museum by private treaty sale, 1
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-	    <description href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum">
+	    <description pref="false" source="J. Paul Getty Museum">
                 <text>Exhibitions. 
 Salon des Indépendants (September 3 to October 4, 1889)
 
@@ -352,42 +352,42 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Salle de la Société d'Horticulture (Paris), September 3 to October 4, 1889</refid>
                 <name refid="122737254" type="corporate" vocab="viaf">Salon des indépendants</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Exposition Vincent van Gogh (March 15 to March 31, 1901) </refid>
                 <name refid="156694905" type="corporate" vocab="viaf">Galerie Bernheim Jeune</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Exposition rétrospective: Vincent van Gogh (Salon des Indépendants) (March 24 to April 30, 1905) </refid>
                 <name>Grandes Serres de la Ville de Paris</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Cinquante ans de peinture française, 1875-1925 (May 28 to July 12, 1925)</refid>
                 <name refid="156662243" type="corporate" vocab="viaf">Musée des Arts Décoratifs</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">L'Époque française de Van Gogh (June to July, 1927) </refid>
                 <name refid="156694905" type="corporate" vocab="viaf">Galerie Bernheim Jeune</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Cézanne, Gauguin, Seurat, Van Gogh (November 1929) </refid>
                 <name refid="153520949" type="corporate" vocab="viaf">Museum of Modern Art (New York)</name>
 		<name refid="7007567" type="geographical" vocab="tgn" extent="inhabited place">New York</name>
@@ -395,28 +395,28 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Exposition d'oeuvres importantes de grand maîtres du dix-neuvième siècle (May 18 to June 27, 1931) </refid>
                 <name refid="6145857928823021863" type="corporate" vocab="viaf">Galerie Paul Rosenberg</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">L'Impressionnisme (June 15 to September 29, 1935) </refid>
                 <name refid="268500537" type="corporate" vocab="viaf">Palais des beaux-arts (Brussels)</name>
 		<name refid="7007868" type="geographical" vocab="tgn" extent="inhabited place">Brussels</name>
 		<name refid="1000063" type="geographical" vocab="tgn" extent="nation">Belgium</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Van Gogh: Exposition internationale de 1937, Groupe I, Classe III (June to October, 1937) </refid>
                 <name refid="148467885" type="corporate" vocab="viaf">Palais de Tokyo</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Paintings by Van Gogh (September 18 to November 28, 1942) </refid>
                 <name refid="139120204" type="corporate" vocab="viaf">The Baltimore Museum of Art</name>
 		<name refid="7013352" type="geographical" vocab="tgn" extent="inhabited place">Baltimore</name>
@@ -424,7 +424,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Paintings by Van Gogh (September 18 to November 28, 1942) </refid>
                 <name refid="158012874" type="corporate" vocab="viaf">Worcester Art Museum</name>
 		<name refid="7014647" type="geographical" vocab="tgn" extent="inhabited place">Worcester</name>
@@ -432,7 +432,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Art and Life of Vincent van Gogh (October 6 to November 7, 1943) </refid>
                 <name refid="960145857880023020120" type="corporate" vocab="viaf">Wildenstein &amp; Co.</name>
 		<name refid="7007567" type="geographical" vocab="tgn" extent="inhabited place">New York</name>
@@ -440,7 +440,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Van Gogh: Fourteen Masterpieces (March 30 to April 17, 1948) </refid>
                 <name refid="137034852" type="corporate" vocab="viaf">Knoedler &amp; Company</name>
 		<name refid="7007567" type="geographical" vocab="tgn" extent="inhabited place">New York</name>
@@ -448,7 +448,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Trends in European Painting, 1880 - 1930 (1949) </refid>
                 <name>The Century Association (New York)</name>
 		<name refid="7007567" type="geographical" vocab="tgn" extent="inhabited place">New York</name>
@@ -456,21 +456,21 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">From Goya to Wyeth: The Joan Whitney Payson Collection (September 13 to December 9, 1980)</refid>
                 <name refid="156122871" type="corporate" vocab="viaf">Kyoto Municipal Museum of Art </name>
 		<name refid="7004603" type="geographical" vocab="tgn" extent="inhabited place">Kyoto</name>
 		<name refid="1000120" type="geographical" vocab="tgn" extent="nation">Japan</name>
 		<name refid="1000004" type="geographical" vocab="tgn" extent="continent">Asia</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">From Goya to Wyeth: The Joan Whitney Payson Collection (September 13 to December 9, 1980) </refid>
                 <name refid="126086669" type="corporate" vocab="viaf">Isetan Museum of Art</name>
 		<name refid="7004472" type="geographical" vocab="tgn" extent="inhabited place">Tokyo</name>
 		<name refid="1000120" type="geographical" vocab="tgn" extent="nation">Japan</name>
 		<name refid="1000004" type="geographical" vocab="tgn" extent="continent">Asia</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">A Day in the Country: Impressionism and the French Landscape / L'impressionnisme et le paysage français (June 28, 1984 to April 22, 1985) </refid>
                 <name refid="977145857891723021009" type="corporate" vocab="viaf">Los Angeles County Museum of Art</name>
 		<name refid="7023900" type="geographical" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -478,7 +478,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">A Day in the Country: Impressionism and the French Landscape / L'impressionnisme et le paysage français (June 28, 1984 to April 22, 1985) </refid>
                 <name refid="131375374" type="corporate" vocab="viaf">The Art Institute of Chicago</name>
 		<name refid="7013596" type="geographical" vocab="tgn" extent="inhabited place">Chicago</name>
@@ -486,14 +486,14 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">A Day in the Country: Impressionism and the French Landscape / L'impressionnisme et le paysage français (June 28, 1984 to April 22, 1985) </refid>
                 <name refid="128933156" type="corporate" vocab="viaf">Galeries nationales du Grand Palais</name>
 		<name refid="7008038" type="geographical" vocab="tgn" extent="inhabited place">Paris</name>
 		<name refid="1000070" type="geographical" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographical" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Van Gogh in Saint-Rémy and Auvers (November 25, 1986 to March 22, 1987) </refid>
                 <name refid="126238294" type="corporate" vocab="viaf">The Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographical" vocab="tgn" extent="inhabited place">New York</name>
@@ -501,7 +501,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Irises and Five Masterpieces (June 29 to September 3, 1989) </refid>
                 <name refid="125633846" type="corporate" vocab="viaf">National Gallery of Australia</name>
 		<name refid="7001867" type="geographical" vocab="tgn" extent="inhabited place">Canberra</name>
@@ -509,7 +509,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7000490" type="geographical" vocab="tgn" extent="nation">Australia</name>
 		<name refid="1000006" type="geographical" vocab="tgn" extent="continent">Oceania</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Irises and Five Masterpieces (June 29 to September 3, 1989)</refid>
                 <name refid="127414571" type="corporate" vocab="viaf">Art Gallery of New South Wales</name>
 		<name refid="7001923" type="geographical" vocab="tgn" extent="inhabited place">Sydney</name>
@@ -517,7 +517,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7000490" type="geographical" vocab="tgn" extent="nation">Australia</name>
 		<name refid="1000006" type="geographical" vocab="tgn" extent="continent">Oceania</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Irises and Five Masterpieces (June 29 to September 3, 1989)</refid>
                 <name>Queensland Art Gallery (South Brisbane)</name>
 		<name refid="7001911" type="geographical" vocab="tgn" extent="inhabited place">Brisbane</name>
@@ -525,7 +525,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7000490" type="geographical" vocab="tgn" extent="nation">Australia</name>
 		<name refid="1000006" type="geographical" vocab="tgn" extent="continent">Oceania</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Irises and Five Masterpieces (June 29 to September 3, 1989)</refid>
                 <name refid="149601682" type="corporate" vocab="viaf">National Gallery of Victoria</name>
 		<name refid="7001933" type="geographical" vocab="tgn" extent="inhabited place">Melbourne</name>
@@ -533,7 +533,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7000490" type="geographical" vocab="tgn" extent="nation">Australia</name>
 		<name refid="1000006" type="geographical" vocab="tgn" extent="continent">Oceania</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Irises and Five Masterpieces (June 29 to September 3, 1989)</refid>
                 <name refid="127766903" type="corporate" vocab="viaf">Art Gallery of Western Australia</name>
 		<name refid="7001977" type="geographical" vocab="tgn" extent="inhabited place">Perth</name>
@@ -541,7 +541,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7000490" type="geographical" vocab="tgn" extent="nation">Australia</name>
 		<name refid="1000006" type="geographical" vocab="tgn" extent="continent">Oceania</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Vincent's Irises (January 19 to March 21, 1999) </refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographical" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -549,7 +549,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
 		<name refid="7012149" type="geographical" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographical" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Van Gogh's Iris: Masterpiece in Focus</refid>
                 <name refid="152365555" type="corporate" vocab="viaf">National Gallery of Canada</name>
 		<name refid="7013088" type="geographical" vocab="tgn" extent="inhabited place">Ottawa</name>
@@ -564,10 +564,10 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
             <material refid="300014078" type="support" vocab="aat">canvas</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">74.3</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">94.3</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" type="height" unit="in">29 1/4</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">37 1/8</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="height" unit="cm">74.3</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="width" unit="cm">94.3</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="height" unit="in">29 1/4</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="width" unit="in">37 1/8</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex014_paintings_PostImpressionistPainting">general view</relation>
@@ -583,8 +583,7 @@ Van Gogh's Iris: Masterpiece in Focus (June 11 to September 19, 1999)
             </source>
 	    <source>
 		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_8-Description.pdf#page=11</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 35. Figure 39.
-Work Record with a Description: Post-Impressionist Painting.</name>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 255. Figure 39. Work Record with a Description: Post-Impressionist Painting.</name>
 	    </source>
         </sourceSet>
         <stylePeriodSet>
@@ -792,4 +791,32 @@ Work Record with a Description: Post-Impressionist Painting.</name>
             <worktype refid="300033799" vocab="aat">oil paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex014_paintings_PostImpressionistPainting"
+          href="http://media.getty.edu/museum/images/web/download/00094701.jpg">
+      <agentSet>
+         <agent dataDate="2016-04-26-09-12-47">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex014_paintings_PostImpressionistPainting">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-05-04-09-29-57">
+            <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-09-29-34">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/826/vincent-van-gogh-irises-dutch-1889/</refid>
+            <name type="electronic">The J. Paul Getty Museum Collection Online</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Irises</title>
+      </titleSet>
+   </image>
 </vra>

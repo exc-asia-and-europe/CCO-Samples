@@ -15,9 +15,13 @@
                    relids="w_Ex011_paintings_LandscapePainting">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights type="publicDomain" dataDate="2015-04-29-14-42-28">
+         <rights type="publicDomain" dataDate="2016-04-21-09-32-49">
             <rightsHolder>National Gallery of Art, Washington</rightsHolder>
             <text>Digital image courtesy of the National Gallery of Art, Washington.</text>
+         </rights>
+                 dataDate="2015-04-29-14-42-28">
+            <rightsHolder>Daderot</rightsHolder>
+            <text>CC0 1.0</text>
          </rights>
       </rightsSet>
       <sourceSet>
@@ -27,7 +31,7 @@
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Autumn - On the Hudson River</title>
+         <title type="generalView">Image record CCO_online_011.jpg</title>
       </titleSet>
    </image>
 </vra>

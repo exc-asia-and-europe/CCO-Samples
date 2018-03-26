@@ -16,12 +16,12 @@
             <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date type="creation" dataDate="2015-05-04-09-40-11">
+            <date type="creation" dataDate="2015-05-04-09-40-11" source="Museum of Modern Art">
                 <earliestDate>
-                    <date>1907-06</date>
+                    <date circa="false">1907-06</date>
                 </earliestDate>
 		<latestDate>
-                    <date>1907-07</date>
+                    <date circa="false">1907-07</date>
 		</latestDate>
             </date>
         </dateSet>
@@ -33,7 +33,7 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>	
-            <description pref="false" source="Museum of Modern Art" href="https://www.moma.org/collection/works/79766" dataDate="2015-05-04-09-41-43">
+            <description pref="false" source="Museum of Modern Art" dataDate="2015-05-04-09-41-43">
                 <text>Les Demoiselles d’Avignon marks a radical break from traditional composition and perspective in painting. It depicts five naked women with figures composed of flat, splintered planes and faces inspired by Iberian sculpture and African masks. The compressed space the figures inhabit appears to project forward in jagged shards; a fiercely pointed slice of melon in the still life of fruit at the bottom of the composition teeters on an impossibly upturned tabletop. These strategies would be significant in Picasso’s subsequent development of Cubism, charted in this gallery with a selection of the increasingly fragmented compositions he created in this period.
 
 Picasso unveiled the monumental painting in his Paris studio after months of revision. The Avignon of the work’s title is a reference to a street in Barcelona famed for its brothel. In Picasso’s preparatory studies for the work, the figure at the left was a man, but the artist eliminated this anecdotal detail in the final painting.</text>
@@ -42,7 +42,7 @@ Picasso unveiled the monumental painting in his Paris studio after months of rev
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description pref="false" source="The Museum of Modern Art, MoMA Highlights, New York: The Museum of Modern Art, revised 2004, originally published 1999, p. 64" href="https://www.moma.org/collection/works/79766">
+            <description pref="false" source="The Museum of Modern Art, MoMA Highlights, New York: The Museum of Modern Art, revised 2004, originally published 1999, p. 64">
                 <text>Les Demoiselles d'Avignon is one of the most important works in the genesis of modern art. The painting depicts five naked prostitutes in a brothel; two of them push aside curtains around the space where the other women strike seductive and erotic poses—but their figures are composed of flat, splintered planes rather than rounded volumes, their eyes are lopsided or staring or asymmetrical, and the two women at the right have threatening masks for heads. The space, too, which should recede, comes forward in jagged shards, like broken glass. In the still life at the bottom, a piece of melon slices the air like a scythe.
 
 The faces of the figures at the right are influenced by African masks, which Picasso assumed had functioned as magical protectors against dangerous spirits: this work, he said later, was his "first exorcism painting." A specific danger he had in mind was life-threatening sexual disease, a source of considerable anxiety in Paris at the time; earlier sketches for the painting more clearly link sexual pleasure to mortality. In its brutal treatment of the body and its clashes of color and style (other sources for this work include ancient Iberian statuary and the work of Paul Cézanne), Les Demoiselles d'Avignon marks a radical break from traditional composition and perspective.</text>
@@ -66,7 +66,7 @@ As his preparatory studies reveal, Picasso initially conceived of the figure at 
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
-            <description pref="false" source="Museum of Modern Art" href="https://www.moma.org/collection/works/79766">
+            <description pref="false" source="Museum of Modern Art">
                 <text>Provenance.
 The artist, Paris. 1907 - 1924
 Jacques Doucet (1853-1929), Neuilly (Paris). Purchased from Picasso in February 1924 - 1929
@@ -88,7 +88,8 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
 		<name refid="7012149" vocab="tgn" type="geographic" extent="nation">United States</name>
 		<name refid="1000001" vocab="tgn" type="geographic" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="creation">
+            <location pref="false" type="creation" source="Museum of Modern Art, NY">
+		<refid type="other">Picasso unveiled the monumental painting in his Paris studio after months of revision.</refid>
                 <name refid="7008038" vocab="tgn" type="geographic" extent="inhabited place">Paris</name>
 		<name refid="1000070" vocab="tgn" type="geographic" extent="nation">France</name>
 		<name refid="1000003" vocab="tgn" type="geographic" extent="continent">Europe</name>
@@ -99,20 +100,24 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
             <material refid="300014078" type="support" vocab="aat">canvas</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.moma.org/collection/object.php?object_id=79766" source="Museum of Modern Art, NY" pref="true" type="height" unit="cm">243.9</measurements>
-            <measurements href="http://www.moma.org/collection/object.php?object_id=79766" source="Museum of Modern Art, NY" pref="true" type="width" unit="cm">233.7</measurements>
-            <measurements href="http://www.moma.org/collection/object.php?object_id=79766" source="Museum of Modern Art, NY" pref="false" type="height" unit="ft">8'</measurements>
-            <measurements href="http://www.moma.org/collection/object.php?object_id=79766" source="Museum of Modern Art, NY" pref="false" type="width" unit="ft">7' 8"</measurements>
+            <measurements source="Museum of Modern Art, NY" pref="true" type="height" unit="cm">243.9</measurements>
+            <measurements source="Museum of Modern Art, NY" pref="true" type="width" unit="cm">233.7</measurements>
+            <measurements source="Museum of Modern Art, NY" pref="false" type="height" unit="ft">8'</measurements>
+            <measurements source="Museum of Modern Art, NY" pref="false" type="width" unit="ft">7' 8"</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex016_paintings_CubistPainting">general view</relation>
         </relationSet>
 	<rightsSet>
-	    <display>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York </display>
+	    <display>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York; Acquired through the Lillie P. Bliss Bequest (by exchange)  </display>
 	    <rights type="copyrighted">
 		<rightsHolder>Estate of Pablo Picasso</rightsHolder>
 		<rightsHolder>Artists Rights Society (ARS)</rightsHolder>
 		<text>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York </text>
+	    </rights>
+	    <rights type="other">
+		<rightsHolder>Museum of Modern Art, NY</rightsHolder>
+		<text>Acquired through the Lillie P. Bliss Bequest (by exchange)</text>
 	    </rights>
 	</rightsSet>
         <sourceSet>
@@ -127,7 +132,7 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021495" vocab="aat">Cubist</stylePeriod>
-            <stylePeriod href="http://www.moma.org/collection/object.php?object_id=79766" source="Museum of Modern Art, NY" refid="300174254" vocab="aat">Primitivist</stylePeriod>
+            <stylePeriod source="Museum of Modern Art, NY" refid="300174254" vocab="aat">Primitivist</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject dataDate="2015-05-04-09-49-37">
@@ -155,9 +160,6 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
                 <term refid="300138758" vocab="aat" type="descriptiveTopic">masks</term>
             </subject>
             <subject>
-                <term refid="300015647" vocab="aat" type="geographicPlace">African</term>
-            </subject>
-            <subject>
                 <term refid="300305500" vocab="aat" type="geographicPlace">Iberian</term>
             </subject>
 	    <subject>
@@ -170,7 +172,7 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
         </techniqueSet>
         <titleSet>
             <title pref="true" type="repository">Les Demoiselles d’Avignon</title>
-            <title pref="false" type="translated">The Women of Avignon</title>
+            <title pref="false" type="translated" source="HRA">The Women of Avignon</title>
             <title pref="false" type="descriptive">Five Female Nudes</title>
         </titleSet>
         <worktypeSet>
@@ -178,4 +180,32 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
             <worktype refid="300033799" vocab="aat">oil paintings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex016_paintings_CubistPainting"
+          href="http://www.moma.org//media/W1siZiIsIjE1MTI3MSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=f7560007ccdf470f">
+      <agentSet>
+          <agent>
+            <name refid="163771056" type="corporate" vocab="viaf">Museum of Modern Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex016_paintings_CubistPainting">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="copyrighted">
+            <rightsHolder>Museum of Modern Art, NY</rightsHolder>
+            <text>Digital image, The Museum of Modern Art, New York/Scala, Florence.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-04-09-34-17">
+            <refid type="URI">https://www.moma.org/collection/works/79766</refid>
+            <name type="electronic">Museum of Modern Art, NY</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Les Demoiselles d'Avignon </title>
+      </titleSet>
+   </image>
 </vra>

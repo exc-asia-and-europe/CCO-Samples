@@ -270,7 +270,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
             <measurements pref="false" source="Metropolitan Museum of Art" type="width" unit="in">8 7/16</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" refid="700000224" source="CONA" type="studyFor">Capella Sistina</relation>
+            <relation pref="false" relids="700000224" source="CONA" type="studyFor">Capella Sistina</relation>
             <relation pref="true" relids="i_Ex028_printsdr_RenaissanceDrawing_2" type="imageIs">Studies for the Libyan Sibyl (recto)</relation>
             <relation pref="false" relids="i_Ex028_printsdr_RenaissanceDrawing_1" type="imageIs">Studies for the Libyan Sibyl and a small Sketch for a Seated Figure (verso)</relation>
         </relationSet>
@@ -335,7 +335,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
             </textref>
         </textrefSet>
         <titleSet>
-            <title pref="true" type="repository">Studies for the Libyan Sibyl (recto); Studies for the Libyan Sibyl and a small Sketch for a Seated Figure (verso)</title>
+            <title pref="true" type="descriptive">Studies for the Libyan Sibyl (recto); Studies for the Libyan Sibyl and a small Sketch for a Seated Figure (verso)</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033973" vocab="aat">drawings</worktype>
@@ -352,7 +352,7 @@ Marking: Unidentified paraph in pen and dark brown ink at lower center. Accordin
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex028_printsdr_RenaissanceDrawing">attachment</relation>
+                   relids="w_Ex28_printsdr_RenaissanceDrawing">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain">

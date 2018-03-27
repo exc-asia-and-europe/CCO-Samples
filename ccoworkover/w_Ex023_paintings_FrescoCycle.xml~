@@ -12,7 +12,7 @@
                 <name refid="27073355" type="personal" vocab="viaf">Giotto</name>
                 <role type="code" vocab="marcrelator">art</role>
             </agent>
-            <agent pref="true" dataDate="2016-04-26-11-27-15">
+            <agent pref="false" dataDate="2016-04-26-11-27-15">
                 <dates type="life">
                     <latestDate circa="false">1336</latestDate>
                 </dates>
@@ -35,8 +35,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="https://en.wikipedia.org/wiki/Scrovegni_Chapel" pref="false"
-                source="Wikipedia EN" dataDate="2016-04-26-11-31-37">
+            <description pref="false" href="https://en.wikipedia.org/wiki/Scrovegni_Chapel"            source="Wikipedia EN" dataDate="2016-04-26-11-31-37">
                 <text>Giotto frescoed the whole chapel's surface, including the walls and the ceiling. The fresco cycle is organised along four tiers, each of which contains episodes from the stories of the various protagonists of the Sacred History. Each tier is divided into frames, each forming a scene. The chapel has an a-symmetrical shape, with six windows on one of its longer sides (the South wall). The chapel's shape determined the decorative module. The first step was choosing to place two frames in-between each double window sets on the South wall; next, the width and height of the tiers was fixed in order to calculate the same space on the opposite wall (the North wall).
 The cycle recounts the Story of salvation. It starts from high up, on the lunette of the triumphal arch, when God the Father decides to get reconciled with humanity, entrusting the archangel Gabriel with the announcement of his decision to erase Adam’s sin with the sacrifice of His son. The narrative goes on with the Stories of Joachim and Anne (first tier from the top, South wall) and the Stories of Mary (first tier from the top, North wall). Next we go back to the triumphal arch, with the scenes of the Annunciation and the Visitation. The Stories of Christ follow on the middle tier, South and North walls. The scene of Judas receiving the money is on the triumphal arch. The lower tier (South and North walls) shows the Passion and Resurrection: the last frame is the Pentecost (North wall). Right below the fourth tier begins (ground level) with the monochromes of the Vices (North wall) and the Virtues (South wall). The West wall (counter-façade) represents the grandiose Last Judgment.</text>
                 <author>
@@ -44,21 +43,21 @@ The cycle recounts the Story of salvation. It starts from high up, on the lunett
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description source="Cole, Bruce. Giotto and Florentine Painting. New York: Harper and Row, 1976.  Page: 63 ff." pref="true" dataDate="2016-04-26-11-32-01">
+            <description pref="true" source="Cole, Bruce. Giotto and Florentine Painting. New York: Harper and Row, 1976.  Page: 63 ff." dataDate="2016-04-26-11-32-01">
                 <text>The frescoes are dated based on archival records, including the purchase of the land in 1300 and the dedication in 1304.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description source="Grove Art Online; http://www.oxfordartonline.com (accessed 6/1/2009); from the VRA Core Example" pref="false">
+            <description pref="false" source="Grove Art Online; http://www.oxfordartonline.com (accessed 6/1/2009); from the VRA Core Example">
                 <text>The frescoes include the Last Judgement on the entrance wall and three tiers of fresco panels on the two lateral walls that contain scenes from the Life of Joachim and Anna, the Life of the Virgin, and the Life of Christ. The choir arch contains the Annunciation. Between the main scenes Giotto used a faux architectural scheme of painted marble decorations and small recesses. There are allegorical figures of the Virtues and Vices painted in grisaille (as though they were monochrome relief sculptures) on the dado level of the walls.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description source="Cappella degli Scrovegni" href="http://www.cappelladegliscrovegni.it/index.php/en/the-scrovegni-s-chapel/restoration" pref="false">
+            <description pref="false" source="Cappella degli Scrovegni" href="http://www.cappelladegliscrovegni.it/index.php/en/the-scrovegni-s-chapel/restoration">
                 <text>Very little is known about the history of the Chapel from then until the 19th century, when it was almost destroyed as a result of lack of interest on the part of its new owners. The portico on the façade collapsed and the house built by Enrico was demolished.
 These events had a disastrous effect on the Chapel, the left side and façade of which were left unsupported and exposed to the elements. In the meantime, the building had passed to the City Council (1881), which took steps to prevent further loss and damage. But the building and its frescoes had already undergone severe deterioration.
 Major restoration work was undertaken in the late 19th century and again in the 1960s. More recently, a new problem has arisen – damage due to atmospheric pollution, which causes the painted surfaces to crumble away.
@@ -70,7 +69,7 @@ Nearly a year was needed to check that the environmental control system was work
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description source="Web Gallery of Art" href="https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html" pref="false">
+            <description pref="false" source="Web Gallery of Art">
                 <text>Giotto and his assistants painted from top to bottom. Since the painting was executed alfresco, moist plaster had to be applied only to a surface of sufficient size to be decorated in one day. We can assume that preliminary drawings were made for individual picture fields, so that Giotto could leave the execution of the secondary figures, the backgrounds and the decorative bands to members of his workshop. Without assistants and specialists, it would not have been possible to realize such an extensive decorative program in the short space of two to three years. Even if expert art historians believe they can identify individual assistants on the basis of stylistic characteristics, both in Padua and in the later frescoes for the Lower Church at Assisi and the Florentine church of Santa Croce, each of these paintings nevertheless appears as a unified whole, showing the hand of the master and bearing the stamp of his talent for invention.</text>
                 <author>
                     <name refid="129204604" type="corporate" vocab="viaf">Web Gallery of Art</name>
@@ -85,14 +84,10 @@ Nearly a year was needed to check that the environmental control system was work
                 <name refid="7003085" type="geographic" vocab="tgn" extent="inhabited place">Padova</name>
                 <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
                 <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
-                <point epsg="4326">
-                    <lat>45.411667</lat>
-                    <long>11.879444</long>
-                </point>
             </location>
         </locationSet>
         <relationSet>
-            <relation type="imageIs" relids="i_Ex023_paintings_FrescoCycle">general view</relation>
+            <relation type="imageIs" relids="i_Ex023_paintings_FrescoCycle_1">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2016-04-26-11-39-23">
@@ -102,6 +97,10 @@ Nearly a year was needed to check that the environmental control system was work
             <source pref="false">
                 <refid type="URI">http://www.core.vraweb.org/examples/html/example027_full_xml.html</refid>
                 <name type="electronic">VRA Core 4 Example 27: Fresco cycle in a chapel [complex record]</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html</refid>
+                <name type="electronic">Web Gallery of Art</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -135,11 +134,11 @@ Nearly a year was needed to check that the environmental control system was work
         </subjectSet>
         <techniqueSet>
             <technique refid="300053357" vocab="aat">fresco painting</technique>
-            <technique source="Web Gallery of Art" href="https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html" refid="300403944" vocab="aat">buon fresco</technique>
+            <technique source="Web Gallery of Art" refid="300403944" vocab="aat">buon fresco</technique>
         </techniqueSet>
         <titleSet>
             <title type="descriptive" pref="true">Scenes from the Life of Christ and the Virgin Mary</title>
- 	    <title type="descriptive" pref="false" source="VRA Core">Frescoes in the Capella degli Scrovegni</title>
+ 	    <title type="descriptive" pref="false" source="VRA Core and Web Gallery of Art">Frescoes in the Capella degli Scrovegni</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300184300" vocab="aat">narrative cycles</worktype>
@@ -148,4 +147,58 @@ Nearly a year was needed to check that the environmental control system was work
             <worktype refid="300177433" vocab="aat">frescoes</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex023_paintings_FrescoCycle_1"
+          href="https://www.wga.hu/art/g/giotto/padova/01view.jpg">
+      <agentSet>
+         <agent>
+            <name refid="129204604" type="corporate" vocab="viaf">Web Gallery of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex023_paintings_FrescoCycle">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="copyrighted">
+            <rightsHolder>Web Gallery of Art</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html</refid>
+            <name type="electronic">Web Gallery of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">The Chapel viewed towards the entrance</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex023_paintings_FrescoCycle_2"
+          href="https://www.wga.hu/detail/g/giotto/padova/location.jpg">
+      <agentSet>
+         <agent>
+            <name refid="129204604" type="corporate" vocab="viaf">Web Gallery of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex023_paintings_FrescoCycle">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="copyrighted">
+            <rightsHolder>Web Gallery of Art</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://www.wga.hu/frames-e.html?/html/g/giotto/padova/index.html</refid>
+            <name type="electronic">Web Gallery of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Location of the frescoes as viewed from the entrance</title>
+      </titleSet>
+   </image>
 </vra>

@@ -21,11 +21,11 @@
       <sourceSet>
          <source>
             <refid type="URI">https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/mosaics/</refid>
-            <name type="electronic">Museo archeologico nazionale di Napoli</name>
+            <name type="electronic">Flickr</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Battle of Issus between Alexander and Darius III</title>
+         <title type="generalView">Image record CCO_online_024.jpg</title>
       </titleSet>
    </image>
 </vra>

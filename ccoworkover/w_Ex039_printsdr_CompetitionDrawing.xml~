@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_1c85aae8-a23b-4665-abf7-5d6d2c9eed0e" source="Kurs" refid="c_3fc42cb0-c9b1-4099-8fca-1dda49002e9c">
+    <work id="w_Ex039_printsdr_CompetitionDrawing" refid="c_CCO_Examples">
         <agentSet>
 	    <display>architect: Henry Bacon (American, 1866-1924); draftsman: Jules Guéren (French, 19th-20th century)</display>
             <agent pref="false" dataDate="2015-11-05-15-03-39">
@@ -27,8 +27,12 @@
         </culturalContextSet>
         <dateSet>
             <date pref="false" type="creation" dataDate="2016-05-18-15-30-20">
-                <earliestDate>1912</earliestDate>
-		<latestDate>1912</latestDate>
+                <earliestDate>
+		   <date circa="false">1912</date>
+		</earliestDate>
+		<latestDate>
+		   <date circa="false">1912</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -41,8 +45,8 @@
         		</description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="repository" dataDate="2016-05-18-15-33-11">
-                <refid href="https://research.archives.gov/id/2581318" source="National Archives" type="accession">2581318</refid>
+            <location type="repository" dataDate="2016-05-18-15-33-11">
+                <refid source="National Archives" type="accession">2581318</refid>
                 <name refid="133241812" type="corporate" vocab="viaf">United States, National Archives and Records Service</name>
 		<name refid="7013633" type="geographic" vocab="tgn" extent="inhabited place">College Park</name>
 		<name refid="7007516" type="geographic" vocab="tgn" extent="state">Maryland</name>               
@@ -57,7 +61,8 @@
         </materialSet>
         <relationSet>
             <relation pref="false" relids="w_Ex155_architecture_NineteenthCentury" type="depicts">Lincoln Memorial</relation>
-            <relation pref="true" relids="i_a2aa3456-d2c6-4c3f-ad70-b6b9ceeeec26" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_Ex039_printsdr_CompetitionDrawing" type="imageIs">general view</relation>
+	    <relation pref="false" type="partOf">Series: Proposal Plans for a Lincoln Memorial, 1911 - 1915</relation>
         </relationSet>
 	<sourceSet>
 	    <source>
@@ -67,6 +72,10 @@
 	    <source>
 		  <name type="book">Meyer, Jeffrey F. 2008. Myths in Stone: Religious Dimensions of Washington, DC. Berkeley [u.a.]: Univ. of California Press.</name>
 		  <refid type="ISBN">978-0-520-21481-1</refid>
+	    </source>
+	    <source>
+		  <name type="electronic">National Archives. Henry Bacon’s Competition Proposal for a Monument to Abraham Lincoln-</name>
+		  <refid type="URI">https://catalog.archives.gov/id/2581318</refid>
 	    </source>
 	</sourceSet>        
         <subjectSet>
@@ -85,8 +94,8 @@
             <technique pref="false" refid="300054216" vocab="aat">painting</technique>
         </techniqueSet>
         <titleSet>
-            <title href="https://research.archives.gov/id/2581318" pref="false" source="National Archives" type="repository">Henry Bacon's Competition Proposal for a Monument to Abraham Lincoln</title>
-            <title pref="true" type="descriptive">Temple Design for the Lincoln Memorial</title>
+            <title pref="true" source="National Archives" type="repository">Henry Bacon's Competition Proposal for a Monument to Abraham Lincoln</title>
+            <title pref="false" type="descriptive">Temple Design for the Lincoln Memorial</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300033973" vocab="aat">drawings</worktype>
@@ -94,4 +103,36 @@
             <worktype pref="false" refid="300069413" vocab="aat">design drawings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex039_printsdr_CompetitionDrawing"
+          href="https://catalog.archives.gov/OpaAPI/media/2581318/content/arcmedia/Public_Vaults/15643_a.jpg">
+      <agentSet>
+         <agent pref="false" dataDate="2015-11-05-14-54-08">
+            <name refid="172269414" type="corporate" vocab="viaf">National Archives</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex039_printsdr_CompetitionDrawing">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="publicDomain"
+                 source="National Archives (U.S.)"
+                 dataDate="2015-11-05-14-55-04">
+            <rightsHolder>National Archives (United States of America)</rightsHolder>
+            <text>Access Restriction(s): Unrestricted
+Use Restriction(s): Unrestricted</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-05-14-55-32">
+            <refid type="URI">https://research.archives.gov/id/2581318</refid>
+            <name type="electronic">National Archives</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Henry Bacon’s Competition Proposal for a Monument to Abraham Lincoln</title>
+      </titleSet>
+   </image>
 </vra>

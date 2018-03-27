@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex032_printsdr_WatercolorBritish"
-          href="http://www.getty.edu/museum/media/images/web/download/00045601.jpg">
+   <image id="i_f7ba0ea5-0a98-4941-b1d9-cb144ad21b91"
+          href="i_f7ba0ea5-0a98-4941-b1d9-cb144ad21b91.jpg">
       <agentSet>
          <agent dataDate="2016-05-18-09-52-21">
             <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty museum</name>
@@ -12,7 +12,7 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex032_printsdr_WatercolorBritish">attachment</relation>
+                   relids="w_e94a1082-9db6-4c64-bf1f-9660448d57f9">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain"

@@ -18,10 +18,10 @@
         <dateSet>
             <date  pref="true" type="creation" dataDate="2015-11-02-13-56-36">
                 <earliestDate>
-                    <date>1565</date>
+                    <date circa="false">1565</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1568</date>
+                    <date circa="false">1568</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -65,8 +65,8 @@
         </measurementsSet>
         <relationSet>
             <relation pref="false" type="derivedFrom">Lafréry, Antonio (French, 1512-1577); Speculum romanae magnificentiae; published 1545-1577.</relation>
-            <relation pref="false" type="prepatoryFor">Giovanni Battista de’ Cavalieri (Italian, ca. 1525-1601); Urbis Romae aedificiorum illustrium, published 1569; plate 7.</relation>
-            <relation pref="false" type="depicts">Pantheon (Rome, Italy); Roman; 128 CE.</relation>
+            <relation pref="false" type="prepatoryFor" source="Baca p.19">Giovanni Battista de’ Cavalieri (Italian, ca. 1525-1601); Urbis Romae aedificiorum illustrium, published 1569; plate 7.</relation>
+            <relation pref="false" type="depicts" source="Baca p.19">Pantheon (Rome, Italy); Roman; 128 CE.</relation>
             <relation pref="true" relids="i_Ex035_printsdr_ArchitecturalDrawing" type="imageIs">general view</relation>
         </relationSet>
 	<sourceSet>
@@ -115,4 +115,26 @@
             <worktype pref="false" refid="300068293" vocab="aat">preparatory drawings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex035_printsdr_ArchitecturalDrawing"
+          href="http://www.scalarchives.com/scalapic/270605/c/0131027c.jpg">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex035_printsdr_ArchitecturalDrawing">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>Scala</rightsHolder>
+	    <text>Photo Scala, Florence - courtesy of the Ministero Beni e Att. Culturali e del Turismo </text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0131027&posizione=1&numImmagini=1&prmset=on&ANDOR=and&xesearch=0131027&ricerca_s=0131027&SC_PROV=RR&SC_Lang=ita&Sort=8</refid>
+            <name type="electronic">Scala Archives</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Sectional perspective of Pantheon n. 2509 A</title>
+      </titleSet>
+   </image>
 </vra>

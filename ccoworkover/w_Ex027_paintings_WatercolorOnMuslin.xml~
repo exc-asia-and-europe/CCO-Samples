@@ -17,7 +17,7 @@
         </culturalContextSet>
         <dateSet>
 <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value more specifically for the date given by the repository. -->
-	    <display>created ca. 1898 (CCO)/circa 1896 (Autry)</display>
+	    <display>created ca. 1898 (CCO)/circa 1896 (Autry)</displa>
             <date pref="false" type="creation" dataDate="2016-04-28-16-00-13">
                 <earliestDate>
                     <date circa="false">1893</date>
@@ -39,7 +39,8 @@
                     <date circa="false">1898</date>
                 </latestDate>
             </date>
-        <date pref="false" source="The Autry's Collection Online" type="exhibition">
+        </dateSet>
+            <date pref="false" source="The Autry's Collection Online" type="exhibition">
                 <earliestDate>
                     <date circa="false">2015-04-25</date>
                 </earliestDate>
@@ -47,7 +48,6 @@
 		    <date circa="false">2016-01-03</date>
 		</latestDate>
             </date>
-        </dateSet>
         <descriptionSet>
             <description pref="true" source="New Mexico Culture Net [online] http://www.nmculturenet.org  Page: accessed 7 November 2006." dataDate="2016-04-28-16-19-39">
                 <text>Painted to commemorate the battle at which Kicking Bear had been present 20 years earlier.</text>

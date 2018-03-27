@@ -14,7 +14,7 @@ Although both Date and Location posses a type="exhibition", the link between cer
 
 ### Provenance
 
-As there is currently no separate set for provenance, this information has been included in the Description. Please see former owners for other observations.
+As there is currently no separate set for provenance, or a type in the DateSet to show when an object enters a collection, this information has been included in the Description. Please see former owners for other observations.
 
 ### Subject
 

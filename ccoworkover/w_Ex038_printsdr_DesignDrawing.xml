@@ -18,20 +18,20 @@
         <dateSet>
             <date type="creation" dataDate="2016-05-18-14-17-49">
                 <earliestDate>
-                    <date>1807-01</date>
+                    <date circa="false">1807-01</date>
                 </earliestDate>
             </date>
-            <date type="exhibition">
+            <date type="exhibition" source="LoC">
                 <earliestDate>
-                    <date>1997-05-05</date>
+                    <date circa="false">1997-05-05</date>
                 </earliestDate>
 		<latestDate>
-		    <date>2007-08-18</date>
+		    <date circa="false">2007-08-18</date>
 		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="https://www.loc.gov/item/2001698953/" pref="false" source="LoC" dataDate="2015-11-05-14-10-04">
+            <description pref="false" source="LoC" dataDate="2015-11-05-14-10-04">
                 <text>View of the South Portico as proposed by Latrobe, with axial stairway, later modified in construction. Exhibited: American Treasures of the Library of Congress.</text>
                 <author>
                     <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
@@ -47,26 +47,26 @@
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="https://www.loc.gov/item/2001698953/" source="LoC" dataDate="2016-05-18-14-33-12">
+            <inscription source="LoC" dataDate="2016-05-18-14-33-12">
                 <text type="mark">T G &amp; Co.</text>
             </inscription>
-            <inscription href="https://www.loc.gov/item/2001698953/" source="LoC">
+            <inscription source="LoC">
                 <text type="text">"Elevation of the South front of the President's house, copied from the design as proposed to be altered in 1807"</text>
             </inscription>
-            <inscription href="https://www.loc.gov/item/2001698953/" source="LoC">
+            <inscription source="LoC">
                 <text type="text">"Je n'aime [...] ne courez pas."</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
             <location pref="true" type="repository" dataDate="2016-05-18-14-23-23">
-                <refid href="https://www.loc.gov/item/2001698953/" source="Library of Congress" type="accession">ADE - UNIT 2564, no. 3 (B size) (Cabinet A) [P&amp;P]</refid>
+                <refid source="LoC" type="accession">ADE - UNIT 2564, no. 3 (B size) (Cabinet A) [P&amp;P]</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
 		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="LoC">
                 <refid type="other">American Treasures of the Library of Congress</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -76,14 +76,14 @@
             </location>
         </locationSet>
         <materialSet>
-            <material href="https://www.loc.gov/item/2001698953/" refid="300011051" source="LoC" type="medium" vocab="aat">wash</material>
+            <material refid="300011051" source="LoC" type="medium" vocab="aat">wash</material>
             <material refid="300015012" type="medium" vocab="aat">ink</material>
             <material refid="300015045" type="medium" vocab="aat">watercolor</material>
             <material refid="300014109" type="support" vocab="aat">paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="sheet" href="https://www.loc.gov/item/2001698953/" pref="true" source="LoC" type="height" unit="cm">41</measurements>
-            <measurements extent="sheet" href="https://www.loc.gov/item/2001698953/" pref="true" source="LoC" type="width" unit="cm">54</measurements>
+            <measurements extent="sheet" pref="true" source="LoC" type="height" unit="cm">41</measurements>
+            <measurements extent="sheet" pref="true" source="LoC" type="width" unit="cm">54</measurements>
             <measurements pref="true" type="height" unit="cm">39.12</measurements>
             <measurements pref="true" type="width" unit="cm">50.8</measurements>
             <measurements pref="false" type="height" unit="in">15 3/8</measurements>
@@ -92,6 +92,7 @@
         <relationSet>
             <relation pref="false" relids="w_Ex153_architecture_GeorgianBuilding" type="depicts">The White House</relation>
             <relation pref="true" relids="i_Ex038_printsdr_DesignDrawing" type="imageIs">general view</relation>
+            <relation pref="false" type="partOf">Latrobe, Benjamin Henry, 1764-1820. Architectural drawings for The White House ("President's House") Washington, D.C.</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-05-14-26-58">
@@ -105,7 +106,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject href="https://www.loc.gov/item/2001698953" source="LoC" dataDate="2015-11-05-14-09-06">
+            <subject source="LoC" dataDate="2015-11-05-14-09-06">
                 <term refid="300005630" vocab="aat" type="descriptiveTopic">official residences</term>
             </subject>
             <subject dataDate="2015-11-05-14-07-38">
@@ -118,16 +119,50 @@
         <techniqueSet>
             <technique refid="300054196" vocab="aat">drawing</technique>
         </techniqueSet>
+	<textrefSet>
+	    <textref source="LoC">
+		<name type="book">The architectural drawings of Benjamin Henry Latrobe / Jeffrey A. Cohen and Charles E. Brownell</name>
+		<refid type="citation">D79</refid>
+	    </textref>
+	</textrefSet>
         <titleSet>
 	    <notes>Title devised by Library staff.</notes>
-            <title href="https://www.loc.gov/item/2001698953/" pref="false" source="LoC" type="other">Elevation of the south front of the President's house.</title>
-            <title href="https://www.loc.gov/item/2001698953/" pref="true" source="LoC" type="repository">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
+            <title pref="false" source="LoC" type="other">Elevation of the south front of the President's house.</title>
+            <title pref="true" source="LoC" type="repository">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
             <title pref="false" type="descriptive">Design for the Addition of Porticoes on the North and South Fronts of the President’s House</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033973" vocab="aat">drawings</worktype>
-            <worktype source="Library of Congress" href="https://www.loc.gov/item/2001698953/" refid="300034787" vocab="aat">architectural drawings</worktype>
+            <worktype source="LoC" refid="300034787" vocab="aat">architectural drawings</worktype>
             <worktype refid="300069413" vocab="aat">design drawings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex038_printsdr_DesignDrawing"
+          href="https://cdn.loc.gov/service/pnp/ppmsca/09500/09502v.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-05-13-49-59">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex038_printsdr_DesignDrawing">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-11-05-13-50-29">
+            <rightsHolder>Library of Congress</rightsHolder>
+            <text>No known restrictions on publication.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-05-13-51-36">
+            <refid type="URI">https://www.loc.gov/item/2001698953</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
+      </titleSet>
+   </image>
 </vra>

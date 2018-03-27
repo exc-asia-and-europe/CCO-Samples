@@ -34,7 +34,7 @@ Identifiable depicted persons have been made part of the subjectSet, in line wit
 
 #### Depicted locations
 
-Although the relationSet allows for a notation of works being copied after or depicting other works, this misses the opportunity to include the location o
+Although the relationSet allows for a notation of works being copied after or depicting other works, this misses the opportunity to include the location of buildings or general views. For the purposes of this project, these have been included in the locationSet as type="other".
 
 #### Former owners
 

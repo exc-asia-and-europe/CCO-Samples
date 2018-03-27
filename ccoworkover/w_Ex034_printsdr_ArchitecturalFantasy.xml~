@@ -299,7 +299,7 @@ The Lure of Italy: Artists' Views (May 9 to July 30, 2017)
             <measurements pref="false" source="J. Paul Getty Museum" type="width" unit="in">20 13/16</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" href="http://www.metmuseum.org/art/collection/search/338737" refid="37.45.3(41)" type="studyFor">Giovanni Battista Piranesi: "Part of a Large Magnificent Port" (etching), published 1750; Metropolitan Museum of Art</relation>
+            <relation pref="false" href="http://www.metmuseum.org/art/collection/search/338737" relid="37.45.3(41)" type="studyFor">Giovanni Battista Piranesi: "Part of a Large Magnificent Port" (etching), published 1750; Metropolitan Museum of Art</relation>
             <relation pref="true" relids="i_Ex034_printsdr_ArchitecturalFantasy" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>

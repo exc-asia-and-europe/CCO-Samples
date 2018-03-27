@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex31_printsdr_RococoDrawing" refid="c_77f76cb9-1600-4ccb-9b57-19b2cdde058b">
+    <work id="w_Ex031_printsdr_RococoDrawing" refid="c_CCO_Examples">
         <agentSet>
             <agent dataDate="2016-05-18-09-41-09">
                 <culture>French</culture>
@@ -18,31 +18,31 @@
         <dateSet>
             <date type="creation" dataDate="2016-05-18-09-41-34">
                 <earliestDate>
-                    <date>1764</date>
+                    <date circa="false">1764</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1764</date>
+                    <date circa="false">1764</date>
                 </latestDate>
             </date>
-            <date type="exhibition">
+            <date type="exhibition" source="NGA Washington">
                 <earliestDate>
-                    <date>1978</date>
+                    <date circa="false">1978</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1978</date>
+                    <date circa="false">1978</date>
                 </latestDate>
             </date>
-            <date type="exhibition">
+            <date type="exhibition" source="NGA Washington">
                 <earliestDate>
-                    <date>1997</date>
+                    <date circa="false">1997</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1997</date>
+                    <date circa="false">1997</date>
                 </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="true" source="NGA Washington" href="https://www.nga.gov/collection/art-object-page.1835.html#provenance">
+            <description pref="true" source="NGA Washington">
                 <text>Provenance.
 Inheritance from the Estate of Peter A. B. Widener by gift through power of appointment of Joseph E. Widener, Elkins Park, 1942.</text>
                 <author>
@@ -50,7 +50,7 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" source="NGA Washington" href="https://www.nga.gov/collection/art-object-page.1835.html#history">
+            <description pref="false" source="NGA Washington">
                 <text>Exhibition History.
 1978    NGA Master Drawings 1978, p. 84.
 
@@ -62,12 +62,12 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
             </description>
 	</descriptionSet>
         <inscriptionSet>
-            <inscription>
+            <inscription source="NGA Washington">
                 <author refid="66517093" vocab="viaf">Boucher, François</author>
                 <position>lower center</position>
                 <text type="signature">fBoucher</text>
             </inscription>
-            <inscription dataDate="2015-05-13-14-04-00">
+            <inscription source="NGA Washington" dataDate="2015-05-13-14-04-00">
                 <author refid="66517093" vocab="viaf">Boucher, François</author>
                 <position>lower center</position>
                 <text type="date">1764</text>
@@ -82,7 +82,7 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="NGA Washington">
                 <refid type="other">NGA Master Drawings 1978, p. 84.</refid>
                 <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -90,7 +90,7 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="NGA Washington">
                 <refid type="other">Six Centuries/Six Artists, National Gallery of Art, Washington, 1997.</refid>
                 <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -105,17 +105,17 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
             <material refid="300014184" type="support" vocab="aat">laid paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="true" source="NGA Washington" type="height" unit="cm">33.5</measurements>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="true" source="NGA Washington" type="width" unit="cm">23.1</measurements>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="height" unit="in">13 3/16</measurements>
-            <measurements extent="overall" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="width" unit="in">9 1/8</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="true" source="NGA Washington" type="height" unit="cm">38.4</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="true" source="NGA Washington" type="width" unit="cm">28.2</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="height" unit="in">15 1/8</measurements>
-            <measurements extent="support" href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="false" source="NGA Washington" type="width" unit="in">11 1/8</measurements>
+            <measurements extent="overall" pref="true" source="NGA Washington" type="height" unit="cm">33.5</measurements>
+            <measurements extent="overall" pref="true" source="NGA Washington" type="width" unit="cm">23.1</measurements>
+            <measurements extent="overall" pref="false" source="NGA Washington" type="height" unit="in">13 3/16</measurements>
+            <measurements extent="overall" pref="false" source="NGA Washington" type="width" unit="in">9 1/8</measurements>
+            <measurements extent="support" pref="true" source="NGA Washington" type="height" unit="cm">38.4</measurements>
+            <measurements extent="support" pref="true" source="NGA Washington" type="width" unit="cm">28.2</measurements>
+            <measurements extent="support" pref="false" source="NGA Washington" type="height" unit="in">15 1/8</measurements>
+            <measurements extent="support" pref="false" source="NGA Washington" type="width" unit="in">11 1/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_fa1f6ebd-fc89-40f1-af69-20ef83b11d8d">general view</relation>
+            <relation type="imageIs" relids="i_Ex031_printsdr_RococoDrawing">general view</relation>
         </relationSet>
 	<rightsSet>
 	    <rights>
@@ -152,24 +152,52 @@ Inheritance from the Estate of Peter A. B. Widener by gift through power of appo
             <technique refid="300053418" vocab="aat">heightening</technique>
         </techniqueSet>
 	<textrefSet>
-	    <textref href="https://www.nga.gov/collection/art-object-page.1835.html#bibliography" pref="false" source="NGA Washington">
+	    <textref source="NGA Washington">
 		<name type="book">Ananoff, Alexandre. L'oeuvre dessine de Francois Boucher (1703-1770). Paris, 1966.</name>
 	    </textref>
-	    <textref href="https://www.nga.gov/collection/art-object-page.1835.html#bibliography" pref="false" source="NGA Washington">
+	    <textref source="NGA Washington">
 		<name type="catalog">Slatkin 1973</name>
 		<refid type="citation">82</refid>
 	    </textref>
-	    <textref href="https://www.nga.gov/collection/art-object-page.1835.html#bibliography" pref="false" source="NGA Washington">
+	    <textref source="NGA Washington">
 		<name type="catalog">Walker, John. National Gallery of Art, Washington. Rev. ed. New York, 1984</name>
 		<refid type="citation">675, no. 1080, color repro.</refid>
 	    </textref>
 	</textrefSet>
         <titleSet>
             <title pref="false" type="descriptive">Two Lovers</title>
-            <title href="http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html" pref="true" source="NGA Washington" type="repository">Tête-à-tête</title>
+            <title pref="true" source="NGA Washington" type="repository">Tête-à-tête</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033973" vocab="aat">drawings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex031_printsdr_RococoDrawing"
+          href="https://media.nga.gov/public/objects/1/8/3/5/1835-primary-0-440x400.jpg">
+      <agentSet>
+         <agent dataDate="2016-05-18-09-06-36">
+            <name refid="192403070" type="corporate" vocab="viaf">National gallery of art (Washington, D.C.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex031_printsdr_RococoDrawing">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-05-13-13-46-29">
+            <rightsHolder>National Gallery of Art, Washington</rightsHolder>
+            <text>Courtesy National Gallery of Art, Washington.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-05-13-13-47-06">
+            <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.1835.html</refid>
+            <name type="electronic">National Gallery of Art, Washington, Open Access Image Collection</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Tête-à-tête</title>
+      </titleSet>
+   </image>
 </vra>

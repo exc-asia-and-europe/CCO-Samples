@@ -21,12 +21,12 @@
       </rightsSet>
       <sourceSet>
          <source>
-            <refid type="URI">http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=M49018;type=101</refid>
-            <name type="electronic">Museum of the American West</name>
+            <refid type="URI">http://commons.wikimedia.org/wiki/File:Schlacht_am_Little_Bighorn_-_Bild_von_Kicking_Bear.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Battle of the Little Big Horn (Custer Massacre)</title>
+         <title type="generalView">Image record CCO_online_027_neu.jpg</title>
       </titleSet>
    </image>
 </vra>

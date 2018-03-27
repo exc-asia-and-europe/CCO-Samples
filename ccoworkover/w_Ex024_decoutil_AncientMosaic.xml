@@ -2,33 +2,18 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex024_decoutil_AncientMosaic" refid="c_CCO_Examples">
         <agentSet>
-            <agent pref="true" dataDate="2015-05-06-12-41-23">
+            <agent dataDate="2015-05-06-12-41-23">
                 <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
                 <role type="code" vocab="marcrelator">art</role>
-            </agent>
-            <agent pref="false">
-                <dates type="life">
-                    <latestDate circa="false">-0330</latestDate>
-                </dates>
-                <name refid="231805730" type="personal" vocab="viaf">Darius</name>
-                <role type="code" vocab="marcrelator">dpc</role>
-            </agent>
-            <agent pref="false" dataDate="2015-05-06-12-24-01">
-                <dates type="life">
-                    <earliestDate circa="false">-0356</earliestDate>
-                    <latestDate circa="false">-0323</latestDate>
-                </dates>
-                <name refid="101353608" type="personal" vocab="viaf">Alexander : Magnus</name>
-                <role type="code" vocab="marcrelator">dpc</role>
             </agent>
         </agentSet>
         <culturalContextSet>
             <culturalContext vocab="AAT" refid="300020533">Roman (ancient Italian culture or period)</culturalContext>
         </culturalContextSet>
         <dateSet>
+	    <display>1st century BCE</display>
             <date type="creation" dataDate="2015-05-06-12-24-54">
                 <earliestDate>
-                    <alternativeNotation>1st century BCE</alternativeNotation>
                     <date circa="true">-0100</date>
                 </earliestDate>
                 <latestDate>
@@ -37,14 +22,14 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description source="Janson, H. W. History of Art. New York: Harry N. Abrams, Inc., 1971.  Page: 151." dataDate="2016-04-26-12-56-58">
+            <description pref="true" source="Janson, H. W. History of Art. New York: Harry N. Abrams, Inc., 1971.  Page: 151." dataDate="2016-04-26-12-56-58">
                 <text>Probably a Roman copy of a Hellenistic painting. Decorated the floor of a room in the House of the Faun in Pompeii. It depicts the Battle of the Granicus, which took place in the early summer of 334 BCE. It was the first victory won by Alexander the Great in his invasion of the Persian Empire.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description source="Museo archeologico nazionale di Napoli">
+            <description pref="false" source="Museo archeologico nazionale di Napoli">
                 <text>The mosaic, the largest in the House of the Faun in Pompeii, made with the use of about one million tesserae, depicts the battle of Issus fought between Alexander the Great and Darius III in 333 BC; it marked the end of the Persian Empire.
 
 The mosaic, on the left side, shows Alexander who, astride his horse Bucephalus, leads his men against the fleeing Persians. Opposite Alexander towers the figure of Darius on his retreating war chariot. Between the two is a Persian prince who displays his loyalty by using his body to shield his king, while a soldier offers him his own horse, thus condemning himself to certain death.
@@ -55,7 +40,7 @@ The use of opus vermiculatum (a technique of mosaic which uses very small tesser
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description source="Grove Art Online; http://www.oxfordartonline.com (accessed 5/25/2009); from the VRA Core Example">
+            <description pref="false" source="Grove Art Online; http://www.oxfordartonline.com (accessed 5/25/2009); from the VRA Core Example">
                 <text>The greatest number of fine mosaics in any one house came from the House of the Faun, dating to ca. 100 BCE. Outstanding here is the Alexander Mosaic, probably representing the Battle of Issus [Issos] in Cilicia between Alexander the Great (reigned 336-323 BCE) and Darius III (reigned 335-331 BCE). The panel contained an estimated four million tesserae, all of natural stone, in a four-colour technique recalling that of Greek Late Classical painting; it was undoubtedly copied from an original painting, usually ascribed to Philoxenos of Eretria, done shortly after the battle itself. This painting was a commission for Kassander of Macedon and depicted either that at Issos (333 BCE) or that at Gaugamela (331 BCE).</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
@@ -64,6 +49,7 @@ The use of opus vermiculatum (a technique of mosaic which uses very small tesser
             </description>
         </descriptionSet>
         <locationSet>
+<!-- This locationSet demonstrates the Cluster point extension, which helps specify locations that are difficult to give with vocabularies. -->
             <location pref="false" type="formerSite">
 		<name type="other">Casa del Fauno/House of the Faun</name>
                 <name refid="7004658" vocab="tgn" extent="deserted settlement">Pompeii</name>
@@ -96,14 +82,6 @@ The use of opus vermiculatum (a technique of mosaic which uses very small tesser
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 24: Ancient mosaic with iconography.</name>
             </source>
             <source pref="false">
-                <refid type="URI">http://en.wikipedia.org/wiki/House_of_the_Faun</refid>
-                <name type="electronic">Wikipedia - House of the Faun</name>
-            </source>
-            <source pref="false" dataDate="2015-05-06-12-49-08">
-                <refid type="URI">http://en.wikipedia.org/wiki/Alexander_Mosaic</refid>
-                <name type="electronic">Wikipedia - Alexander Mosaic</name>
-            </source>
-            <source pref="false">
                 <refid type="URI">https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/mosaics/</refid>
                 <name type="electronic">Museo archeologico nazionale di Napoli</name>
             </source>
@@ -114,17 +92,17 @@ The use of opus vermiculatum (a technique of mosaic which uses very small tesser
         </sourceSet>
         <stylePeriodSet>
             <display>Greco-Roman; Hellenistic</display>
-            <stylePeriod source="VRA Core Example" vocab="AAT">Greco-Roman</stylePeriod>
+            <stylePeriod source="VRA Core Example" vocab="AAT" refid="300020103">Greco-Roman</stylePeriod>
             <stylePeriod source="VRA Core Example" vocab="AAT" refid="300020101">Hellenistic</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject refid="300000885" vocab="aat" dataDate="2015-05-06-12-55-49">
-                <term type="descriptiveTopic">architectural elements</term>
+            <subject dataDate="2015-05-06-12-55-49">
+                <term refid="300000885" vocab="aat" type="descriptiveTopic">architectural elements</term>
             </subject>
-            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" source="Wikipedia" dataDate="2015-05-06-12-51-16">
+            <subject source="Museo archeologico nazionale di Napoli">
                 <term refid="300010150" vocab="aat" type="descriptiveTopic">vermiculation</term>
             </subject>
-            <subject href="http://en.wikipedia.org/wiki/Alexander_Mosaic" source="Wikipedia">
+            <subject source="Museo archeologico nazionale di Napoli">
                 <term refid="300010730" vocab="aat" type="descriptiveTopic">tesserae</term>
             </subject>
             <subject dataDate="2015-05-06-12-39-35">
@@ -145,6 +123,12 @@ The use of opus vermiculatum (a technique of mosaic which uses very small tesser
             <subject>
                 <term refid="300002060" vocab="aat" type="descriptiveTopic">floors</term>
             </subject>
+            <subject>
+                <term refid="101353608" vocab="viaf" type="personalName">Alexander, the Great</term>
+            </subject>
+            <subject>
+                <term refid="231805730" vocab="viaf" type="personalName">Darius III, King of Persia</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300138684" vocab="aat">mosaic</technique>
@@ -159,4 +143,31 @@ The use of opus vermiculatum (a technique of mosaic which uses very small tesser
             <worktype refid="300015342" vocab="aat">mosaics</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex024_decoutil_AncientMosaic"
+          href="https://www.museoarcheologiconapoli.it/wp-content/uploads/2016/08/mosaico-ALESSANDRO-850x498.png">
+     <agentSet>
+         <agent>
+            <name refid="136677014" type="corporate" vocab="viaf">Museo archeologico nazionale di Napoli</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+     </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex024_decoutil_AncientMosaic">attachment</relation>
+      </relationSet>
+      <rightsSet>
+        <rights type="copyrighted">
+            <rightsHolder>Museo archeologico nazionale di Napoli</rightsHolder>
+	</rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/mosaics/</refid>
+            <name type="electronic">Museo archeologico nazionale di Napoli</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Battle of Issus between Alexander and Darius III</title>
+      </titleSet>
+   </image>
 </vra>

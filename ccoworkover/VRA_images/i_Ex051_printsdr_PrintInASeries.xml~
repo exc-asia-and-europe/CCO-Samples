@@ -2,10 +2,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex051_printsdr_PrintInASeries"
-          href="https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg">
+   <image id="i_a6828de3-fe74-43ab-b2cf-0af10bf8467b"
+          href="i_a6828de3-fe74-43ab-b2cf-0af10bf8467b.jpg"
+          source="Tamboti">
       <agentSet>
-         <agent dataDate="2015-11-11-16-10-15">
+         <agent pref="false" dataDate="2015-11-11-16-10-15">
             <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
             <role type="code" vocab="marcrelator">cre</role>
          </agent>

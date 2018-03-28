@@ -87,11 +87,11 @@
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex045_printsdr_PrintInscribed" pref="true">general view</relation>
-            <relation type="relatedTo" refid="1958.8.87" pref="false" source="Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France. Exh. cat. National Gallery of Art, Washington, 2003-2004: no. 58a. P. 114.">Le Menuet de la mariée (The Bride's Minuet), State v/vi, National Gallery of Art</relation>
+            <relation type="relatedTo" refid="1958.8.87" pref="false">Le Menuet de la mariée (The Bride's Minuet), State v/vi, </relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="National Gallery of Art, Washington">
-		<rightsHolder>National Gallery of Art, Washington D.C.</rightsHolder>
+		<rightsHolder>National Gallery of Art, Washington D.C.</rightHolder>
 		<text>Widener Collection</text>
 	    </rights>
 	</rightsSet>

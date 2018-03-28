@@ -15,18 +15,18 @@
                    relids="w_Ex047_printsdr_PrintPoster">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights type="copyrighted">
+         <rights type="publicDomain">
             <rightsHolder>Van Gogh Museum, Amsterdam</rightsHolder>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source>
-            <refid type="URI">https://www.vangoghmuseum.nl/en/prints/collection/p2500S2008</refid>
-            <name type="electronic">Van Gogh Museum, Amsterdam</name>
+         <source pref="false" dataDate="2015-11-11-14-41-47">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Th%C3%A9ophile-Alexandre_Steinlen_-_Tourn%C3%A9e_du_Chat_Noir_de_Rodolphe_Salis_(Tour_of_Rodolphe_Salis%27_Chat_Noir)_-_Google_Art_Project.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Poster for the tour of Le Chat Noir</title>
+         <title type="generalView">Image record CCO_online_047.jpg</title>
       </titleSet>
    </image>
 </vra>

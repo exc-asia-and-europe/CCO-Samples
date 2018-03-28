@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex42_printsdr_PrintEtching" refid="c_ac8adda4-5a5c-4122-9513-8819434cc35a">
+    <work id="w_Ex042_printsdr_PrintEtching" refid="c_CCO_Examples">
         <agentSet>
             <agent dataDate="2016-05-19-13-00-28">
                 <culture>Bohemian</culture>
@@ -16,8 +16,9 @@
             <culturalContext vocab="AAT" refid="300266148">Bohemian</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>created ca. 1645</display>
-            <date type="creation" dataDate="2016-03-10-17-38-37">
+            <date pref="false" type="creation" dataDate="2016-03-10-17-38-37">
                 <earliestDate>
                     <date>1640</date>
                 </earliestDate>
@@ -25,12 +26,12 @@
                     <date>1650</date>
                 </latestDate>
             </date>
-            <date type="creation">
+            <date pref="true" type="creation">
                 <earliestDate>
                     <date circa="true" type="about">1645</date>
                 </earliestDate>
             </date>
-            <date type="exhibition">
+            <date pref="false" type="exhibition" source="National Gallery of Art">
                 <earliestDate>
                     <date>1992</date>
                 </earliestDate>
@@ -38,7 +39,7 @@
                     <date>1992</date>
                 </latestDate>
             </date>
-            <date type="exhibition">
+            <date pref="false" type="exhibition" source="National Gallery of Art">
                 <earliestDate>
                     <date>1998</date>
                 </earliestDate>
@@ -55,7 +56,7 @@
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" href="https://www.nga.gov/collection/art-object-page.74805.html#history" source="National gallery of Art">
+            <description pref="false" source="National gallery of Art">
                 <text>Exhibition History
 
 1992 Dürer to Diebenkorn: Recent Acquisitions of Art of Paper, National Gallery of Art, Washington, D.C., 1992, no. 20.
@@ -76,7 +77,7 @@
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="National Gallery of Art">
                 <refid type="other">Dürer to Diebenkorn: Recent Acquisitions of Art of Paper, National Gallery of Art, Washington, D.C., 1992, no. 20.</refid>
                 <name refid="316398713" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -84,7 +85,7 @@
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="National Gallery of Art">
                 <refid type="other">A Collector's Cabinet, National Gallery of Art, Washington, 1998.</refid>
                 <name refid="316398713" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -98,13 +99,13 @@
             <material refid="300014184" type="support" vocab="aat">laid paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="plate" pref="true" type="height" unit="cm">9.5</measurements>
-            <measurements extent="plate" pref="true" type="width" unit="cm">13.6</measurements>
-            <measurements extent="plate" pref="false" type="height" unit="in">3 3/4</measurements>
-            <measurements extent="plate" pref="false" type="width" unit="in">5 3/8</measurements>
+            <measurements pref="true" type="height" unit="cm" extent="plate">9.5</measurements>
+            <measurements pref="true" type="width" unit="cm" extent="plate">13.6</measurements>
+            <measurements pref="false" type="height" unit="in" extent="plate">3 3/4</measurements>
+            <measurements pref="false" type="width" unit="in" extent="plate">5 3/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_91b479e1-4b36-4d43-984f-96a33188160f">general view</relation>
+            <relation type="imageIs" relids="i_Ex042_printsdr_PrintEtching">general view</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other">
@@ -140,10 +141,10 @@
             <technique refid="300053241" vocab="aat">etching</technique>
         </techniqueSet>
 	<textrefSet>
-	    <textref href="https://www.nga.gov/collection/art-object-page.74805.html#bibliography" source="National Gallery of Art">
+	    <textref source="National Gallery of Art">
 		<name type="catalogue">Pennington, Richard. A Descriptive Catalogue of the Etched Work of Wenceslaus Hollar 1607-1677. Cambridge: Cambridge University Press, 1982.</name>
 	    </textref>
-	    <textref href="https://www.nga.gov/collection/art-object-page.74805.html#bibliography" source="National Gallery of Art">
+	    <textref source="National Gallery of Art">
 		<name type="book">The New Hollstein German Engravings, Etchings and Woodcuts, 1400-1700. (Wenceslaus Hollar, Simon Turner, author). Rotterdam: Sound &amp; Vision Interactive, 1996-,</name>
 		<refid type="citation">no. 1291, state only.</refid>
 	    </textref>
@@ -156,4 +157,35 @@
             <worktype refid="300041273" vocab="aat">prints</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex042_printsdr_PrintEtching"
+          href="https://media.nga.gov/public/objects/7/4/8/0/5/74805-primary-0-440x400.jpg">
+      <agentSet>
+         <agent dataDate="2016-03-10-17-33-08">
+            <name refid="316398713" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex042_printsdr_PrintEtching">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="publicDomain"
+                 dataDate="2016-03-10-17-42-45">
+            <rightsHolder>National Gallery of Art, Washington DC</rightsHolder>
+            <text>Courtesy National Gallery of Art, Washington
+Gift of Edward William Carter and Hannah Locke Carter, in Honor of the 50th Anniversary of the National Gallery of Art</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-03-10-17-30-24">
+            <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.74805.html</refid>
+            <name type="electronic">National Gallery of Art, Washington DC</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Shell (Murex brandaris)</title>
+      </titleSet>
+   </image>
 </vra>

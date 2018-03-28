@@ -12,7 +12,7 @@
                 <name refid="24585191" type="personal" vocab="viaf">Buonarroti, Michelangelo</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
-            <agent>
+            <agent source="VRA CORE">
                 <culture>Italian</culture>
                 <dates type="life">
                     <earliestDate circa="false">1475</earliestDate>
@@ -26,38 +26,44 @@
             <culturalContext vocab="AAT" refid="300111198">Italian (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date pref="false" type="creation" source="VRA CORE" href="http://core.vraweb.org/examples/html/example004_full_xml.html">
+<!-- This dateSet employs the Cluster extension to express the circa value more specifically. -->
+            <date pref="false" type="creation" source="VRA CORE">
                 <earliestDate>
-		     <date>1516</date>
+		     <date circa="false">1516</date>
 		</earliestDate>
                 <latestDate>
-		     <date>1520</date>
+		     <date circa="false">1520</date>
 		</latestDate>
             </date>
-            <date pref="true" type="creation" source="Casa Buonarroti" href="http://www.casabuonarroti.it/it/collezioni/opere-michelangelo/modello-per-la-facciata-di-san-lorenzo/">
+            <date pref="true" type="creation" source="Casa Buonarroti">
                 <earliestDate>
 		     <date circa="true" type="about">1518</date>
 		</earliestDate>
+                <latestDate>
+		     <date circa="true" type="about">1518</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description source="Millon, Henry A. and Craig Hugh Smyth. Michelangelo Architect: The Facade of San Lorenzo and the Drum and Dome of Saint Peter’s. Milan: Olivetti, 1988. Page: 89." dataDate="2016-05-19-12-42-14">
+            <description pref="true" source="Millon, Henry A. and Craig Hugh Smyth. Michelangelo Architect: The Facade of San Lorenzo and the Drum and Dome of Saint Peter’s. Milan: Olivetti, 1988. Page: 89." dataDate="2016-05-19-12-42-14">
                 <text>This is probably one of the two models described by Michelangelo in a letter to his brother, Lionardo, in September 1555. His designs for the façade had begun in 1515.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description source="Casa Buonarroti [website], http://www.casabuonarroti.it/ (accessed 3/2/2009)" href="http://core.vraweb.org/examples/html/example004_full_xml.html">Michelangelo's design of the facade went through three main phases, which can be identified in three drawings in the collection of Casa Buonarroti, nos. 45A, 47A and 43A. In all likelihood it was the clearly defined image in the last of these drawings that was translated into the large wooden model in Casa Buonarroti, which itself reflects the passage from the design stage to that of execution, as specified in the contract drawn up between Leo X and the artist on January 19, 1518. The model is 1:12 scale. The facade was never built.</description>
+            <description pref="false" source="Casa Buonarroti [website], http://www.casabuonarroti.it/ (accessed 3/2/2009) from the VRA Core" href="http://core.vraweb.org/examples/html/example004_full_xml.html">
+                <text>Michelangelo's design of the facade went through three main phases, which can be identified in three drawings in the collection of Casa Buonarroti, nos. 45A, 47A and 43A. In all likelihood it was the clearly defined image in the last of these drawings that was translated into the large wooden model in Casa Buonarroti, which itself reflects the passage from the design stage to that of execution, as specified in the contract drawn up between Leo X and the artist on January 19, 1518. The model is 1:12 scale. The facade was never built.</text>
             	<author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
+            </description>
         </descriptionSet>
         <locationSet>
             <location type="repository" dataDate="2015-11-05-15-31-14">
                 <name refid="135801460" type="corporate" vocab="viaf">Casa Buonarroti</name>
-                <refid type="accession">518</refid>
+                <refid type="accession" source="Casa Buonarroti">518</refid>
                 <name type="geographic" vocab="TGN" refid="7000457" extent="inhabited place">Florence</name>
                 <name type="geographic" vocab="TGN" refid="7009760" extent="region">Tuscany</name>
                 <name type="geographic" vocab="TGN" refid="1000080" extent="nation">Italy</name>
@@ -66,8 +72,8 @@
         </locationSet>
         <materialSet>
 	    <display>poplar, cypress, pine and other wood; traces of white lead paint and gesso</display>
-            <material extent="traces of" refid="300014952" type="medium" vocab="aat">gesso</material>
-            <material extent="traces of; white" refid="300015052" type="medium" vocab="aat">lead-based paint</material>
+            <material refid="300014952" type="medium" vocab="aat">gesso</material>
+            <material refid="300015052" type="medium" vocab="aat">lead-based paint</material>
             <material refid="300012620" type="medium" vocab="aat">pine</material>
             <material refid="300012540" type="medium" vocab="aat">cypress</material>
             <material refid="300012363" type="medium" vocab="aat">poplar</material>
@@ -135,10 +141,43 @@
         </textrefSet>
         <titleSet>
             <title pref="false" type="descriptive" xml:lang="en">Wooden Model for the Façade of San Lorenzo, Florence</title>
-	    <title pref="true" type="repository" xml:lang="it">Modello per la facciata di San Lorenzo</title>
+	    <title pref="true" type="repository" xml:lang="it" source="Casa Buonarroti">Modello per la facciata di San Lorenzo</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300047753" vocab="aat">models</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex041_sculpture_ArchitecturalModel"
+          href="https://upload.wikimedia.org/wikipedia/commons/c/c2/Michelangelo_%28disegno%29%2C_modellino_per_la_facciata_di_san_lorenzo%2C_1518_ca..JPG">
+      <agentSet>
+         <agent dataDate="2016-05-19-10-33-58">
+            <name extent="photographer: Sailko"
+                  refid="137022054"
+                  type="corporate"
+                  vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex041_sculpture_ArchitecturalModel">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="copyrighted"
+                 dataDate="2015-11-05-15-22-58">
+            <rightsHolder>Sailko</rightsHolder>
+            <text>CC BY 3.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-05-15-22-45">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Michelangelo_(disegno),_modellino_per_la_facciata_di_san_lorenzo,_1518_ca..JPG</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Modello per la facciata di San Lorenzo</title>
+      </titleSet>
+   </image>
 </vra>

@@ -12,29 +12,29 @@
             <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date type="creation" dataDate="2016-05-19-13-47-48">
+            <date pref="true" type="creation" dataDate="2016-05-19-13-47-48">
                 <earliestDate>
-                    <date>1861</date>
+                    <date circa="false">1861</date>
                 </earliestDate>
             </date>
-            <date type="exhibition">
+            <date pref="false" type="exhibition" source="Library of Congress">
                 <earliestDate>
-                    <date>2009-02-12</date>
+                    <date circa="false">2009-02-12</date>
                 </earliestDate>
 		<latestDate>
-		    <date>2009-05-10</date>
+		    <date circa="false">2009-05-10</date>
 		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" href="http://www.loc.gov/pictures/item/2008661781/" source="Library of Congress" dataDate="2015-11-11-12-45-45">
+            <description pref="false" source="Library of Congress" dataDate="2015-11-11-12-45-45">
                 <text>Cartoon print shows Union troops after the Battle of Bull Run during the Civil War from the point of view of a copperhead, that is, a northern Democrat supporting Confederate troops. The image is keyed to eighteen points in the image: Beauregard's headquarters, Jefferson Davis' headquarters, Johnston's headquarters, Elzy's Maryland battery, General McDowell, General Tyler, The Bull's Run, Fire Zouaves, New York 19th Regiment, Sherman's battery, Ely member of Congress, barricade for member of Congress, Lovejoy &amp; Company, Ladies as spectators, Riddle Brown &amp; Company, Blenker's Brigade, Senator Wilson, and the U.S. Dragoon. Includes numbered key.</text>
                 <author>
                     <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" href="http://www.loc.gov/pictures/item/2008661781/" source="Library of Congress">
+            <description pref="false" source="Library of Congress">
                 <text>Exhibited: "With Malice Toward None : The Abraham Lincoln Bicentennial Exhibition" at the Library of Congress, Washington, D.C., 2009.</text>
                 <author>
                     <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
@@ -50,7 +50,7 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <location type="repository" dataDate="2016-05-19-14-08-15">
+            <location pref="true" type="repository" dataDate="2016-05-19-14-08-15">
                 <refid type="accession">PC/US - 1861.P468, no. 1</refid>
                 <name refid="149612800" type="corporate" vocab="viaf">Library of Congress. Prints and Photographs Division</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -58,7 +58,7 @@
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location type="exhibition">
+            <location pref="false" type="exhibition" source="Library of Congress">
                 <refid type="other">With Malice Toward None: The Abraham Lincoln Bicentennial Exhibition</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -75,11 +75,13 @@
             <measurements pref="true" type="width" unit="cm">40.64</measurements>
             <measurements pref="false" type="height" unit="in">11</measurements>
             <measurements pref="false" type="width" unit="in">16</measurements>
-            <measurements extent="sheet" pref="true" href="http://www.loc.gov/pictures/item/2008661781/" source="Library of Congress" type="height" unit="cm">35.6</measurements>
-            <measurements extent="sheet" pref="true" href="http://www.loc.gov/pictures/item/2008661781/" source="Library of Congress" type="width" unit="cm">48.9</measurements>
+            <measurements extent="sheet" pref="true" source="Library of Congress" type="height" unit="cm">35.6</measurements>
+            <measurements extent="sheet" pref="true" source="Library of Congress" type="width" unit="cm">48.9</measurements>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex044_printsdr_PrintPolitical">general view</relation>
+	    <relation type="partOf" href="http://www.loc.gov/pictures/collection/app/" source="Library of Congress">American cartoon print filing series (Library of Congress)</relation>
+	    <relation type="partOf" href="http://www.loc.gov/pictures/collection/civwar/" source="Library of Congress">Civil War collection (Library of Congress)</relation>
         </relationSet>
         <sourceSet>
             <source pref="false">
@@ -124,13 +126,42 @@
             <technique refid="300053271" vocab="aat">lithography</technique>
         </techniqueSet>
         <titleSet>
-            <title pref="true" type="inscribed">Battle of Bull’s Run</title>
             <title pref="false" type="other">Battle of Manassas</title>
             <title pref="false" type="other">Battle of Bull Run</title>
+            <title pref="true" type="inscribed" source="Library of Congress">The Battle of Bull’s Run</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300041273" vocab="aat">prints</worktype>
             <worktype refid="300041379" vocab="aat">lithographs</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex044_printsdr_PrintPolitical"
+          href="https://cdn.loc.gov/service/pnp/ppmsca/19500/19521r.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-11-11-56-15">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex044_printsdr_PrintPolitical">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights 
+                 type="publicDomain"
+                 dataDate="2015-11-11-11-56-47">
+            <rightsHolder>Library of Congress</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-11-12-22-17">
+            <refid type="URI">http://www.loc.gov/pictures/item/2008661781/</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="descriptive">The Battle of Bull's Run</title>
+      </titleSet>
+   </image>
 </vra>

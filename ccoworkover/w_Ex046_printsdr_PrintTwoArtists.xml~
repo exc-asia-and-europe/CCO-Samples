@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex46_printsdr_PrintTwoArtists" refid="c_4426806a-7c74-4cbf-91ca-c0bfe8a19718">
+    <work id="w_Ex046_printsdr_PrintTwoArtists" refid="c_CCO_Examples">
         <agentSet>
-            <agent pref="false" dataDate="2015-11-11-13-41-22">
+            <agent dataDate="2015-11-11-13-41-22">
                 <culture>American</culture>
                 <dates type="life">
                     <earliestDate circa="false">1833</earliestDate>
@@ -11,7 +11,7 @@
                 <name refid="62351142" type="personal" vocab="viaf">Smillie, James David</name>
                 <role type="code" vocab="marcrelator">egr</role>
             </agent>
-            <agent pref="false" dataDate="2016-06-01-13-03-34">
+            <agent dataDate="2016-06-01-13-03-34">
                 <culture>American</culture>
                 <dates type="life">
                     <earliestDate circa="false">1830</earliestDate>
@@ -25,23 +25,27 @@
             <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>published ca. 1866</display>
             <date pref="true" type="creation" dataDate="2016-06-01-13-05-58">
                 <earliestDate>
-                    <date>1861</date>
+                    <date circa="false">1861</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1871</date>
+                    <date circa="false">1871</date>
                 </latestDate>
             </date>
             <date pref="false" type="creation">
                 <earliestDate>
                     <date circa="true" type="about">1866</date>
                 </earliestDate>
+                <latestDate>
+                    <date circa="true" type="about">1866</date>
+                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2016-06-01-14-00-10">
+            <description pref="false" source="Library of Congress" dataDate="2016-06-01-14-00-10">
                 <text> Print shows a Native encampment near lake in the Yosemite Valley of the Rocky Mountains.
 
 - Title from item.
@@ -68,16 +72,16 @@
                 <position>lower center</position>
                 <text type="text">Rocky Mountains / J. Smillie</text>
             </inscription>
-            <inscription extent="library's proof, blind stamped" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2016-06-01-13-48-53">
+            <inscription extent="library's proof, blind stamped" source="Library of Congress" dataDate="2016-06-01-13-48-53">
                 <position>proof, lower left</position>
                 <text type="text">Estate of Henry Ward Beecher - American Art Association (Sale) 1887</text>
             </inscription>
-            <inscription extent="library's proof before letters is signed in pencil" href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2015-11-11-14-13-12">
+            <inscription extent="library's proof before letters is signed in pencil" source="Library of Congress" dataDate="2015-11-11-14-13-12">
                 <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
                 <position>proof, lower right</position>
                 <text type="signature">A. Bierstadt</text>
             </inscription>
-            <inscription href="http://www.loc.gov/pictures/item/95513915/" source="Library of Congress" dataDate="2015-11-11-14-14-11">
+            <inscription source="Library of Congress" dataDate="2015-11-11-14-14-11">
                 <author refid="27338209" vocab="viaf">Bierstadt, Albert</author>
                 <position>on plate, lower right</position>
                 <text type="signature">ABierstadt 1863</text>
@@ -104,7 +108,8 @@
         </measurementsSet>
         <relationSet>
             <relation pref="false" type="derivedFrom" href="https://www.metmuseum.org/art/collection/search/10154">The Rocky Mountains, Lander's Peak</relation>
-            <relation pref="true" relids="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_Ex046_printsdr_PrintTwoArtists" type="imageIs">general view</relation>
+            <relation pref="false" type="partOf" href="http://www.loc.gov/pictures/collection/pga/">The Rocky Mountains, Lander's Peak</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-11-14-21-07">
@@ -120,7 +125,7 @@
             <subject dataDate="2015-11-11-14-08-18">
                 <term refid="300379660" vocab="aat" type="descriptiveTopic">indigenous people</term>
             </subject>
-	    <subject dataDate="2018-03-21-13-10-05">
+	    <subject source="Library of Congress" dataDate="2018-03-21-13-10-05">
 		<term refid="sh85065184" vocab="lcsh" type="descriptiveTopic">Indians of North America</term>
 	    </subject>
             <subject dataDate="2015-11-11-14-07-18">
@@ -143,11 +148,39 @@
             <technique refid="300053225" vocab="aat">engraving</technique>
         </techniqueSet>
         <titleSet>
-            <title type="inscribed">Rocky Mountains</title>
+            <title pref="false" type="inscribed">Rocky Mountains</title>
+            <title pref="true" type="inscribed" source="Library of Congress">Rocky Mountains / ABierstadt 1863.</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300041340" vocab="aat">engravings</worktype>
             <worktype refid="300041273" vocab="aat">prints</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex046_printsdr_PrintTwoArtists"
+          href="https://cdn.loc.gov/service/pnp/pga/02700/02792r.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-11-13-34-22">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex046_printsdr_PrintTwoArtists">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-11-11-13-34-39">
+            <rightsHolder>Library of Congress</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-11-13-35-04">
+            <refid type="URI">http://www.loc.gov/pictures/item/95513915/</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Rocky Mountains / ABierstadt 1863.</title>
+      </titleSet>
+   </image>
 </vra>

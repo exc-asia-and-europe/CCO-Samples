@@ -3,7 +3,7 @@
     <work id="w_Ex043_printsdr_PrintAfterPainting" refid="c_CCO_Examples">
         <agentSet>
 	    <display>The engraving by Ghisi is after a lost painting by Primaticcio, published by Lafréry.</display>
-            <agent href="http://search.getty.edu/gri/records/griobject?objectid=93888554" pref="false" source="Getty Research Institute" dataDate="2015-11-11-09-32-14">
+            <agent pref="false" source="Getty Research Institute" dataDate="2015-11-11-09-32-14">
                 <dates type="life">
                     <earliestDate circa="false">1512</earliestDate>
                     <latestDate circa="false">1577</latestDate>
@@ -28,10 +28,10 @@
             <display>1560s</display>
             <date type="creation" dataDate="2016-05-19-13-16-08">
                 <earliestDate>
-                    <date>1560</date>
+                    <date circa="false">1560</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1569</date>
+                    <date circa="false">1569</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -80,7 +80,7 @@
             </source>
 	    <source>
 		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_3-PhysicalCharacteristics.pdf#page=50</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 51. Figure 17. Work Record Linked to a Concept Authority Record: Engraving.</name>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 150. Figure 17. Work Record Linked to a Concept Authority Record: Engraving.</name>
 	    </source>
         </sourceSet>
         <stateEditionSet>
@@ -144,4 +144,32 @@
             <worktype refid="300041340" vocab="aat">engravings</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex043_printsdr_PrintAfterPainting"
+          href="http://www.getty.edu/collection/GRI/enlarge/grioc0004872-E.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-11-09-23-35">
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex043_printsdr_PrintAfterPainting">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-11-11-09-25-28">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-11-09-26-10">
+            <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=93888554</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Apollo, Pan, and a putto blowing a horn</title>
+      </titleSet>
+   </image>
 </vra>

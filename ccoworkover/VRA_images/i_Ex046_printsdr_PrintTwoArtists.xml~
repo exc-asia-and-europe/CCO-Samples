@@ -2,10 +2,11 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex046_printsdr_PrintTwoArtists"
-          href="https://cdn.loc.gov/service/pnp/pga/02700/02792r.jpg">
+   <image id="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e"
+          href="i_d8caba4d-9664-4bd7-8521-0c8e3b50496e.jpg"
+          source="Tamboti">
       <agentSet>
-         <agent dataDate="2015-11-11-13-34-22">
+         <agent pref="false" dataDate="2015-11-11-13-34-22">
             <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
             <role type="code" vocab="marcrelator">cre</role>
          </agent>

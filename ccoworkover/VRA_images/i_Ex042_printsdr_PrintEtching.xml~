@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex042_printsdr_PrintEtching"
-          href="https://media.nga.gov/public/objects/7/4/8/0/5/74805-primary-0-440x400.jpg">
+   <image id="i_91b479e1-4b36-4d43-984f-96a33188160f"
+          href="i_91b479e1-4b36-4d43-984f-96a33188160f.jpg">
       <agentSet>
          <agent dataDate="2016-03-10-17-33-08">
             <name refid="316398713" type="corporate" vocab="viaf">National Gallery of Art (U.S.)</name>
@@ -12,7 +12,7 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex042_printsdr_PrintEtching">attachment</relation>
+                   relids="w_c49181be-b3c7-44ec-9395-538b55ca61bd">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights

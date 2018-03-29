@@ -71,10 +71,10 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
         <measurementsSet>
 	    <display>46 prints, average plate size: 24 x 37 cm (9 1/2 x 14 5/8 inches)</display>
             <measurements pref="true" type="count" unit="prints">46</measurements>
-            <measurements extent="average plate size" pref="true" shape="rectangle" type="height" unit="cm">24</measurements>
-            <measurements extent="average plate size" pref="true" shape="rectangle" type="width" unit="cm">37</measurements>
-            <measurements extent="average plate size" pref="false" shape="rectangle" type="height" unit="in">9 1/2</measurements>
-            <measurements extent="average plate size" pref="false" shape="rectangle" type="width" unit="in">14 5/8</measurements>
+            <measurements extent="average plate size" pref="true" type="height" unit="cm">24</measurements>
+            <measurements extent="average plate size" pref="true" type="width" unit="cm">37</measurements>
+            <measurements extent="average plate size" pref="false" type="height" unit="in">9 1/2</measurements>
+            <measurements extent="average plate size" pref="false" type="width" unit="in">14 5/8</measurements>
         </measurementsSet>
         <relationSet>
             <relation pref="false" relids="w_Ex051_printsdr_PrintInASeries" type="componentIs">Great Wave at Kanagawa (n.1)</relation>

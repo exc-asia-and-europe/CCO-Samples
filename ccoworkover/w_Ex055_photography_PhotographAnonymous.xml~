@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex55_photography_PhotographAnonymous" refid="c_5208b880-6fd6-4b1c-abf7-c7b4d16249d6">
+    <work id="w_Ex055_photography_PhotographAnonymous" refid="c_CCO_Examples">
         <agentSet>
             <agent pref="true" dataDate="2016-06-06-11-53-24">
                 <name refid="100626577" type="personal" vocab="viaf">unknown American</name>
@@ -11,11 +11,12 @@
             <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date href="http://www.loc.gov/item/ncr001475/" pref="false" source="Library of Congress" type="publication" dataDate="2016-06-06-11-54-12">
+            <date pref="false" source="Library of Congress" type="publication" dataDate="2016-06-06-11-54-12">
                 <earliestDate>
                     <date>1978-06</date>
                 </earliestDate>
             </date>
+<!-- This dateSet employs the Cluster extension to express the circa value more specifically. -->
             <date pref="true" type="creation" dataDate="2015-11-12-13-44-22">
                 <earliestDate>
                     <date circa="true" type="uncertain">1921</date>
@@ -23,7 +24,7 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" href="http://www.loc.gov/item/ncr001475/#about-this-item" source="Library of Congress" dataDate="2015-11-12-13-09-47">
+            <description pref="false" source="Library of Congress" dataDate="2015-11-12-13-09-47">
                 <text>Mansion belonging to Rita Pasquale's uncle in Italy.</text>
                 <author>
                     <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
@@ -60,7 +61,7 @@
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="creation" dataDate="2016-06-06-11-56-55">
+            <location pref="false" type="creation" dataDate="2016-06-06-11-56-55" source="Library of Congress">
                 <name refid="239239009" type="geographic" vocab="viaf">Sagliano Micca</name>
 		<name refid="7024833" type="geographic" vocab="tgn" extent="province">Biella</name>
 		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
@@ -78,7 +79,7 @@
             <measurements pref="false" type="width" unit="in">3 3/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_b2ee94f2-8ae4-4367-bc32-41ff667ad7f0" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_Ex055_photography_PhotographAnonymous" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-12-13-41-55">
@@ -108,13 +109,42 @@
             <technique pref="false" refid="300162056" vocab="aat">black-and-white photography</technique>
         </techniqueSet>
         <titleSet>
-            <title href="http://www.loc.gov/item/ncr001475/#about-this-item" pref="true" source="Library of Congress" type="repository">Passobreve, Italy, 1921</title>
+            <title pref="true" source="Library of Congress" type="repository">Passobreve, Italy, 1921</title>
             <title pref="false" type="descriptive">Villa in Piedmont, Italy</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300046300" vocab="aat">photographs</worktype>
             <worktype refid="300128347" vocab="aat">black-and-white photographs</worktype>
-            <worktype href="http://www.loc.gov/item/ncr001475/" refid="300128371" source="Library of Congress" vocab="aat">slides</worktype>
+            <worktype refid="300128371" source="Library of Congress" vocab="aat">slides</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex055_photography_PhotographAnonymous"
+          href="https://tile.loc.gov/image-services/iiif/service:afc:afc1991021:afc1991021_46350/full/pct:25/0/default.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-12-13-05-32">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex055_photography_PhotographAnonymous">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="publicDomain"
+                 dataDate="2015-11-12-13-06-17">
+            <rightsHolder>Library of Congress</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-12-13-04-54">
+            <refid type="URI">http://www.loc.gov/item/ncr001475</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Passobreve, Italy, 1921</title>
+      </titleSet>
+   </image>
 </vra>

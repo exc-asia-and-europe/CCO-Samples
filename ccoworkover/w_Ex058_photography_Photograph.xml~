@@ -12,13 +12,14 @@
             <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>ca. 1909</display>
             <date type="creation" dataDate="2016-06-06-12-52-08">
                 <earliestDate>
-                    <date>1904</date>
+                    <date circa="false">1904</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1914</date>
+                    <date circa="false">1914</date>
                 </latestDate>
             </date>
             <date type="creation">
@@ -29,8 +30,8 @@
         </dateSet>
         <locationSet>
             <location pref="true" type="repository" dataDate="2016-06-06-13-04-46">
-                <refid href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="accession">LC-USZ62-137560</refid>
-                <refid href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="accession">PAN US GEOG - District of Columbia no. 8 (E size) [P&amp;P]</refid>
+                <refid source="Library of Congress" type="accession">LC-USZ62-137560</refid>
+                <refid source="Library of Congress" type="accession">PAN US GEOG - District of Columbia no. 8 (E size) [P&amp;P]</refid>
                 <name refid="149612800" type="corporate" vocab="viaf">Library of Congress. Prints and Photographs Division.</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
 		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
@@ -39,13 +40,13 @@
             </location>
         </locationSet>
         <measurementsSet>
-            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="true" source="Library of Congress" type="height" unit="cm">25.4</measurements>
-            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="true" source="Library of Congress" type="width" unit="cm">71.12</measurements>
-            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="false" source="Library of Congress" type="height" unit="in">10</measurements>
-            <measurements href="https://www.loc.gov/pictures/item/2007662044/" pref="false" source="Library of Congress" type="width" unit="in">28</measurements>
+            <measurements pref="true" source="Library of Congress" type="height" unit="cm">25.4</measurements>
+            <measurements pref="true" source="Library of Congress" type="width" unit="cm">71.12</measurements>
+            <measurements pref="false" source="Library of Congress" type="height" unit="in">10</measurements>
+            <measurements pref="false" source="Library of Congress" type="width" unit="in">28</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="w_387ea1a7-e52e-46e2-84e7-7c619e8cf6fc.xml" type="depicts">The White House (Washington, District of Columbia, United States); 1792-1817</relation>
+            <relation pref="false" relids="w_Ex153_architecture_GeorgianBuilding" type="depicts">The White House (Washington, District of Columbia, United States); 1792-1817</relation>
             <relation pref="false" href="http://www.loc.gov/pictures/collection/pan/" type="partOf">Panoramic photographs (Library of Congress)</relation>
             <relation pref="true" relids="i_Ex058_photography_Photograph" type="imageIs">general view</relation>
         </relationSet>
@@ -60,7 +61,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" dataDate="2015-11-12-15-41-29">
+            <subject source="Library of Congress" dataDate="2015-11-12-15-41-29">
                 <term refid="300387602" vocab="aat" type="descriptiveTopic">panoramic photography</term>
             </subject>
             <subject dataDate="2015-11-12-15-38-39">
@@ -78,11 +79,40 @@
         </techniqueSet>
         <titleSet>
             <title pref="false" type="other">Panoramic Photograph of the White House, Washington, DC</title>
-            <title pref="true" href="http://www.loc.gov/pictures/item/2007662044/" source="Library of Congress" type="repository">The White House, Washington, D.C.</title>
+            <title pref="true" source="Library of Congress" type="repository">The White House, Washington, D.C.</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300046300" vocab="aat">photographs</worktype>
             <worktype refid="300128695" vocab="aat">gelatin silver prints</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex058_photography_Photograph"
+          href="https://cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37500/3c37560r.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-12-14-42-22">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex058_photography_Photograph">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="publicDomain"
+                 dataDate="2015-11-12-14-42-43">
+            <rightsHolder>Library of Congress</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-12-14-43-20">
+            <refid type="URI">http://www.loc.gov/pictures/item/2007662044/</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">The White House, Washington, D.C.</title>
+      </titleSet>
+   </image>
 </vra>

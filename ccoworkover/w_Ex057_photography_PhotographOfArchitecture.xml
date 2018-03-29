@@ -16,45 +16,45 @@
             <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date pref="true" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" type="creation" dataDate="2016-06-06-12-15-33">
+            <date pref="true" source="J. Paul Getty Museum" type="creation" dataDate="2016-06-06-12-15-33">
                 <earliestDate>
-                    <date>1888-11-23</date>
+                    <date circa="false">1888-11-23</date>
                 </earliestDate>
             </date>
-            <date pref="true" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" type="exhibition">
+            <date pref="false" source="J. Paul Getty Museum" type="exhibition">
                 <earliestDate>
-                    <date>1989-04-17</date>
+                    <date circa="false">1989-04-17</date>
                 </earliestDate>
 		<latestDate>
-                    <date>1989-06-03</date>
+                    <date circa="false">1989-06-03</date>
 		</latestDate>
             </date>
-            <date pref="true" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" type="exhibition">
+            <date pref="false" source="J. Paul Getty Museum" type="exhibition">
                 <earliestDate>
-                    <date>1995-01-24</date>
+                    <date circa="false">1995-01-24</date>
                 </earliestDate>
 		<latestDate>
-                    <date>1995-04-02</date>
+                    <date circa="false">1995-04-02</date>
 		</latestDate>
             </date>
-            <date pref="true" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" type="exhibition">
+            <date pref="false" source="J. Paul Getty Museum" type="exhibition">
                 <earliestDate>
-                    <date>2013-10-15</date>
+                    <date circa="false">2013-10-15</date>
                 </earliestDate>
 		<latestDate>
-                    <date>2014-03-02</date>
+                    <date circa="false">2014-03-02</date>
 		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="https://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" dataDate="2016-06-06-12-27-28">
+            <description source="J. Paul Getty Museum online. www.getty.edu Page: accessed 3 December 2006">
                 <text>This view was made about four months short of the tower's completion. Louis-Émile Durandelle photographed the tower from a low vantage point to emphasize its monumentality. The massive building barely visible in the far distance is dwarfed under the tower's arches.</text>
                 <author>
-                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" dataDate="2018-03-15">
+            <description source="J. Paul Getty Museum" dataDate="2018-03-15">
                 <text>The Centennial Exposition of 1889 was organized by the French government to commemorate the French Revolution. Bridge engineer Gustave Eiffel's 984-foot (300-meter) tower of open-lattice wrought iron was selected in a competition to erect a memorial at the exposition. Twice as high as the dome of St. Peter's in Rome or the Great Pyramid of Giza, nothing like it had ever been built before. This view was made about four months short of the tower's completion. Louis-Émile Durandelle photographed the tower from a low vantage point to emphasize its monumentality. The massive building barely visible in the far distance is dwarfed under the tower's arches.
 
 Incidentally, the tower's innovative glass-cage elevators, engineered to ascend on a curve, were designed by the Otis Elevator Company of New York, the same company that designed the Getty Center's diagonally ascending tram.</text>
@@ -63,7 +63,7 @@ Incidentally, the tower's innovative glass-cage elevators, engineered to ascend 
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" source="J. Paul Getty Museum" dataDate="2018-03-15">
+            <description source="J. Paul Getty Museum" dataDate="2018-03-15">
                 <text>Exhibitions
 The Eiffel Tower, A Tour de Force (April 17 to June 3, 1989)
     The Grolier Club (New York), April 17 to June 3, 1989
@@ -80,21 +80,23 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription extent="in pencil" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-14-31-35">
+            <inscription extent="in pencil" source="J. Paul Getty Museum" dataDate="2015-11-12-14-31-35">
                 <position>print, recto, upper center</position>
-                <text type="text">Panneau 18</text>
+                <text type="text" xml:lang="fre">Panneau 18</text>
+		<text type="translation" xml:lang="eng">Panel 18</text>
             </inscription>
-            <inscription extent="inscribed on the negative" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/">
+            <inscription extent="inscribed on the negative" source="J. Paul Getty Museum">
                 <position>negative, lower right</position>
                 <text type="date">23 NOVEMBRE 88, No 49</text>
             </inscription>
-            <inscription extent="in red and black pencil" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2015-11-12-14-32-01">
+            <inscription extent="in red and black pencil" source="J. Paul Getty Museum" dataDate="2015-11-12-14-32-01">
                 <position>mount, recto, upper left</position>
                 <text type="text">1544</text>
             </inscription>
-            <inscription extent="imprinted in black ink" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" dataDate="2016-06-06-12-31-02">
+            <inscription extent="imprinted in black ink" source="J. Paul Getty Museum" dataDate="2016-06-06-12-31-02">
                 <position>mount, recto, upper center</position>
-                <text lang="fre" script="Latn" type="caption">Exposition Universelle de 1889/Etat d'Avancement/Au 188 /G. Eiffel, Ingenieur et Constructeur</text>
+                <text type="caption" xml:lang="fre">Exposition Universelle de 1889/Etat d'Avancement/Au 188 /G. Eiffel, Ingenieur et Constructeur</text>
+		<text type="translation" xml:lang="eng">Universal Exposition of 1889 / State of Progress / Au 188 / G. Eiffel, Ingenieur and Builder</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
@@ -111,7 +113,7 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
 		<name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Eiffel Tower, A Tour de Force (April 17 to June 3, 1989)</refid>
                 <name refid="123849158" type="corporate" vocab="viaf">Grolier Club</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -119,7 +121,7 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Arrows of Time: Photographs from the J. Paul Getty Museum (January 24 to April 2, 1995) </refid>
                 <name refid="129451824" type="corporate" vocab="viaf">UCLA Hammer Museum of Art and Cultural Center</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -127,7 +129,7 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">In Focus: Architecture (October 15, 2013 to March 2, 2014) </refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -137,10 +139,10 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
             </location>
         </locationSet>
         <measurementsSet>
-            <measurements href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">43.2</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">34.6</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" pref="false" source="J. Paul Getty Museum" type="height" unit="in">17</measurements>
-            <measurements href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" pref="false" source="J. Paul Getty Museum" type="width" unit="in">13 5/8</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="height" unit="cm">43.2</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="width" unit="cm">34.6</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="height" unit="in">17</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="width" unit="in">13 5/8</measurements>
         </measurementsSet>
         <relationSet>
             <relation pref="false" relids="w_f19_19thCenturyTower" type="depicts">Eiffel Tower (Paris, France); 1887-1889</relation>
@@ -174,12 +176,42 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
             <technique refid="300133274" vocab="aat">albumen process</technique>
         </techniqueSet>
         <titleSet>
-            <title lang="fre" pref="true" script="Latn" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/" type="repository">Exposition universelle de 1889 / État d'avancement</title>
-            <title lang="eng" pref="false" script="Latn" type="translated">Eiffel Tower: State of the Construction</title>
+            <title pref="true" source="J. Paul Getty Museum" type="repository">Exposition universelle de 1889 / État d'avancement</title>
+            <title pref="false" type="translated">Eiffel Tower: State of the Construction</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300046300" vocab="aat">photographs</worktype>
             <worktype refid="300127121" vocab="aat">albumen prints</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex057_photography_PhotographOfArchitecture"
+          href="http://www.getty.edu/museum/media/images/web/download/06177001.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-12-13-56-33">
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex057_photography_PhotographOfArchitecture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="publicDomain"
+                 dataDate="2015-11-12-13-55-46">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-12-13-53-24">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/55262/louis-emile-durandelle-exposition-universelle-de-1889-etat-d'avancement-french-november-23-1888/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Exposition universelle de 1889 / État d'avancement</title>
+      </titleSet>
+   </image>
 </vra>

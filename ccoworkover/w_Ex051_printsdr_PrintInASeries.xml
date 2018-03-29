@@ -21,15 +21,17 @@
             <culturalContext vocab="AAT" refid="300018519">Japanese (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value more specifically. -->
+	    <display>created ca. 1831-1833 (CCO) / ca. 1830-31 (Met)</display>
             <date pref="false" type="creation" dataDate="2016-06-02-10-57-21">
                 <earliestDate>
-                    <date>1828</date>
+                    <date circa="false">1828</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1836</date>
+                    <date circa="false">1836</date>
                 </latestDate>
             </date>
-            <date pref="true" href="http://www.metmuseum.org/collection/the-collection-online/search/45434" source="Metropolitan Museum of Art" type="creation" dataDate="2015-11-11-16-26-01">
+            <date pref="true" type="creation" source="Metropolitan Museum of Art" dataDate="2015-11-11-16-26-01">
                 <earliestDate>
                     <date circa="true" type="about">1830</date>
                 </earliestDate>
@@ -37,104 +39,104 @@
                     <date circa="true" type="about">1832</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1976-03-01</date>
+                    <date circa="false">1976-03-01</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1976-06-30</date>
+                    <date circa="false">1976-06-30</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1976-08-01</date>
+                    <date circa="false">1976-08-01</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1976-10-31</date>
+                    <date circa="false">1976-10-31</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1980-02-14</date>
+                    <date circa="false">1980-02-14</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1980-03-02</date>
+                    <date circa="false">1980-03-02</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1991-11-15</date>
+                    <date circa="false">1991-11-15</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1992-02-09</date>
+                    <date circa="false">1992-02-09</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1992-05-24</date>
+                    <date circa="false">1992-05-24</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1992-07-19</date>
+                    <date circa="false">1992-07-19</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1995-04-14</date>
+                    <date circa="false">1995-04-14</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1995-05-28</date>
+                    <date circa="false">1995-05-28</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>1999-10-01</date>
+                    <date circa="false">1999-10-01</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2000-01-09</date>
+                    <date circa="false">2000-01-09</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>2002-05-08</date>
+                    <date circa="false">2002-05-08</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2002-09-08</date>
+                    <date circa="false">2002-09-08</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>2003-03-01</date>
+                    <date circa="false">2003-03-01</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2003-09-21</date>
+                    <date circa="false">2003-09-21</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>2008-12-18</date>
+                    <date circa="false">2008-12-18</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2009-05-31</date>
+                    <date circa="false">2009-05-31</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <earliestDate>
-                    <date>2012-03-24</date>
+                    <date circa="false">2012-03-24</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2012-06-17</date>
+                    <date circa="false">2012-06-17</date>
                 </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/45434" pref="false" source="Metropolitan Museum of Art" dataDate="2016-06-02-11-05-59">
+            <description pref="false" source="Metropolitan Museum of Art" dataDate="2016-06-02-11-05-59">
                 <text>The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue.</text>
                 <author>
                     <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/45434" pref="false" source="Metropolitan Museum of Art">
+            <description pref="false" source="Metropolitan Museum of Art">
                 <text>Provenance.
 Mrs. H. O. (Louisine W.) Havemeyer , New York (until d. 1929; bequeathed to MMA).</text>
                 <author>
@@ -142,7 +144,7 @@ Mrs. H. O. (Louisine W.) Havemeyer , New York (until d. 1929; bequeathed to MMA)
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/45434" pref="false" source="Metropolitan Museum of Art">
+            <description pref="false" source="Metropolitan Museum of Art">
                 <text>Exhibition History
 Houston. Institute for the Fine Arts, Rice University. "Art Nouveau," March 1, 1976–June 30, 1976.
 
@@ -179,7 +181,8 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription href="http://www.metmuseum.org/collection/the-collection-online/search/45434" source="Metropolitan Museum of Art" dataDate="2016-06-02-11-11-16">
+<!-- This inscriptionSet applies a Cluster extension which allows for specification of script and transliteration systems, based on ISO standards. -->
+            <inscription source="Metropolitan Museum of Art" dataDate="2016-06-02-11-11-16">
                 <author refid="69033717" vocab="viaf">Katsushika, Hokusai</author>
                 <position>top left</position>
                 <text lang="jpn" script="Jpan" type="signature">前北斎為一筆</text>
@@ -195,7 +198,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Art Nouveau," March 1, 1976–June 30, 1976.</refid>
                 <name refid="131284154" type="corporate" vocab="viaf">Rice University. Institute for the Arts</name>
 		<name refid="7013727" type="geographic" vocab="tgn" extent="inhabited place">Houston</name>
@@ -203,7 +206,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Art Nouveau," August 1, 1976–October 31, 1976.</refid>
                 <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
 		<name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
@@ -211,7 +214,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"A Survey of Japanese Prints: Moronobu to Nensho," February 14, 1980–March 2, 1980.</refid>
                 <name refid="126678521" type="corporate" vocab="viaf">Skidmore College</name>
 		<name refid="7014485" type="geographic" vocab="tgn" extent="inhabited place">Saratoga Springs</name>
@@ -219,7 +222,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Katsushika Hokusai," November 15, 1991–February 9, 1992.</refid>
                 <name refid="153543255" type="corporate" vocab="viaf">Royal Academy of Arts</name>
 		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
@@ -227,7 +230,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Katsushika Hokusai," May 24, 1992–July 19, 1992.</refid>
                 <name refid="144444875" type="corporate" vocab="viaf">Dallas Museum of Art</name>
 		<name refid="7013503" type="geographic" vocab="tgn" extent="inhabited place">Dallas</name>
@@ -235,21 +238,21 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Ukiyo-e from the Metropolitan Museum of Art," April 14, 1995–May 28, 1995.</refid>
                 <name refid="122932660" type="corporate" vocab="viaf">Nagoya City Museum.</name>
 		<name refid="7004736" type="geographic" vocab="tgn" extent="inhabited place">Nagoya</name>
 		<name refid="1000120" type="geographic" vocab="tgn" extent="nation">Japan</name>
 		<name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Hokusai: Il Vecchio Pazzo per la Pittura," October 1, 1999–January 9, 2000.</refid>
                 <name refid="144072977" type="corporate" vocab="viaf">Palazzo Reale</name>
 		<name refid="7005903" type="geographic" vocab="tgn" extent="inhabited place">Milan</name>
 		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"A Sense of Place: Landscape in Japanese Art," May 8, 2002–September 8, 2002.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -257,7 +260,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Great Waves: Chinese Themes in the Arts of Korea and Japan I," March 1, 2003–September 21, 2003.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -265,7 +268,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Poetry and Travel in Japanese Art," December 18, 2008–May 31, 2009.</refid>
                 <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
@@ -273,7 +276,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>            
-	    <location pref="false" type="exhibition">
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
                 <refid type="other">"Hokusai: Thirty-Six Views of Mount Fuji," March 24, 2012–June 17, 2012.</refid>
                 <name refid="311378280" type="corporate" vocab="viaf">Freer and Sackler Galleries.</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -289,17 +292,17 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
             <material refid="300014109" type="support" vocab="aat">paper</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="true" shape="rectangle" source="Metropolitan Museum of Art" type="height" unit="cm">25.7</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="true" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="cm">37.9</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="height" unit="in">10 1/8</measurements>
-            <measurements href="http://www.metmuseum.org/art/collection/search/45434" pref="false" shape="rectangle" source="Metropolitan Museum of Art" type="width" unit="in">14 15/16</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">25.7</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">37.9</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="height" unit="in">10 1/8</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="width" unit="in">14 15/16</measurements>
         </measurementsSet>
         <relationSet>
             <relation pref="false" relids="w_Ex052_printsdr_SeriesOfPrints" type="partOf">1st in series: Katsushika Hokusai (Japanese, 1760-1849); Thirty-six Views of Mount Fuji: First Series; 1827-1837</relation>
             <relation pref="true" relids="i_Ex051_printsdr_PrintInASeries" type="imageIs">general view</relation>
         </relationSet>
 	<rightsSet>
-	    <rights type="other">
+	    <rights type="other" source="Metropolitan Museum of Art">
 		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
 		<text>H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929</text>
 	    </rights>
@@ -321,6 +324,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
         </stateEditionSet>
         <stylePeriodSet>
             <stylePeriod refid="300106643" vocab="aat">Edo</stylePeriod>
+            <stylePeriod refid="300106769" vocab="aat" source="HRA">Ukiyo-e</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject dataDate="2016-06-02-10-58-06">
@@ -339,7 +343,7 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
                 <term refid="1107685" type="geographicPlace" vocab="tgn">Fuji-san</term>
             </subject>
 	    <subject>
-                <term refid="7016696" type="geographic" vocab="tgn">Kanagawa-ken</term>
+                <term refid="7016696" type="geographicPlace" vocab="tgn">Kanagawa-ken</term>
             </subject>
         </subjectSet>
         <techniqueSet>
@@ -356,13 +360,41 @@ Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian 
 <!-- This titleSet applies and sets as preferred the title given to the work in its original cultural context using the Cluster extension, which allows for specification of script and transliteration systems, based on ISO standards. -->
             <title pref="false" type="other">Great Wave at Kanagawa</title>
             <title pref="false" type="other">In the Hollow of a Wave off the Coast at Kanagawa</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="jpn" pref="true" script="Jpan" source="Metropolitan Museum of Art" type="creator">富嶽三十六景　神奈川沖浪裏</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="jpn" pref="false" script="Latn" source="Metropolitan Museum of Art" transliteration="hepburn" type="other">Fugaku sanjūrokkei Kanagawa oki nami ura</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/45434" lang="eng" pref="false" script="Latn" source="Metropolitan Museum of Art" type="translated">Thirty-six Views of Mount Fuji Under the Wave off Kanagawa</title>
+            <title lang="jpn" pref="true" script="Jpan" source="Metropolitan Museum of Art" type="creator">富嶽三十六景　神奈川沖浪裏</title>
+            <title lang="jpn" pref="false" script="Latn" source="Metropolitan Museum of Art" transliteration="hepburn" type="other">Fugaku sanjūrokkei Kanagawa oki nami ura</title>
+            <title lang="eng" pref="false" script="Latn" source="Metropolitan Museum of Art" type="translated">Thirty-six Views of Mount Fuji Under the Wave off Kanagawa</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300041273" vocab="aat">prints</worktype>
             <worktype refid="300041412" vocab="aat">color woodcuts</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex051_printsdr_PrintInASeries"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-11-16-10-15">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex051_printsdr_PrintInASeries">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-11-11-16-17-07">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>This object is part of The Met's Open Access for Scholarly Content initiative. www.metmuseum.org</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-11-16-17-31">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/45434</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">富嶽三十六景　神奈川沖浪裏</title>
+      </titleSet>
+   </image>
 </vra>

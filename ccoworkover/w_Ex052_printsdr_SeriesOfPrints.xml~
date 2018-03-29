@@ -146,9 +146,6 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
             <subject dataDate="2016-06-02-11-39-09">
                 <term refid="300117546" vocab="aat" type="descriptiveTopic">seascapes</term>
             </subject>
-            <subject>
-            	 <term refid="1107685" vocab="tgn" type="geographicPlace"></term>
-            </subject>
 	    <subject>
                 <term refid="1107685" type="geographicPlace" vocab="tgn">Fuji-san</term>
             </subject>

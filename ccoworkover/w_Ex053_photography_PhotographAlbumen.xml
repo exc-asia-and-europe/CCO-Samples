@@ -12,21 +12,24 @@
             <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date type="creation" dataDate="2016-06-06-10-57-14">
+            <date type="creation">
                 <earliestDate>
-                    <date crica="true" type="about">1884</date>
+                    <date circa="false">1884</date>
                 </earliestDate>
+		<latestDate>
+                    <date circa="false">1884</date>
+		</latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="true" href="http://loc.gov/pictures/item/2002715256/" source="Library of Congress" dataDate="2015-11-12-12-25-43">
+            <description pref="true" source="Library of Congress" dataDate="2015-11-12-12-25-43">
                 <text>Full lgth., seated, facing front; with wife; holding rifle. Chiricahua Apache chief; son of Cochise.</text>
                 <author>
                     <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" href="http://loc.gov/pictures/item/2002715256/" source="Library of Congress">
+            <description pref="false" source="Library of Congress">
                 <text> Hand-colored photoprint copyrighed by A.F. Randall.
     This record contains unverified data from caption card.
     Caption card tracings: BI; Indians.</text>
@@ -43,7 +46,7 @@
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" href="http://loc.gov/pictures/item/2002715256/" source="Library of Congress" type="repository" dataDate="2016-06-06-11-14-00">
+            <location pref="false" source="Library of Congress" type="repository" dataDate="2016-06-06-11-14-00">
                 <refid type="accession">LOT 11703</refid>
                 <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
 		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
@@ -63,6 +66,7 @@
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex053_photography_PhotographAlbumen" pref="true">general view</relation>
+	    <relation type="partOf" href="http://www.loc.gov/pictures/collection/cph/">Miscellaneous Items in High Demand Collection (Library of Congress)</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-12-12-47-00">
@@ -90,7 +94,7 @@
             <technique refid="300133274" vocab="aat">albumen process</technique>
         </techniqueSet>
         <titleSet>
-            <title href="https://loc.gov/pictures/item/2002715256/" pref="true" source="Library of Congress" type="repository">"Naches" or "Wei-chi-ti"</title>
+            <title pref="true" source="Library of Congress" type="repository">"Naches" or "Wei-chi-ti"</title>
             <title pref="false" type="descriptive">Naiche, Youngest Son of Cochise</title>
         </titleSet>
         <worktypeSet>
@@ -99,4 +103,33 @@
             <worktype refid="300127121" vocab="aat">albumen prints</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex053_photography_PhotographAlbumen"
+          href="https://cdn.loc.gov/service/pnp/cph/3b30000/3b32000/3b32900/3b32954r.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-12-12-21-35">
+            <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex053_photography_PhotographAlbumen">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights
+                 type="publicDomain"
+                 dataDate="2015-11-12-12-22-08">
+            <rightsHolder>Library of Congress</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-12-12-22-30">
+            <refid type="URI">http://loc.gov/pictures/item/2002715256/</refid>
+            <name type="electronic">Library of Congress</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">"Naches" or "Wei-chi-ti"</title>
+      </titleSet>
+   </image>
 </vra>

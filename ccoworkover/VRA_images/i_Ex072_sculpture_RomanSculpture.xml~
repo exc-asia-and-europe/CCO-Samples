@@ -3,7 +3,7 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
    <image id="i_Ex072_sculpture_RomanSculpture"
-          href="http://www.getty.edu/museum/media/images/web/download/00763801.jpg">
+          href="i_074040e0-4cc4-40e0-9f87-002b3b6f424b.jpg">
       <agentSet>
          <agent dataDate="2015-11-16-13-43-47">
             <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-16-13-43-47">J. Paul Getty Museum</name>

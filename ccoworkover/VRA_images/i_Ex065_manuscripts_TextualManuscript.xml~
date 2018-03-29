@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex065_manuscripts_TextualManuscript"
-          href="https://catalog.archives.gov/OpaAPI/media/1419123/content/harvest/1419123-00300/00300_2003_001_AC.jpg">
+   <image id="i_f47b60ee-65b5-459d-993d-81d191491f77"
+          href="i_f47b60ee-65b5-459d-993d-81d191491f77.jpg">
       <agentSet>
          <agent pref="true">
             <name refid="168811441" type="corporate" vocab="viaf">United States, National Archives and Records Administration</name>

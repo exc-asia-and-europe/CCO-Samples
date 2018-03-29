@@ -25,14 +25,19 @@
                    relids="w_Ex069_sculpture_MinoanSculpture">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights type="copyrighted">
-            <rightsHolder>Olaf Tausch</rightsHolder>
+         <display dataDate="2015-11-26-15-43-35"/>
+         <notes dataDate="2015-11-26-15-43-35"/>
+         <rights pref="false" type="copyrighted" dataDate="2015-11-26-15-43-35">
+            <rightsHolder dataDate="2015-11-26-15-43-35">Olaf Tausch</rightsHolder>
+            <text dataDate="2015-11-26-15-43-35">CC BY 3.0</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source>
-            <refid type="URI">https://commons.wikimedia.org/wiki/File:Kleine_Schlangeng%C3%B6ttin_01.jpg</refid>
-            <name type="electronic">Wikimedia Commons</name>
+         <display dataDate="2015-11-26-15-44-05"/>
+         <notes dataDate="2015-11-26-15-44-05"/>
+         <source pref="false" dataDate="2015-11-26-15-44-05">
+            <refid type="URI" dataDate="2015-11-26-15-44-05">https://commons.wikimedia.org/wiki/File:Kleine_Schlangeng%C3%B6ttin_01.jpg</refid>
+            <name type="electronic" dataDate="2015-11-26-15-44-05">Wikimedia Commons</name>
          </source>
       </sourceSet>
       <titleSet>

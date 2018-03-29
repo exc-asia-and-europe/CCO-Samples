@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex69_sculpture_MinoanSculpture" refid="c_f4fb232e-0a39-4917-b90d-5f7ddbf534b1">
+    <work id="w_Ex070_sculpture_GreekSculpture" refid="c_CCO_Examples">
         <agentSet>
-            <agent dataDate="2016-06-07-13-18-33">
-                <name refid="100627997" type="personal" vocab="viaf" dataDate="2015-11-26-16-17-52">unknown Ancient Greek</name>
-                <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-17-52"/>
+            <agent>
+                <name refid="100627997" type="personal" vocab="viaf">unknown Ancient Greek</name>
+                <role type="code" vocab="marcrelator">art</role>
             </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext vocab="AAT" refid="300020072" dataDate="2015-11-26-16-31-03">Ancient Greek (culture or style)</culturalContext>
+            <culturalContext vocab="AAT" refid="300020072">Ancient Greek (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <display dataDate="2015-11-26-16-18-34">3rd-2nd centuries BCE</display>
-            <date pref="false" dataDate="2016-06-07-13-18-46">
+            <display>3rd-2nd centuries BCE</display>
+            <date>
                 <earliestDate>
-                    <date circa="true" dataDate="2015-11-26-16-18-34">-0299</date>
+                    <date circa="true">-0299</date>
                 </earliestDate>
                 <latestDate>
-                    <date circa="true" dataDate="2015-11-26-16-18-34">-0100</date>
+                    <date circa="true">-0100</date>
                 </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art" dataDate="2015-11-26-16-20-43">
-                <text dataDate="2015-11-26-16-20-43">The complex motion of this dancer is conveyed exclusively through the interaction of the body with several layers of dress. Over an undergarment that falls in deep folds and trails heavily, the figure wears a lightweight mantle, drawn tautly over her head and body by the pressure applied to it by her right arm, left hand, and right leg. Its substance is conveyed by the alternation of the tubular folds pushing through from below and the freely curling softness of the fringe. The woman's face is covered by the sheerest of veils, discernible at its edge below her hairline and at the cutouts for the eyes. Her extended right foot shows a laced slipper. This dancer has been convincingly identified as one of the professional entertainers, a combination of mime and dancer, for which the cosmopolitan city of Alexandria was famous in antiquity.</text>
-                <author dataDate="2015-11-26-16-20-43">
-                    <name refid="126238294" type="corporate" vocab="viaf" dataDate="2015-11-26-16-20-43">Metropolitan Museum of Art</name>
-                    <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-20-43">aut</role>
+            <description pref="false" source="Metropolitan Museum of Art">
+                <text>The complex motion of this dancer is conveyed exclusively through the interaction of the body with several layers of dress. Over an undergarment that falls in deep folds and trails heavily, the figure wears a lightweight mantle, drawn tautly over her head and body by the pressure applied to it by her right arm, left hand, and right leg. Its substance is conveyed by the alternation of the tubular folds pushing through from below and the freely curling softness of the fringe. The woman's face is covered by the sheerest of veils, discernible at its edge below her hairline and at the cutouts for the eyes. Her extended right foot shows a laced slipper. This dancer has been convincingly identified as one of the professional entertainers, a combination of mime and dancer, for which the cosmopolitan city of Alexandria was famous in antiquity.</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art">
+            <description pref="false" source="Metropolitan Museum of Art">
                 <text>Provenance
 Said to be from Alexandria (Thompson 1950, p. 379).
 Until 1948, collection of Joseph Brummer; September 14, 1948, purchased by Walter C. Baker from the estate of Joseph Brummer; acquired June 23, 1972, bequest of Walter C. Baker. </text>
@@ -38,88 +38,203 @@ Until 1948, collection of Joseph Brummer; September 14, 1948, purchased by Walte
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="true" source="Metropolitan Museum of Art online. www.metmuseum.org Page: accessed 17 September 2006." dataDate="2016-06-07-13-26-49">
-                <text dataDate="2015-11-26-16-20-43">This dancer has been identified as one of the mime/dancer entertainers for which ancient Alexandria was famous.</text>
-                <author dataDate="2015-11-26-16-20-43">
-                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-26-16-20-43">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator" dataDate="2015-11-26-16-20-43">edt</role>
+            <description pref="true" source="Metropolitan Museum of Art online. www.metmuseum.org Page: accessed 17 September 2006.">
+                <text>This dancer has been identified as one of the mime/dancer entertainers for which ancient Alexandria was famous.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="true" type="repository" dataDate="2015-11-26-16-25-06">
-                <refid type="accession" dataDate="2015-11-26-16-25-06">1972.118.95</refid>
-                <name refid="126238294" type="corporate" vocab="viaf" dataDate="2015-11-26-16-25-06">Metropolitan Museum of Art</name>
+            <location pref="true" type="repository">
+                <refid type="accession">1972.118.95</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
 		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="creation" dataDate="2016-06-07-13-20-32">
+            <location pref="false" type="creation">
                 <name refid="7001188" type="geographic" vocab="tgn" extent="inhabited place">Al Iskandarīyah</name>
                 <name refid="7016833" type="geographic" vocab="tgn" extent="nation">Egypt</name>
                 <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
             </location>
         </locationSet>
         <materialSet>
-            <material refid="300010957" type="medium" vocab="aat" dataDate="2015-11-26-16-31-35">bronze</material>
+            <material refid="300010957" type="medium" vocab="aat">bronze</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art" type="height" unit="in" dataDate="2015-11-26-16-35-00">8 1/16</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art" type="width" unit="in" dataDate="2015-11-26-16-35-00">3 1/2</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art" type="depth" unit="in" dataDate="2015-11-26-16-35-00">4 1/2</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="true" source="Metropolitan Museum of Art" type="height" unit="cm" dataDate="2015-11-26-16-35-00">20.5</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="true" source="Metropolitan Museum of Art" type="width" unit="cm" dataDate="2015-11-26-16-35-00">8.9</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="true" source="Metropolitan Museum of Art" type="depth" unit="cm" dataDate="2015-11-26-16-35-00">11.4</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art" type="weight" unit="oz" dataDate="2015-11-26-16-35-00">65.6</measurements>
-            <measurements href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="false" source="Metropolitan Museum of Art" type="weight" unit="lb" dataDate="2015-11-26-16-35-00">4.1</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="height" unit="in">8 1/16</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="width" unit="in">3 1/2</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="depth" unit="in">4 1/2</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">20.5</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">8.9</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="depth" unit="cm">11.4</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="weight" unit="oz">65.6</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="weight" unit="lb">4.1</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_da09a4b8-5c88-4bd6-ad3c-87783cd70c8d">general view</relation>
+            <relation type="imageIs" relids="i_Ex070_sculpture_GreekSculpture_1">front</relation>
+            <relation type="imageIs" relids="i_Ex070_sculpture_GreekSculpture_2">side</relation>
+            <relation type="imageIs" relids="i_Ex070_sculpture_GreekSculpture_3">side</relation>
+            <relation type="imageIs" relids="i_Ex070_sculpture_GreekSculpture_4">back</relation>
         </relationSet>
 	<rightsSet>
-	    <rights type="other">
+	    <rights type="other" source="Metropolitan Museum of Art">
 		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
 		<text>Bequest of Walter C. Baker, 1971</text>
 	    </rights>
 	</rightsSet>
         <sourceSet>
-            <source pref="true" dataDate="2015-11-26-16-36-20">
-                <refid type="URI" dataDate="2015-11-26-16-36-20">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_70_greek_sculpture</refid>
-                <name type="electronic" dataDate="2015-11-26-16-36-20">Cataloging Cultural Objects Commons. Example 70: Greek sculpture.</name>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_70_greek_sculpture</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 70: Greek sculpture.</name>
             </source>
-            <source pref="false" dataDate="2016-06-07-13-10-45">
-                <refid type="URI" dataDate="2015-11-26-16-36-20">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
-                <name type="electronic" dataDate="2015-11-26-16-36-20">Metropolitan Museum of Art</name>
+            <source pref="false">
+                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
+                <name type="electronic">Metropolitan Museum of Art</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod refid="300020101" vocab="aat" dataDate="2015-11-26-16-36-40">Hellenistic</stylePeriod>
+            <stylePeriod refid="300020101" vocab="aat">Hellenistic</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject dataDate="2015-11-26-16-27-54">
-                <term refid="300262585" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-27-54">drapery</term>
+            <subject>
+                <term refid="300262585" vocab="aat" type="descriptiveTopic">drapery</term>
             </subject>
-            <subject dataDate="2015-11-26-16-27-54">
-                <term refid="300343595" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-27-54">mimes</term>
+            <subject>
+                <term refid="300343595" vocab="aat" type="descriptiveTopic">mimes</term>
             </subject>
-            <subject dataDate="2015-11-26-16-27-54">
-                <term refid="300025653" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-27-54">dancers</term>
+            <subject>
+                <term refid="300025653" vocab="aat" type="descriptiveTopic">dancers</term>
             </subject>
-            <subject dataDate="2015-11-26-16-27-54">
-                <term refid="300025943" vocab="aat" type="descriptiveTopic" dataDate="2015-11-26-16-27-54">women</term>
+            <subject>
+                <term refid="300025943" vocab="aat" type="descriptiveTopic">women</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique refid="300053104" vocab="aat" dataDate="2015-11-26-16-37-31">casting</technique>
+            <technique refid="300053104" vocab="aat">casting</technique>
         </techniqueSet>
         <titleSet>
-            <title pref="false" type="other" dataDate="2015-11-26-16-28-50">Statuette of a Veiled and Masked Dancer</title>
-            <title href="http://www.metmuseum.org/collection/the-collection-online/search/255408" pref="true" source="Metropolitan Museum of Art" type="repository" dataDate="2015-11-26-16-28-50">Bronze statuette of a veiled and masked dancer</title>
+            <title pref="false" type="other">Statuette of a Veiled and Masked Dancer</title>
+            <title pref="true" source="Metropolitan Museum of Art" type="repository">Bronze statuette of a veiled and masked dancer</title>
         </titleSet>
         <worktypeSet>
-            <worktype refid="300047090" vocab="aat" dataDate="2015-11-26-16-38-02">sculpture</worktype>
-            <worktype refid="300047600" vocab="aat" dataDate="2015-11-26-16-38-02">statues</worktype>
+            <worktype refid="300047090" vocab="aat">sculpture</worktype>
+            <worktype refid="300047600" vocab="aat">statues</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex070_sculpture_GreekSculpture_1"
+          href="https://images.metmuseum.org/CRDImages/gr/web-large/gr1972.118.95.R.jpg">
+      <agentSet>
+         <agent>
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex070_sculpture_GreekSculpture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Bronze statuette of a veiled and masked dancer (front)</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex070_sculpture_GreekSculpture_2"
+          href="https://images.metmuseum.org/CRDImages/gr/web-large/gr1972.118.95.AV3.jpg">
+      <agentSet>
+         <agent>
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex070_sculpture_GreekSculpture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Bronze statuette of a veiled and masked dancer (side)</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex070_sculpture_GreekSculpture_3"
+          href="https://images.metmuseum.org/CRDImages/gr/web-large/gr1972.118.95.AV1.jpg">
+      <agentSet>
+         <agent>
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex070_sculpture_GreekSculpture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Bronze statuette of a veiled and masked dancer (side)</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex070_sculpture_GreekSculpture_4"
+          href="https://images.metmuseum.org/CRDImages/gr/web-large/gr1972.118.95.AV2.jpg">
+      <agentSet>
+         <agent>
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex070_sculpture_GreekSculpture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Bronze statuette of a veiled and masked dancer (back)</title>
+      </titleSet>
+   </image>
 </vra>

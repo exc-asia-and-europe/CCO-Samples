@@ -2,8 +2,9 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex063_manuscripts_Illumination"
-          href="https://images.metmuseum.org/CRDImages/is/web-large/DP240654.jpg">
+   <image id="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb"
+          href="i_7d0e45ef-b543-45c5-a209-5f00c5c55aeb.jpg"
+          source="Tamboti">
       <agentSet>
          <agent>
             <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>

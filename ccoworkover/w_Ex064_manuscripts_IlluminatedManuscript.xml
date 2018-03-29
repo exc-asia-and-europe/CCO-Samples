@@ -2,305 +2,306 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex064_manuscripts_IlluminatedManuscript" refid="c_CCO_Examples">
         <agentSet>
-            <display dataDate="2015-11-23-12-20-10">illuminated by unknown German active in Mainz or Fulda, binding by unknown Mosan artist</display>
-            <agent pref="true" dataDate="2016-06-06-15-59-21">
-                <culture dataDate="2015-11-23-12-20-10">active in Mainz or Fulda</culture>
-                <name refid="100626764" type="personal" vocab="viaf" dataDate="2015-11-23-12-20-10">unknown German</name>
-                <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-20-10">ilu</role>
+            <display>illuminated by unknown German active in Mainz or Fulda, binding by unknown Mosan artist</display>
+            <agent pref="true">
+                <culture>active in Mainz or Fulda</culture>
+                <name refid="100626764" type="personal" vocab="viaf">unknown German</name>
+                <role type="code" vocab="marcrelator">ilu</role>
             </agent>
-            <agent pref="false" dataDate="2015-11-23-12-20-10">
-                <name refid="100626985" type="personal" vocab="viaf" dataDate="2015-11-23-12-20-10">unknown Mosan</name>
-                <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-20-10">art</role>
+            <agent pref="false">
+                <name refid="100626985" type="personal" vocab="viaf">unknown Mosan</name>
+                <role type="code" vocab="marcrelator">art</role>
             </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext pref="true" vocab="AAT" refid="300020766" dataDate="2015-11-23-13-02-47">Ottonian</culturalContext>
+            <culturalContext pref="true" vocab="AAT" refid="300020766">Ottonian</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <display dataDate="2015-11-23-12-25-09">illuminated in 2nd quarter of 11th century, binding from 12th century, with later additions</display>
-            <date extent="binding" pref="false" type="creation" dataDate="2016-06-06-16-01-50">
+<!-- This dateSet employs the Cluster extension to express the circa value more specifically. -->
+            <display>illuminated in 2nd quarter of 11th century, binding from 12th century, with later additions</display>
+            <date extent="binding" pref="false" type="creation">
                 <earliestDate>
-                    <date dataDate="2015-11-23-12-25-09">1100</date>
+                    <date circa="false">1100</date>
                 </earliestDate>
                 <latestDate>
-                    <date dataDate="2015-11-23-12-25-09">1199</date>
+                    <date circa="false">1199</date>
                 </latestDate>
             </date>
-            <date extent="illuminations" pref="true" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" source="J. Paul Getty Museum" type="creation" dataDate="2015-11-23-12-25-09">
+            <date extent="illuminations" pref="true" source="J. Paul Getty Museum" type="creation">
                 <earliestDate>
-                    <date circa="true" type="about" dataDate="2015-11-23-12-25-09">1025</date>
+                    <date circa="true" type="about">1025</date>
                 </earliestDate>
                 <latestDate>
-                    <date circa="true" type="about" dataDate="2015-11-23-12-25-09">1050</date>
+                    <date circa="true" type="about">1050</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1984-07-01</date>
+                    <date circa="false">1984-07-01</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1984-09-30</date>
+                    <date circa="false">1984-09-30</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1984-10-17</date>
+                    <date circa="false">1984-10-17</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1984-12-30</date>
+                    <date circa="false">1984-12-30</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1985-10-23</date>
+                    <date circa="false">1985-10-23</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1986-01-05</date>
+                    <date circa="false">1986-01-05</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1986-01-22</date>
+                    <date circa="false">1986-01-22</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1986-03-30</date>
+                    <date circa="false">1986-03-30</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1987-04-21</date>
+                    <date circa="false">1987-04-21</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1987-07-05</date>
+                    <date circa="false">1987-07-05</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1987-07-21</date>
+                    <date circa="false">1987-07-21</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1987-10-06</date>
+                    <date circa="false">1987-10-06</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1988-01-19</date>
+                    <date circa="false">1988-01-19</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1988-04-03</date>
+                    <date circa="false">1988-04-03</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1989-04-18</date>
+                    <date circa="false">1989-04-18</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1989-07-02</date>
+                    <date circa="false">1989-07-02</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1989-10-17</date>
+                    <date circa="false">1989-10-17</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1989-12-31</date>
+                    <date circa="false">1989-12-31</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1990-01-16</date>
+                    <date circa="false">1990-01-16</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1990-04-01</date>
+                    <date circa="false">1990-04-01</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1991-04-16</date>
+                    <date circa="false">1991-04-16</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1991-06-30</date>
+                    <date circa="false">1991-06-30</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1991-07-16</date>
+                    <date circa="false">1991-07-16</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1991-09-29</date>
+                    <date circa="false">1991-09-29</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1992-01-14</date>
+                    <date circa="false">1992-01-14</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1992-03-29</date>
+                    <date circa="false">1992-03-29</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1993-07-19</date>
+                    <date circa="false">1993-07-19</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1993-10-10</date>
+                    <date circa="false">1993-10-10</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1994-07-26</date>
+                    <date circa="false">1994-07-26</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1995-02-12</date>
+                    <date circa="false">1995-02-12</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1996-01-30</date>
+                    <date circa="false">1996-01-30</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1996-04-07</date>
+                    <date circa="false">1996-04-07</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1997-12-16</date>
+                    <date circa="false">1997-12-16</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1998-03-22</date>
+                    <date circa="false">1998-03-22</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1998-07-21</date>
+                    <date circa="false">1998-07-21</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1998-10-18</date>
+                    <date circa="false">1998-10-18</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>1998-11-17</date>
+                    <date circa="false">1998-11-17</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1999-05-30</date>
+                    <date circa="false">1999-05-30</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2000-08-15</date>
+                    <date circa="false">2000-08-15</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2000-11-05</date>
+                    <date circa="false">2000-11-05</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2000-11-21</date>
+                    <date circa="false">2000-11-21</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2001-02-04</date>
+                    <date circa="false">2001-02-04</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2001-02-20</date>
+                    <date circa="false">2001-02-20</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2001-05-06</date>
+                    <date circa="false">2001-05-06</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2001-12-18</date>
+                    <date circa="false">2001-12-18</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2002-03-10</date>
+                    <date circa="false">2002-03-10</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2003-05-20</date>
+                    <date circa="false">2003-05-20</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2003-09-07</date>
+                    <date circa="false">2003-09-07</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2004-03-23</date>
+                    <date circa="false">2004-03-23</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2004-06-13</date>
+                    <date circa="false">2004-06-13</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2004-09-14</date>
+                    <date circa="false">2004-09-14</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2004-12-05</date>
+                    <date circa="false">2004-12-05</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2005-07-28</date>
+                    <date circa="false">2005-07-28</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2005-10-02</date>
+                    <date circa="false">2005-10-02</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2006-08-01</date>
+                    <date circa="false">2006-08-01</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2006-10-15</date>
+                    <date circa="false">2006-10-15</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2006-10-31</date>
+                    <date circa="false">2006-10-31</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2007-01-07</date>
+                    <date circa="false">2007-01-07</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2008-05-06</date>
+                    <date circa="false">2008-05-06</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2008-07-27</date>
+                    <date circa="false">2008-07-27</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2009-02-24</date>
+                    <date circa="false">2009-02-24</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2009-05-24</date>
+                    <date circa="false">2009-05-24</date>
                 </latestDate>
             </date>
-            <date pref="false" type="exhibition">
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
-                    <date>2014-12-12</date>
+                    <date circa="false">2014-12-12</date>
                 </earliestDate>
                 <latestDate>
-                    <date>2015-03-15</date>
+                    <date circa="false">2015-03-15</date>
                 </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" source="J. Paul Getty Museum" dataDate="2016-06-06-16-20-47">
-                <text dataDate="2015-11-23-12-28-28">Archbishop Bardo of Mainz probably gave this Ottonian sacramentary, containing the prayers recited during the Mass, to the church of Saint Aubin in Namur, Belgium, at its founding in 1046. Unlike most manuscripts that have survived from the Middle Ages, this particularly rare book still retains its medieval binding. The earliest parts of the binding date from a century after the book's manufacture, while other portions were added in the later Middle Ages. Its lavish embellishment and the use of precious metals such as gold and silver on the cover suggest that the manuscript was given special honor in the cathedral. There it was probably kept in the treasury and only used on special feast days. 
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Archbishop Bardo of Mainz probably gave this Ottonian sacramentary, containing the prayers recited during the Mass, to the church of Saint Aubin in Namur, Belgium, at its founding in 1046. Unlike most manuscripts that have survived from the Middle Ages, this particularly rare book still retains its medieval binding. The earliest parts of the binding date from a century after the book's manufacture, while other portions were added in the later Middle Ages. Its lavish embellishment and the use of precious metals such as gold and silver on the cover suggest that the manuscript was given special honor in the cathedral. There it was probably kept in the treasury and only used on special feast days. 
 The sacramentary opens with a rare cycle of six full-page miniatures from the New Testament preceding the main text. The style of the miniatures is at once imposing and lively, abstract and naturalistic. Reviving forms and motives from Roman classical art, the illuminators established a powerfully calm and majestic style.</text>
-                <author dataDate="2015-11-23-12-28-28">
-                    <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-23-12-28-28">J. Paul Getty Museum</name>
-                    <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-28-28">aut</role>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" source="J. Paul Getty Museum">
+            <description pref="false" source="J. Paul Getty Museum">
                 <text>Exhibitions.
 Medieval and Renaissance Manuscripts (July 1 to September 30, 1984) (fols. 21v - 22)
     The J. Paul Getty Museum (Malibu), July 1 to September 30, 1984
@@ -402,51 +403,51 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="true" source="J. Paul Getty Museum online. www.getty.edu (accessed 13 December 2006)." dataDate="2015-11-23-12-28-28">
-                <text dataDate="2015-11-23-12-28-28">Although the Ottonian book was written and illuminated in Germany (Mainz or Fulda, in modern Germany), the binding was produced in Mosan, a region in present-day Belgium noted for medieval metalwork and enamel traditions. The subject of the binding includes a gilt silver Christ in Majesty. Christ sits on a throne, blessing with his right hand while holding a book in his left. The letters alpha and omega appear to either side of him. The first and last letters of the Greek alphabet, they refer to a figure from the text of the Apocalypse, traditionally interpreted as Christ, who says, “I am the Alpha and Omega; the beginning and the end.</text>
-                <author dataDate="2015-11-23-12-28-28">
-                    <name refid="131347215" type="corporate" vocab="viaf" dataDate="2015-11-23-12-28-28">Visual Resources Association</name>
-                    <role type="code" vocab="marcrelator" dataDate="2015-11-23-12-28-28">edt</role>
+            <description pref="true" source="J. Paul Getty Museum online. www.getty.edu (accessed 13 December 2006).">
+                <text>Although the Ottonian book was written and illuminated in Germany (Mainz or Fulda, in modern Germany), the binding was produced in Mosan, a region in present-day Belgium noted for medieval metalwork and enamel traditions. The subject of the binding includes a gilt silver Christ in Majesty. Christ sits on a throne, blessing with his right hand while holding a book in his left. The letters alpha and omega appear to either side of him. The first and last letters of the Greek alphabet, they refer to a figure from the text of the Apocalypse, traditionally interpreted as Christ, who says, “I am the Alpha and Omega; the beginning and the end.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription pref="false" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" source="J. Paul Getty Museum" dataDate="2015-11-23-13-03-49">
-                <text type="mark" dataDate="2015-11-23-13-03-49">Folios 160-177, watermark on these paper folia is an armorial shield with three fleur de lys [only two visible], described with a double outline marked at intervals with circles, surmounted by a crown with a high central finial possibly ending in a lobed design; contained within two chain lines. Similar, but not identical to Briquet, no. 1827 (note that lower portion of the watermark in Ludwig V 2 is not visible) from Chalons-sur-Marne, 1522 and no. 1828 from Brussels, 1525 and Namur 1527 (a variant of no. 1828).</text>
+            <inscription source="J. Paul Getty Museum">
+                <text type="mark">Folios 160-177, watermark on these paper folia is an armorial shield with three fleur de lys [only two visible], described with a double outline marked at intervals with circles, surmounted by a crown with a high central finial possibly ending in a lobed design; contained within two chain lines. Similar, but not identical to Briquet, no. 1827 (note that lower portion of the watermark in Ludwig V 2 is not visible) from Chalons-sur-Marne, 1522 and no. 1828 from Brussels, 1525 and Namur 1527 (a variant of no. 1828).</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
-            <location pref="true" type="repository" dataDate="2016-06-06-16-11-53">
-                <refid type="accession" dataDate="2015-11-23-12-52-08">83.MF.77</refid>
+            <location pref="true" type="repository">
+                <refid type="accession">83.MF.77</refid>
                 <refid type="accession">Ms. Ludwig V 2</refid>
-                <name refid="147804499" vocab="viaf" dataDate="2015-11-23-12-52-08">J. Paul Getty Museum</name>
+                <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location extent="illuminations" pref="false" type="creation" dataDate="2015-11-23-12-52-08">
-                <name refid="7005294" vocab="tgn" extent="inhabited place" dataDate="2015-11-23-12-52-08">Fulda</name>
+            <location extent="illuminations" pref="false" type="creation">
+                <name refid="7005294" vocab="tgn" extent="inhabited place">Fulda</name>
 		<name refid="7003682" type="geographic" vocab="tgn" extent="state">Rhineland Palatinate</name>
 		<name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location extent="illuminations" pref="false" type="creation" dataDate="2015-11-23-12-52-08">
-                <name refid="7004449" vocab="tgn" extent="inhabited place"dataDate="2015-11-23-12-52-08">Mainz</name>
+            <location extent="illuminations" pref="false" type="creation">
+                <name refid="7004449" vocab="tgn" extent="inhabited place">Mainz</name>
 		<name refid="7003678" type="geographic" vocab="tgn" extent="state">Hesse</name>
 		<name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location extent="binding" pref="false" type="creation" dataDate="2015-11-23-12-52-08">
-                <name refid="7030259" vocab="tgn" extent="general region" dataDate="2015-11-23-12-52-08">Mosan</name>
+            <location extent="binding" pref="false" type="creation">
+                <name refid="7030259" vocab="tgn" extent="general region">Mosan</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location extent="binding" pref="false" type="creation" dataDate="2016-06-06-16-09-15">
-                <name refid="7003460" vocab="tgn" extent="province" dataDate="2015-11-23-12-52-08">Liège</name>
+            <location extent="binding" pref="false" type="creation">
+                <name refid="7003460" vocab="tgn" extent="province">Liège</name>
 		<name refid="1000063" type="geographic" vocab="tgn" extent="nation">Belgium</name>
 		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Medieval and Renaissance Manuscripts (July 1 to September 30, 1984) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -454,7 +455,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Early Medieval and Romanesque Manuscripts (October 17 to December 30, 1984) (fols. 19v - 20)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -462,7 +463,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">German Illuminated Manuscripts (October 23, 1985 to January 5, 1986) (fols. 20v - 21)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -470,7 +471,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Illuminated Liturgical Manuscripts (January 22 to March 30, 1986) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -478,7 +479,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Monasteries and Manuscripts (April 21 to July 5, 1987) (fols. 18v - 19)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -486,7 +487,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Decorated Letter (July 21 to October 6, 1987) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -494,7 +495,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Early Medieval and Romanesque Manuscripts (January 19 to April 3, 1988) (fols. 19v - 20)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -502,7 +503,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Vie a mon desir: Illuminated Manuscripts and Their Patrons (April 18 to July 2, 1989) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -510,7 +511,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Illuminated German and Central European Manuscripts (October 17 to December 31, 1989) (fols. 19v - 20)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -518,7 +519,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Art of the Written Word: Medieval and Renaissance Calligraphy in Illuminated Manuscripts (January 16 to April 1, 1990) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -526,7 +527,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Apocalypse and Other Visions in Medieval Illuminated Manuscripts (April 16 to June 30, 1991) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -534,7 +535,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Monasteries and Manuscripts (July 16 to September 29, 1991) (binding)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -542,7 +543,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Decorated Letter (January 14 to March 29, 1992) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -550,7 +551,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Early Medieval and Romanesque Manuscripts (July 19 to October 10, 1993) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -558,7 +559,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Making of a Medieval Book (July 26, 1994 to February 12, 1995) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -566,7 +567,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Crucifixion in Medieval and Renaissance Manuscripts (January 30 to April 7, 1996) (fols. 18v - 19)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
@@ -574,7 +575,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Masterpieces of Medieval and Renaissance Manuscript illumination (December 16, 1997 to March 22, 1998) (fols. 20v - 21)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -582,7 +583,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Ten Centuries of Manuscript Illumination in Germany and Central Europe (July 21 to October 18, 1998) (fols. 19v - 20)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -590,7 +591,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Making of a Medieval Book (November 17, 1998 to May 30, 1999) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -598,7 +599,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Making of a Medieval Book (2000) (August 15 to November 5, 2000) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -606,7 +607,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Art of Giving in the Middle Ages (November 21, 2000 to February 4, 2001) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -614,7 +615,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Ritual Splendor: Illuminated Liturgical Manuscripts (February 20 to May 6, 2001) (fols. 20v - 21)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -622,7 +623,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Artful Reading in Medieval and Renaissance Europe (December 18, 2001 to March 10, 2002) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -630,7 +631,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Making of a Medieval Book (2003) (May 20 to September 7, 2003) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -638,7 +639,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Seeking Illumination: Monastic Manuscripts, 800 - 1200 (March 23 to June 13, 2004) (fols. 19v - 20)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -646,7 +647,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Byzantium and the West (September 14 to December 5, 2004) (fols. 18v - 19)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -654,7 +655,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Shrine and Shroud: Textiles in Illuminated Manuscripts (June 28 to October 2, 2005) (fol. 17v - 18)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -662,7 +663,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Landscape in the Renaissance (August 1 to October 15, 2006) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -670,7 +671,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">The Gospels in Medieval Manuscript Illumination (October 31, 2006 to January 7, 2007) (fol. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -678,7 +679,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Imagining Christ (May 6 to July 27, 2008) (Cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -686,7 +687,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">German and Central European Manuscript Illumination (February 24 to May 24, 2009) (fols. 21v - 22)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -694,7 +695,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="exhibition">
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to March 15, 2015) (cover)</refid>
                 <name refid="147804499" vocab="viaf">J. Paul Getty Museum</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
@@ -704,86 +705,222 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
             </location>
         </locationSet>
         <materialSet>
-            <display dataDate="2015-11-23-13-12-16">Tempera colors, gold, and ink on parchment bound between oak boards covered with red silk, fitted with hammered and engraved silver and copper</display>
-            <material refid="300015062" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">tempera</material>
-            <material refid="300011021" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">gold</material>
-            <material refid="300015012" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">ink</material>
-            <material refid="300011851" type="support" vocab="aat" dataDate="2015-11-23-13-12-16">parchment</material>
-            <material refid="300012264" type="support" vocab="aat" dataDate="2015-11-23-13-12-16">oak</material>
-            <material refid="300243428" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">silk</material>
-            <material refid="300011029" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">silver</material>
-            <material refid="300011020" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747" type="medium" vocab="aat" dataDate="2015-11-23-13-12-16">copper</material>
+            <display>Tempera colors, gold, and ink on parchment bound between oak boards covered with red silk, fitted with hammered and engraved silver and copper</display>
+            <material refid="300015062" type="medium" vocab="aat">tempera</material>
+            <material refid="300011021" source="J. Paul Getty Museum" type="medium" vocab="aat">gold</material>
+            <material refid="300015012" type="medium" vocab="aat">ink</material>
+            <material refid="300011851" type="support" vocab="aat">parchment</material>
+            <material refid="300012264" type="support" vocab="aat">oak</material>
+            <material refid="300243428" source="J. Paul Getty Museum" type="medium" vocab="aat">silk</material>
+            <material refid="300011029" type="medium" vocab="aat">silver</material>
+            <material refid="300011020" source="J. Paul Getty Museum" type="medium" vocab="aat">copper</material>
         </materialSet>
         <measurementsSet>
-            <display dataDate="2015-11-23-13-53-25">179 leaves; text block: 26.6 x 19.1 cm (10 1/2 x 7 1/2 inches); text area: 17 x 13 cm (6 3/4 x 5 1/8 inches); oak covers: 27.3 x 19.8 cm (10 3/4 x 7 7/8 inches)</display>
-            <measurements pref="false" type="count" unit="leaves" dataDate="2015-11-23-13-53-25">179</measurements>
-            <measurements extent="leaf" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="height" unit="cm" dataDate="2015-11-23-13-53-25">26.7</measurements>
-            <measurements extent="leaf" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="width" unit="cm" dataDate="2015-11-23-13-53-25">18.9</measurements>
-            <measurements extent="leaf" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="height" unit="in" dataDate="2015-11-23-13-53-25">10 1/2</measurements>
-            <measurements extent="leaf" pref="false" source="J. Paul Getty Museum" href="http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/" type="width" unit="in" dataDate="2015-11-23-13-53-25">7 7/16</measurements>
-            <measurements extent="text block" pref="false" type="height" unit="cm" dataDate="2015-11-23-13-53-25">26.6</measurements>
-            <measurements extent="text block" pref="false" type="width" unit="cm" dataDate="2015-11-23-13-53-25">19.1</measurements>
-            <measurements extent="text block" pref="false" type="height" unit="in" dataDate="2015-11-23-13-53-25">10 1/2</measurements>
-            <measurements extent="text block" pref="false" type="width" unit="in" dataDate="2015-11-23-13-53-25">7 1/2</measurements>
-            <measurements extent="text area" pref="false" type="height" unit="cm" dataDate="2015-11-26-11-47-47">17</measurements>
-            <measurements extent="text area" pref="false" type="width" unit="cm" dataDate="2015-11-23-13-53-25">13</measurements>
-            <measurements extent="text area" pref="false" type="height" unit="in" dataDate="2015-11-23-13-53-25">6 3/4</measurements>
-            <measurements extent="text area" pref="false" type="width" unit="in" dataDate="2015-11-23-13-53-25">5 1/8</measurements>
-            <measurements extent="oak covers" pref="false" type="height" unit="cm" dataDate="2015-11-23-13-53-25">27.3</measurements>
-            <measurements extent="oak covers" pref="false" type="width" unit="cm" dataDate="2015-11-23-13-53-25">19.8</measurements>
-            <measurements extent="oak covers" pref="false" type="height" unit="in" dataDate="2015-11-23-13-53-25">10 3/4</measurements>
-            <measurements extent="oak covers" pref="false" type="width" unit="in" dataDate="2015-11-23-13-53-25">7 7/8</measurements>
+            <display>179 leaves; text block: 26.6 x 19.1 cm (10 1/2 x 7 1/2 inches); text area: 17 x 13 cm (6 3/4 x 5 1/8 inches); oak covers: 27.3 x 19.8 cm (10 3/4 x 7 7/8 inches)</display>
+            <measurements pref="true" type="count" unit="leaves">179</measurements>
+            <measurements extent="leaf" pref="true" source="J. Paul Getty Museum" type="height" unit="cm">26.7</measurements>
+            <measurements extent="leaf" pref="true" source="J. Paul Getty Museum" type="width" unit="cm">18.9</measurements>
+            <measurements extent="leaf" pref="false" source="J. Paul Getty Museum" type="height" unit="in">10 1/2</measurements>
+            <measurements extent="leaf" pref="false" source="J. Paul Getty Museum" type="width" unit="in">7 7/16</measurements>
+            <measurements extent="text block" pref="true" type="height" unit="cm">26.6</measurements>
+            <measurements extent="text block" pref="true" type="width" unit="cm">19.1</measurements>
+            <measurements extent="text block" pref="false" type="height" unit="in">10 1/2</measurements>
+            <measurements extent="text block" pref="false" type="width" unit="in">7 1/2</measurements>
+            <measurements extent="text area" pref="true" type="height" unit="cm">17</measurements>
+            <measurements extent="text area" pref="true" type="width" unit="cm">13</measurements>
+            <measurements extent="text area" pref="false" type="height" unit="in">6 3/4</measurements>
+            <measurements extent="text area" pref="false" type="width" unit="in">5 1/8</measurements>
+            <measurements extent="oak covers" pref="true" type="height" unit="cm">27.3</measurements>
+            <measurements extent="oak covers" pref="true" type="width" unit="cm">19.8</measurements>
+            <measurements extent="oak covers" pref="false" type="height" unit="in">10 3/4</measurements>
+            <measurements extent="oak covers" pref="false" type="width" unit="in">7 7/8</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="true" relids="i_Ex064_manuscripts_IlluminatedManuscript_3" type="imageIs" dataDate="2015-11-23-12-02-41">The Ascension, fol. 20</relation>
-            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_1" type="imageIs" dataDate="2015-11-23-12-03-14">Decorated Initial D, fol. 29</relation>
-            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_4" type="imageIs" dataDate="2015-11-23-12-04-01">Decorated Initial D, fol. 89v</relation>
-            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_5" type="imageIs" dataDate="2015-11-23-12-07-26">The Women at the Tomb, fol. 19v</relation>
-            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_2" type="imageIs" dataDate="2015-11-23-12-08-18">Pentecost, fol. 20v</relation>
+            <relation pref="true" relids="i_Ex064_manuscripts_IlluminatedManuscript_3" type="imageIs">The Ascension, fol. 20</relation>
+            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_1" type="imageIs">Decorated Initial D, fol. 29</relation>
+            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_4" type="imageIs">Decorated Initial D, fol. 89v</relation>
+            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_5" type="imageIs">The Women at the Tomb, fol. 19v</relation>
+            <relation pref="false" relids="i_Ex064_manuscripts_IlluminatedManuscript_2" type="imageIs">Pentecost, fol. 20v</relation>
         </relationSet>
         <sourceSet>
-            <source pref="false" dataDate="2016-06-06-15-55-20">
+            <source pref="false">
                 <refid type="URI">https://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
-            <source pref="false" dataDate="2015-11-23-13-56-35">
-                <refid type="URI" dataDate="2015-11-23-13-56-35">http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747</refid>
-                <name type="electronic" dataDate="2015-11-23-13-56-35">J. Paul Getty Museum</name>
-            </source>
-            <source pref="true" dataDate="2016-06-06-15-48-45">
-                <refid type="URI" dataDate="2015-11-23-13-56-35">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_64_illuminated_manuscript</refid>
-                <name type="electronic" dataDate="2015-11-23-13-56-35">Cataloging Cultural Objects Commons. Example 64: Illuminated manuscript.</name>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_64_illuminated_manuscript</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 64: Illuminated manuscript.</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod refid="300020766" vocab="aat" dataDate="2015-11-23-13-57-47">Ottonian</stylePeriod>
+            <stylePeriod refid="300020766" vocab="aat">Ottonian</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject dataDate="2015-11-23-12-59-15">
-                <term refid="300379721" vocab="aat" type="conceptTopic" dataDate="2015-11-23-12-59-15">masses</term>
+            <subject>
+                <term refid="300379721" vocab="aat" type="conceptTopic">masses</term>
             </subject>
-            <subject dataDate="2016-06-06-16-05-21">
-                <term refid="300026452" vocab="aat" type="conceptTopic" dataDate="2015-11-23-12-59-15">prayers</term>
+            <subject>
+                <term refid="300026452" vocab="aat" type="conceptTopic">prayers</term>
             </subject>
-            <subject dataDate="2015-11-23-12-59-15">
-                <term refid="300192160" vocab="aat" type="descriptiveTopic" dataDate="2015-11-23-12-59-15">sacramentaries</term>
+            <subject>
+                <term refid="300192160" vocab="aat" type="descriptiveTopic">sacramentaries</term>
             </subject>
-            <subject dataDate="2015-11-23-12-59-15">
-                <term refid="300202605" vocab="aat" type="descriptiveTopic" dataDate="2015-11-23-12-59-15">service books</term>
+            <subject>
+                <term refid="300202605" vocab="aat" type="descriptiveTopic">service books</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique refid="300054216" vocab="aat" dataDate="2015-11-23-14-49-17">painting</technique>
-            <technique refid="300054022" vocab="aat" dataDate="2015-11-23-14-49-17">niello</technique>
+            <technique refid="300054216" vocab="aat">painting</technique>
+            <technique refid="300054022" vocab="aat">niello</technique>
         </techniqueSet>
         <titleSet>
-            <title pref="true" type="repository" dataDate="2015-11-23-13-02-04">Sacramentary</title>
-            <title pref="false" type="other">Christ in Majesty</title>
+            <title pref="true" type="repository">Sacramentary</title>
+            <title pref="false" type="other" source="J. Paul Getty Museum">Christ in Majesty</title>
         </titleSet>
         <worktypeSet>
-            <worktype refid="300192160" vocab="aat" dataDate="2015-11-23-14-50-34">sacramentaries</worktype>
-            <worktype refid="300265483" vocab="aat" dataDate="2015-11-23-14-50-34">illuminated manuscripts</worktype>
-            <worktype refid="300028569" vocab="aat" dataDate="2015-11-23-14-50-34">manuscripts</worktype>
+            <worktype refid="300192160" vocab="aat">sacramentaries</worktype>
+            <worktype refid="300265483" vocab="aat">illuminated manuscripts</worktype>
+            <worktype refid="300028569" vocab="aat">manuscripts</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex064_manuscripts_IlluminatedManuscript_5"
+          href="http://www.getty.edu/museum/media/images/web/download/00340901.jpg">
+      <agentSet>
+         <agent>
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-08-09">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source pref="true">
+            <refid type="URI">https://www.getty.edu/art/collection/objects/3123/unknown-maker-the-women-at-the-tomb-ottonian-about-1025-1050/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">The Women at the Tomb</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex064_manuscripts_IlluminatedManuscript_4"
+          href="http://www.getty.edu/museum/media/images/web/download/11035501.jpg">
+      <agentSet>
+         <agent>
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.getty.edu/art/collection/objects/103287/unknown-maker-decorated-initial-d-decorated-initial-d-ottonian-about-1025-1050/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Decorated Initial D</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex064_manuscripts_IlluminatedManuscript_3"
+          href="http://www.getty.edu/museum/media/images/web/download/00341001.jpg">
+      <agentSet>
+         <agent>
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.getty.edu/art/collection/objects/3124/unknown-maker-the-ascension-ottonian-about-1025-1050/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">The Ascension</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex064_manuscripts_IlluminatedManuscript_2"
+          href="http://www.getty.edu/museum/media/images/web/download/00341101.jpg">
+      <agentSet>
+         <agent>
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.getty.edu/art/collection/objects/3125/unknown-maker-pentecost-ottonian-about-1025-1050/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Pentecost</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex064_manuscripts_IlluminatedManuscript_1"
+          href="http://www.getty.edu/museum/media/images/web/download/11034701.jpg">
+      <agentSet>
+         <agent dataDate="2016-08-09">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-08-09">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-29-12-41-54">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/103279/unknown-maker-decorated-initial-d-ottonian-about-1025-1050/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Decorated Initial D</title>
+      </titleSet>
+   </image>
 </vra>

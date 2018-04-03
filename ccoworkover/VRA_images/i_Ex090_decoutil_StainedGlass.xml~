@@ -13,23 +13,22 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_d5add4d8-3e6b-4aeb-ba26-639ff237ed05"
-                   source="Tamboti">attachment</relation>
+                   relids="w_d5add4d8-3e6b-4aeb-ba26-639ff237ed05">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights pref="false" type="publicDomain" dataDate="2016-01-27-17-08-56">
+         <rights type="publicDomain">
             <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
             <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="false" dataDate="2016-01-27-17-06-19">
+         <source>
             <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/469857</refid>
             <name type="electronic">The Metropolitan Museum of Art online</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_090.jpg</title>
+         <title type="generalView">Theodosius Arrives at Ephesus, from a Scene from the Legend of the Seven Sleepers of Ephesus</title>
       </titleSet>
    </image>
 </vra>

@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_d5add4d8-3e6b-4aeb-ba26-639ff237ed05" source="Kurs" refid="c_c53e8097-8e7d-4d62-8f8c-f1497cbd1878">
+    <work id="w_Ex090_decoutil_StainedGlass" refid="c_CCO_Examples">
         <agentSet>
-            <agent pref="true" dataDate="2016-06-15-09-23-29">
+            <agent>
                 <name refid="100626755" type="personal" vocab="viaf">unknown French</name>
                 <role type="code" vocab="marcrelator">art</role>
-            </agent>
-            <agent pref="false" dataDate="2016-06-15-09-23-25">
-                <dates type="life">
-                    <earliestDate circa="true" type="about">0401</earliestDate>
-                    <latestDate circa="false">0450</latestDate>
-                </dates>
-                <name refid="46929243" type="personal" vocab="viaf">Teodozjusz, II</name>
-                <role type="code" vocab="marcrelator">dpc</role>
             </agent>
         </agentSet>
         <culturalContextSet>
             <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date type="creation" dataDate="2016-01-27-17-15-25">
+	    <display>created 1200-1205 (CCO) / ca. 1200–1210 (Met)</display>
+            <date pref="false" type="creation">
                 <earliestDate>
-                    <date>1200</date>
+                    <date circa="false">1200</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1205</date>
+                    <date circa="false">1205</date>
+                </latestDate>
+            </date>
+            <date pref="true" type="creation">
+                <earliestDate>
+                    <date circa="true">1200</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="true">1210</date>
                 </latestDate>
             </date>
         </dateSet>
@@ -102,15 +103,50 @@
             <subject>
                 <term refid="300055923" vocab="aat" type="descriptiveTopic">legends</term>
             </subject>
+	    <subject>
+		<term refid="46929243" vocab="viaf" type="personalName">Theodosius II</term>
+	    </subject>
+	    <subject>
+		<term refid="11H(SEVEN SLEEPERS)" vocab="iconclass" type="iconographicTopic">the Seven Sleepers (children) of Ephesus</term>
+	    </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300263757" vocab="aat">glass painting</technique>
         </techniqueSet>
         <titleSet>
-            <title extent="Scene from the Legend of the Seven Sleepers of Ephesus" pref="true" type="repository">Theodosius Arrives at Ephesus</title>
+            <title pref="false" type="descriptive">Theodosius Arrives at Ephesus (Scene from the Legend of the Seven Sleepers of Ephesus)</title>
+            <title pref="true" type="repository">Theodosius Arrives at Ephesus, from a Scene from the Legend of the Seven Sleepers of Ephesus</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300263722" vocab="aat">stained glass</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex090_decoutil_StainedGlass"
+          href="https://images.metmuseum.org/CRDImages/cl/web-large/DP102839.jpg">
+      <agentSet>
+         <agent>
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex090_decoutil_StainedGlass">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/469857</refid>
+            <name type="electronic">The Metropolitan Museum of Art online</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Theodosius Arrives at Ephesus, from a Scene from the Legend of the Seven Sleepers of Ephesus</title>
+      </titleSet>
+   </image>
 </vra>

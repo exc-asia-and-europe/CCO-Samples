@@ -2,12 +2,16 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex077_sculpture_IndianSculpture"
-          href="https://images.metmuseum.org/CRDImages/as/web-large/DT240.jpg">
+   <image id="i_0b16d15b-34c4-4f7e-976f-8fb1506c5666"
+          href="i_0b16d15b-34c4-4f7e-976f-8fb1506c5666.jpg"
+          source="Tamboti">
       <agentSet>
-         <agent>
-            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
-            <role type="code" vocab="marcrelator">cre</role>
+         <agent pref="true" dataDate="2015-11-30-17-22-13">
+            <name refid="126238294"
+                  type="corporate"
+                  vocab="viaf"
+                  dataDate="2015-11-30-17-22-13">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-30-17-22-13">cre</role>
          </agent>
       </agentSet>
       <relationSet>

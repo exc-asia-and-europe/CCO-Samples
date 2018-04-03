@@ -2,47 +2,32 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_f432fe01-181f-4065-a52e-0587f63903b3"
-          href="i_f432fe01-181f-4065-a52e-0587f63903b3.jpg"
-          source="Tamboti">
+   <image id="i_Ex079_sculpture_ChineseFunerary_2"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1det1-pma.jpg">
       <agentSet>
-         <display dataDate="2015-11-30-17-58-41"/>
-         <notes dataDate="2015-11-30-17-58-41"/>
-         <agent pref="false" dataDate="2015-11-30-17-58-41">
-            <attribution dataDate="2015-11-30-17-58-41"/>
-            <culture dataDate="2015-11-30-17-58-41"/>
-            <dates dataDate="2015-11-30-17-58-41"/>
-            <name refid="137352121"
-                  type="corporate"
-                  vocab="viaf"
-                  dataDate="2015-11-30-17-58-41">Philadelphia Museum of Art</name>
-            <role type="code" vocab="marcrelator" dataDate="2015-11-30-17-58-41">cre</role>
+         <agent>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
          </agent>
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_89d3c4ac-a9b0-4c4f-91eb-82a8c75cbdf9"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex079_sculpture_ChineseFunerary">attachment</relation>
       </relationSet>
       <rightsSet>
-         <display dataDate="2015-11-30-18-00-50"/>
-         <notes dataDate="2015-11-30-18-00-50"/>
-         <rights pref="false" type="copyrighted" dataDate="2015-11-30-18-00-50">
-            <rightsHolder dataDate="2015-11-30-18-00-50">Philadelphia Museum of Art</rightsHolder>
-            <text dataDate="2015-11-30-18-00-50">www.philamuseum.org
-Gift of Mrs. John Wintersteen, 1964</text>
+         <rights type="publicDomain">
+            <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display dataDate="2015-11-30-18-01-40"/>
-         <notes dataDate="2015-11-30-18-01-40"/>
-         <source pref="false" dataDate="2015-11-30-18-01-40">
-            <refid type="URI" dataDate="2015-11-30-18-01-40">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047|1#</refid>
-            <name type="electronic" dataDate="2015-11-30-18-01-40">Philadelphia Museum of Art</name>
+         <source>
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047|1#</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_079-1.jpg</title>
+         <title type="partialView">Tomb Figure of a Bactrian Camel, facing right detail</title>
       </titleSet>
    </image>
 </vra>

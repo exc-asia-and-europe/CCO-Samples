@@ -2,38 +2,32 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_2aeced24-bd50-4d3b-bcef-c940268c63d2"
-          href="i_2aeced24-bd50-4d3b-bcef-c940268c63d2.jpg"
-          source="Tamboti">
+   <image id="i_Ex079_sculpture_ChineseFunerary_1"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1v1-pma-CX.jpg">
       <agentSet>
-         <agent pref="false" dataDate="2015-11-30">
-            <dates dataDate="2015-11-30"/>
-            <name refid="137352121"
-                  type="corporate"
-                  vocab="viaf"
-                  dataDate="2015-11-30">Philadelphia Museum of Art</name>
-            <role type="code" vocab="marcrelator" dataDate="2015-11-30">cre</role>
+         <agent>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
          </agent>
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex79_sculpture_ChineseFunerary"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex079_sculpture_ChineseFunerary">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights pref="false" type="publicDomain" dataDate="2016-06-08-13-47-53">
-            <rightsHolder dataDate="2015-11-30">Philadelphia Museum of Art</rightsHolder>
-            <text dataDate="2015-11-30">Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
+         <rights type="publicDomain">
+            <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="false" dataDate="2015-11-30">
-            <refid type="URI" dataDate="2015-11-30">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047|1#</refid>
-            <name type="electronic" dataDate="2015-11-30">Philadelphia Museum of Art</name>
+         <source>
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047|1#</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_079-2.jpg</title>
+         <title type="generalView">Tomb Figure of a Bactrian Camel, facing right</title>
       </titleSet>
    </image>
 </vra>

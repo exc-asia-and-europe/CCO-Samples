@@ -2,9 +2,9 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex081_sculpture_ChineseSculpture"
-          href="https://ids.si.edu/ids/deliveryService?id=FS-2844_25H&max_w=600">
-      <agentSet>
+   <image id="i_f53c46eb-e3d3-478e-a40e-65bfbf9a7ea1"
+          href="i_f53c46eb-e3d3-478e-a40e-65bfbf9a7ea1.jpg"
+          source="Tamboti"      <agentSet>
          <agent>
             <name refid="139247290" type="corporate" vocab="viaf">Arthur M. Sackler Gallery (Smithsonian Institution)</name>
             <role type="code" vocab="marcrelator">cre</role>

@@ -2,25 +2,26 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex079_sculpture_ChineseFunerary" refid="c_CCO_Examples">
         <agentSet>
-            <agent dataDate="2015-11-30-18-11-00">
-                <name refid="100626633" type="personal" vocab="viaf" dataDate="2015-11-30-18-11-00">unknown Chinese</name>
-                <role type="code" vocab="marcrelator" dataDate="2015-11-30-18-11-00">art</role>
+            <agent>
+                <name refid="100626633" type="personal" vocab="viaf">unknown Chinese</name>
+                <role type="code" vocab="marcrelator">art</role>
             </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext vocab="AAT" refid="300386002" dataDate="2015-11-30-18-30-59">Ancient Chinese</culturalContext>
+            <culturalContext vocab="AAT" refid="300386002">Ancient Chinese</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
 	    <display>Early to mid- 8th century</display>
-            <date pref="false" type="creation" dataDate="2016-06-08-13-52-10">
+            <date pref="false" type="creation">
                 <earliestDate>
-                    <date dataDate="2015-11-30-18-12-05">618</date>
+                    <date circa="false">618</date>
                 </earliestDate>
                 <latestDate>
-                    <date dataDate="2015-11-30-18-12-05">907</date>
+                    <date circa="false">907</date>
                 </latestDate>
             </date>
-            <date pref="true" type="creation" href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" source="Philadelphia Museum of Art">
+            <date pref="true" type="creation" source="Philadelphia Museum of Art">
                 <earliestDate>
                     <date circa="true" type="after">700</date>
                 </earliestDate>
@@ -37,25 +38,25 @@
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
-            <description href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Felice Fischer, from Philadelphia Museum of Art: Handbook of the Collections (1995), p. 27." dataDate="2016-06-08-14-20-46">
-                <text dataDate="2015-11-30-18-16-24">This tomb figure of a fully laden camel suggests the flourishing overland trade carried along the Silk Route that stretched from the Chinese capital of Chang-an to its western terminus in Constantinople (Istanbul). The modeling of the ungainly camel is rendered naturalistically and reveals a loving attention to detail, down to the slab of dried meat and water flasks on the saddle. The size of the tomb figures of animals and other representations of daily life that were customarily buried with the deceased was regulated by law. This exceptionally large and impressive piece from the Museum's outstanding group of Tang tomb figures must have been commissioned for a high-ranking member of the nobility as a testimony of his wealth in this life and a reassurance to his departed spirit in the afterlife. Chang-an was a major center for the production of the tomb figures, and its potters discovered new glazing techniques that produced the rich tones of green, yellow, and brown seen on this camel.</text>
-                <author dataDate="2015-11-30-18-16-24">
-                    <name refid="52021529" type="personal" vocab="viaf" dataDate="2015-11-30-18-16-24">Fischer, Felice</name>
-                    <role type="code" vocab="marcrelator" dataDate="2015-11-30-18-16-24">edt</role>
+            <description pref="false" source="Felice Fischer, from Philadelphia Museum of Art: Handbook of the Collections (1995), p. 27." dataDate="2016-06-08-14-20-46">
+                <text>This tomb figure of a fully laden camel suggests the flourishing overland trade carried along the Silk Route that stretched from the Chinese capital of Chang-an to its western terminus in Constantinople (Istanbul). The modeling of the ungainly camel is rendered naturalistically and reveals a loving attention to detail, down to the slab of dried meat and water flasks on the saddle. The size of the tomb figures of animals and other representations of daily life that were customarily buried with the deceased was regulated by law. This exceptionally large and impressive piece from the Museum's outstanding group of Tang tomb figures must have been commissioned for a high-ranking member of the nobility as a testimony of his wealth in this life and a reassurance to his departed spirit in the afterlife. Chang-an was a major center for the production of the tomb figures, and its potters discovered new glazing techniques that produced the rich tones of green, yellow, and brown seen on this camel.</text>
+                <author>
+                    <name refid="52021529" type="personal" vocab="viaf">Fischer, Felice</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="true" type="repository" dataDate="2015-11-30-18-20-07">
-                <refid type="accession" dataDate="2015-11-30-18-20-07">1964-9-1</refid>
-                <name refid="137352121" type="corporate" vocab="viaf" dataDate="2015-11-30-18-20-07">Philadelphia Museum of Art</name>
+            <location pref="true" type="repository">
+                <refid type="accession">1964-9-1</refid>
+                <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
 		<name refid="7014406" type="geographic" vocab="tgn" extent="inhabited place">Philadelphia</name>
 		<name refid="7007710" type="geographic" vocab="tgn" extent="state">Pennsylvania</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="creation" dataDate="2016-06-08-13-53-49">
-                <name refid="7001470" type="geographic" vocab="tgn" extent="inhabited place" dataDate="2015-11-30-18-20-07">Chang'an</name>
+            <location pref="false" type="creation">
+                <name refid="7001470" type="geographic" vocab="tgn" extent="inhabited place">Chang'an</name>
 		<name refid="1001678" type="geographic" vocab="tgn" extent="autonomous region">Guangxi</name>
 		<name refid="1000111" type="geographic" vocab="tgn" extent="nation">China</name>
 		<name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
@@ -63,74 +64,187 @@
         </locationSet>
         <materialSet>
 	    <display>Earthenware with three-color (sancai) glaze</display>
-            <material refid="300010669" type="medium" vocab="aat" dataDate="2015-11-30-18-32-25">terracotta</material>
+            <material refid="300010669" type="medium" vocab="aat">terracotta</material>
         </materialSet>
         <measurementsSet>
-            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="height" unit="in" dataDate="2015-11-30-18-35-12">32</measurements>
-            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="width" unit="in" dataDate="2015-11-30-18-35-12">10</measurements>
-            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="false" source="Philadelphia Museum of Art" type="depth" unit="in" dataDate="2015-11-30-18-35-12">25</measurements>
-            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="true" source="Philadelphia Museum of Art" type="height" unit="cm" dataDate="2015-11-30-18-35-12">81.3</measurements>
-            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="true" source="Philadelphia Museum of Art" type="width" unit="cm" dataDate="2015-11-30-18-35-12">25.4</measurements>
-            <measurements href="http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047" pref="true" source="Philadelphia Museum of Art" type="depth" unit="cm" dataDate="2015-11-30-18-35-12">63.5</measurements>
+            <measurements pref="false" source="Philadelphia Museum of Art" type="height" unit="in">32</measurements>
+            <measurements pref="false" source="Philadelphia Museum of Art" type="width" unit="in">10</measurements>
+            <measurements pref="false" source="Philadelphia Museum of Art" type="depth" unit="in">25</measurements>
+            <measurements pref="true" source="Philadelphia Museum of Art" type="height" unit="cm">81.3</measurements>
+            <measurements pref="true" source="Philadelphia Museum of Art" type="width" unit="cm">25.4</measurements>
+            <measurements pref="true" source="Philadelphia Museum of Art" type="depth" unit="cm">63.5</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="true" relids="i_Ex079_sculpture_ChineseFunerary_2" type="imageIs" dataDate="2015-11-30-18-28-36">general view</relation>
-            <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_3" type="imageIs" dataDate="2015-11-30-18-28-52">detail</relation>
-            <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_4" type="imageIs" dataDate="2015-11-30-18-28-36">general view</relation>
-            <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_1" type="imageIs" dataDate="2015-11-30-18-28-52">detail</relation>
+            <relation pref="true" relids="i_Ex079_sculpture_ChineseFunerary_1" type="imageIs">Tomb Figure of a Bactrian Camel, facing right</relation>
+            <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_2" type="imageIs">Tomb Figure of a Bactrian Camel, facing right detail</relation>
+            <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_3" type="imageIs">Tomb Figure of a Bactrian Camel, facing right detail</relation>
+            <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_4" type="imageIs">Tomb Figure of a Bactrian Camel, facing left</relation>
         </relationSet>
 	<rightsSet>
-	    <rights type="other">
+	    <rights type="other" source="Philadelphia Museum of Art">
 		<rightsHolder>Philadelphia Museum of Art</rightsHolder>
 		<text>Gift of Mrs. John Wintersteen, 1964</text>
-	    </rigths>
+	    </rights>
 	</rightsSet>
         <sourceSet>
-            <source pref="true" dataDate="2015-11-30-18-40-24">
-                <refid type="URI" dataDate="2015-11-30-18-40-24">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_79_chinese_funerary_sculpture</refid>
-                <name type="electronic" dataDate="2015-11-30-18-40-24">Cataloging Cultural Objects Commons. Example 79: Chinese funerary sculpture.</name>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_79_chinese_funerary_sculpture</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 79: Chinese funerary sculpture.</name>
             </source>
-            <source pref="false" dataDate="2015-11-30-18-40-24">
-                <refid type="URI" dataDate="2015-11-30-18-40-24">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
-                <name type="electronic" dataDate="2015-11-30-18-40-24">Philadelphia Museum of Art</name>
+            <source pref="false">
+                <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
+                <name type="electronic">Philadelphia Museum of Art</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod refid="300018420" vocab="aat" dataDate="2015-11-30-18-42-15">Tang</stylePeriod>
+            <stylePeriod refid="300018420" vocab="aat">Tang</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject dataDate="2015-11-30-18-26-36">
-                <term refid="300264304" vocab="aat" type="conceptTopic" dataDate="2015-11-30-18-26-36">afterlife</term>
+            <subject>
+                <term refid="300264304" vocab="aat" type="conceptTopic">afterlife</term>
             </subject>
-            <subject dataDate="2015-11-30-18-26-36">
-                <term refid="300254496" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-18-26-36">food</term>
+            <subject>
+                <term refid="300254496" vocab="aat" type="descriptiveTopic">food</term>
             </subject>
-            <subject dataDate="2015-11-30-18-26-36">
-                <term refid="300234126" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-18-26-36">funerary objects</term>
+            <subject>
+                <term refid="300234126" vocab="aat" type="descriptiveTopic">funerary objects</term>
             </subject>
-            <subject dataDate="2015-11-30-18-26-36">
-                <term refid="300234117" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-18-26-36">ceremonial objects</term>
+            <subject>
+                <term refid="300234117" vocab="aat" type="descriptiveTopic">ceremonial objects</term>
             </subject>
-            <subject dataDate="2015-11-30-18-26-36">
-                <term refid="300343842" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-18-26-36">Camelus bactrianus</term>
+            <subject>
+                <term refid="300343842" vocab="aat" type="descriptiveTopic">Camelus bactrianus</term>
             </subject>
-            <subject dataDate="2015-11-30-18-26-36">
-                <term refid="300249395" vocab="aat" type="descriptiveTopic" dataDate="2015-11-30-18-26-36">Animalia</term>
+            <subject>
+                <term refid="300249395" vocab="aat" type="descriptiveTopic">Animalia</term>
             </subject>
-            <subject dataDate="2015-11-30-18-22-29">
-                <term refid="300073708" vocab="aat" type="conceptTopic" dataDate="2015-11-30-18-22-29">religions</term>
+            <subject>
+                <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique refid="300053914" vocab="aat" dataDate="2015-11-30-18-44-54">glazing</technique>
+            <technique refid="300053914" vocab="aat">glazing</technique>
         </techniqueSet>
         <titleSet>
-            <title type="repository" dataDate="2015-11-30-18-27-57">Tomb Figure of a Bactrian Camel</title>
+            <title type="repository">Tomb Figure of a Bactrian Camel</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300184644" vocab="aat">funerary sculpture</worktype>
-            <worktype refid="300047600" vocab="aat" dataDate="2015-11-30-18-46-02">statues</worktype>
-            <worktype refid="300047090" vocab="aat" dataDate="2015-11-30-18-46-02">sculpture</worktype>
+            <worktype refid="300047600" vocab="aat">statues</worktype>
+            <worktype refid="300047090" vocab="aat">sculpture</worktype>
+            <worktype refid="300387380" vocab="aat" source="Philadelphia Museum of Art">three-color ware</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex079_sculpture_ChineseFunerary_1"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1v1-pma-CX.jpg">
+      <agentSet>
+         <agent>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex079_sculpture_ChineseFunerary">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Tomb Figure of a Bactrian Camel, facing right</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex079_sculpture_ChineseFunerary_2"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1det1-pma.jpg">
+      <agentSet>
+         <agent>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex079_sculpture_ChineseFunerary">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Tomb Figure of a Bactrian Camel, facing right detail</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex079_sculpture_ChineseFunerary_3"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1det2-pma.jpg">
+      <agentSet>
+         <agent>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex079_sculpture_ChineseFunerary">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Tomb Figure of a Bactrian Camel, facing right detail</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex079_sculpture_ChineseFunerary_4"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1v2-pma.jpg">
+      <agentSet>
+         <agent>
+            <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex079_sculpture_ChineseFunerary">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>Philadelphia Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Philadelphia Museum of Art. Gift of Mrs. John Wintersteen, 1964.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
+            <name type="electronic">Philadelphia Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Tomb Figure of a Bactrian Camel, facing left</title>
+      </titleSet>
+   </image>
 </vra>

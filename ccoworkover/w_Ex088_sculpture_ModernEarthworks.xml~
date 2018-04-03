@@ -85,7 +85,7 @@ notes
 	    <rights type="other" source="Dia Art Foundation">
 		<rightsHolder>Dia Art Foundation</rightsHolder>
 		<text>In 1999, through the generosity of the artist Nancy Holt, Smithson’s wife, and the Estate of Robert Smithson, the artwork was donated to Dia Art Foundation.</text>
-	    </rights>
+	    </rigths>
 	</rightsSet>
         <sourceSet>
             <source pref="true">
@@ -125,7 +125,7 @@ notes
             </subject>
         </subjectSet>
         <textrefSet>
-            <textref source="HRA">
+            <textref pref="false">
                 <name type="electronic">CONA</name>
                 <refid type="other">700000079</refid>
             </textref>

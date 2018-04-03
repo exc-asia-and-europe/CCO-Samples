@@ -2,8 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex079_sculpture_ChineseFunerary_3"
-          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1det2-pma.jpg">
+   <image id="i_Ex079_sculpture_ChineseFunerary_2"
+          href="http://www.philamuseum.org/images/cad/zoomers/1964-9-1v1-pma-CX.jpg">
       <agentSet>
          <agent>
             <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
@@ -27,7 +27,7 @@
          </source>
       </sourceSet>
       <titleSet>
-         <title type="partialView">Tomb Figure of a Bactrian Camel, facing right detail</title>
+         <title type="generalView">Tomb Figure of a Bactrian Camel, facing right</title>
       </titleSet>
    </image>
 </vra>

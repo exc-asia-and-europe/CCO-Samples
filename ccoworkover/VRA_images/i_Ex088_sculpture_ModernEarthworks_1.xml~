@@ -21,13 +21,13 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <source>
-            <refid type="URI">https://diaart.org/visit/visit/robert-smithson-spiral-jetty</refid>
-            <name type="electronic">Robert Smithson, Spiral Jetty</name>
+         <source pref="false" dataDate="2016-01-27-16-31-00">
+            <refid type="URI">https://www.flickr.com/photos/redlegsfan21/16216588282/</refid>
+            <name type="electronic">Flickr</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Robert Smithson, Spiral Jetty</title>
+         <title type="generalView">Image record CCO_online_088-1.jpg</title>
       </titleSet>
    </image>
 </vra>

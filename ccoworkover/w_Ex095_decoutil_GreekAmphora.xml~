@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex095_decoutil_GreekAmphora" refid="c_CCO_Examples">
+        <agentSet>
+            <agent source="J. Paul Getty Museum">
+                <attribution>signed by</attribution>
+                <culture>Greek (Attic)</culture>
+                <dates type="activity">
+                    <earliestDate circa="true" type="about">-0362</earliestDate>
+                    <latestDate circa="true" type="about">-0362</latestDate>
+                </dates>
+                <name refid="96561811" type="personal" vocab="viaf">Nikodemos</name>
+                <role extent="potter" type="code" vocab="marcrelator">cre</role>
+            </agent>
+            <agent source="J. Paul Getty Museum">
+                <attribution>attributed to</attribution>
+                <culture>Greek (Attic)</culture>
+                <dates type="activity">
+                    <earliestDate circa="true" type="about">-0370</earliestDate>
+                    <latestDate circa="true" type="about">-0360</latestDate>
+                </dates>
+                <name refid="96050866" type="personal" vocab="viaf">Painter of the Wedding Procession</name>
+                <role extent="painter" type="code" vocab="marcrelator">art</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300020072">Ancient Greek (culture or style)</culturalContext>
+            <culturalContext vocab="AAT" refid="300386850" source="J. Paul Getty Museum">Attic (culture)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date pref="true" type="creation">
+                <earliestDate>
+                    <date circa="false">-0363</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">-0362</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1996-07-04</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1996-09-29</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1999-03-16</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2004-05-23</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="true" source="J. Paul Getty Museum online. www.getty.edu (accessed 27 June 2007)." dataDate="2016-06-15-12-03-00">
+                <text>Side A: Athena Promachos; Side B: Nike Crowning the Victor, with the Judge on the Right and the Defeated Opponent on the Left. The figure of Athena is portrayed in an Archaistic style. The particular use of Nike figures atop the akanthos columns flanking Athena allow scholars to date this vase to precisely 363/362 BCE.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description pref="false" source="J. Paul Getty Museum" dataDate="2016-01-28-16-43-48">
+                <text>The Panathenaia, a state religious festival, honored Athena, the patron goddess of Athens. Held in its expanded form every four years, the festival included athletic, musical, and other competitions. Amphorae filled with oil pressed from olives from the sacred trees of Athena were given as prizes in the Panathenaic Games. These amphorae had a special form with narrow neck and foot and a standard fashion of decoration. One side showed Athena, the goddess of war, armed and striding forth between columns, and included the inscription "from the games at Athens." The other side showed the event for which the vase was a prize. Leading vase-painters, commissioned by the state, decorated these vessels, which continued to be decorated in the black-figure technique long after it had gone out of fashion for other vases, probably due to religious conservatism. The same conservatism applied to the depiction of Athena. 
+
+| On this example, the figure of Athena is portrayed in an Archaistic or old-fashioned style. The Nike figures atop akanthos columns flanking Athena are a detail that allows scholars to date this vase precisely to 363/2 B.C. The back of the vase depicts Nike, the goddess of victory, crowning the winner of a boxing match between young men, while an older, bearded judge looks on. The leather thongs held by the youths identify them as boxers; they were wrapped around the hands and served as the ancient equivalent of boxing gloves. In 370 B.C. the victor in youth boxing won forty amphorae of oil; the second place winner took home eight.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Provenance.
+- 1993 The Merrin Gallery, sold to the J. Paul Getty Museum, 1993.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Exhibitions.
+Rings: Five Passions in World Art (July 4 to September 29, 1996)
+    High Museum of Art (Atlanta), July 4 to September 29, 1996
+
+Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
+    The J. Paul Getty Museum at the Getty Center (Los Angeles), March 16, 1999 to May 23, 2004</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+<!-- This inscriptionSet applies a Cluster extension which allows for specification of script and transliteration systems, based on ISO standards. -->
+	    <display>Two kionedon inscriptions on the front: NIKOΔEMOΣ EΠOIEΣEN (Nikodemos made it); TON AΘENEΘEN AΘΛON ([Prize] from the Athenian Games).</display>
+            <inscription source="J. Paul Getty Museum">
+                <author refid="96561811" vocab="viaf">Nikodemos</author>
+                <position>on the front</position>
+		<text lang="grc" script="Grek" type="signature">NIKOΔEMOΣ EΠOIEΣEN</text>
+                <text lang="grc" script="Latn" transliteration="unspecified" type="signature">NIKODEMOS EPOIESEN</text>
+                <text type="translation">Nikodemos made it</text>
+            </inscription>
+            <inscription source="J. Paul Getty Museum">
+                <position>on the front</position>
+		<text lang="grc" script="Grek" type="text">TON AΘENEΘEN AΘΛON</text>
+                <text lang="grc" script="Latn" transliteration="unspecified" type="text">ATHENETHEN ATHLON</text>
+                <text type="translation">[Prize] of the Athenian Games</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository">
+                <refid type="accession">93.AE.55</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="creation" source="J. Paul Getty Museum">
+                <name refid="7001393" type="geographic" vocab="tgn">Athínai</name>
+		<name refid="7594735" type="geographic" vocab="tgn" extent="former nation/state/empire">Greece</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Rings: Five Passions in World Art (July 4 to September 29, 1996)</refid>
+                <name refid="145147151" type="corporate" vocab="viaf">High Museum of Art</name>
+		<name refid="7013331" type="geographic" vocab="tgn" extent="inhabited place">Atlanta</name>
+		<name refid="7007248" type="geographic" vocab="tgn" extent="state">Georgia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300010669" type="medium" vocab="aat">terracotta</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements extent="with lid" pref="true" type="height" unit="cm">89.5</measurements>
+            <measurements extent="with lid" pref="false" type="height" unit="in">35 1/4</measurements>
+            <measurements extent="at shoulder" pref="true" type="circumfrence" unit="cm">115</measurements>
+            <measurements extent="at shoulder" pref="false" type="circumfrence" unit="in">15 1/16</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="true" type="imageIs" relids="i_Ex095_decoutil_GreekAmphora_1">general view</relation>
+            <relation pref="false" type="imageIs" relids="i_Ex095_decoutil_GreekAmphora_2">Side A Inscription</relation>
+            <relation pref="false" type="imageIs" relids="i_Ex095_decoutil_GreekAmphora_3">Side A Inscription</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_95_greek_amphora_known_artists</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 95: Greek amphora, known artists.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">https://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=25</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 72. Figure 10. Work Record Linked to an Authority Record for Work Type: Ancient Greek Vessel.</name>
+	    </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300020118" vocab="aat">Attic</stylePeriod>
+            <stylePeriod refid="300020195" vocab="aat">Black-figure</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term refid="300054168" vocab="aat" type="conceptTopic">decorative arts</term>
+            </subject>
+            <subject extent="Side B">
+                <term refid="300225692" vocab="aat" type="descriptiveTopic">prizes</term>
+            </subject>
+            <subject extent="Side B">
+                <term refid="300054760" vocab="aat" type="descriptiveTopic">competitions</term>
+            </subject>
+            <subject>
+                <term refid="300025943" vocab="aat" type="descriptiveTopic">women (female humans)</term>
+            </subject>
+            <subject>
+                <term refid="300234117" vocab="aat" type="descriptiveTopic">ceremonial objects</term>
+            </subject>
+            <subject>
+                <term refid="300055985" vocab="aat" type="iconographicTopic">mythology (literary genre)</term>
+            </subject>
+            <subject extent="Side A">
+                <term refid="92C271" vocab="iconclass" type="iconographicTopic">Minerva as patroness</term>
+            </subject>
+            <subject extent="Side B">
+                <term refid="92D5" vocab="iconclass" type="iconographicTopic">(story of) Nike</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053158" vocab="aat">turning</technique>
+            <technique refid="300263295" vocab="aat">sintering</technique>
+            <technique refid="300343820" vocab="aat">vase painting</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref>
+                <name type="electronic">CONA</name>
+                <refid type="other">700006921</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <title pref="true" source="J. Paul Getty Museum" type="repository">Panathenaic Prize Amphora with Lid</title>
+            <title pref="false" type="descriptive">Panathenaic Prize Amphora and Lid</title>
+	    <title pref="false" type="repository">Prize Vessel from the Athenian Games</title>
+	    <title pref="false" type="repository">Panathenaic amphora</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300200366" vocab="aat">Panathenaic amphorae</worktype>
+            <worktype refid="300151343" vocab="aat">ceramics</worktype>
+        </worktypeSet>
+    </work>
+   <image id="i_Ex095_decoutil_GreekAmphora_1"
+          href="http://www.getty.edu/museum/media/images/web/download/03779201.jpg">
+      <agentSet>
+         <agent dataDate="2016-01-28-16-31-21">
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex095_decoutil_GreekAmphora">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-01-28-16-31-48">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-01-28-16-32-15">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Panathenaic Prize Amphora with Lid, Object overall</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex095_decoutil_GreekAmphora_2"
+          href="http://www.getty.edu/museum/media/images/web/enlarge/037792D1V1.jpg">
+      <agentSet>
+         <agent>
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex095_decoutil_GreekAmphora">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Panathenaic Prize Amphora with Lid, Inscription Side A</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex095_decoutil_GreekAmphora_3"
+          href="http://www.getty.edu/museum/media/images/web/enlarge/037792D2V1.jpg">
+      <agentSet>
+         <agent>
+            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex095_decoutil_GreekAmphora">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain">
+            <rightsHolder>J. Paul Getty Museum</rightsHolder>
+            <text>Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">http://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/</refid>
+            <name type="electronic">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Panathenaic Prize Amphora with Lid, Inscription Side A</title>
+      </titleSet>
+   </image>
+</vra>

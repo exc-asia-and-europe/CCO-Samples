@@ -56,7 +56,6 @@ William L. Monical (1974-1982) ; Mrs. Paul (Maisie) W. Kohnstamm (until 1974) ; 
                     <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
-	    </description>
         </descriptionSet>
         <inscriptionSet>
             <inscription>
@@ -152,7 +151,7 @@ William L. Monical (1974-1982) ; Mrs. Paul (Maisie) W. Kohnstamm (until 1974) ; 
 	    </textref>
 	    <textref source="Metropolitan Museum of Art">
 		<name type="serial">"The Richard Meares Viol in the Metropolitan Museum of Art Re-evaluated." Journal of the Viola da Gamba Society of America (2003), vol. XL.</name>
-	    	<refid type="ISSN">0507-0252</refid>
+	    	<refid type="issn">0507-0252</refid>
 	    </textref>
 	    <textref source="Metropolitan Museum of Art">
 		<name type="book">Laurence Libin. A Checklist of Viole da Gamba (Viols). 2. The Metropolitan Museum of Art. New York, 1989.</name>

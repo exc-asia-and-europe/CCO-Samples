@@ -128,16 +128,16 @@ Elias Hasket Derby, Salem, Massachusetts, died 1799; descended in the Derby fami
             <subject>
                 <term refid="300037998" vocab="aat" type="descriptiveTopic">shield-back chairs</term>
             </subject>
-            <subject>
-                <term refid="300037772" vocab="aat" type="descriptiveTopic">chairs</term>
+            <subject dataDate="2016-06-15-13-59-43">
+                <term refid="300037772" vocab="aat" type="descriptiveTopic" dataDate="2015-11-18-13-22-07">chairs</term>
             </subject>
         </subjectSet>
         <titleSet>
-            <title type="repository">Side Chair</title>
+            <title type="repository" dataDate="2015-11-18-14-30-32">Side Chair</title>
         </titleSet>
         <worktypeSet>
-            <worktype refid="300037896" vocab="aat">side chairs</worktype>
-            <worktype refid="300037680" vocab="aat">furniture</worktype>
+            <worktype refid="300037896" vocab="aat" dataDate="2015-11-18-16-20-29">side chairs</worktype>
+            <worktype refid="300037680" vocab="aat" dataDate="2015-11-18-16-20-29">furniture</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex107_decoutil_SideChair"

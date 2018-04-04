@@ -13,24 +13,23 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_0f3cf14d-38ff-4da8-9c9d-2fc5bf42c52a"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex131_decoutil_ViolaDaGamba">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights pref="true" type="publicDomain" dataDate="2016-02-16-18-38-37">
+         <rights type="publicDomain" dataDate="2016-02-16-18-38-37">
             <rightsHolder>Metropolitan Museum of Art</rightsHolder>
             <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.
 Purchase, Louis V. Bell Fund, Mrs. Vincent Astor Gift, and funds from various donors, 1982.</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="false" dataDate="2016-02-16-18-38-56">
+         <source dataDate="2016-02-16-18-38-56">
             <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/503219</refid>
             <name type="electronic">Metropolitan Museum of Art Collection Online</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_131.jpg</title>
+         <title type="generalView">Viola da Gamba</title>
       </titleSet>
    </image>
 </vra>

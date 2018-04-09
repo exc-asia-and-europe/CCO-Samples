@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex138_decoutil_Automobile"
+          href="https://www.moma.org/media/W1siZiIsIjY4ODk3Il0sWyJwIiwiY29udmVydCIsIi1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d.jpg?sha=b99f28af5fef4a7c">
+      <agentSet>
+         <agent>
+            <name refid="268692973" type="corporate" vocab="viaf">Museum of modern art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex138_decoutil_Automobile">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="copyrighted">
+            <rightsHolder>Museum of modern art (New York, N.Y.)</rightsHolder>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://www.moma.org/collection/works/3498</refid>
+            <name type="electronic">Museum of modern art (New York, N.Y.)</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Cisitalia 202 GT Car </title>
+      </titleSet>
+   </image>
+</vra>

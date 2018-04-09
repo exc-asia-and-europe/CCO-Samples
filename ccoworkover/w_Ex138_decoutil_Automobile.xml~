@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex138_decoutil_Automobile" refid="c_CCO_Examples">
+    <work id="w_a9c90825-8739-45cd-a383-86bd4b5b6aba" source="Kurs" refid="c_fba53cee-750d-4ba6-b8ec-75b48afd7602">
         <agentSet>
             <agent>
 		<dates type="life">

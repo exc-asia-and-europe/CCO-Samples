@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex113_decoutil_JapaneseArmor_1"
+          href="https://images.metmuseum.org/CRDImages/aa/web-large/DT784.jpg">
+      <agentSet>
+         <agent dataDate="2016-02-02-14-21-07">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex113_decoutil_JapaneseArmor">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-02-02-14-22-18">
+            <rightsHolder>Metropolitan Museum of Art</rightsHolder>
+            <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://www.metmuseum.org/art/collection/search/35694</refid>
+            <name type="electronic">Metropolitan Museum of Art Collection Online</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title pref="true" type="generalView">Helmet</title>
+      </titleSet>
+   </image>
+</vra>

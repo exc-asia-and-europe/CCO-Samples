@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex118_decoutil_ThaiCrown" refid="c_CCO_Examples">
+    <work id="w_Ex118_decoutil_ThaiCrown.xml" refid="c_CCO_Examples">
         <agentSet>
             <agent>
                 <name refid="100643325" type="personal" vocab="viaf">unknown Thai</name>

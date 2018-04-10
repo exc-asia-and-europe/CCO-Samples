@@ -1,12 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_998dcc90-a0ae-4f73-9f41-910bf5c4fb83" source="Kurs" refid="c_e3f3481f-cebe-427f-b66e-9380ba6f87be">
+    <work id="w_R2_Ex123_decoutil_TapestrySeries" refid="c_CCO_Examples">
+        <agentSet>
+            <agent>
+                <name refid="100642444" type="personal" vocab="viaf">unknown South Netherlandish</name>
+                <role type="code" vocab="marcrelator">dsr</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300111184">Flemish (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date circa="false">1495</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1505</date>
+                </latestDate>
+            </date>
+            <date type="exhibition">
+                <earliestDate>
+                    <date circa="false">1974-02-07</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1974-04-19</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="true">
+                <text>This tapestry is one of seven hangings at The Cloisters that depict the hunt of the unicorn, a mythical creature first mentioned by the Greek physician Ctesias in the fourth century B.C. In the Middle Ages the animal was best known for its supposed invincibility and for the therapeutic property of its horn. So strong was the belief in the horn's miraculous cures that by the twelfth century the tusks of male narwhals, a small whale native to the Arctic, came to be regarded as "unicorn horns."
+The Unicorn Tapestries, as the group of seven is known, were probably designed in Paris but woven in Brussels. They are first documented in 1680, when they hung in the Paris home of François VI de La Rochefoucauld. By 1728 five of them decorated a bedroom at the family's château in Verteuil, in western France. The tapestries were looted during the French Revolution but were recovered in the 1850s; by 1856 they had been restored and rehung in the château's salon. No documentation sheds light on the early history of the tapestries, including either their commission or sequence of hanging. Striking differences in dimension and composition have prompted scholars to question whether the hangings constitute one set or are, in fact, from multiple sets.
+The Hunters Enter the Woods, like The Unicorn in Captivity, is set against a millefleurs background: a field of dark green spangled with blossoming trees and flowers. Of the 101 species of plants represented, 85 have been identified, including the prominent cherry tree behind the hunters and lush date palm in front of the sniffing hound. The cipher "AE" that is woven into each of the Unicorn Tapestries—and repeated here five times—alludes to their original owners, who remain unknown. </text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false">
+                <text>Provenance
+Comtes de La Rochefoucauld, France ; François VI de La Rochefoucauld, Paris (in 1680) ; François VIII de La Rochefoucauld, château de Verteuil, Charente (in 1728) ; Château de Verteuil (said to have been looted in 1793) ; Comtes de La Rochefoucauld, château de Verteuil, Charente (in 1856) ; Comte Aimery de La Rochefoucauld, château de Verteuil, Charente (until 1923) ; Mr. and Mrs. John D. Rockefeller Jr. (in 1923 through Edouard Larcade–until 1937) </text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false">
+                <text>Exhibition History
+New York. The Metropolitan Museum of Art. "Masterpieces of Tapestry from the 14th to the 16th century," February 7, 1974–April 19, 1974.</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <author refid="100642444" vocab="viaf">unknown South Netherlandish</author>
+                <position>on each corner and center</position>
+                <text type="other">AE</text>
+            </inscription>
+            <inscription>
+                <author refid="100642444" vocab="viaf">unknown South Netherlandish</author>
+                <position>on dog collar; twice</position>
+                <text type="other">AE</text>
+            </inscription>
+            <inscription>
+                <author refid="100642444" vocab="viaf">unknown South Netherlandish</author>
+                <position>on dog collar bearing arms; twice</position>
+                <text type="other">AE</text>
+            </inscription>
+            <inscription>
+                <author refid="100642444" vocab="viaf">unknown South Netherlandish</author>
+                <position>Arms (on dog collar on right)</position>
+                <text type="mark">Quarterly, 1 and 4, barry of six or and azure, the first two bars debruised by three roses gules, seeded proper; 2 and 3, or, three escutcheons gules.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository">
+                <refid type="accession">37.80.1</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="creation">
+		<name refid="7024097" type="geographic" vocab="tgn" extent="former nation/state/empire">Flanders</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition">
+                <refid type="other">"Masterpieces of Tapestry from the 14th to the 16th century," February 7, 1974–April 19, 1974.</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+	    <display>Wool warp with wool, silk, silver, and gilt wefts</display>
+            <material refid="300014072" type="medium" vocab="aat">silk</material>
+            <material refid="300014074" type="medium" vocab="aat">wool</material>
+            <material refid="300395639" type="medium" vocab="aat">silver thread</material>
+            <material refid="300400561" type="medium" vocab="aat">gold thread</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="height" unit="cm">368.3</measurements>
+            <measurements pref="true" type="width" unit="cm">315</measurements>
+            <measurements pref="false" type="height" unit="in">145</measurements>
+            <measurements pref="false" type="width" unit="in">124</measurements>
+        </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_7076eb5c-e287-43aa-80bd-8d814fc5feb8" source="Tamboti" pref="true">general view</relation>
-            <relation type="partnerInSetWith" relids="w_111f9755-334a-4ed2-856d-566049d57f07.xml">Unicorn in Captivity</relation>
+            <relation type="partnerInSetWith" relids="w_Ex123_decoutil_TapestrySeries">Unicorn in Captivity</relation>
+            <relation pref="false" relids="w_R1_Ex123_decoutil_TapestrySeries" type="partnerInSetWith">The Unicorn is Killed and Brought to the Castle</relation>
         </relationSet>
+	<rightsSet>
+	    <rights type="other" source="Metropolitan Museum of Art">
+		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+		<text>Gift of John D. Rockefeller Jr., 1937</text>
+	    </rights>
+	</rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://www.metmuseum.org/art/collection/search/467637</refid>
+                <name type="electronic">Metropolitan Museum of Art - The Collection Online</name>
+            </source>
+        </sourceSet>
+        <techniqueSet>
+            <technique refid="300053642" vocab="aat">weaving</technique>
+            <technique vocab="AAT" refid="300061981">tapestry (process)</technique>
+        </techniqueSet>
         <titleSet>
-            <title type="generalView">Work record CCO_online_123--related_002.jpg</title>
+            <title type="repository">The Hunters Enter the Woods</title>
         </titleSet>
+        <worktypeSet>
+            <worktype refid="300205002" vocab="aat">tapestries</worktype>
+            <worktype refid="300014063" vocab="aat">textiles</worktype>
+        </worktypeSet>
     </work>
 </vra>

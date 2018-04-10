@@ -98,7 +98,6 @@ New York. The Metropolitan Museum of Art. "Masterpieces of Tapestry from the 14t
         <relationSet>
             <relation type="imageIs" relids="i_b57ade9a-394c-4e2a-a335-2233082b135a" pref="true">general view</relation>
             <relation type="partnerInSetWith" relids="w_Ex123_decoutil_TapestrySeries">Unicorn in Captivity</relation>
-            <relation pref="false" relids="w_R2_Ex123_decoutil_TapestrySeries" type="partnerInSetWith">The Hunters Enter the Woods</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="Metropolitan Museum of Art">

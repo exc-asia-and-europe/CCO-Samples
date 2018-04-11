@@ -96,9 +96,12 @@ New York. The Metropolitan Museum of Art. "Masterpieces of Tapestry from the 14t
             <measurements pref="false" type="width" unit="in">153</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_b57ade9a-394c-4e2a-a335-2233082b135a" pref="true">general view</relation>
+            <relation pref="false" type="partOf">Unicorn Tapestries</relation>
             <relation type="partnerInSetWith" relids="w_Ex123_decoutil_TapestrySeries">Unicorn in Captivity</relation>
             <relation pref="false" relids="w_R2_Ex123_decoutil_TapestrySeries" type="partnerInSetWith">The Hunters Enter the Woods</relation>
+            <relation pref="false" relids="w_R3_Ex123_decoutil_TapestrySeries" type="partnerInSetWith">The Unicorn is Found</relation>
+            <relation pref="false" relids="w_R4_Ex123_decoutil_TapestrySeries" type="partnerInSetWith">The Unicorn is Attacked</relation>
+            <relation pref="false" relids="w_R5_Ex123_decoutil_TapestrySeries" type="partnerInSetWith">The Unicorn Defends Itself</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="Metropolitan Museum of Art">
@@ -112,6 +115,32 @@ New York. The Metropolitan Museum of Art. "Masterpieces of Tapestry from the 14t
                 <name type="electronic">Metropolitan Museum of Art - The Collection Online</name>
             </source>
         </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="300054168" vocab="aat" type="descriptiveTopic">decorative arts</term>
+            </subject>
+            <subject>
+                <term refid="300055866" vocab="aat" type="conceptTopic">allegory (artistic device)</term>
+            </subject>
+            <subject>
+                <term refid="300379595" vocab="aat" type="iconographicTopic">unicorns</term>
+            </subject>
+            <subject>
+                <term refid="300239666" vocab="aat" type="descriptiveTopic">hunting</term>
+            </subject>
+            <subject>
+                <term refid="300250130" vocab="aat" type="descriptiveTopic">Canis familiaris (species)</term>
+            </subject>
+            <subject>
+                <term refid="300189557" vocab="aat" type="descriptiveTopic">female</term>
+            </subject>
+            <subject>
+                <term refid="300256501" vocab="aat" type="iconographicTopic">Passion cycles</term>
+            </subject>
+            <subject>
+                <term refid="300006891" vocab="aat" type="descriptiveTopic">castles (fortifications)</term>
+            </subject>
+        </subjectSet>
         <techniqueSet>
             <technique refid="300053642" vocab="aat">weaving</technique>
             <technique vocab="AAT" refid="300061981">tapestry (process)</technique>

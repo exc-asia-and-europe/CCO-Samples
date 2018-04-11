@@ -2,29 +2,21 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289"
-          href="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289.jpg"
-          source="Tamboti">
+   <image id="i_Ex143_architecture_AncientMegalithic"
+          href="i_9f335ec5-8d6a-4c52-8618-8d5fb0325289.jpg">
       <agentSet>
-         <agent pref="true" dataDate="2016-02-18-16-51-32">
-            <name extent="photographer: Diego Delso"
-                  refid="137022054"
-                  type="corporate"
-                  vocab="viaf">Wikimedia Foundation</name>
+         <agent>
+            <name extent="photographer: Tabraiz Feham" refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
             <role type="code" vocab="marcrelator">col</role>
          </agent>
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_02fb3ff4-c954-4132-ab91-ab8066ac56d9"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex143_architecture_AncientMegalithic">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights href="http://creativecommons.org/licenses/by-sa/3.0/"
-                 pref="false"
-                 type="copyrighted"
-                 dataDate="2016-02-18-16-52-29">
-            <rightsHolder>Diego Delso</rightsHolder>
+         <rights href="http://creativecommons.org/licenses/by-sa/3.0/" type="copyrighted">
+            <rightsHolder>Tabraiz Feham</rightsHolder>
             <text>CC BY-SA 3.0</text>
          </rights>
       </rightsSet>

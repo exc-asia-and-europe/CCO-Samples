@@ -70,7 +70,7 @@ Scientific research has proved that Great Zimbabwe was founded in the 11th centu
         </measurementsSet>
         <relationSet>
             <relation pref="false" type="largerContextFor">Great Zimbabwe National Monument</relation>
-            <relation pref="true" relids="i_Ex144_architecture_AfricanBuilding" type="imageIs">partial view</relation>
+            <relation pref="true" relids="i_Ex144_architecture_AfricanBuilding" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source dataDate="2016-02-18-18-02-59">

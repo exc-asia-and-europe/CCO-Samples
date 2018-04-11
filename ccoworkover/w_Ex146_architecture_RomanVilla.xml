@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_cb73fa3a-2371-4125-82ba-40750afeb1d6" source="Kurs" refid="c_d653b101-a13c-4d1a-b1aa-50eb73b16c7d">
+    <work id="w_Ex146_architecture_RomanVilla" refid="c_CCO_Examples">
         <agentSet>
-            <agent pref="false" dataDate="2016-03-01-11-23-56">
+            <agent pref="false">
                 <dates type="life">
                     <earliestDate circa="false">76</earliestDate>
                     <latestDate circa="false">138</latestDate>
@@ -10,7 +10,7 @@
                 <name refid="82440741" type="personal" vocab="viaf">Hadrian</name>
                 <role type="code" vocab="marcrelator">pat</role>
             </agent>
-            <agent pref="true" dataDate="2016-03-01-11-15-52">
+            <agent pref="true">
                 <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
@@ -19,32 +19,45 @@
             <culturalContext vocab="AAT" refid="300020533">Roman (ancient Italian culture or period)</culturalContext>
         </culturalContextSet>
         <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>ca. 120 CE</display>
-            <date type="creation" dataDate="2016-03-01-11-29-55">
+            <date type="creation">
                 <earliestDate>
-                    <date circa="true" type="about">0115</date>
+                    <date circa="false">0115</date>
                 </earliestDate>
                 <latestDate>
-                    <date circa="true" type="about">0125</date>
+                    <date circa="false">0125</date>
                 </latestDate>
+            </date>
+            <date type="creation">
+                <earliestDate>
+                    <date circa="true" type="about">0120</date>
+                </earliestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description dataDate="2016-03-01-11-33-25">
-                <text>Summer palace that is the conceptual descendent of the Emperor Nero’s Domus Aurea.
-[Source: Great Architecture of the World. Edited by John Julius Norwich. London: Mitchell Beazley, 1975, p. 74.]</text>
+            <description source="Great Architecture of the World. Edited by John Julius Norwich. London: Mitchell Beazley, 1975, p. 74." dataDate="2016-03-01-11-33-25">
+                <text>Summer palace that is the conceptual descendent of the Emperor Nero’s Domus Aurea.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
+            <description source="Encyclopædia Britannica. Hadrian's Villa. April 04, 2018. https://www.britannica.com/topic/Hadrians-Villa (accessed 2018-04-11).">
+                <text>Hadrian’s Villa, Italian Villa Adriana, country residence built (c. 125–134 ce) at Tivoli near Rome by the emperor Hadrian. This villa is considered the epitome in architecture of the opulence and elegance of the Roman world. Covering approximately 7 square miles (18 square km), the complex was more an imperial garden city than a traditional villa. Its buildings were designed to follow the natural lay of the land and included baths and bath buildings, libraries, sculpture gardens, theatres, alfresco dining halls, pavilions, and private suites. Significant portions of the complex have survived to modern times. Hadrian’s Villa was designated a UNESCO World Heritage site in 1999. It was proclaimed “a masterpiece that uniquely brings together the highest expressions of the material cultures of the Mediterranean world.”</text>
+                <author>
+                    <name refid="152011302" type="corporate" vocab="viaf">Encyclopaedia Britannica</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
         </descriptionSet>
         <locationSet>
-            <location pref="true" type="site" dataDate="2016-03-01-11-41-25">
-                <name refid="7006983" type="geographic" vocab="tgn">Villa Adriana</name>
-            </location>
-            <location pref="false" type="site">
-                <name refid="7006968" type="geographic" vocab="tgn">Tivoli</name>
+            <location pref="true" type="site">
+                <name refid="7006983" type="geographic" vocab="tgn" extent="ruins">Villa Adriana</name>
+                <name refid="7006968" type="geographic" vocab="tgn" extent="inhabited place">Tivoli</name>
+                <name refid="7003138" type="geographic" vocab="tgn" extent="province">Roma</name>
+                <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
@@ -52,8 +65,9 @@
             <material refid="300015332" type="medium" vocab="aat">masonry</material>
         </materialSet>
         <relationSet>
-            <relation pref="true" relids="i_339d255c-39e9-4bb6-9ac4-5be89fb250c3" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_6621be52-ce7b-44c8-b93c-8225f3d7f275" type="imageIs">The Canopus</relation>
+            <relation pref="true" relids="i_Ex146_architecture_RomanVilla_1" type="imageIs">view of the ruins</relation>
+            <relation pref="false" relids="i_Ex146_architecture_RomanVilla_2" type="imageIs">The Canopus</relation>
+	    <relation pref="false" relids="w_Ex072_sculpture_RomanSculpture" type="formerlyLargerContextFor">Statue of Hercules (Lansdowne Herakles)</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2016-03-01-12-42-42">
@@ -62,10 +76,7 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject dataDate="2016-03-01-12-44-40">
-                <term refid="300002557" vocab="aat" type="descriptiveTopic">bearing walls</term>
-            </subject>
-            <subject dataDate="2016-03-01-12-28-50">
+            <subject>
                 <term refid="300005452" vocab="aat" type="descriptiveTopic">peristyle houses</term>
             </subject>
             <subject>
@@ -74,7 +85,7 @@
             <subject>
                 <term refid="300001300" vocab="aat" type="descriptiveTopic">umbrella domes</term>
             </subject>
-            <subject dataDate="2016-03-01-11-48-08">
+            <subject>
                 <term refid="300343604" vocab="aat" type="conceptTopic">prestige</term>
             </subject>
             <subject>
@@ -86,11 +97,16 @@
         </subjectSet>
         <techniqueSet>
             <technique refid="300386948" vocab="aat">stonemasonry</technique>
+            <technique refid="300002557" vocab="aat">bearing walls</technique>
         </techniqueSet>
         <textrefSet>
-            <textref pref="false" dataDate="2016-03-08-15-49-40">
+            <textref source="HRA" dataDate="2016-03-08-15-49-40">
                 <name type="electronic">The Digital Hadrian's Villa</name>
                 <refid type="URI">http://vwhl.soic.indiana.edu/villa/</refid>
+            </textref>
+            <textref source="HRA">
+                <name type="electronic">Hadrian's Villa, Tivoli: A virtual tour</name>
+                <refid type="URI">https://www.khanacademy.org/humanities/ancient-art-civilizations/roman/middle-empire/v/a-tour-of-hadrian-s-villa-with-dr-bernard-frischer</refid>
             </textref>
         </textrefSet>
         <titleSet>
@@ -102,4 +118,304 @@
             <worktype refid="300005517" vocab="aat">villas</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex146_architecture_RomanVilla_1"
+          href="https://upload.wikimedia.org/wikipedia/commons/c/cb/Hadrian%27s_villa_near_Tivoli_232.JPG">
+      <agentSet>
+         <agent dataDate="2016-02-18-18-15-23">
+            <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex146_architecture_RomanVilla">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="http://www.gnu.org/copyleft/fdl.html"
+                 type="copyrighted"
+                 dataDate="2016-03-01-11-13-46">
+            <rightsHolder>Camelia.boban</rightsHolder>
+            <text>GNU Free Documentation License</text>
+         </rights>
+         <rights href="http://creativecommons.org/licenses/by-sa/3.0"
+                 type="copyrighted"
+                 dataDate="2016-02-18-18-16-46">
+            <rightsHolder>Camelia.boban</rightsHolder>
+            <text>CC BY-SA 3.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-02-18-18-17-13">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Hadrian%27s_villa_near_Tivoli_232.JPG</refid>
+            <name type="electronic">File:Hadrian's villa near Tivoli 232.JPG</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Hadrian's Villa</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex146_architecture_RomanVilla_2"
+          href="https://upload.wikimedia.org/wikipedia/commons/f/f5/Tivoli-villaadriana03.jpg">
+      <agentSet>
+         <agent>
+            <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex146_architecture_RomanVilla">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by/2.0/deed.en"
+                 type="copyrighted">
+            <rightsHolder>Patrick Denker</rightsHolder>
+            <text>This file is licensed under the Creative Commons Attribution 2.0 Generic license.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Tivoli-villaadriana03.jpg</refid>
+            <name type="electronic">File:Tivoli-villaadriana03.jpg</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">The Canopus in Hadrian's Villa</title>
+      </titleSet>
+   </image>
+    <work id="w_Ex072_sculpture_RomanSculpture" refid="c_CCO_Examples">
+        <agentSet>
+            <agent>
+                <name refid="100628022" type="personal" vocab="viaf">unknown Ancient Roman</name>
+                <role type="code" vocab="marcrelator">scl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300020533">Roman (ancient Italian culture or period)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+	    <display>creation about A.D. 125</display>
+            <date pref="true" type="creation" source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="true" type="about">125</date>
+                </earliestDate>
+            </date>
+            <date pref="false" type="creation">
+                <earliestDate>
+                    <date circa="false">0130</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">0140</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1997-12-16</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1999-01-17</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1999-03-16</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2004-05-23</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" source="J. Paul Getty Museum" dataDate="2016-06-08-10-10-00">
+                <text>The Greek hero Herakles carries a club over his left shoulder and holds a lionskin in his right hand. These objects help identify the figure, since Herakles nearly always appears with a club and the skin of the Nemean Lion, which he killed as his first labor. As is typical for depictions of Greek heroes, the young Herakles is shown nude, since the Greeks considered male nudity to be the highest form of beauty. No other god or hero is as frequently depicted in Greek and Roman art as is Herakles. 
+The Lansdowne Herakles very likely was inspired by a lost Greek statue, probably from the school of Polykleitos from the 300s B.C. Found near the ruins of the villa of the Roman emperor Hadrian at Tivoli outside Rome, this statue was one of numerous copies of Greek sculpture commissioned by Hadrian, who loved Greek culture. The statue was named for Lord Lansdowne, who once owned the Herakles and displayed it in his home in London. Areas of restoration include the statue's lower left leg and parts of both arms.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Provenance.
+1790 Found: near the Casino Fede in the northern area of Hadrian's Villa, Tivoli, Italy
+1790 - Cardinal Mario Marefoschi Family
+- 1792 Thomas Jenkins, sold to William Petty-Fitzmaurice, 1792.
+1792 - 1805 William Petty-Fitzmaurice, second earl of Shelburne, first marquess of Lansdowne, 1737 - 1805, acquired from his estate by his son, John Henry Petty-Fitzmaurice, 1805.
+1805 - 1809 John Henry Petty-Fitzmaurice, second marquess of Lansdowne, 1765 - 1809, by inheritance to his wife, Mary Arabella Petty, 1809.
+1809 - 1810 Mary Arabella Petty, marchioness of Lansdowne, died 1833, sold to her brother-in-law, Henry Petty-Fitzmaurice, 1810.
+1810 - 1863 Henry Petty-Fitzmaurice, third marquess of Lansdowne, 1780 - 1863, by inheritance to his heirs, 1863.
+1863 - 1866 Henry Thomas Petty Fitzmaurice, fourth marquess of Lansdowne, British, 1816 - 1866, by inheritance to his heirs, 1866.
+1866 - 1927 Henry Charles Petty-Fitzmaurice, fifth marquess of Lansdowne, 1845 - 1927, by inheritance to his heirs, 1927.
+1927 - 1936 Henry William Edmund Petty-Fitzmaurice, sixth marquess of Lansdowne, British, 1872 - 1936 [offered for sale, The celebrated collection of ancient marbles: property of the most honourable the Marquess of Lansdowne, Christie's, March 5, 1930, lot 34, bought back into the Lansdowne Collection and transferred to Bowood House, Wiltshire, England.], by inheritance to his heirs, 1936.
+1936 - 1944 Charles Hope Petty-Fitzmaurice, seventh marquess of Lansdowne, British, 1917 - 1944, by inheritance to his heirs, 1944.
+1944 - 1951 George John Charles Mercer Nairne Petty-Fitzmaurice, eighth marquess of Lansdowne, 1912 - 1999, sold to J. Paul Getty through Spink &amp; Son, Ltd., 1951.
+1951 - 1970 J. Paul Getty, American, 1892 - 1976, donated to the J. Paul Getty Museum, 1970.</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Exhibitions.
+Beyond Beauty: Antiquities as Evidence (December 16, 1997 to January 17, 1999)
+    The J. Paul Getty Museum at the Getty Center (Los Angeles), December 16, 1997 to January 17, 1999
+
+Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
+    The J. Paul Getty Museum at the Getty Center (Los Angeles), March 16, 1999 to May 23, 2004</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="true" source="J. Paul Getty Museum. Handbook of the Collections. Los Angeles: J. Paul Getty Museum, 1991 Page: 6." dataDate="2015-11-16-13-51-06">
+                <text>Herakles standing in contrapposto, holding his attributes, the skin of the Nemean lion and a club. This statue was found in Tivoli ca. 1790, in the ruins of Hadrian’s Villa; it was in the collection of the Marquess of Lansdowne until 1951. It is related in appearance to works attributed to 4th-century BCE Greek sculptors, however, the work has an eclectic style that is purely Roman.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location pref="true" type="repository">
+                <refid type="accession">70.AA.109</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="discovery">
+                <refid type="other">near the Casino Fede in the northern area of Hadrian's Villa, Tivoli, Italy</refid>
+                <name refid="207992749" type="geographic" vocab="viaf">Hadrian's Villa</name>
+		<name refid="7003138" type="geographic" vocab="tgn" extent="province">Roma</name>
+		<name refid="7003080" type="geographic" vocab="tgn" extent="region">Lazio</name>
+		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Beyond Beauty: Antiquities as Evidence (December 16, 1997 to January 17, 1999)</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300011599" type="medium" vocab="aat">Pentelic marble</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" source="J. Paul Getty Museum" type="height" unit="cm">193.5</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="width" unit="cm">77.5</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="length" unit="cm">73</measurements>
+            <measurements pref="true" source="J. Paul Getty Museum" type="weight" unit="kg">385.5575</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="height" unit="in">76 3/16</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="width" unit="in">30 1/2</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="length" unit="in">28 3/4</measurements>
+            <measurements pref="false" source="J. Paul Getty Museum" type="weight" unit="lb">850.0001</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_Ex072_sculpture_RomanSculpture">general view</relation>
+        </relationSet>
+	<rightsSet>
+	    <rights type="other" source="J. Paul Getty Museum">
+		<rightsHolder>The J. Paul Getty Museum</rightsHolder>
+		<text>Gift of J. Paul Getty</text>
+	    </rights>
+	</rightsSet>
+        <sourceSet>
+            <source pref="false">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_72_roman_sculpture</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 72: Roman sculpture.</name>
+            </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=25</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 231. Figure 34. Work Record Linked to a Subject Authority: Roman sculpture.</name>
+	    </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="300037206" vocab="aat" type="descriptiveTopic">clubs (weapons)</term>
+            </subject>
+            <subject>
+                <term refid="300343608" vocab="aat" type="descriptiveTopic">lion skins</term>
+            </subject>
+            <subject>
+                <term refid="300189568" vocab="aat" type="descriptiveTopic">nudes</term>
+            </subject>
+            <subject>
+                <term refid="300025928" vocab="aat" type="descriptiveTopic">men</term>
+            </subject>
+            <subject>
+                <term refid="300055985" vocab="aat" type="descriptiveTopic">mythology</term>
+            </subject>
+            <subject>
+                <term refid="94L" vocab="iconclass" type="iconographicTopic">(story of) Hercules (Heracles)</term>
+            </subject>
+            <subject>
+                <term refid="92I74911" vocab="iconclass" type="iconographicTopic">Nemean lion</term>
+            </subject>
+            <subject>
+                <term refid="94L3211" vocab="iconclass" type="iconographicTopic">Hercules skins the lion abd clothes himself with its skin</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300264383" vocab="aat">sculpting</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref dataDate="2016-06-08-10-09-12">
+                <name type="electronic">CONA</name>
+                <refid type="other">700006478</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <title pref="true" source="J. Paul Getty Museum" type="repository">Statue of Hercules</title>
+            <title pref="false" source="J. Paul Getty Museum" type="translated">El Heracles de Lansdowne</title>
+            <title pref="false" type="popular">[The] Lansdowne Herakles</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300047090" vocab="aat">sculpture</worktype>
+            <worktype refid="300047600" vocab="aat">statues</worktype>
+        </worktypeSet>
+    </work>
+   <image id="i_Ex072_sculpture_RomanSculpture"
+          href="http://www.getty.edu/museum/media/images/web/download/00763801.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-16-13-43-47">
+            <name refid="147804499" type="corporate" vocab="viaf" dataDate="2015-11-16-13-43-47">J. Paul Getty Museum</name>
+            <role type="code" vocab="marcrelator" dataDate="2015-11-16-13-43-47">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex072_sculpture_RomanSculpture">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-11-16">
+            <rightsHolder dataDate="2015-11-16">J. Paul Getty Museum</rightsHolder>
+            <text dataDate="2015-11-16">Digital image courtesy of the Getty's Open Content Program.</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-16-13-44-43">
+            <refid type="URI" dataDate="2015-11-16-13-44-43">http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/</refid>
+            <name type="electronic" dataDate="2015-11-16-13-44-43">J. Paul Getty Museum</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Statue of Hercules</title>
+      </titleSet>
+   </image>
 </vra>

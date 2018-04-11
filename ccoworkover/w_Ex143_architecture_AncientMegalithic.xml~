@@ -120,14 +120,14 @@ Since the 12th century when Stonehenge was considered one of the wonders of the 
             <subject>
                 <term refid="300073708" vocab="aat" type="conceptTopic">religions (concept)</term>
             </subject>
-	        <subject source="VRA Core">
+	    <subject source="VRA Core">
                 <term refid="300263485" vocab="aat" type="conceptTopic">burials</term>
-	        </subject>
             <subject source="VRA Core">
                 <term type="descriptiveTopic" vocab="LCSAF" refid="sh 85130480">Sun Rising and setting</term>
             </subject>
             <subject source="VRA Core">
                 <term type="descriptiveTopic" vocab="LCSAF" refid="sh 85009013 ">Astronomy, Ancient</term>
+            </subject>
             </subject>
             <subject>
                 <term refid="300387000" vocab="aat" type="descriptiveTopic">ceremonial sites</term>
@@ -157,32 +157,4 @@ Since the 12th century when Stonehenge was considered one of the wonders of the 
             <worktype refid="300006985" vocab="aat">menhirs</worktype>
         </worktypeSet>
     </work>
-   <image id="i_Ex143_architecture_AncientMegalithic"
-          href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Amesbury_SP4%2C_UK_-_panoramio_%2814%29.jpg">
-      <agentSet>
-         <agent>
-            <name extent="photographer: Tabraiz Feham" refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
-            <role type="code" vocab="marcrelator">col</role>
-         </agent>
-      </agentSet>
-      <relationSet>
-         <relation type="imageOf"
-                   relids="w_Ex143_architecture_AncientMegalithic">attachment</relation>
-      </relationSet>
-      <rightsSet>
-         <rights href="http://creativecommons.org/licenses/by-sa/3.0/" type="copyrighted">
-            <rightsHolder>Tabraiz Feham</rightsHolder>
-            <text>CC BY-SA 3.0</text>
-         </rights>
-      </rightsSet>
-      <sourceSet>
-         <source>
-            <refid type="URI">https://commons.wikimedia.org/wiki/File:Amesbury_SP4,_UK_-_panoramio_(14).jpg</refid>
-            <name type="electronic">File:Amesbury SP4, UK - panoramio (14).jpg</name>
-         </source>
-      </sourceSet>
-      <titleSet>
-         <title type="generalView">Stonehenge</title>
-      </titleSet>
-   </image>
 </vra>

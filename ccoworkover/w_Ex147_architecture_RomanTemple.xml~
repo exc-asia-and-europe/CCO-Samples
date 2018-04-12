@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+,<!-- Problem date @alternativeNotation - validiert nicht -->
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex147_architecture_RomanTemple" refid="c_CCO_Examples">
         <agentSet>
@@ -36,21 +37,21 @@
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="true" source="Ward-Perkins, John B., Roman Architecture. New York: 1977. ; MacDonald, William L., The Pantheon. London: Penguin Books, Ltd., 1976. ; Torres, Carlo Antonio. Cenni sulla forma primitiva del Pantheon fabbricato per ordine di Marco Agrippa, e sulla ristorazione da farsi al medesimo, di Carlo Antonio Torres. Imprint: Roma, Da’ tipi di Giunchi e Menecanti, 1838." dataDate="2016-03-01-15-19-48">
+            <description source="Ward-Perkins, John B., Roman Architecture. New York: 1977. ; MacDonald, William L., The Pantheon. London: Penguin Books, Ltd., 1976. ; Torres, Carlo Antonio. Cenni sulla forma primitiva del Pantheon fabbricato per ordine di Marco Agrippa, e sulla ristorazione da farsi al medesimo, di Carlo Antonio Torres. Imprint: Roma, Da’ tipi di Giunchi e Menecanti, 1838." dataDate="2016-03-01-15-19-48">
                 <text>The Pantheon was dedicated to the seven planetary gods in 128 CE. It was consecrated as a church in the early seventh century. It is the major surviving example of Roman concrete-vaulted architecture. It is composed of a domed rotunda attached to a columned entrance portico. Now free-standing, it was originally the focal point of a long, porticoed forecourt.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" source="Samuel Ball Platner (as completed and revised by Thomas Ashby): A Topographical Dictionary of Ancient Rome, London: Oxford University Press, 1929. Pp. 382-383." href="http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Pantheon.html" dataDate="2018-04-12">
+            <description source="Samuel Ball Platner (as completed and revised by Thomas Ashby): A Topographical Dictionary of Ancient Rome, London: Oxford University Press, 1929. Pp. 382-383." href="http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Pantheon.html" dataDate="2018-04-12">
                 <text>Pantheon: a temple which, with the thermae, Stagnum and Euripus, made up the remarkable group of buildings which Agrippa erected in the campus Martius. According to the inscription on the frieze of the pronaos (CIL VI.896: M. Agrippa L. f. cos. tertium. fecit) the temple was built in 27 B.C., but Cassius Dio states that it was finished in 25 [...]. This passage is not altogether clear (Gilb. III.116), but it seems probable that the temple was built for the glorification of the gens Iulia, and that it was dedicated in particular to Mars and Venus, the most prominent among the ancestral deities of that family. In the ears of the statue of Venus hung earrings made of the pieces of Cleopatra's pearls (Plin. NH IX.121; Macrob. III.17.17). Whether the name refers to the number of deities honoured in the temple (cf. πάνθειον, Rosch. III.1555, and the various πάνθεια in Greek lands, DS IV.315), or means 'very holy' (hochheilige, cf. HJ 582; Jord. Symbolae ad historiam religionum Italicarum, Königsberg, Index lectionum, 1883) is uncertain: but Mommsen's conjecture that the seven niches were occupied by the seven planetary deities is attractive, and Hülsen is now in favour of it.</text>
                 <author>
                     <name refid="54512956" type="corporate" vocab="viaf">Platner, Samuel Ball</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description pref="false" source="The Pantheon official website." dataDate="2018-04-12">
+            <description source="The Pantheon official website." dataDate="2018-04-12">
                 <text>The Pantheon has represented the greatest expression of the glory of Rome for more than two thousand years. The story of the Pantheon is inseparably tied to the Eternal City. and been its image through the centuries. Built by Agrippa between 25 and 27 BC the Pantheon was a temple dedicated to the twelve Gods and to the living Sovran. Traditionally it is believed that the present building is result of the radical reconstruction by Hadrian between 118 and 125 AD.
 It is the only ancient Roman building that has remained practically intact through the centuries. In 608 Pope Boniface IV had the remains of many martyrs removed from the Christian catacombs and placed in the Pantheon. Thereafter the temple was officially converted to Christianity and named Saint Maria ad Martyres. The Pantheon was an inspiration to Raphael, one of the greatest architects of the Renaissance, and he requested it be his place of eternal rest.</text>
                 <author>

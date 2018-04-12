@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex151_architecture_RenaissanceDome_1"
+          href="https://upload.wikimedia.org/wikipedia/commons/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg">
+      <agentSet>
+         <agent dataDate="2016-03-08-13-36-28">
+            <name extent="photographer: Jebulon"
+                  refid="137022054"
+                  type="corporate"
+                  vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date type="creation" dataDate="2016-03-08-13-41-17">
+            <earliestDate>
+               <date>2013-08-25</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex151_architecture_RenaissanceDome">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2016-03-08-13-56-53">
+            <rightsHolder>Jebulon</rightsHolder>
+            <text>CC0 1.0 Universal</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-03-08-13-58-22">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica_facade,_Rome,_Italy.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Facing Saint Peter's basilica, Rome, Italy, Vatican City.</title>
+      </titleSet>
+   </image>
+</vra>

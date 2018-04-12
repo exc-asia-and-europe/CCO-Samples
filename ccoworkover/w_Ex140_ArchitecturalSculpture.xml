@@ -61,6 +61,10 @@
                 <refid type="URI">http://www.core.vraweb.org/examples/html/example002_full_xml.html</refid>
                 <name type="electronic">VRA Core 4 Example 2: Architectural sculpture</name>
             </source>
+	    <source>
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=28</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 75. Figure 13. Work Record Linked to Another Work Record: Medieval Cathedral and Its Portal.</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020775" vocab="aat">Gothic</stylePeriod>

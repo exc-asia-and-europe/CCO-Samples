@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex150_architecture_GothicChurch_2"
+          href="https://upload.wikimedia.org/wikipedia/commons/6/65/Chartres_-_cath%C3%A9drale%2C_ext%C3%A9rieur_%2818%29.jpg">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex150_architecture_GothicChurch">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="copyrighted" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+            <rightsHolder>Fab5669</rightsHolder>
+            <text>CC BY 4.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Chartres_-_cath%C3%A9drale,_ext%C3%A9rieur_(18).jpg</refid>
+            <name type="electronic">File:Chartres - cathédrale, extérieur (18).jpg</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Our Lady cathedrale of Chartres (Eure-et-Loir, France) : south transept</title>
+      </titleSet>
+   </image>
+</vra>

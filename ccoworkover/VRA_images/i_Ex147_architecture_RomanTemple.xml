@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i__Ex147_architecture_RomanTemple"
+          href="https://upload.wikimedia.org/wikipedia/commons/2/2a/Einblick_Panorama_Pantheon_Rom.jpg">
+      <agentSet>
+         <agent>
+            <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date type="creation">
+            <earliestDate>
+               <date circa="false">2005-09-04</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex147_architecture_RomanTemple">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by-sa/2.5/deed.en" type="copyrighted">
+            <rightsHolder>Stefan Bauer</rightsHolder>
+            <text>CC BY 2.5</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source>
+            <refid type="URI">https://en.wikipedia.org/wiki/File:Einblick_Panorama_Pantheon_Rom.jpg</refid>
+            <name type="electronic">File:Einblick Panorama Pantheon Rom.jpg</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="partialView">Panoramic view of the Pantheon in Rome</title>
+      </titleSet>
+   </image>
+</vra>

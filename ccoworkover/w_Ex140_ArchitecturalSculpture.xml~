@@ -50,7 +50,7 @@
         </materialSet>
         <relationSet>
             <relation pref="false" refid="700000170" source="CONA" href="https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000170" type="partOf">Chartres Cathedral</relation>
-            <relation pref="true" relids="i_c8615808-1c56-4d96-8917-a3542816c8d3" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_Ex140_ArchitecturalSculpture" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source dataDate="2016-02-18-15-33-56">

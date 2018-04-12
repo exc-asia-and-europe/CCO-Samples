@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex150_architecture_GothicChurch_1"
+          href="https://c2.staticflickr.com/4/3515/3773757247_2587a70ec2_b.jpg">
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex150_architecture_GothicChurch">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://www.flickr.com/photos/hisgett/3773757247"
+                 type="copyrighted"
+                 dataDate="2015-11-18-17-01-54">
+            <rightsHolder>Tony Hisgett</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-18-17-02-18">
+            <refid type="URI">https://www.flickr.com/photos/hisgett/3773757247</refid>
+            <name type="electronic">flickr</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Chartres Cathedral evening light 1</title>
+      </titleSet>
+   </image>
+</vra>

@@ -20,11 +20,10 @@
       </dateSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_e85cd10d-99e6-41c7-b822-466e633615e3"
-                   source="Tamboti">attachment</relation>
+                   relids="w_e85cd10d-99e6-41c7-b822-466e633615e3">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights pref="true"
+         <rights
                  type="copyrighted"
                  href="https://creativecommons.org/licenses/by/2.0/"
                  dataDate="2016-03-17-09-49-05">
@@ -33,13 +32,13 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="true" dataDate="2016-03-17-09-49-34">
+         <source dataDate="2016-03-17-09-49-34">
             <refid type="URI">https://www.flickr.com/photos/-jvl-/13589432634/</refid>
             <name type="electronic">Flickr</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_151--cco_fig007-2.jpg</title>
+         <title type="generalView">Dome of the St. Peter's Basilica</title>
       </titleSet>
    </image>
 </vra>

@@ -3,8 +3,7 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
    <image id="i_3c2108c9-b614-4b07-95e9-cc64afdf7119"
-          href="i_3c2108c9-b614-4b07-95e9-cc64afdf7119.jpg"
-          source="Tamboti">
+          href="i_3c2108c9-b614-4b07-95e9-cc64afdf7119.jpg">
       <agentSet>
          <agent pref="false" dataDate="2016-03-17-14-53-07">
             <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
@@ -17,7 +16,7 @@
          </agent>
       </agentSet>
       <dateSet>
-         <date pref="false" type="creation" dataDate="2015-03-23-15-48-11">
+         <date type="creation" dataDate="2015-03-23-15-48-11">
             <earliestDate>
                <date>2012-04-21</date>
             </earliestDate>
@@ -25,12 +24,10 @@
       </dateSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex155_architecture_NineteenthCentury"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex155_architecture_NineteenthCentury">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights href="https://creativecommons.org/licenses/by-sa/2.0/"
-                 pref="false"
                  type="copyrighted"
                  dataDate="2015-03-23-15-48-45">
             <rightsHolder>Geoff Livingston</rightsHolder>
@@ -38,13 +35,13 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="false" dataDate="2015-03-23-15-47-40">
+         <source dataDate="2015-03-23-15-47-40">
             <refid type="URI">https://www.flickr.com/photos/geoliv/6954848262</refid>
             <name type="electronic">FlickR</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_155.jpg</title>
+         <title type="generalView">The Lincoln Memorial</title>
       </titleSet>
    </image>
 </vra>

@@ -6,13 +6,13 @@
           href="i_2ca9177b-2211-4fac-8948-91f1ca5a1002.jpg"
           source="Tamboti">
       <agentSet>
-         <agent pref="true" dataDate="2016-03-08-16-44-37">
+         <agent dataDate="2016-03-08-16-44-37">
             <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
             <role type="code" vocab="marcrelator">col</role>
          </agent>
       </agentSet>
       <dateSet>
-         <date pref="false" type="creation" dataDate="2016-03-08-16-48-03">
+         <date type="creation" dataDate="2016-03-08-16-48-03">
             <earliestDate>
                <date>2008-10-07</date>
             </earliestDate>
@@ -20,12 +20,10 @@
       </dateSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex152_architecture_RenaissanceBaroque"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex152_architecture_RenaissanceBaroque">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights href="https://creativecommons.org/licenses/by/2.0/"
-                 pref="false"
                  type="copyrighted"
                  dataDate="2016-03-08-16-41-23">
             <rightsHolder>David Merrett</rightsHolder>
@@ -33,13 +31,13 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="false" dataDate="2016-03-08-16-40-25">
+         <source dataDate="2016-03-08-16-40-25">
             <refid type="URI">https://www.flickr.com/photos/davehamster/2973906531</refid>
             <name type="electronic">Flickr</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_online_152.jpg</title>
+         <title type="generalView">St Peter's Piazza</title>
       </titleSet>
    </image>
 </vra>

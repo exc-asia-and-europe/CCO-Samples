@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_Ex158_architecture_Skyscraper" refid="c_CCO_Examples">
+    <work id="w_951e30d4-886c-40e1-bf38-c148d3445286" source="Kurs" refid="c_a3a634f2-460c-41de-b3fe-01a2e153f831">
         <agentSet>
             <agent pref="false" dataDate="2015-04-08-15-04-36">
                 <dates type="life">

@@ -32,7 +32,7 @@
             <agent source="Frank Lloyd Wright Trust. Darwin D. Martin House.">
             	 <dates type="life">
             	 	  <earliestDate circa="false">1861</earliestDate>
-            	 	  <latestDate circa="false">1928</latestDate>
+            	 	  <latesDate circa="false">1928</latestDate>
             	 </dates>
             	 <name refid="95944473" type="personal" vocab="viaf">Giannini, Orlando</name>
                 <role type="code" vocab="marcrelator">dsr</role>
@@ -44,7 +44,7 @@
             <agent source="Frank Lloyd Wright Trust. Darwin D. Martin House.">
             	 <dates type="life">
             	 	  <earliestDate circa="false">1876</earliestDate>
-            	 	  <latestDate circa="false">1937</latestDate>
+            	 	  <latesDate circa="false">1937</latestDate>
             	 </dates>
             	 <name refid="185365" type="personal" vocab="viaf">Griffin, Walter Burley</name>
                 <role type="code" vocab="marcrelator">arc</role>
@@ -188,45 +188,4 @@ The Martin house was part of a larger complex, which ultimately included the Bar
             <worktype refid="300263552" vocab="aat">architecture</worktype>
         </worktypeSet>
     </work>
-   <image id="i_Ex159_architecture_ModernHouse"
-          href="https://c1.staticflickr.com/3/2421/3580724312_5ef6e82fe7_b.jpg">
-      <agentSet>
-         <agent dataDate="2016-03-17-16-14-46">
-            <name extent="photographer: Jason Paris"
-                  refid="182017119"
-                  type="corporate"
-                  vocab="viaf">Flickr (Electronic resource)</name>
-            <role type="code" vocab="marcrelator">col</role>
-         </agent>
-      </agentSet>
-      <dateSet>
-         <date type="creation" dataDate="2015-04-20-09-24-22">
-            <earliestDate>
-               <date>2009-03-26</date>
-            </earliestDate>
-         </date>
-      </dateSet>
-      <relationSet>
-         <relation type="imageOf"
-                   relids="w_Ex159_architecture_ModernHouse">attachment</relation>
-      </relationSet>
-      <rightsSet>
-         <rights type="copyrighted" dataDate="2015-04-20-09-25-21">
-            <rightsHolder>JasonParis</rightsHolder>
-            <text>CC BY 2.0</text>
-         </rights>
-      </rightsSet>
-      <sourceSet>
-         <source dataDate="2015-04-20-09-26-06">
-            <refid type="URI">https://www.flickr.com/photos/jasonparis/3580724312</refid>
-            <name type="electronic">Flickr</name>
-         </source>
-      </sourceSet>
-      <techniqueSet>
-         <technique pref="false" refid="300386812" vocab="aat">digital photography</technique>
-      </techniqueSet>
-      <titleSet>
-         <title type="generalView">Buffalo, NY</title>
-      </titleSet>
-   </image>
 </vra>

@@ -2,7 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex158_architecture_Skyscraper" refid="c_CCO_Examples">
         <agentSet>
-            <agent pref="false" dataDate="2015-04-08-15-04-36">
+	    <display>Skidmore, Owings and Merrill (American, established 1939), for Sears Roebuck and Company</display>
+            <agent source="structurae.net">
                 <dates type="life">
                     <earliestDate circa="false">1925</earliestDate>
                     <latestDate circa="false">2010</latestDate>
@@ -10,19 +11,23 @@
                 <name refid="58260947" type="personal" vocab="viaf">Graham, Bruce</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
-            <agent pref="false" dataDate="2015-04-08-15-03-55">
+            <agent source="structurae.net">
                 <dates type="life">
                     <earliestDate circa="false">1929</earliestDate>
                     <latestDate circa="false">1982</latestDate>
                 </dates>
                 <name refid="60016681" type="personal" vocab="viaf">Khan, Fazlur R.</name>
-                <role type="code" vocab="marcrelator">arc</role>
+                <role type="code" vocab="marcrelator">eng</role>
             </agent>
-            <agent pref="false" dataDate="2015-04-08-15-00-39">
+            <agent source="structurae.net">
+                <name refid="77838652" type="personal" vocab="viaf">Iyengar, Hal</name>
+                <role type="code" vocab="marcrelator">eng</role>
+            </agent>
+            <agent>
                 <name refid="132223814" type="corporate" vocab="viaf">Sears, Roebuck and Company</name>
                 <role type="code" vocab="marcrelator">cli</role>
             </agent>
-            <agent pref="true" dataDate="2015-04-08-15-04-54">
+            <agent>
                 <name refid="149712040" type="corporate" vocab="viaf">Skidmore, Owings &amp; Merrill</name>
                 <role type="code" vocab="marcrelator">cre</role>
             </agent>
@@ -31,32 +36,56 @@
             <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date pref="false" type="commission" dataDate="2015-04-08-15-10-21">
+            <date pref="false" type="commission">
                 <earliestDate>
-                    <date>1969</date>
+                    <date circa="false">1969</date>
                 </earliestDate>
             </date>
-            <date extent="construction" pref="true" type="creation" dataDate="2015-04-08-15-07-43">
+            <date pref="true" type="creation" source="structurae.net">
                 <earliestDate>
-                    <date>1970</date>
+                    <date circa="false">1970</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1973</date>
+                    <date circa="false">1973-05</date>
                 </latestDate>
+            </date>
+            <date pref="false" type="other" extent="renaming" source="structurae.net">
+                <earliestDate>
+                    <date circa="false">2009</date>
+                </earliestDate>
+            </date>
+            <date pref="false" type="alteration" extent="Skydeck Chicago including The Ledge" source="Willis Tower">
+                <earliestDate>
+                    <date circa="false">2009-07</date>
+                </earliestDate>
             </date>
         </dateSet>
         <descriptionSet>
             <description dataDate="2015-04-08-15-50-00">
-                <text>Steel frame, clad in bronze-tinted glass and stainless aluminum.
-Overlooks the west side of Chicago’s downtown Loop.</text>
+                <text>Overlooks the west side of Chicago’s downtown Loop.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description dataDate="2018-04-16" source="Willis Tower">
+                <text>Standing tall above every other skyscraper in Chicago, Willis Tower (formerly known as the Sears Tower) is a 110-story building in the heart of downtown. One of the tallest buildings in the world and the tallest building in America, it is impossible to miss when appreciating the skyline.
+In 1969, Sears Roebuck and Company was the largest retailer in the world, with about 350,000 employees. Deciding it needed a central office space for its many employees, the company hired architects Skidmore, Owings and Merrill to design what would become one of the largest office buildings in the world. After breaking ground in 1970, it took three years to complete and used enough concrete to make an eight-lane, five-mile-long highway. The last beam put in place was commemorated by the signatures of 12,000 construction workers, Sears employees, and Chicagoans. [...]
+In July 2009, U.S. Equities Realty led the design and construction of a multi-million dollar renovation of Skydeck Chicago, including the development of The Ledge, a series of glass bays on the 103rd floor that extend from the building providing visitors with unobstructed views of Chicago through the windows and glass floors – 1,353 feet straight down. In addition to The Ledge, the new Skydeck visitor center features museum-quality interactive exhibits. The opening of The Ledge has provided the Skydeck with record-breaking visitor counts consistently since its debut.</text>
+                <author>
+                    <name refid="242308182" type="corporate" vocab="viaf">Willis Tower</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="site" dataDate="2016-03-17-15-36-29">
-                <name refid="7013596" type="geographic" vocab="tgn">Chicago</name>
-            </location>
-            <location pref="false" type="site" dataDate="2015-04-08-15-28-04">
+<!-- This locationSet demonstrates the Cluster point extension, which helps specify locations. -->
+            <location type="site" source="structurae.net">
                 <name type="geographic">233 South Wacker Drive, Chicago, Illinois</name>
+                <name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
+		<name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
                 <point epsg="4326">
                     <lat>41.8789</lat>
                     <long>-87.6358</long>
@@ -64,61 +93,74 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
             </location>
         </locationSet>
         <materialSet>
+	    <display>steel frame, clad in bronze-tinted glass and stainless aluminum</display>
             <material refid="300011015" type="medium" vocab="aat">aluminum</material>
             <material refid="300010797" type="medium" vocab="aat">glass (material)</material>
             <material refid="300133751" type="medium" vocab="aat">steel</material>
         </materialSet>
         <measurementsSet>
-            <measurements extent="of office and commercial space" pref="false" type="size" unit="sq ft">4.500.000</measurements>
-            <measurements extent="of office and commercial space" pref="true" type="size" unit="sqm">418.064</measurements>
-            <measurements pref="false" type="count" unit="stories">110</measurements>
-            <measurements extent="height to the highest occupied floor" pref="false" type="height" unit="ft">1431</measurements>
-            <measurements extent="to the top of the roof" pref="false" type="height" unit="ft">1450</measurements>
-            <measurements extent="height to the highest occupied floor" pref="true" type="height" unit="m">436</measurements>
-            <measurements extent="to the top of the roof" pref="true" type="height" unit="m">442</measurements>
+	    <display>height to the top of the roof: 442 m (1,450 feet); height to the highest occupied floor 436 m (1,431 feet); 110 stories; 418,064 square m of office and commercial space (4.5 million square feet)</display>
+            <measurements pref="false" type="size" unit="sq ft" extent="of office and commercial space">4.500.000</measurements>
+            <measurements pref="false" type="height" unit="ft" extent="height to the highest occupied floor">1431</measurements>
+            <measurements pref="false" type="height" unit="ft" extent="to the top of the roof">1450</measurements>
+            <measurements pref="true" type="size" unit="sqm" extent="of office and commercial space">418.064</measurements>
+            <measurements pref="true" type="height" unit="m" extent="height to the highest occupied floor">436</measurements>
+            <measurements pref="true" type="height" unit="m" extent="to the top of the roof">442</measurements>
+            <measurements pref="true" type="count" unit="stories">110</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_3b27d1cb-8a1e-4c79-bd1f-108606024d6a">general view</relation>
+            <relation type="imageIs" relids="i_Ex158_architecture_Skyscraper">general view</relation>
+	    <relation type="formerlyLargerContextFor" source="The Chicago Tribune" href="http://www.chicagotribune.com/news/ct-calder-mobile-willis-tower-met-0328-20170327-story.html">The Universe by Alexander Calder</relation>
         </relationSet>
         <sourceSet>
             <source dataDate="2016-03-17-15-32-44">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_158_skyscraper</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 158: Skyscraper.</name>
             </source>
+            <source>
+                <refid type="URI">https://structurae.net/structures/willis-tower</refid>
+                <name type="electronic">Willis Tower at structurae.net</name>
+            </source>
+            <source>
+                <refid type="URI">http://www.willistower.com/history-and-facts</refid>
+                <name type="electronic">Official website of the Willis tower</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300264736" vocab="aat">Modern</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject refid="300002563" vocab="aat" dataDate="2015-04-08-15-48-52">
-                <term type="descriptiveTopic">curtain walls</term>
+            <subject>
+                <term refid="300004810" vocab="aat" type="descriptiveTopic">high-rise buildings</term>
             </subject>
-            <subject refid="300004810" vocab="aat" dataDate="2015-04-08-15-15-38">
-                <term type="descriptiveTopic">high-rise buildings</term>
+            <subject>
+                <term refid="300004809" vocab="aat" type="descriptiveTopic">skyscrapers</term>
             </subject>
-            <subject refid="300004809" vocab="aat">
-                <term type="descriptiveTopic">skyscrapers</term>
+            <subject>
+                <term refid="300007046" vocab="aat" type="descriptiveTopic">office towers</term>
             </subject>
-            <subject refid="300007046" vocab="aat">
-                <term type="descriptiveTopic">office towers</term>
+            <subject>
+                <term refid="300007043" vocab="aat" type="descriptiveTopic">office buildings</term>
             </subject>
-            <subject refid="300007043" vocab="aat">
-                <term type="descriptiveTopic">office buildings</term>
+            <subject>
+                <term refid="300054343" vocab="aat" type="conceptTopic">business</term>
             </subject>
-            <subject refid="300054343" vocab="aat">
-                <term type="conceptTopic">business</term>
-            </subject>
-            <subject refid="300263552" vocab="aat" dataDate="2016-03-17-16-02-54">
-                <term type="descriptiveTopic">architecture</term>
+            <subject>
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300015341" vocab="aat">steel frame construction</technique>
+            <technique refid="300002563" vocab="aat">curtain walls</technique>
         </techniqueSet>
         <textrefSet>
             <textref dataDate="2016-03-17-15-35-04">
                 <name type="electronic">CONA</name>
                 <refid type="other">700000053</refid>
+            </textref>
+            <textref>
+                <name type="electronic">structurae.net</name>
+                <refid type="other">20000065</refid>
             </textref>
         </textrefSet>
         <titleSet>
@@ -130,4 +172,41 @@ Overlooks the west side of Chicago’s downtown Loop.</text>
             <worktype refid="300004809" vocab="aat">skyscrapers</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex158_architecture_Skyscraper"
+          href="https://c2.staticflickr.com/4/3858/14726635679_3cde406d11_b.jpg">
+      <agentSet>
+         <agent dataDate="2016-03-17-09-46-48">
+            <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date type="creation" dataDate="2015-04-08-15-50-59">
+            <earliestDate>
+               <date>2011-02-18</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex158_architecture_Skyscraper">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by/2.0/"
+                 type="copyrighted"
+                 dataDate="2015-04-08-15-51-40">
+            <rightsHolder>Gabe Popa</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-08-15-52-05">
+            <refid type="URI">https://www.flickr.com/photos/gabepopa/14726635679</refid>
+            <name type="electronic">FlickR</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Sears Tower (now Willis) and 311 South Wacker Tower - Chicago</title>
+      </titleSet>
+   </image>
 </vra>

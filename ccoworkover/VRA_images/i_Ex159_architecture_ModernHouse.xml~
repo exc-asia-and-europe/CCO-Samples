@@ -2,12 +2,12 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_f865856c-0516-41ca-ad18-d66cb494fa17"
-          href="i_f865856c-0516-41ca-ad18-d66cb494fa17.jpg"
+   <image id="i_7d0c0678-4a20-4a3e-87d5-7f2e0e0d2e28"
+          href="i_7d0c0678-4a20-4a3e-87d5-7f2e0e0d2e28.jpg"
           source="Tamboti">
       <agentSet>
-         <agent pref="false" dataDate="2016-03-17-16-16-02">
-            <name extent="photographer: Kyle Harmon"
+         <agent pref="false" dataDate="2016-03-17-16-14-46">
+            <name extent="photographer: Jason Paris"
                   refid="182017119"
                   type="corporate"
                   vocab="viaf">Flickr (Electronic resource)</name>
@@ -15,31 +15,33 @@
          </agent>
       </agentSet>
       <dateSet>
-         <date pref="false" type="creation" dataDate="2015-04-20-10-07-59">
+         <date pref="false" type="creation" dataDate="2015-04-20-09-24-22">
             <earliestDate>
-               <date>2009-02-20</date>
+               <date>2009-03-26</date>
             </earliestDate>
          </date>
       </dateSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_0b8b70ad-56c3-4ef2-891e-cd257b801e26"
-                   source="Tamboti">attachment</relation>
+                   relids="w_Ex159_architecture_ModernHouse">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights pref="false" type="copyrighted" dataDate="2015-04-20-10-09-16">
-            <rightsHolder>Kyle Harmon</rightsHolder>
+         <rights type="copyrighted" dataDate="2015-04-20-09-25-21">
+            <rightsHolder>JasonParis</rightsHolder>
             <text>CC BY 2.0</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source pref="false" dataDate="2015-04-22-12-57-48">
-            <refid type="URI">https://www.flickr.com/photos/wkharmon/3298751531</refid>
+         <source dataDate="2015-04-20-09-26-06">
+            <refid type="URI">https://www.flickr.com/photos/jasonparis/3580724312</refid>
             <name type="electronic">Flickr</name>
          </source>
       </sourceSet>
+      <techniqueSet>
+         <technique pref="false" refid="300386812" vocab="aat">digital photography</technique>
+      </techniqueSet>
       <titleSet>
-         <title pref="false" type="descriptive">Aerial View</title>
+         <title type="generalView">Buffalo, NY</title>
       </titleSet>
    </image>
 </vra>

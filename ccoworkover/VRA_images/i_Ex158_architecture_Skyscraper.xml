@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <image id="i_Ex158_architecture_Skyscraper"
+          href="https://c2.staticflickr.com/4/3858/14726635679_3cde406d11_b.jpg">
+      <agentSet>
+         <agent dataDate="2016-03-17-09-46-48">
+            <name refid="182017119" type="corporate" vocab="viaf">Flickr (Electronic resource)</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date type="creation" dataDate="2015-04-08-15-50-59">
+            <earliestDate>
+               <date>2011-02-18</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex158_architecture_Skyscraper">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by/2.0/"
+                 type="copyrighted"
+                 dataDate="2015-04-08-15-51-40">
+            <rightsHolder>Gabe Popa</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-08-15-52-05">
+            <refid type="URI">https://www.flickr.com/photos/gabepopa/14726635679</refid>
+            <name type="electronic">FlickR</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">Sears Tower (now Willis) and 311 South Wacker Tower - Chicago</title>
+      </titleSet>
+   </image>
+</vra>

@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_e2fabc51-32c4-4486-b348-af9742eda5e3" source="Kurs" refid="c_32c6aafe-2392-442b-a81f-f52847a8e992">
+    <work id="w_Ex164_architecture_Parliement.xml" refid="c_CCO_Examples">
         <agentSet>
-            <agent pref="false" dataDate="2016-03-17-16-45-32">
+	    <display>architects: Charles Barry (English, 1795-1860), assisted by Augustus Welby Northmore Pugin (English, 1812-1852)</display>
+            <agent>
                 <culture>English</culture>
                 <dates type="life">
                     <earliestDate circa="false">1812</earliestDate>
                     <latestDate circa="false">1852</latestDate>
                 </dates>
-                <name refid="17247761" type="personal" vocab="viaf" extent="assistant">Pugin, Augustus Welby Northmore</name>
-                <role type="code" vocab="marcrelator">arc</role>
+                <name refid="17247761" type="personal" vocab="viaf">Pugin, Augustus Welby Northmore</name>
+                <role type="code" vocab="marcrelator" extent="assistant">arc</role>
             </agent>
-            <agent pref="true">
+            <agent>
                 <culture>English</culture>
                 <dates type="life">
                     <earliestDate circa="false">1795</earliestDate>
@@ -26,30 +27,56 @@
         </culturalContextSet>
         <dateSet>
             <display>construction on current structure was begun in 1837, the cornerstone was laid in 1840, and work was finished in 1860</display>
-            <date pref="true" type="creation" dataDate="2016-03-17-16-46-00">
+            <date pref="true" type="creation">
                 <earliestDate>
-                    <date>1837</date>
+                    <date circa="false">1837</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1860</date>
+                    <date circa="false">1860</date>
                 </latestDate>
+            </date>
+            <date pref="false" type="destruction" extent="Commons Chamber">
+                <earliestDate>
+                    <date circa="false">1941</date>
+                </earliestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description pref="false" dataDate="2016-03-17-16-58-10">
+            <description pref="true" dataDate="2016-03-17-16-58-10">
                 <text>Possibly site of a royal palace of the Danish king of England, Canute. Site of the palace of Edward the Confessor in the 11th century, enlarged by William I the Conqueror. Badly damaged by fire in 1512; House of Commons met in Saint Stephen’s Chapel by 1550, the Lords used another apartment of the palace. A fire in 1834 destroyed much of the palace. Construction on current structure dates 1837-1860. The Commons Chamber was destroyed in an air raid in World War II, reopened in 1950.</text>
                 <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
+            <description pref="false" source="UNESCO">
+                <text>The Palace of Westminster, Westminster Abbey and St Margaret’s Church lie next to the River Thames in the heart of London. With their intricate silhouettes, they have symbolised monarchy, religion and power since Edward the Confessor built his palace and church on Thorney Island in the 11th century AD. Changing through the centuries together, they represent the journey from a feudal society to a modern democracy and show the intertwined history of church, monarchy and state. [...] The Palace of Westminster, Westminster Abbey, and St Margaret's Church together encapsulate the history of one of the most ancient parliamentary monarchies of present times and the growth of parliamentary and constitutional institutions.
+In tangible form, Westminster Abbey is a striking example of the successive phases of English Gothic art and architecture and the inspiration for the work of Charles Barry and Augustus Welby Pugin on the Palace of Westminster.
+The Palace of Westminster illustrates in colossal form the grandeur of constitutional monarchy and the principle of the bicameral parliamentary system, as envisaged in the 19th century, constructed through English architectural references to show the national character.
+The Palace is one of the most significant monuments of neo-Gothic architecture, as an outstanding, coherent and complete example of neo-Gothic style. Westminster Hall is a key monument of the Perpendicular style and its admirable oak roof is one of the greatest achievements of medieval construction in wood. Westminster is a place in which great historical events have taken place that shaped the English and British nations.</text>
+                <author>
+                    <name refid="124441834" type="corporate" vocab="viaf">Unesco World Heritage Centre</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="Palace of Westminster Factsheet">
+                <text>Designed by the architect Charles Barry to be the purpose-built home of Parliament, it replaced the old Palace which burned down in a major fire in 1834, and is now considered to be one of the finest examples of neo-gothic architecture in the world. Augustus Welby Pugin assisted Barry by designing most of the Palace’s ornate Gothic interiors, including carvings, gilt work, panelling and furniture.
+The Palace is on four main levels and was designed so the surviving medieval buildings – Westminster Hall, the Cloisters of St Stephen’s College, and the Chapel of St Mary Undercroft – formed an integral part of the whole. </text>
+                <author>
+                    <name refid="172644544" type="corporate" vocab="viaf">Westminster Palace</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="site" dataDate="2016-03-17-16-51-42">
-                <name refid="7018934" type="geographic" vocab="tgn">City of Westminster</name>
-            </location>
-            <location pref="false" type="site" dataDate="2015-04-20-10-58-30">
+<!-- This locationSet demonstrates the Cluster point extension, which helps specify locations. -->
+            <location type="site">
                 <name type="geographic" refid="172644544" vocab="viaf">Westminster Palace, London SW1A 2PW</name>
+                <name refid="7018934" type="geographic" vocab="tgn" extent="borough">City of Westminster</name>
+		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
                 <point epsg="4326">
                     <lat>51.499444</lat>
                     <long>-0.124167</long>
@@ -68,23 +95,32 @@
             <measurements extent="Victoria Tower" pref="false" type="true" unit="m">102</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_5c2db432-d7d5-4cfd-af8c-83a0200a87d7" pref="true">general view</relation>
-            <relation type="imageIs" relids="i_2b0c24fe-0c1e-45ce-8aa9-2feae2b94bb5" pref="false">general view</relation>
+            <relation type="imageIs" relids="i_Ex164_architecture_Parliement_1" pref="true" source="Figue 8">exterior view facing west with north end of House of Parliament, including Big Ben and view from Westminster Bridge</relation>
+            <relation type="imageIs" relids="i_Ex164_architecture_Parliement_2" pref="false">general view</relation>
         </relationSet>
         <sourceSet>
-            <source pref="false" dataDate="2015-04-20-11-02-59">
+            <source pref="true" dataDate="2015-04-20-11-02-59">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_164_parliament_buildings_images</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 164: Parliament buildings, images.</name>
             </source>
+	    <source pref="false">
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=40</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 40. Figure 8. Work Record for a Work and Related Images: 19th-Century Parliament Buildings.</name>
+	    </source>
+	    <source pref="false">
+		<refid type="URI">http://whc.unesco.org/en/list/426</refid>
+		<name type="book">UNESCO World Heritage Centre.</name>
+	    </source>
+	    <source pref="false">
+		<refid type="URI">https://restorationandrenewal.parliament.uk/factsheets/Factsheet_Palace_of_Westminster.pdf</refid>
+		<name type="book">Palace of Westminster factsheet</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021452" vocab="aat">Gothic Revival</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject dataDate="2016-03-17-16-56-21">
-                <term refid="300002557" vocab="aat" type="descriptiveTopic">bearing walls</term>
-            </subject>
-            <subject dataDate="2015-04-20-10-55-32">
+            <subject>
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
             <subject>
@@ -93,10 +129,10 @@
             <subject>
                 <term refid="300006029" vocab="aat" type="conceptTopic">parliament buildings</term>
             </subject>
-            <subject dataDate="2016-03-17-16-49-57">
+            <subject>
                 <term refid="300005993" vocab="aat" type="conceptTopic">government office buildings</term>
             </subject>
-            <subject dataDate="2015-04-20-10-53-51">
+            <subject>
                 <term refid="300006014" vocab="aat" type="conceptTopic">legislative buildings</term>
             </subject>
             <subject>
@@ -108,6 +144,7 @@
         </subjectSet>
         <techniqueSet>
             <technique refid="300386948" vocab="aat">stonemasonry</technique>
+            <technique refid="300002557" vocab="aat">bearing walls</technique>
         </techniqueSet>
         <titleSet>
             <title pref="true" type="descriptive">Houses of Parliament</title>
@@ -120,4 +157,82 @@
             <worktype refid="300263552" vocab="aat">architecture</worktype>
         </worktypeSet>
     </work>
+   <image id="i_Ex164_architecture_Parliement_1"
+          href="https://upload.wikimedia.org/wikipedia/commons/e/e2/The_Houses_of_Parliament%2C_London_%282848413682%29.jpg">
+      <agentSet>
+         <agent dataDate="2016-03-17-16-40-25">
+            <name extent="photographer: mwanasimba"
+                  refid="137022054"
+                  type="corporate"
+                  vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date type="creation" dataDate="2016-03-17-16-40-41">
+            <earliestDate>
+               <date>2006-08-13</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      </locationSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex164_architecture_Parliement">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="http://creativecommons.org/licenses/by-sa/2.0/deed.en"
+                 type="copyrighted"
+                 dataDate="2015-04-20-11-05-07">
+            <rightsHolder>mwanasimba</rightsHolder>
+            <text>CC BY-SA 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-04-22-12-58-18">
+            <refid type="URI">http://commons.wikimedia.org/wiki/File:The_Houses_of_Parliament,_London_(2848413682).jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">The Houses of Parliament, London</title>
+      </titleSet>
+   </image>
+   <image id="i_Ex164_architecture_Parliement_2"
+          href="https://upload.wikimedia.org/wikipedia/commons/b/b2/Old_Palace_Yard_corner.jpg">
+      <agentSet>
+         <agent dataDate="2016-08-09">
+            <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+            <role type="code" vocab="marcrelator">col</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <date type="creation" dataDate="2016-08-09">
+            <earliestDate>
+               <date>2009-02-20</date>
+            </earliestDate>
+         </date>
+      </dateSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex164_architecture_Parliement">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights href="https://creativecommons.org/licenses/by/2.0/deed.en"
+                 type="copyrighted"
+                 dataDate="2016-08-09">
+            <rightsHolder>neiljs</rightsHolder>
+            <text>CC BY 2.0</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2016-08-09">
+            <refid type="URI">https://commons.wikimedia.org/wiki/File:Old_Palace_Yard_corner.jpg</refid>
+            <name type="electronic">Wikimedia Commons</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">File:Old Palace Yard corner.jpg</title>
+      </titleSet>
+   </image>
 </vra>

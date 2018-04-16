@@ -2,35 +2,32 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_Ex059_photography_Collection"
-          href="http://www.getty.edu/collection/GRI/enlarge/grioc0000270-E.jpg">
+   <image id="i_Ex121_decoutil_Medal_1"
+          href="http://www.getty.edu/museum/media/images/web/download/00144901.jpg">
       <agentSet>
-         <agent dataDate="2015-11-12-15-51-08">
-            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+         <agent dataDate="2016-02-02-16-40-49">
+            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
             <role type="code" vocab="marcrelator">cre</role>
          </agent>
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex059_photography_Collection">attachment</relation>
+                   relids="w_Ex121_decoutil_Medal">attachment</relation>
       </relationSet>
       <rightsSet>
-         <rights 
-                 type="publicDomain"
-                 source="http://search.getty.edu/gri/records/griobject?objectid=798525144"
-                 dataDate="2015-11-12-15-52-07">
+         <rights type="publicDomain" dataDate="2016-02-02-16-41-10">
             <rightsHolder>J. Paul Getty Museum</rightsHolder>
             <text>Digital image courtesy of the Getty's Open Content Program.</text>
          </rights>
       </rightsSet>
       <sourceSet>
-         <source  dataDate="2016-03-10-13-01-39">
-            <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=798525144</refid>
+         <source dataDate="2016-02-02-16-41-34">
+            <refid type="URI">http://www.getty.edu/art/collection/objects/1239/unknown-maker-medal-of-emperor-rudolf-ii-1552-1612-czech-about-1600/?artview=dor5337</refid>
             <name type="electronic">J. Paul Getty Museum</name>
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Portrait of a Peruvian tapada leaning against a balustrade</title>
+         <title type="generalView">Object overall</title>
       </titleSet>
    </image>
 </vra>

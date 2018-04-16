@@ -145,7 +145,7 @@
 		<term refid="1000056" vocab="tgn" type="geographicPlace">Perú</term>
 	    </subject>
 	    <subject>
-		<term refid="140637122" vocab="viaf" type="descriptiveTopic">unknown Native Andean</term>
+		<term refid="140637122" vocab="viaf" type="descriptivetopic">unknown Native Andean</term>
 	    </subject>
         </subjectSet>
         <techniqueSet>
@@ -160,35 +160,4 @@
             <worktype refid="300127141" vocab="aat">cartes-de-visite</worktype>
         </worktypeSet>
     </collection>
-   <image id="i_Ex059_photography_Collection"
-          href="http://www.getty.edu/collection/GRI/enlarge/grioc0000270-E.jpg">
-      <agentSet>
-         <agent dataDate="2015-11-12-15-51-08">
-            <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-            <role type="code" vocab="marcrelator">cre</role>
-         </agent>
-      </agentSet>
-      <relationSet>
-         <relation type="imageOf"
-                   relids="c_Ex059_photography_Collection">attachment</relation>
-      </relationSet>
-      <rightsSet>
-         <rights 
-                 type="publicDomain"
-                 source="http://search.getty.edu/gri/records/griobject?objectid=798525144"
-                 dataDate="2015-11-12-15-52-07">
-            <rightsHolder>J. Paul Getty Museum</rightsHolder>
-            <text>Digital image courtesy of the Getty's Open Content Program.</text>
-         </rights>
-      </rightsSet>
-      <sourceSet>
-         <source  dataDate="2016-03-10-13-01-39">
-            <refid type="URI">http://search.getty.edu/gri/records/griobject?objectid=798525144</refid>
-            <name type="electronic">J. Paul Getty Museum</name>
-         </source>
-      </sourceSet>
-      <titleSet>
-         <title type="generalView">Portrait of a Peruvian tapada leaning against a balustrade</title>
-      </titleSet>
-   </image>
 </vra>

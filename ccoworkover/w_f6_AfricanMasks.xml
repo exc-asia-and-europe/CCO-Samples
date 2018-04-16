@@ -63,10 +63,10 @@ The mask is a sensitive, idealized portrait, depicting its subject with softly m
             <material pref="false" refid="300011857" type="medium" vocab="aat">ivory</material>
         </materialSet>
         <relationSet>
-            <relation pref="true" relids="i_aa0b1dca-99e0-4e1d-ad7e-56c6298cc8d8" type="imageIs">frontal view</relation>
-            <relation pref="false" relids="i_53a20664-2e2d-4e6d-ba0f-77e44a6acd7b" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_86eebddc-a808-4c13-b08d-e4a4cfde441f" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_5ed2b6bb-e26f-4cf0-ae63-42fe3ae20c2f" type="imageIs">general view</relation>
+            <relation pref="true" relids="i_f6_AfricanMasks_2" type="imageIs">frontal view</relation>
+            <relation pref="false" relids="i_f6_AfricanMasks_3" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_f6_AfricanMasks_4" type="imageIs">general view</relation>
+            <relation pref="false" relids="i_f6_AfricanMasks_1" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-12-03-13-27-14">

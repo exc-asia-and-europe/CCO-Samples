@@ -104,7 +104,7 @@ Art of Alchemy (October 11, 2016 to February 12, 2017)
         <inscriptionSet>
 	   <inscription>
 		<author refid="100627156" vocab="viaf">unknown Czech</author>
-		<position>obverse</position>
+		<position>obverse<position>
                 <text type="text" xml:lang="lat">RVDOLPHVS II ROM IMP AVG REX HVNG BOE</text>
 		<text type="translation" xml:lang="eng">Rudolf the Supreme Emperor of the Romans, King of Hungary and Bohemia</text>
 	   </inscription>
@@ -181,7 +181,7 @@ Art of Alchemy (October 11, 2016 to February 12, 2017)
 	</measurementsSet>
         <relationSet>
 	   <relation pref="true" relids="i_Ex121_decoutil_Medal_1" type="imageIs">obverse</relation>
-            <relation pref="false" relids="i_Ex121_decoutil_Medal_2" type="imageIs">general view</relation>
+	   <relation pref="false" relids="i_b4e3da08-2991-44a6-b42a-d1aceabaa850" type="imageIs">general view</relation>
 	</relationSet>
 	<rightsSet>
 	    <rights type="other" source="J. Paul Getty Museum">
@@ -282,34 +282,6 @@ Art of Alchemy (October 11, 2016 to February 12, 2017)
       </sourceSet>
       <titleSet>
          <title type="generalView">Object overall</title>
-      </titleSet>
-   </image>
-   <image id="i_Ex121_decoutil_Medal_2"
-          href="http://www.getty.edu/museum/media/images/web/download/00144901.jpg">
-      <agentSet>
-         <agent>
-            <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-            <role type="code" vocab="marcrelator">cre</role>
-         </agent>
-      </agentSet>
-      <relationSet>
-         <relation type="imageOf"
-                   relids="w_Ex121_decoutil_Medal">attachment</relation>
-      </relationSet>
-      <rightsSet>
-         <rights type="publicDomain">
-            <rightsHolder>J. Paul Getty Museum</rightsHolder>
-            <text>Digital image courtesy of the Getty's Open Content Program.</text>
-         </rights>
-      </rightsSet>
-      <sourceSet>
-         <source>
-            <refid type="URI">http://www.getty.edu/art/collection/objects/1239/unknown-maker-medal-of-emperor-rudolf-ii-1552-1612-czech-about-1600/?artview=dor5337</refid>
-            <name type="electronic">J. Paul Getty Museum</name>
-         </source>
-      </sourceSet>
-      <titleSet>
-         <title type="generalView">Full back</title>
       </titleSet>
    </image>
 </vra>

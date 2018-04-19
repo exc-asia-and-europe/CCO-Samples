@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_Ex089_timebased_Performance" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <dates type="life">
+                   <earliestDate circa="false"></earliestDate>
+                   <latestDate circa="false"></latestDate>
+               </dates>
+               <name refid="" type="personal" vocab="viaf"></name>
+               <role type="code" vocab="marcrelator"></role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid=""></culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false"></date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false"></date>
+               </latestDate>
+           </date>
+           <date type="exhibition" source="">
+               <earliestDate>
+                   <date circa="false"></date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false"></date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description>
+               <text></text>
+               <author>
+                   <name refid="" type="" vocab=""></name>
+                   <role type="code" vocab="marcrelator"></role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription>
+               <author refid="" vocab=""></author>
+               <position></position>
+               <text type="text"></text>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <location type="repository">
+               <refid type="accession"></refid>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="" type="medium" vocab="aat"></material>
+           <material refid="" type="support" vocab="aat"></material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm"></measurements>
+           <measurements type="width" unit="cm"></measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_Ex089_timebased_Performance"></relation>
+           <relation></relation>
+       </relationSet>
+       <sourceSet>
+           <source>
+               <refid type="URI"></refid>
+               <name type="electronic"></name>
+           </source>
+           <source>
+               <refid type="URI"></refid>
+               <name type="electronic"></name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="" vocab="" type=""></term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="" vocab=""></technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="repository"></title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="" vocab="aat"></worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_Ex089_timebased_Performance" href="">
+        <agentSet>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_Ex089_timebased_Performance">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="">
+                <rightsHolder></rightsHolder>
+                <text></text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI"></refid>
+                <name type="electronic"></name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView"></title>
+        </titleSet>
+    </image>
+</vra>

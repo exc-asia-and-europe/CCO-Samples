@@ -1,96 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <work id="w_029_printsdr_ManneristDrawing" refid="c_CCO_Examples">
+   <work id="w_Ex029_printsdr_ManneristDrawing" refid="c_CCO_Examples">
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1503</earliestDate>
+                   <latestDate circa="false">1540</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="17231857" type="personal" vocab="viaf">Parmigianino</name>
+               <role type="code" vocab="marcrelator">drm</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+            <culturalContext vocab="AAT" refid="300111198">Italian (culture or style)</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+	   <display>creation: mid 1520s</display>
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1523</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1527</date>
                </latestDate>
            </date>
-           <date type="exhibition" source="">
+           <date pref="false" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="true" type="about">1525</date>
+               </earliestDate>
+           </date>
+           <date pref="false" type="exhibition" source="National Gallery of Art" href="https://www.nga.gov/exhibitions/1979/chicago_drawings.html">
+               <earliestDate>
+                   <date circa="false">1979-12-09</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1980-03-02</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Art Institute Chicago" href="http://www.artic.edu/research/1980-exhibition-history">
+               <earliestDate>
+                   <date circa="false">1980-04-17</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1980-07-31</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Art Institute Chicago">
+               <earliestDate>
+                   <date circa="false">1997-04-10</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1997-07-22</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Art Institute Chicago">
+               <earliestDate>
+                   <date circa="false">2014-11-01</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2015-02-01</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="Italian Drawings before 1600 in The Art Institute of Chicago: A Catalog of the Collection. Folds McCullagh, Suzanne, and Laura M. Giles. Princeton, New Jersey: Princeton University Press, 1993. Page: 92 ff.">
+               <text>This drawing may have been a preparatory study for several figures and drapery for a religious composition, possibly for a Marriage of the Virgin. It was used by Hendrik van der Borcht the younger in an etching of six standing apostles.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="Art Institute Chicago">
+               <text>This drawing exemplifies the style Parmigianino developed after his stay in Rome (1524–27), where he would have been exposed to Raphael’s frescoes in the Vatican. It may be a preparatory drawing for a painting of a religious subject; the composition has been linked to the Marriage of the Virgin and a representation of six apostles. Parmigianino’s image has been copied many times by other artists, including Count Antonio Maria Zanetti, who bought this and other drawings by Parmigianino from the Earl of Arundel.</text>
+               <author>
+                    <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Art Institute Chicago">
+               <text>Ownership History
+Thomas Howard, 2nd Earl of Arundel (died 1646), England [inscription on mount]; bequeathed to his wife, Countess of Arundel, 1646-1654 [McCullagh and Giles 1997]; by descent to her son, William Howard, Lord Stratford, Tart Hall, London, to 1680; sold by his estate, Tart Hall (Stratford House), London, 1720 [McCullagh and Giles 1997]. Antonio Maria Zanetti (died 1757), Venice [Lugt Suppl. 2992f]; by descent through three generations of the Zanetti family [Lugt Suppl. 2992]; sold by the Zanetti family to Baron Dominique Vivant-Denon (died 1825), Paris, in 1789 [Lugt 779; McCullagh and Giles 1997]. Samuel Woodburn (died 1853), London [Lugt 2584; inscription]; sold, London, June 12-14, 1860. Charles Sackville Bale (died 1880), London, [Lugt 640]; sold, Christie's, London, June 10, 1881, Bale sale, lot 2397, as "A Group of Seven Figures," to Riggale [annotated sales catalogue]. Sold, Frederick Muller, Amsterdam, June 26, 1946, lot 862A. Sold by P. &amp; D. Colnaghi and Company, London, to the Art Institute, 1978.</text>
+               <author>
+                    <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Art Institute Chicago">
+               <text>Exhibition History
+
+The Art Institute of Chicago, "151 Italian Drawings from the Art Institute," 1979-1980, cat. 16, cat. by Harold Joachim and Suzanne Folds McCullagh; also traveled to Washington, D.C., the National Gallery of Art, cat. 16, pl. 22.
+
+The Art Institute of Chicago, "Drawings Rediscovered: Italian Drawings before 1600 in the Art Institute of Chicago," April 10, 1997-July 22, 1997.
+
+The Art Institute of Chicago, "Strokes of Genius: Italian Drawings from the Goldman Collection," November 1, 2014-February 1, 2015.</text>
+               <author>
+                    <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+                    <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
        <inscriptionSet>
+	   <display>inscribed verso on mount, at left, in pen and brown ink (by. A. M. Zanetti): e La stampa intagliata all’acqua / forte in Londra da Enrico Vander / Borcht da [questo] disegno, che era di / quelli dello studio famoso del S. Conte / d’Arondell Inglese; at center left, in graphite: Parmigianino; at lower left, in graphite: S. Woodburn</display>
            <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
+               <author refid="73991459" vocab="viaf">Zanetti, Antonio Maria</author>
+               <position>verso on mount, at left</position>
+               <text xml:lang="ita" type="text">e La stampa intagliata all’acqua / forte in Londra da Enrico Vander / Borcht da [questo] disegno, che era di / quelli dello studio famoso del S. Conte / d’Arondell Inglese</text>
+           </inscription>
+           <inscription>
+               <author refid="17231857" vocab="viaf">Parmigianino</author>
+               <position>at center left</position>
+               <text type="signature">Parmigianino</text>
+           </inscription>
+           <inscription>
+               <author refid="13200781" vocab="viaf">Woodburn, Samuel</author>
+               <position>at lower left</position>
+               <text type="signature">S. Woodburn</text>
            </inscription>
        </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository">
+               <refid type="accession">1978.275</refid>
+                <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+		<name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
+		<name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
+           <location pref="false" type="creation" source="CONA">
+ 		<name refid="7000874" type="geographic" vocab="tgn" extent="inhabited place">Rome</name>
+		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+	   <location pref="false" type="exhibition" source="Art Institute Chicago">
+                <refid type="other">The Art Institute of Chicago, "151 Italian Drawings from the Art Institute," 1979-1980, cat. 16, cat. by Harold Joachim and Suzanne Folds McCullagh</refid>
+                <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+		<name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
+		<name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+	    <location pref="false" type="exhibition" source="National Gallery of Art" href="https://www.nga.gov/exhibitions/1979/chicago_drawings.html">
+                <refid type="other">Italian Drawings in the Art Institute of Chicago</refid>
+                 <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+	    <location pref="false" type="exhibition" source="Art Institute Chicago">
+                <refid type="other">The Art Institute of Chicago, "Drawings Rediscovered: Italian Drawings before 1600 in the Art Institute of Chicago," April 10, 1997-July 22, 1997.</refid>
+                <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+		<name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
+		<name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+	    <location pref="false" type="exhibition" source="Art Institute Chicago">
+                <refid type="other">The Art Institute of Chicago, "Strokes of Genius: Italian Drawings from the Goldman Collection," November 1, 2014-February 1, 2015.</refid>
+                <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+		<name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
+		<name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+	   <display>Pen and brown ink and brush and brown wash, on tan laid paper, laid down on tan laid card (Source: Art Institute Chicago)</display>
+           <material refid="300015012" type="medium" vocab="aat">ink</material>
+           <material refid="300011051" type="medium" vocab="aat" source="CONA">wash</material>
+           <material refid="300014184" type="support" vocab="aat">laid paper</material>
+           <material refid="300014224" type="support" vocab="aat" source="CONA">cardboard</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm">12.4</measurements>
+           <measurements type="width" unit="cm">13.1</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_029_printsdr_ManneristDrawing"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex029_printsdr_ManneristDrawing"></relation>
+           <relation type="modelFor">Hendrik van der Borcht the younger (Dutch, 1614-ca.1690); etching; Six Apostles Standing; 1636/1646 </relation>
+           <relation type="modelFor" source="cardscorporate" href="http://cardscorporate.com/cdwa/examples/mccull/text/related.htm">Zanetti, Antonio Maria, chiaroscuro woodcut ( in reverse), 1723, published: Zanetti, Antonio Maria. Raccolta di varie stampe a chiaroscuro trattate dai disegni originali di Francesco Mazzuola, detto il Parmigianino e d'altri insigni autori da Anton Maria Zanetti, Q. in Gir che gli stessi disegni possiede. Venice, 1749); Bartsch, Adam. Le Peintre-graveur.Vienna: J. V. Degan, 1811, vol. 12, p. 173, no. 32; Karpinski, Caroline. Italian Chiaroscuro Woodcuts (Bartsch vol. XII), Le Peintre Graveur Illustré;. University Park and London: Pennsylvania State University Press, 1971, vol. 1,173.32); Weigel, Rudolf. Die Werke der Maler in ihren Handzeichnungen. Leipzig: Rudolf Weigel, 1865, p. 469, nos. 5575-77).</relation>
+           <relation type="modelFor" source="cardscorporate" href="http://cardscorporate.com/cdwa/examples/mccull/text/related.htm">Mlle Louise Bouteiller, Baron Dominique Vivant Denon(1747–1825), published this copy lithograph (in reverse), in the Monuments des arts du dessin.... Paris: Brunet Denon, 1829, vol. 3, p. 4, pl. 161b.</relation>
+           <relation type="modelFor" source="cardscorporate" href="http://cardscorporate.com/cdwa/examples/mccull/text/related.htm">Francesco Rosaspina, engraving, published by Lodovico Inig. Disegni originali di Francesco Mazzola Parte della famosa Raccolta del Sig. Co. d'Arondell, ora presso de Non (Denon). Bologna, n.d.</relation>
        </relationSet>
+       <rightsSet>
+           <rights type="other" source="Art Institute Chicago">
+               <rightsHolder>Art Institute Chicago</rightsHolder>
+               <text>Margaret Day Blake Collection</text>
+           </rights>
+       </rightsSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_29_mannerist_drawing_preparatory_for_an_etching</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 29: Mannerist drawing, preparatory for an etching.</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://www.artic.edu/aic/collections/artwork/52668</refid>
+               <name type="electronic">Art Institute Chicago</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000117</refid>
+               <name type="electronic">CONA</name>
+           </source>
+           <source>
+               <refid type="URI">http://cardscorporate.com/cdwa/examples/mccull/text/mccull.htm</refid>
+               <name type="electronic">The description of Group of Nine Standing Figures, a drawing by Francesco Mazzola (Parmigianino), according to the Categories for the Description of Works of Art</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300021144" vocab="aat">Mannerist</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
+           </subject>
+           <subject>
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
+           </subject>
+           <subject>
+               <term refid="300081067" vocab="aat" type="descriptiveTopic">drapery studies</term>
+           </subject>
+           <subject>
+               <term refid="73A42" vocab="iconclass" type="iconographicTopic">marriage of Mary and Joseph</term>
+           </subject>
+           <subject>
+               <term refid="11I3" vocab="iconclass" type="iconographicTopic">the twelve apostles (as a group)</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300162124" vocab="aat">lining (process)</technique>
+           <technique refid="300404638" vocab="aat">ink wash</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title type="repository">Group of Nine Standing Figures</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300068293" vocab="aat">preparatory drawings</worktype>
+           <worktype refid="300033973" vocab="aat">drawings</worktype>
        </worktypeSet>
    </work>
-    <image id="i_029_printsdr_ManneristDrawing" href="">
+    <image id="i_Ex029_printsdr_ManneristDrawing" href="https://lakeimagesweb.artic.edu/iiif/2/969a9fe4-09ed-cfaf-752d-23a2e2958954/full/!800,800/0/default.jpg">
         <agentSet>
             <agent>
                 <name></name>
@@ -98,11 +247,11 @@
             </agent>
         </agentSet>
         <relationSet>
-            <relation type="imageOf" relids="w_029_printsdr_ManneristDrawing">attachment</relation>
+            <relation type="imageOf" relids="w_Ex029_printsdr_ManneristDrawing">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
+            <rights type="copyrighted">
+                <rightsHolder>http://www.artic.edu/aic/collections/artwork/52668</rightsHolder>
                 <text></text>
             </rights>
         </rightsSet>

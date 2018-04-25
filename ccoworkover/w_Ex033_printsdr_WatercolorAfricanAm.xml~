@@ -4,24 +4,32 @@
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1893</earliestDate>
+                   <latestDate circa="false">1973</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="69794287" type="personal" vocab="viaf">Hayden, Palmer C.</name>
+               <role type="code" vocab="marcrelator">art</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+	   <culturalContext vocab="aat" refid="300018125">African American</culturalContext>
+           <culturalContext vocab="AAT" refid="300111188">French (culture or style)</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+	   <display>created ca. 1930</display>
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1925</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1935</date>
                </latestDate>
+           </date>
+           <date pref="false" type="creation">
+               <earliestDate>
+                   <date circa="true" type="about">1930</date>
+               </earliestDate>
            </date>
            <date type="exhibition" source="">
                <earliestDate>
@@ -34,10 +42,10 @@
        </dateSet>
        <descriptionSet>
            <description>
-               <text></text>
+               <text>A watercolor painting in the modern style, which had first developed in New York, by a prolific African-American artist that documents the “Negro Colony” of artists in Paris during the 1920s and 1930s.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
@@ -49,8 +57,13 @@
            </inscription>
        </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository">
+		<refid type="accession" source="The Metropolitan Museum of Art">1975.125</refid>
+		<name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
@@ -63,8 +76,7 @@
            <measurements type="width" unit="cm" source="The Metropolitan Museum of Art">46</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex033_printsdr_WatercolorAfricanAm"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex033_printsdr_WatercolorAfricanAm">general view</relation>
        </relationSet>
        <sourceSet>
            <source>

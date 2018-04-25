@@ -4,116 +4,156 @@
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1660</earliestDate>
+                   <latestDate circa="false">1744</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="5199920" type="personal" vocab="viaf">Lepautre, Pierre</name>
+               <role type="code" vocab="marcrelator">egr</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="AAT" refid="300111188" source="PRIMO">French (culture or style)</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+           <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+           <display>created ca. 1690</display>
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1685</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1695</date>
                </latestDate>
            </date>
-           <date type="exhibition" source="">
+           <date pref="false" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="true" type="about">1690</date>
                </earliestDate>
-               <latestDate>
-                   <date circa="false"></date>
-               </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
            <description>
-               <text></text>
+               <text>This engraving is plate number 2 in the volume.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
        <inscriptionSet>
            <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
+               <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
+               <position>in the plate, lower center</position>
+               <text type="signature">Le Pautre</text>
+           </inscription>
+           <inscription>
+               <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
+               <position>upper center</position>
+               <text xml:lang="fre" type="text">CABINET DES BEAUX ARTS</text>
+               <text xml:lang="eng" type="translation" source="HRA">Cabinet of fine arts</text>
+           </inscription>
+           <inscription>
+               <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
+               <position>lower left</position>
+               <text xml:lang="fre" type="text">LE GENIE</text>
+               <text xml:lang="eng" type="translation" source="HRA">the genius</text>
+           </inscription>
+           <inscription>
+               <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
+               <position>lower right</position>
+               <text xml:lang="fre" type="text">LE TREVAIL</text>
+               <text xml:lang="eng" type="translation" source="HRA">the work</text>
            </inscription>
        </inscriptionSet>
        <locationSet>
            <location type="repository">
-               <refid type="accession"></refid>
+               <refid type="accession">88-B12341[plate 2]</refid>
+               <name refid="125395425" type="corporate" vocab="viaf">Getty Research Institute</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <display>engraving on laid paper</display>
+           <material refid="300015012" type="medium" vocab="aat" source="HRA">ink</material>
+           <material refid="300014184" type="support" vocab="aat">laid paper</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <display>plate mark: 17.6 x 26.4 cm (6 7/8 x 10 3/8 inches), folio: 24.5 x 30.7 cm (9 3/4 x 12 inches)</display>
+           <measurements extent="plate mark" type="height" unit="cm">17.6</measurements>
+           <measurements extent="plate mark" type="width" unit="cm">26.4</measurements>
+           <measurements extent="folio" type="height" unit="cm">24.5</measurements>
+           <measurements extent="folio" type="width" unit="cm">30.7</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex048_printsdr_PrintPartVolume"></relation>
-           <relation></relation>
+           <relation pref="true" type="imageIs" relids="i_Ex048_printsdr_PrintPartVolume">general view</relation>
+           <relation pref="false" type="partOf" href="http://primo.getty.edu/GRI:GETTY_ALMA21122298780001551">Le Cabinet des Beaux arts, ou, Recueile d’estampes gravées de’après les tableaux d’un plafond ou les beaux arts sont representés avec explication de ces mêmes tableaux. Dedication by Charles or Claude Perrault. Paris: chez G. Edelinck, avec privilège du Roy, et chez André Charles Boulle aux Galleries du Louvre, 1690.</relation>
        </relationSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
-           </source>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_48_print_part_of_a_volume</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 48: Print, part of a volume.</name>
            </source>
        </sourceSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300124520" vocab="aat" type="descriptiveTopic">interior views</term>
+           </subject>
+           <subject>
+               <term refid="300411640" vocab="aat" type="descriptiveTopic">fine art</term>
+           </subject>
+           <subject>
+               <term refid="300028051" vocab="aat" type="descriptiveTopic">books</term>
+           </subject>
+           <subject>
+               <term refid="300004433" vocab="aat" type="descriptiveTopic">libraries (rooms)</term>
+           </subject>
+           <subject>
+               <term refid="300002767" vocab="aat" type="descriptiveTopic">doorways</term>
+           </subject>
+           <subject>
+               <term refid="300047090" vocab="aat" type="descriptiveTopic">sculpture</term>
+           </subject>
+           <subject>
+               <term refid="300343358" vocab="aat" type="descriptiveTopic">curios</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300053225" vocab="aat">engraving</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title pref="true" type="inscribed">Le Cabinet des Beaux Arts</title>
+           <title pref="false" type="descriptive">View through a Door into a Library</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300041340" vocab="aat">engravings</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex048_printsdr_PrintPartVolume" href="">
+    <image id="i_Ex048_printsdr_PrintPartVolume" href="https://archive.org/stream/gri_cabinetdesbe00perr#page/n5/mode/2up">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                <name refid="125395425" type="corporate" vocab="viaf">Getty Research Institute</name>
+                <role type="code" vocab="marcrelator">pht</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex048_printsdr_PrintPartVolume">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="publicDomain">
+                <rightsHolder>Getty Research Institute</rightsHolder>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">https://archive.org/details/gri_cabinetdesbe00perr</refid>
+                <name type="electronic">Le cabinet des beaux arts at the Internet Archive</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Le Cabinet des Beaux Arts</title>
         </titleSet>
     </image>
 </vra>

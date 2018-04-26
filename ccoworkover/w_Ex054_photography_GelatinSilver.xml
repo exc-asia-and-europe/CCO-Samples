@@ -4,116 +4,358 @@
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1894</earliestDate>
+                   <latestDate circa="false">1985</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="71392944" type="personal" vocab="viaf">Kertész, André</name>
+               <role type="code" vocab="marcrelator">pht</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300107956" source="J. Paul Getty Museum">American (North American)</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1926</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1926</date>
                </latestDate>
            </date>
-           <date type="exhibition" source="">
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1987-07-07</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1987-09-06</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">1991-06-20</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1991-11-10</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">1994-06-28</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1994-09-04</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">1995-01-24</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1995-04-02</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">1997-12-01</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1998-03-01</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2004-03-16</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2004-07-25</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2007-12-18</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2008-04-13</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2010-09-28</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2011-02-06</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2011-02-25</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2011-05-22</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2011-06-11</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2011-09-11</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="J. Paul Getty Museum online. www.getty.edu Page: accessed 2 December 2006)">
+               <text>Characteristic of Kertész’ work as a “Naturalist-Surrealist,” this work combines prosaic observations of life combined with surrealistic perspective. The artist said of this photograph: “The door to [Mondrian’s] staircase was always shut, but as I opened it in my mind’s eye the two sights Earliested to present themselves as two halves of an interesting image that I thought should be unified.”</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="J. Paul Getty Museum">
+               <text>I went to [Piet Mondrian's] studio and instinctively tried to capture in my photographs the spirit of his paintings. He simplified, simplified, simplified. The studio with its symmetry dictated the composition. He has a vase with a flower, but the flower was artificial. It was colored by him to match the studio.
+                   -- André Kertész
+                   
+                   Decades after this photograph was made, André Kertész recalled the circumstances surrounding its creation. The composition is neatly divided in half: on the left is the intimate interior of the room in which Kertész stood, showing Mondrian's straw boater on a peg and a table with the flower mentioned above. The vase perches precariously near the edge of the table, as if Kertész moved it to include it in the photographic frame. On the right, seen through a doorway, the curving banister and stairs soften the profusion of right angles and straight lines in the foyer.</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="J. Paul Getty Museum">
+               <text>Exhibitions
+Rare States and Unusual Subjects: Photographs by Paul Strand, Andre Kertesz, and Man Ray (July 7 to September 6, 1987)
+                   The J. Paul Getty Museum (Malibu), July 7 to September 6, 1987
+                   
+The 1920s: Age of the Metropolis (June 20 to November 10, 1991)
+                   Montreal Museum of Fine Arts (Montréal), June 20 to November 10, 1991
+                   
+André Kertész: A Centennial Tribute (June 28 to September 4, 1994)
+                   The J. Paul Getty Museum (Malibu), June 28 to September 4, 1994
+                   
+Arrows of Time: Photographs from the J. Paul Getty Museum (January 24 to April 2, 1995)
+                   Armand Hammer Museum of Art and Cultural Center at UCLA (Los Angeles), January 24 to April 2, 1995
+                   
+Capturing Time: A Celebration of Photographs (December 1, 1997 to March 1, 1998)
+                   The J. Paul Getty Museum at the Getty Center (Los Angeles), December 1, 1997 to March 1, 1998
+                   
+Photographers of Genius (March 16 to July 25, 2004)
+                   The J. Paul Getty Museum at the Getty Center (Los Angeles), March 16 to July 25, 2004
+                   
+André Kertész Photographs: Seven Decades (December 18, 2007 to April 13, 2008)
+                   The J. Paul Getty Museum at the Getty Center (Los Angeles), December 18, 2007 to April 13, 2008
+                   
+André Kertész (September 28, 2010 to September 11, 2011)
+                   Jeu de Paume (Paris), September 28, 2010 to February 6, 2011
+                   Fotomuseum Winterthur, February 25 to May 22, 2011
+                   Martin-Gropius-Bau (Berlin), June 11 to September 11, 2011</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
        <inscriptionSet>
            <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
+               <author refid="71392944" vocab="viaf">Kertész, André</author>
+               <position>lower left</position>
+               <text type="signature">AKertész</text>
+           </inscription>
+           <inscription>
+               <author refid="71392944" vocab="viaf">Kertész, André</author>
+               <position>lower right</position>
+               <text type="text">Paris</text>
            </inscription>
        </inscriptionSet>
        <locationSet>
            <location type="repository">
-               <refid type="accession"></refid>
+               <refid type="accession">86.XM.706.10</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+          		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+          		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+          		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+          		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location type="creation" source="J. Paul Getty Museum">
+               <name refid="7008038" type="geographic" vocab="tgn" extent="inhabited place">Paris</name>
+               <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">Rare States and Unusual Subjects: Photographs by Paul Strand, Andre Kertesz, and Man Ray (July 7 to September 6, 1987)</refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">The 1920s: Age of the Metropolis (June 20 to November 10, 1991) </refid>
+               <name refid="231196666" type="corporate" vocab="viaf">Montreal Museum of Fine Arts</name>
+               <name refid="7013051" type="geographic" vocab="tgn" extent="inhabited place">Montreal</name>
+               <name refid="7005804" type="geographic" vocab="tgn" extent="province">Quebec</name>
+               <name refid="7005685" type="geographic" vocab="tgn" extent="nation">Canada</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">André Kertész: A Centennial Tribute (June 28 to September 4, 1994) </refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">Arrows of Time: Photographs from the J. Paul Getty Museum (January 24 to April 2, 1995) </refid>
+               <name refid="129451824" type="corporate" vocab="viaf">Armand Hammer Museum of Art and Cultural Center</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">Capturing Time: A Celebration of Photographs (December 1, 1997 to March 1, 1998)</refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">Photographers of Genius (March 16 to July 25, 2004)</refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">André Kertész Photographs: Seven Decades (December 18, 2007 to April 13, 2008)</refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">André Kertész (September 28, 2010 to September 11, 2011)</refid>
+               <name refid="160898716" type="corporate" vocab="viaf">Jeu de paume</name>
+               <name refid="7008038" type="geographic" vocab="tgn" extent="inhabited place">Paris</name>
+               <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">André Kertész (September 28, 2010 to September 11, 2011)</refid>
+               <name refid="140275192" type="corporate" vocab="viaf">Fotomuseum Winterthur</name>
+               <name refid="7007301" type="geographic" vocab="tgn" extent="inhabited place">Winterthur</name>
+               <name refid="7003765" type="geographic" vocab="tgn" extent="canton">Zürich</name>
+               <name refid="7011731" type="geographic" vocab="tgn" extent="nation">Switzerland</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">André Kertész (September 28, 2010 to September 11, 2011)</refid>
+               <name refid="312596322" type="corporate" vocab="viaf">Martin-Gropius-Bau</name>
+               <name refid="7003712" type="geographic" vocab="tgn" extent="inhabited place">Berlin</name>
+               <name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300011812" type="medium" vocab="aat" source="HRA">gelatin</material>
+           <material refid="300011029" type="medium" vocab="aat" source="HRA">silver</material>
+           <material refid="300014109" type="support" vocab="aat" source="HRA">paper</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm">10.9</measurements>
+           <measurements type="width" unit="cm">7.9</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex054_photography_GelatinSilver"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex054_photography_GelatinSilver">general view</relation>
+           <relation type="relatedTo" href="http://www.getty.edu/art/collection/objects/55759/andre-kertesz-chez-mondrian-american-1926/" refid="84.XM.193.26" source="CONA" extent="from same negative">Chez Mondrian at The J. Paul Getty Museum</relation>
        </relationSet>
+       <rightsSet>
+           <rights type="copyrighted" source="J. Paul Getty Museum">
+               <rightsHolder>Estate of André Kertész</rightsHolder>
+               <text>© Estate of André Kertész</text>
+           </rights>
+       </rightsSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_54_photograph_gelatin_silver_print</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 54: Photograph, gelatin silver print</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://www.getty.edu/art/collection/objects/55861/andre-kertesz-chez-mondrian-paris-american-1926/</refid>
+               <name type="electronic">The J. Paul Getty Museum</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000071</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300021512" vocab="aat">Surrealist</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300124520" vocab="aat" type="descriptiveTopic">interior views</term>
+           </subject>
+           <subject>
+               <term refid="300004063" vocab="aat" type="descriptiveTopic">apartments</term>
+           </subject>
+           <subject>
+               <term refid="300002803" vocab="aat" type="descriptiveTopic">doors</term>
+           </subject>
+           <subject>
+               <term refid="300003228" vocab="aat" type="descriptiveTopic">stairs</term>
+           </subject>
+           <subject>
+               <term refid="300264247" vocab="aat" type="descriptiveTopic">flower</term>
+           </subject>
+           <subject>
+               <term refid="300004294" vocab="aat" type="descriptiveTopic">corridors</term>
+           </subject>
+           <subject>
+               <term refid="300056024" vocab="aat" type="descriptiveTopic">light</term>
+           </subject>
+           <subject>
+               <term refid="300132254" vocab="aat" type="descriptiveTopic">vases</term>
+           </subject>
+           <subject>
+               <term refid="54151650" vocab="viaf" type="personalName">Mondrian, Piet</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300139114" vocab="aat">gelatin silver process</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title type="creator">Chez Mondrian</title>
+           <title type="repository" source="J. Paul Getty Museum">Chez Mondrian, Paris</title>
+           <title type="descriptive">Interior View of a Room and an Open Door</title>
+	   <title type="other" source="J. Paul Getty Museum">Mondrian's Studio, Paris</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300128695" vocab="aat">gelatin silver prints</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex054_photography_GelatinSilver" href="">
-        <agentSet>
-            <agent>
-                <name></name>
-                <role></role>
-            </agent>
-        </agentSet>
+    <image id="i_Ex054_photography_GelatinSilver" href="http://media.getty.edu/museum/images/web/enlarge/06237101.jpg">
         <relationSet>
             <relation type="imageOf" relids="w_Ex054_photography_GelatinSilver">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="copyrighted" source="J. Paul Getty Museum">
+                <rightsHolder>Estate of André Kertész</rightsHolder>
+                <text>© Estate of André Kertész</text>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">http://www.getty.edu/art/collection/objects/55861/andre-kertesz-chez-mondrian-paris-american-1926/</refid>
+                <name type="electronic">The J. Paul Getty Museum</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Chez Mondrian, Paris</title>
         </titleSet>
     </image>
 </vra>

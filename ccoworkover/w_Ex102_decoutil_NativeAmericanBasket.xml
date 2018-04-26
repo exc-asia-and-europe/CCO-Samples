@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_Ex102_decoutil_NativeAmericanBasket" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="" type="personal" vocab="viaf">unknown Northern Paiute </name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300017571">Northern Paiute</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+	   <display>ca. 1900 (CCO) / 1900-1920 (Smithsonian)</display>
+           <date pref="false" type="creation">
+               <earliestDate>
+                   <date circa="false">1895</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1905</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="creation">
+               <earliestDate>
+                   <date circa="true" type="about">1900</date>
+               </earliestDate>
+           </date>
+           <date pref="true" type="creation">
+               <earliestDate>
+                   <date circa="false">1900</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1920</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true">
+               <text>Catalog card: Small basketry water bottle, not pitched. Paiute. Walker River. Nevada. Collected and presented by Charles F. Nesler.</text>
+               <author>
+                   <name refid="139314661" type="corporate" vocab="viaf">National Museum of the American Indian, Smithsonian Institution</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false">
+               <text>Collection history unknown; formerly in the collection of Charles F. Nesler (1864-ca. 1940, an inspector with the US Indian Service, circa 1900); donated to MAI in 1921.</text>
+               <author>
+                   <name refid="139314661" type="corporate" vocab="viaf">National Museum of the American Indian, Smithsonian Institution</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location pref="true" type="repository">
+               <refid type="accession">10/5314</refid>
+                <name refid="139314661" type="corporate" vocab="viaf">National Museum of the American Indian, Smithsonian Institution</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation">
+                <name refid="315134190" type="geographic" vocab="viaf">Walker River Indian Reservation </name>
+		<name refid="7007526" type="geographic" vocab="tgn" extent="state">Nevada</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+	   <display>diagonal-twined partially peeled willow with horsehair handle</display>
+           <material refid="300012498" type="medium" vocab="aat">willow</material>
+           <material refid="300011819" type="medium" vocab="aat">horsehair</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm" source="Smithsonian Institution">17</measurements>
+           <measurements type="width" unit="cm" source="Smithsonian Institution">13</measurements>
+           <measurements type="depth" unit="cm" source="Smithsonian Institution">11</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_Ex102_decoutil_NativeAmericanBasket">general view</relation>
+       </relationSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_102_native_american_basket</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 102: Native American basket</name>
+           </source>
+           <source>
+               <refid type="URI">http://collections.si.edu/search/detail/edanmdm:NMAI_113693</refid>
+               <name type="electronic">Smithsonian Institution</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000135</refid>
+               <name type="electronic">CONA</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300056390" vocab="aat" type="descriptiveTopic">storage</term>
+           </subject>
+           <subject>
+               <term refid="300053892" vocab="aat" type="descriptiveTopic">transporting</term>
+           </subject>
+           <subject>
+               <term refid="300404591" vocab="aat" type="descriptiveTopic">utilitarian objects</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+	   <display>diagonal-twined partially peeled willow with horsehair handle</display>
+           <technique refid="300228538" vocab="aat">twining</technique>
+           <technique refid="300053642" vocab="aat">weaving</technique>
+           <technique refid="300053638" vocab="aat" source="CONA">braiding</technique>
+       </techniqueSet>
+       <titleSet>
+           <title pref="true" type="repository">Canteen</title>
+	   <title pref="false" type="descriptive">Small Seed or Water-Carrying Basket</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300194498" vocab="aat">baskets</worktype>
+	   <worktype refid="300237682" vocab="aat" source="CONA">canteens</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_Ex102_decoutil_NativeAmericanBasket" href="http://nmai.si.edu/searchcollections/multimedia/4139/414/044.700x700.jpg">
+        <agentSet>
+            <agent>
+                <name refid="139314661" type="corporate" vocab="viaf">National Museum of the American Indian, Smithsonian Institution</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_Ex102_decoutil_NativeAmericanBasket">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder>Smithsonian Institution</rightsHolder>
+                <text>The Smithsonian is the owner of the compilation of content that is posted on the SI Websites, which consists of text, images, audio, video, databases, design, codes and software (“Content”).</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">http://collections.si.edu/search/detail/edanmdm:NMAI_113693</refid>
+                <name type="electronic">Smithsonian Institution</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Canteen</title>
+        </titleSet>
+    </image>
+</vra>

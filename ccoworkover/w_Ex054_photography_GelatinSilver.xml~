@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_Ex054_photography_GelatinSilver" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <dates type="life">
+                   <earliestDate circa="false">1894</earliestDate>
+                   <latestDate circa="false">198</latestDate>
+               </dates>
+               <name refid="71392944" type="personal" vocab="viaf">Kertész, André</name>
+               <role type="code" vocab="marcrelator">pht</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid=""></culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">1926</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1926</date>
+               </latestDate>
+           </date>
+           <date type="exhibition" source="">
+               <earliestDate>
+                   <date circa="false"></date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false"></date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description source="J. Paul Getty Museum online. www.getty.edu Page: accessed 2 December 2006)">
+               <text>Characteristic of Kertész’ work as a “Naturalist-Surrealist,” this work combines prosaic observations of life combined with surrealistic perspective. The artist said of this photograph: “The door to [Mondrian’s] staircase was always shut, but as I opened it in my mind’s eye the two sights Earliested to present themselves as two halves of an interesting image that I thought should be unified.”</text>
+               <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription>
+               <author refid="71392944" vocab="viaf">Kertész, André</author>
+               <position>lower left</position>
+               <text type="signature">AKertész</text>
+           </inscription>
+           <inscription>
+               <author refid="71392944" vocab="viaf">Kertész, André</author>
+               <position>lower right</position>
+               <text type="text">Paris</text>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <location type="repository">
+               <refid type="accession">86.XM.706.10</refid>
+                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="300011812" type="medium" vocab="aat" source="HRA">gelatin</material>
+           <material refid="300011029" type="medium" vocab="aat" source="HRA">silver</material>
+           <material refid="300014109" type="support" vocab="aat" source="HRA">paper</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm">10.9</measurements>
+           <measurements type="width" unit="cm">7.9</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_Ex054_photography_GelatinSilver"></relation>
+       </relationSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_54_photograph_gelatin_silver_print</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 54: Photograph, gelatin silver print</name>
+           </source>
+           <source>
+               <refid type="URI">http://www.getty.edu/art/collection/objects/55861/andre-kertesz-chez-mondrian-paris-american-1926/</refid>
+               <name type="electronic">The J. Paul Getty Museum</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000071</refid>
+               <name type="electronic">CONA</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300124520" vocab="aat" type="descriptiveTopic">interior views</term>
+           </subject>
+           <subject>
+               <term refid="300004063" vocab="aat" type="descriptiveTopic">apartments</term>
+           </subject>
+           <subject>
+               <term refid="300002803" vocab="aat" type="descriptiveTopic">doors</term>
+           </subject>
+           <subject>
+               <term refid="300003228" vocab="aat" type="descriptiveTopic">stairs</term>
+           </subject>
+           <subject>
+               <term refid="300264247" vocab="aat" type="descriptiveTopic">flower</term>
+           </subject>
+           <subject>
+               <term refid="300004294" vocab="aat" type="descriptiveTopic">corridors</term>
+           </subject>
+           <subject>
+               <term refid="300056024" vocab="aat" type="descriptiveTopic">light</term>
+           </subject>
+           <subject>
+               <term refid="300132254" vocab="aat" type="descriptiveTopic">vases</term>
+           </subject>
+           <subject>
+               <term refid="54151650" vocab="viaf" type="personalName">Mondrian, Piet</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="300139114" vocab="aat">gelatin silver process</technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="creator">Chez Mondrian</title>
+           <title type="repository" source="J. Paul Getty Museum">Chez Mondrian, Paris</title>
+           <title type="descriptive">Interior View of a Room and an Open Door</title>
+	   <title type="other" source="J. Paul Getty Museum">Mondrian's Studio, Paris</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300128695" vocab="aat">gelatin silver prints</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_Ex054_photography_GelatinSilver" href="">
+        <agentSet>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_Ex054_photography_GelatinSilver">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="">
+                <rightsHolder></rightsHolder>
+                <text></text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI"></refid>
+                <name type="electronic"></name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView"></title>
+        </titleSet>
+    </image>
+</vra>

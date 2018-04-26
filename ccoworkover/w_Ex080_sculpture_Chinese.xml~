@@ -4,14 +4,14 @@
        <agentSet>
            <agent>
                <name refid="100642353" type="personal" vocab="viaf">unknown Song Chinese</name>
-               <role type="code" vocab="marcrelator">scl</role>
+               <role type="code" vocab="marcrelator">cre</role>
            </agent>
        </agentSet>
        <culturalContextSet>
            <culturalContext vocab="aat" refid="300018322">Chinese</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <display>created 12th century (CCO) / early 12th century (MFA)</display>
+	   <display>created 12th century</display>
            <date type="creation">
                <earliestDate>
                    <date circa="false">1100</date>
@@ -20,52 +20,32 @@
                    <date circa="false">1199</date>
                </latestDate>
            </date>
-           <date type="creation" source="MFA">
+           <date type="exhibition" source="">
                <earliestDate>
-                   <date circa="false">1100</date>
+                   <date circa="false"></date>
                </earliestDate>
                <latestDate>
-                   <date circa="false">1125</date>
+                   <date circa="false"></date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description pref="true" source="Museum of Fine Arts online. www.mfa.org  Page: accessed 21 December 2006">
+           <description source="Museum of Fine Arts online. www.mfa.org  Page: accessed 21 December 2006">
                <text>Guanyin is the Bodhisattva of Compassion, represented in the pose of “royal ease” and richly ornamented. A Bodhisattva is one who has attained enlightenment, but chooses to remain among humankind to help others achieve it.</text>
                <author>
                     <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
                     <role type="code" vocab="marcrelator">edt</role>
                </author>
            </description>
-           <description>
-               <text>Provenance
-                   By 1920, Yamanaka and Company, New York; 1920, sold by Yamanaka and Co. to the MFA for $50,000 [see note]. (Accession Date: March 4, 1920)
-                   Note: Total price for 20.590-20.592.</text>
-               <author>
-                   <name refid="151846308" type="corporate" vocab="viaf">Museum of Fine Arts, Boston</name>
-                   <role type="code" vocab="marcrelator">aut</role>
-               </author>
-           </description>
        </descriptionSet>
-       <inscriptionSet>
-           <notes>Images show an inscription, but no information was found on these.</notes>
-           <inscription>
-               <text/>
-           </inscription>
-       </inscriptionSet>
        <locationSet>
-           <location pref="true" type="repository">
+           <location type="repository">
                <refid type="accession">20.590</refid>
-               <name refid="151846308" type="corporate" vocab="viaf">Museum of Fine Arts, Boston</name>
-               <name refid="7013445" type="geographic" vocab="tgn" extent="inhabited place">Boston</name>
-               <name refid="7007517" type="geographic" vocab="tgn" extent="state">Massachusetts</name>
-               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
-           </location>
-           <location pref="false" type="creation" source="Conserving the MFA's Guanyin, Bodhisattva of Compassion" href="http://www.mfa.org/programs/conserving-the-mfas-guanyin-bodhisattva-of-compassion">
-               <name refid="7002086" type="geographic" vocab="tgn" extent="province">Shanxi</name>
-               <name refid="1000111" type="geographic" vocab="tgn" extent="nation">China</name>
-               <name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
+                <name refid="151846308" type="corporate" vocab="viaf">Museum of Fine Arts, Boston</name>
+		<name refid="7013445" type="geographic" vocab="tgn" extent="inhabited place">Boston</name>
+		<name refid="7007517" type="geographic" vocab="tgn" extent="state">Massachusetts</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
@@ -80,15 +60,9 @@
            <measurements type="depth" unit="cm">88</measurements>
        </measurementsSet>
        <relationSet>
-           <relation pref="true" type="imageIs" relids="i_Ex80_sculpture_Chinese_1">Front view</relation>
-           <relation pref="false" type="imageIs" relids="i_Ex80_sculpture_Chinese_2">Inscription</relation>
+           <relation type="imageIs" relids="i_Ex80_sculpture_Chinese"></relation>
+           <relation></relation>
        </relationSet>
-       <rightsSet>
-           <rights type="other">
-               <rightsHolder>Museum of Fine Arts, Boston</rightsHolder>
-               <text>Hervey Edward Wetzel Fund</text>
-           </rights>
-       </rightsSet>
        <sourceSet>
            <source>
                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_80_chinese_sculpture</refid>
@@ -103,9 +77,6 @@
                <name type="electronic">CONA</name>
            </source>
        </sourceSet>
-       <stylePeriodSet>
-           <stylePeriod refid="300018398" vocab="aat" source="MFA">Jin</stylePeriod>
-       </stylePeriodSet>
        <subjectSet>
            <subject>
                <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
@@ -139,54 +110,30 @@
            <worktype refid="300047090" vocab="aat">sculpture</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex80_sculpture_Chinese_1" href="http://mfas3.s3.amazonaws.com/objects/SC337163.jpg">
+    <image id="i_Ex80_sculpture_Chinese" href="">
         <agentSet>
             <agent>
-                <name refid="151846308" type="corporate" vocab="viaf">Museum of Fine Arts, Boston</name>
-                <role type="code" vocab="marcrelator">cre</role>
+                <name></name>
+                <role></role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex80_sculpture_Chinese">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="copyrighted">
-                <rightsHolder>Museum of Fine Arts, Boston</rightsHolder>
+            <rights type="">
+                <rightsHolder></rightsHolder>
+                <text></text>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI">http://www.mfa.org/collections/object/guanyin-bodhisattva-of-compassion-28589</refid>
-                <name type="electronic">Museum of Fine Arts, Boston</name>
+                <refid type="URI"></refid>
+                <name type="electronic"></name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView">Front view</title>
-        </titleSet>
-    </image>
-    <image id="i_Ex80_sculpture_Chinese_2" href="http://mfas3.s3.amazonaws.com/objects/SC337176.jpg">
-        <agentSet>
-            <agent>
-                <name refid="151846308" type="corporate" vocab="viaf">Museum of Fine Arts, Boston</name>
-                <role type="code" vocab="marcrelator">cre</role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_Ex80_sculpture_Chinese">attachment</relation>
-        </relationSet>
-        <rightsSet>
-            <rights type="copyrighted">
-                <rightsHolder>Museum of Fine Arts, Boston</rightsHolder>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <source>
-                <refid type="URI">http://www.mfa.org/collections/object/guanyin-bodhisattva-of-compassion-28589</refid>
-                <name type="electronic">Museum of Fine Arts, Boston</name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="partialView">Inscription</title>
+            <title type="generalView"></title>
         </titleSet>
     </image>
 </vra>

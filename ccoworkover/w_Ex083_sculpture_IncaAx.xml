@@ -3,63 +3,190 @@
    <work id="w_Ex083_sculpture_IncaAx" refid="c_CCO_Examples">
        <agentSet>
            <agent>
-               <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
-               </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="100627207" type="personal" vocab="viaf">unknown Inca</name>
+               <role type="code" vocab="marcrelator">scl</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300266231">Late Classic Veracruz </culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+           <display>Late Classic Veracruz</display>
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">0600</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">0900</date>
                </latestDate>
            </date>
-           <date type="exhibition" source="">
+           <date pref="false" type="exhibition" source="Dumbarton Oaks">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1940-01-15</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1940-03-02</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Dumbarton Oaks">
+               <earliestDate>
+                   <date circa="false">1942-04</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1942-06</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Dumbarton Oaks">
+               <earliestDate>
+                   <date circa="false">1942-07</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1942-08</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Dumbarton Oaks">
+               <earliestDate>
+                   <date circa="false">1942-09</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1942-10</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Dumbarton Oaks">
+               <earliestDate>
+                   <date circa="false">1947-04</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1962-07</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="Dumbarton Oaks">
+               <earliestDate>
+                   <date circa="false">2008-04-09</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2008-11-09</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true">
+               <text>The hacha had ritualistic significance and likely served as an actual ballcourt marker.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Dumbarton Oaks">
+               <text>This small hacha is the first Pre-Columbian sculpture collected by Robert Bliss in 1913 and is most probably from the south central Gulf lowlands, perhaps from the higher elevations.  The face has a distinctive, sharply bent, pug nose.  The hollowed out eyes give the impression of squinting and are surrounded by a two-piece plaque without scrolls. The upper lip curls backwards, extending over the lower cheeks, and a ring-like ornament covers the center of the lip beneath the nostrils.  The ears, without spools, terminate in a suspended curved pendant. On the head sits a helmet-like covering with serrated edges, topped by a peaked crest with a raised border.  
+                   The extended upper lip is associated with various forms of the rain god in the Gulf lowlands.  The loop at the midpoint of the lip, probably a jade bead in profile, is a symbol of preciousness and life frequently placed with the dead.  The ear pendants are a variant of the hooked epcololli (Nahuatl) form often worn by the sacrificed and also associated with the gods of the planet Venus and wind.  The helmet is adorned with short blunt feathers, similar to the macaw motif.  
+                   
+                   The figure is consistent with portrayals of sacrificed ball game players who are dressed to impersonate various gods in the ball court.  Although once probably polished, especially the face and helmet, the sculpture now exhibits much battering and numerous scrapes.  Much of this alteration appears to be from antiquity.  
+                   The notch at the back is smaller than seen on most hachas.  The medium, marble, was not commonly used in ancient Veracruz, but is found with somewhat greater frequency in sculptures in the northwestern portions of the south central Gulf lowlands.  This is a good example of a southern variation of one of the main Gulf lowland hacha themes.   </text>
+               <author>
+                   <name refid="126370132" type="corporate" vocab="viaf">Dumbarton Oaks Research Library and Collection</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Dumbarton Oaks">
+               <text>Acquisition History
+                   
+                   Purchased from Joseph Brummer, Paris (dealer), by Robert Woods Bliss, 1913.
+                   
+                   Robert Woods Bliss Collection of Pre-Columbian Art, Washington, DC, 1913-1962.
+                   
+                   Dumbarton Oaks Research Library and Collection, Pre-Columbian Collection, Washington, DC.</text>
+               <author>
+                   <name refid="126370132" type="corporate" vocab="viaf">Dumbarton Oaks Research Library and Collection</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Dumbarton Oaks">
+               <text>Exhibition History
+                   
+                   "An Exhibition of Pre-Columbian Art", Fogg Art Museum, Cambridge, MA, 1/15 - 3/2/1940.
+                   
+                   "Ancient American Art", Santa Barbara Museum of Art, Santa Barbara, CA, April - June 1942; M. H. De Young Memorial Museum, San Francisco, CA, July  - August 1942; Portland Museum of Art, Portland, OR, September - October 1942.
+                   
+                   "Indigenous Art of the Americas", National Gallery of Art, Washington DC, April 1947 to July 1962.
+                   
+                   "The Collector's Microbe: Mildred and Robert Woods Bliss and the Dumbarton Oaks Collections," Dumbarton Oaks, Washington, DC, 4/9 - 11/9/2008. </text>
+               <author>
+                   <name refid="126370132" type="corporate" vocab="viaf">Dumbarton Oaks Research Library and Collection</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
-       <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
-           </inscription>
-       </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository" source="Dumbarton Oaks">
+               <refid type="accession">PC.B.042</refid>
+               <name refid="126370132" type="corporate" vocab="viaf">Dumbarton Oaks Research Library and Collection</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation">
+               <name refid="7005599" type="geographic" vocab="tgn" extent="state">Veracruz</name>
+               <name refid="7005560" type="geographic" vocab="tgn" extent="nation">Mexico</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="Dumbarton Oaks">
+               <refid type="other">"An Exhibition of Pre-Columbian Art"</refid>
+               <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="Dumbarton Oaks">
+               <refid type="other"></refid>
+               <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="Dumbarton Oaks">
+               <refid type="other"></refid>
+               <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="Dumbarton Oaks">
+               <refid type="other"></refid>
+               <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="Dumbarton Oaks">
+               <refid type="other"></refid>
+               <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="Dumbarton Oaks">
+               <refid type="other"></refid>
+               <name refid="157699250" type="corporate" vocab="viaf">National Gallery of Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300011443" type="medium" vocab="aat">marble</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm" source="Dumbarton Oaks">25.1</measurements>
+           <measurements type="width" unit="cm" source="Dumbarton Oaks">7.6</measurements>
+           <measurements type="depth" unit="cm" source="Dumbarton Oaks">16.2</measurements>           
        </measurementsSet>
        <relationSet>
            <relation type="imageIs" relids="i_Ex083_sculpture_IncaAx"></relation>
@@ -67,27 +194,49 @@
        </relationSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_83_inca_ax</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 83: Inca ax</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://museum.doaks.org/OBJ22950?sid=14607</refid>
+               <name type="electronic">Dumbarton Oaks</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300266231" vocab="aat">Late Classic Veracruz</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
+           </subject>
+           <subject>
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
+           </subject>
+           <subject>
+               <term refid="300251798" vocab="aat" type="descriptiveTopic">faces</term>
+           </subject>
+           <subject>
+               <term refid="300069657" vocab="aat" type="conceptTopic">games</term>
+           </subject>
+           <subject>
+               <term refid="300263243" vocab="aat" type="conceptTopic">sacrifices</term>
+           </subject>
+           <subject>
+               <term refid="300234117" vocab="aat" type="descriptiveTopic">ceremonial objects</term>
+           </subject>
+           <subject>
+               <term refid="300239662" vocab="aat" type="conceptTopic">ball games</term>
            </subject>
        </subjectSet>
        <techniqueSet>
            <technique refid="" vocab=""></technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title pref="true" type="repository">Hacha</title>
+           <title pref="false" type="descriptive">Hacha (Ceremonial Ax)</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300264867" vocab="aat">hachas</worktype>
        </worktypeSet>
    </work>
     <image id="i_Ex083_sculpture_IncaAx" href="">

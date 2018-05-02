@@ -4,116 +4,167 @@
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1936</earliestDate>
+                   <latestDate circa="false">1970</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="71440663" type="personal" vocab="viaf">Hesse, Eva</name>
+               <role type="code" vocab="marcrelator">scl</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300107956">American (North American)</culturalContext>
        </culturalContextSet>
        <dateSet>
            <date type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1969</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
-               </latestDate>
-           </date>
-           <date type="exhibition" source="">
-               <earliestDate>
-                   <date circa="false"></date>
-               </earliestDate>
-               <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1969</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="Philadelphia Museum of Art. Handbook of the Collections. Philadelphia: Philadelphia Museum of Art, 1986.  Page: 335">
+               <text>An assemblage of nine similarly-shaped elements that are to be arranged casually on the floor and against the wall. This work was a rebellion against the harsh geometry of Minimalism. The work is characterized by a flexible, fluid material and smooth, rounded-almost anatomical or botanical, yet architectural forms.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="Philadelphia Museum of Art">
+               <text>Eva Hesse rejected the geometric shapes and industrial materials favored by Minimalist artists, instead creating eccentric, tactile forms often arranged as if by chance. The title derives from the plural of a Latin word for "protuberance," and suggests a variety of anatomical and botanic associations for this psychologically charged sculpture.</text>
+               <author>
+                   <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Philadelphia Museum of Art; Erica F. Battle, from Philadelphia Museum of Art: Handbook. Philadelphia: Philadelphia Museum of Art, 2014, p. 363.">
+               <text>Using the malleability of industrial materials such as latex, fiberglass, and resin to great effect, Eva Hesse imbued a subtle eroticism and a sense of human presence in her sculptures. The title of this work, suggested to Hesse by the artist Robert Morris, is the plural of the word “torus,” a geometric shape created by the revolution of a circular form around an external axis. The nine forms that make up this work are organic and rigid, fleshy and repellent, corporeal and otherworldly. By allowing the components of the sculpture to be arranged in various configurations, Hesse purposely left the precise allusions of these suggestive forms ambiguous, inviting our associations to guide our experience of the work and its meaning. The irregular surfaces of the elements are typical of “antiform” or “process” art created by a loosely associated group of New York artists, including Hesse, who in the late 1960s responded to hard-edged Minimalism by experimenting with pliable, evocative materials. Hesse completed Tori with two collaborators in several stages between January and August 1969. </text>
+               <author>
+                   <name refid="128258984" type="personal" vocab="viaf">Battle, Erica F.</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Philadelphia Museum of Art; Anne Temkin, from Philadelphia Museum of Art: Handbook of the Collections (1995), p. 335.">
+               <text>Eva Hesse belonged to a loosely associated group of New York artists who in the late 1960s rebelled against the harsh geometry and cool materiality of Minimalism, and began making works that came to be known as "antiform" or "process" art. This work was characterized by experimentation with flexible fluid and sometimes evanescent materials such as latex. Hesse's sculpture Tori consists of nine loosely wrapped podlike forms hollow at the center and the ends. The armature is chicken wire, the surface a mixture of fiberglass and resin. The nine elements are to be arranged casually on the floor and against the wall. In any configuration the sense of scarred surface barren interior and collapsed form is decidedly painful yet the luminosity of the material and the delicacy of the shapes give this piece an unearthly beauty. The term tori itself generally describes smooth rounded protuberances with geometric anatomical architectural and botanical references.</text>
+               <author>
+                   <name refid="69045125" type="personal" vocab="viaf">Ann Temkin</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Philadelphia Museum of Art; Philadelphia Museum of Art: Twentieth Century Painting and Sculpture in the Philadelphia Museum of Art (2000), p. 118.">
+               <text>Eva Hesse belonged to a loosely associated group of New York artists who, at the end of the 1960s, rebelled against the strict geometry and cool materiality of Minimalism and began making art that came to be known under the rubric "antiform" or "process art." The arrangement and orientation of their sculptures often were unfixed and were characterized by experimentation with fluid, flexible materials such as latex and fiberglass.
+                   
+                   Tori consists of nine podlike forms of varying size. Hesse chose as her title the plural of the word "torus," derived from the Latin word for "protuberance." The word has various anatomical, botanical, geometric, and architectural meanings, but all refer to a rounded, swelling form. The armature of each pod is made of wire mesh screen, loosely wrapped and pinned together at the top and bottom but spread open in the middle, as if the pod had burst apart. Hesse coated the surfaces with fiberglass and resin, a mixture that is not entirely compatible with the wire mesh below, and the mottled skin still manifests the difficulty with which it was applied. The present configuration of the nine elements echoes photographs of the work in Hesse's studio, its apparently casual arrangement looking more like something discovered by chance than deliberately set in place.
+                   
+                   Hesse's career as a sculptor of groundbreaking work lasted little more than five years, ending abruptly with her death from a brain tumor in 1970. Inevitably, the tragedy of her short life has been superimposed on the readings of her fragile sculptures. But the eloquence of Tori transcends a biographical reading, bearing witness to the universal human condition of profound vulnerability.</text>
+               <author>
+                   <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
-       <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
-           </inscription>
-       </inscriptionSet>
        <locationSet>
            <location type="repository">
-               <refid type="accession"></refid>
+               <refid type="accession" source="Philadelphia Museum of Art">1990-121-1--9</refid>
+                <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+          		<name refid="7014406" type="geographic" vocab="tgn" extent="inhabited place">Philadelphia</name>
+          		<name refid="7007710" type="geographic" vocab="tgn" extent="state">Pennsylvania</name>
+          		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+          		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300183781" type="medium" vocab="aat">fiberglass</material>
+           <material refid="300012882" type="medium" vocab="aat">resin</material>
+           <material refid="300014546" type="medium" vocab="aat" source="CONA">polyester (resin)</material>
+           <material refid="300014654" type="support" vocab="aat">mesh</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <display>largest unit: 119.38 x 43.18 x 38.1 cm (47 x 17 x 15 inches)</display>
+           <measurements type="height" unit="cm" extent="largest">119.38</measurements>
+           <measurements type="width" unit="cm" extent="largest">43.18</measurements>
+           <measurements type="depth" unit="cm" extent="largest">38.1</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex085_sculpture_ModernAssemblage"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex085_sculpture_ModernAssemblage">general view</relation>
        </relationSet>
+       <rightsSet>
+           <rights type="copyrighted" source="Philadelphia Museum of Art">
+               <rightsHolder>The Estate of Eva Hesse</rightsHolder>
+               <text>© The Estate of Eva Hesse. Courtesy Hauser &amp; Wirth.</text>
+           </rights>
+           <rights type="other" source="Philadelphia Museum of Art">
+               <rightsHolder>Philadephia Museum of Art</rightsHolder>
+               <text>Purchased with funds contributed by Mr. and Mrs. Leonard Korman, Mr. and Mrs. Keith Sachs, Marion Boulton Stroud, Mr. and Mrs. Bayard T. Storey, and with other various funds, 1990</text>
+           </rights>
+       </rightsSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_85_modern_assemblage</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 85: Modern assemblage.</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">https://www.philamuseum.org/collections/permanent/85791.html?mulR=453808095|2</refid>
+               <name type="electronic">Philadephia Museum of Art</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000058</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300022209" vocab="aat">Process art</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300134134" vocab="aat" type="descriptiveTopic">nonrepresentational art</term>
+           </subject>
+           <subject>
+               <term refid="300054467" vocab="aat" type="descriptiveTopic">botany</term>
+           </subject>
+           <subject>
+               <term refid="300054465" vocab="aat" type="descriptiveTopic">anatomy</term>
+           </subject>
+           <subject>
+               <term refid="300054156" vocab="aat" type="descriptiveTopic">architecture</term>
            </subject>
        </subjectSet>
-       <techniqueSet>
-           <technique refid="" vocab=""></technique>
-       </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title pref="true" type="repository" source="Philadelphia Museum of Art">Tori</title>
+           <title pref="false" type="creator">Tori</title>
+           <title pref="false" type="descriptive">Nine Forms Arranged Casually on the Floor</title>
+           <title pref="false" type="descriptive" source="CONA">Modern Assemblage</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300256847" vocab="aat">assemblages</worktype>
+           <worktype refid="300185097" vocab="aat">scatter pieces</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex085_sculpture_ModernAssemblage" href="">
+    <image id="i_Ex085_sculpture_ModernAssemblage" href="http://philamuseum.org/images/cad/zoomers/1990-121-1--9-CX.jpg">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                <name refid="137352121" type="corporate" vocab="viaf">Philadelphia Museum of Art</name>
+                <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex085_sculpture_ModernAssemblage">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="copyrighted">
+                <rightsHolder>Philadelphia Museum of Art</rightsHolder>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">https://www.philamuseum.org/collections/permanent/85791.html?mulR=453808095|2</refid>
+                <name type="electronic">Philadelphia Museum of Art</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Tori</title>
         </titleSet>
     </image>
 </vra>

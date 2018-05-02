@@ -239,30 +239,29 @@
            <worktype refid="300264867" vocab="aat">hachas</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex083_sculpture_IncaAx" href="">
+    <image id="i_Ex083_sculpture_IncaAx" href="http://museum.doaks.org/Media/Previews/Pre-Columbian_Collection/PC_Collection/PC.B.001_to_099/PC.B.042.jpg">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                   <name refid="126370132" type="corporate" vocab="viaf">Dumbarton Oaks Research Library and Collection</name>
+                   <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex083_sculpture_IncaAx">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="copyrighted">
+                <rightsHolder>Dumbarton Oaks Research Library and Collection</rightsHolder>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">http://museum.doaks.org/OBJ22950?sid=14607</refid>
+                <name type="electronic">Dumbarton Oaks Research Library and Collection</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Hacha</title>
         </titleSet>
     </image>
 </vra>

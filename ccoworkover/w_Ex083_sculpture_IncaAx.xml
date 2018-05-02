@@ -189,8 +189,7 @@
            <measurements type="depth" unit="cm" source="Dumbarton Oaks">16.2</measurements>           
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex083_sculpture_IncaAx"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex083_sculpture_IncaAx">general view</relation>
        </relationSet>
        <sourceSet>
            <source>

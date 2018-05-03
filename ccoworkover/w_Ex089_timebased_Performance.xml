@@ -3,117 +3,79 @@
    <work id="w_Ex089_timebased_Performance" refid="c_CCO_Examples">
        <agentSet>
            <agent>
-               <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
-               </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="172592013" type="personal" vocab="viaf">Kilcoyne, Sean</name>
+               <role type="code" vocab="marcrelator">prf</role>
+           </agent>
+           <agent>
+               <name refid="96333994" type="personal" vocab="viaf">Reeves, Daniel</name>
+               <role type="code" vocab="marcrelator">prf</role>
            </agent>
        </agentSet>
-       <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
-       </culturalContextSet>
        <dateSet>
-           <date type="creation">
+           <date type="performance">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1989</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
-               </latestDate>
-           </date>
-           <date type="exhibition" source="">
-               <earliestDate>
-                   <date circa="false"></date>
-               </earliestDate>
-               <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1989</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true">
+               <text>A collage of video and film projections is the background for four performers who move around the stage carrying out movement sequences. Images of nature give way to images of war, including helicopters, troops marching and in combat. Creator-Statement: […] Who holds the patent on the black disposable bags worn home by some of your closest friends that year? Who named Napalm?</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="CONA">
+               <text>A collage of video and film projections are the background for four performers who move around the stage carrying out movement sequences. Images of nature give way to images of war, including helicopters, troops marching and in combat. </text>
+               <author>
+                   <name refid="156706556" type="corporate" vocab="viaf">J. Paul Getty Trust</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
-       <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
-           </inscription>
-       </inscriptionSet>
-       <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
-           </location>
-       </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300047910" type="other" vocab="aat">multimedia works</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="duration" unit="min">90</measurements>
        </measurementsSet>
-       <relationSet>
-           <relation type="imageIs" relids="i_Ex089_timebased_Performance"></relation>
-           <relation></relation>
-       </relationSet>
        <sourceSet>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_5_time_based_Works/example_89_performance_art</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 89: Performance art.</name>
            </source>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000114</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300121445" vocab="aat" type="descriptiveTopic">performance art</term>
+           </subject>
+           <subject>
+               <term refid="901000043" vocab="icon" type="conceptTopic">Vietnam War</term>
+           </subject>
+           <subject>
+               <term refid="300151836" vocab="aat" type="conceptTopic">deaths</term>
+           </subject>
+           <subject>
+               <term refid="300343844" vocab="aat" type="conceptTopic">remorse</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300047896" vocab="aat">installations</technique>
+           <technique refid="300121445" vocab="aat">performance</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title type="popular">Angels//Anvils</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300121445" vocab="aat">performance art</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex089_timebased_Performance" href="">
-        <agentSet>
-            <agent>
-                <name></name>
-                <role></role>
-            </agent>
-        </agentSet>
-        <relationSet>
-            <relation type="imageOf" relids="w_Ex089_timebased_Performance">attachment</relation>
-        </relationSet>
-        <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
-            </rights>
-        </rightsSet>
-        <sourceSet>
-            <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
-            </source>
-        </sourceSet>
-        <titleSet>
-            <title type="generalView"></title>
-        </titleSet>
-    </image>
 </vra>

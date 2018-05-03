@@ -4,116 +4,179 @@
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1882</earliestDate>
+                   <latestDate circa="false">1916</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="51685971" type="personal" vocab="viaf">Boccioni, Umberto</name>
+               <role type="code" vocab="marcrelator">scl</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300111198">Italian</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+           <display>designed in 1913, cast in 1931</display>
+           <date pref="false" type="design">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1913</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1913</date>
                </latestDate>
            </date>
-           <date type="exhibition" source="">
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1931</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1931</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="Museum of Modern Art online. www.moma.org (accessed 29 July 2006)">
+               <text>The Futurist ideals were dynamism, progress, and motion in the new machine age. In this sculpture, the rush of air displaced by its forward movement is represented as space in visible extensions sprouting like wings from the figure’s limbs. The primary subject is not the nude, but movement itself. According to Boccioni, an invisible fourth dimension existed as a higher realm of existence where space and time merged.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="Museum of Modern Art, NY; Gallery label from 2006.">
+               <text>Boccioni, who sought to infuse art with dynamism and energy, exclaimed, "Let us fling open the figure and let it incorporate within itself whatever may surround it." The contours of this marching figure appear to be carved by the forces of wind and speed as it forges ahead. While its wind–swept silhouette is evocative of an ancient statue, the polished metal alludes to the sleek modern machinery beloved by Boccioni and other Futurist artists.</text>
+               <author>
+                   <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Museum of Modern Art, NY; Publication excerpt from The Museum of Modern Art, MoMA Highlights, New York: The Museum of Modern Art, revised 2004, originally published 1999.">
+               <text>In Unique Forms of Continuity in Space, Boccioni puts speed and force into sculptural form. The figure strides forward. Surpassing the limits of the body, its lines ripple outward in curving and streamlined flags, as if molded by the wind of its passing. Boccioni had developed these shapes over two years in paintings, drawings, and sculptures, exacting studies of human musculature. The result is a three-dimensional portrait of a powerful body in action. In the early twentieth century, the new speed and force of machinery seemed to pour its power into radical social energy. The new technologies and the ideas attached to them would later reveal threatening aspects, but for Futurist artists like Boccioni, they were tremendously exhilarating. Innovative as Boccioni was, he fell short of his own ambition. In 1912, he had attacked the domination of sculpture by "the blind and foolish imitation of formulas inherited from the past," and particularly by "the burdensome weight of Greece." Yet Unique Forms of Continuity in Space bears an underlying resemblance to a classical work over 2,000 years old, the Nike of Samothrace. There, however, speed is encoded in the flowing stone draperies that wash around, and in the wake of, the figure. Here the body itself is reshaped, as if the new conditions of modernity were producing a new man. </text>
+               <author>
+                   <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Museum of Modern Art, NY">
+               <text>Provenance. 
+                   1931 - 1944, Filippo Tommaso Marinetti (1876-1944), Rome, cast ordered from Gaetano Chiurazzi Foundry, Rome.
+                   1944 - 1948, Benedetta Marinetti (1897-1977), Rome, inherited from Filippo Tommaso Marinetti.
+                   1948, The Museum of Modern Art, New York, purchased from Benedetta Marinetti.</text>
+               <author>
+                   <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
-       <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
-           </inscription>
-       </inscriptionSet>
        <locationSet>
            <location type="repository">
-               <refid type="accession"></refid>
+               <refid type="accession" source="Museum of Modern Art, NY">231.1948</refid>
+               <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+               <name refid="7007567" vocab="tgn" type="geographic" extent="inhabited place">New York</name>
+               <name refid="7007568" vocab="tgn" type="geographic" extent="state">New York</name>
+               <name refid="7012149" vocab="tgn" type="geographic" extent="nation">United States</name>
+               <name refid="1000001" vocab="tgn" type="geographic" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300010957" type="medium" vocab="aat">bronze</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <display>111.2 x 88.5 x 40 cm (43 7/8 x 34 7/8 x 15 3/4 inches )</display>
+           <measurements type="height" unit="cm">111.2</measurements>
+           <measurements type="width" unit="cm">88.5</measurements>
+           <measurements type="depth" unit="cm">40</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex086_sculpture_ModernSculpture"></relation>
-           <relation></relation>
+           <relation pref="true" type="imageIs" relids="i_Ex086_sculpture_ModernSculpture">general view</relation>
+           <relation pref="false" type="derivedFrom" href="http://vocab.getty.edu/page/cona/700009118">Unique Forms of Continuity in Space (plaster)</relation>
+           <relation pref="false" type="relatedTo" href="http://www.museodelnovecento.org/en/collection?the-ten-masterpieces?umberto-boccioni-2">Unique Forms of Continuity in Space, cast 1949, Museo del Novecento, Milan</relation>
+           <relation pref="false" type="relatedTo" href="https://www.metmuseum.org/art/collection/search/485540">Unique Forms of Continuity in Space, cast 1950, Metropolitan Museum of Art</relation>
+           <relation pref="false" type="relatedTo" href="http://www.tate.org.uk/art/artworks/boccioni-unique-forms-of-continuity-in-space-t01589">Unique Forms of Continuity in Space, cast 1972, Tate</relation>
        </relationSet>
+       <rightsSet>
+           <rights type="other" source="Museum of Modern Art, NY">
+               <rightsHolder>Museum of Modern Art, New York</rightsHolder>
+               <text>Acquired through the Lillie P. Bliss Bequest (by exchange)</text>
+           </rights>
+       </rightsSet>
        <sourceSet>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_86_modern_sculpture</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 86: Modern sculpture.</name>
            </source>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="false">
+               <refid type="URI">https://www.moma.org/collection/works/81179</refid>
+               <name type="electronic">Museum of Modern Art, New York</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000097</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300021374" vocab="aat">Futurist</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300134134" vocab="aat" type="descriptiveTopic">nonrepresentational art</term>
+           </subject>
+           <subject>
+               <term refid="300056039" vocab="aat" type="conceptTopic">motion</term>
+           </subject>
+           <subject>
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
+           </subject>
+           <subject>
+               <term refid="300189557" vocab="aat" type="conceptTopic">female</term>
+           </subject>
+           <subject>
+               <term refid="300189568" vocab="aat" type="conceptTopic">nudes</term>
+           </subject>
+           <subject>
+               <term refid="300068896" vocab="aat" type="conceptTopic">space</term>
+           </subject>
+           <subject>
+               <term refid="300417311" vocab="aat" type="descriptiveTopic">striding</term>
+           </subject>
+           <subject source="CONA">
+               <term refid="300248181" vocab="aat" type="descriptiveTopic">walking</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300053104" vocab="aat">casting</technique>
+           <technique refid="300054098" vocab="aat">hammering</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title pref="true" type="repository">Unique Forms of Continuity in Space</title>
+           <title pref="false" type="descriptive">Abstract Bronze Sculpture</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300047600" vocab="aat" source="CONA">statues</worktype>
+           <worktype refid="300047090" vocab="aat">sculpture</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex086_sculpture_ModernSculpture" href="">
+    <image id="i_Ex086_sculpture_ModernSculpture" href="https://www.moma.org/media/W1siZiIsIjIxMDc5NyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9f78d90966763d89">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+                <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex086_sculpture_ModernSculpture">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="copyrighted">
+                <rightsHolder>Museum of Modern Art, New York</rightsHolder>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">https://www.moma.org/collection/works/81179</refid>
+                <name type="electronic">Museum of Modern Art, New York</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Unique Forms of Continuity in Space</title>
         </titleSet>
     </image>
 </vra>

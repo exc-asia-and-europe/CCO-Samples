@@ -3,117 +3,131 @@
    <work id="w_Ex104_decoutil_AfricanStool" refid="c_CCO_Examples">
        <agentSet>
            <agent>
-               <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
-               </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="100634706" type="personal" vocab="viaf">unknown Kamba</name>
+               <role type="code" vocab="marcrelator">cre</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300016508">Kamba</culturalContext>
        </culturalContextSet>
        <dateSet>
+           <display>early to mid-20th century</display>
            <date type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1900</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
-               </latestDate>
-           </date>
-           <date type="exhibition" source="">
-               <earliestDate>
-                   <date circa="false"></date>
-               </earliestDate>
-               <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1970</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="National Museum of African Art online. www.nmafa.si.edu (accessed 29 June 2007)">
+               <text>Kamba artists carve wooden stools with circular seats that are supported by three discoid legs. This stool, intricately ornamented with metalwork, is an example of Kamba art at its most richly decorated. The metalwork inlay requires a skill that has been mastered by few East African groups. The technique requires that thin brass and copper wire be heated and drawn to the proper diameter, then cooled. The wire is spirally wrapped around a fine wire used as a mandrel, in a machine called kilingi. The mandrel is then withdrawn and the coiled wire is pounded into the surface of the stool seat, which has been wetted to soften it.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="National Museum of African Art">
+               <text>Kamba artists carve wood stools whose circular seats are supported by three discoid legs. This stool, intricately ornamented with metalwork, is an example of Kamba art at its most richly decorated. The metalwork inlay requires a skill that has been mastered by few East African groups. The technique requires that thin brass and copper wire be heated and drawn to the proper diameter, then cooled. The wire is spirally wrapped around a fine wire used as a mandrel, in a machine called kilingi. The mandrel is then withdrawn and the coiled wire is pounded into the surface of the stool seat, which has been wetted to soften it. The design itself is first drawn on the stool's seat with the aid of a wire used as a compass, starting at the center and moving to the outer edge. Most of the finished patterns, called milia, have some origin based on the structural framework of a Kamba house, a bead ornament, arrowheads or cattle brands. The patterns on this stool have not been identified. When the ornamentation is completed, holes are bored through the legs of the stool so that a cord or chain can be passed through it. Its owner, usually an elder male, could then carry the stool over his shoulder. </text>
+               <author>
+                   <name refid="147531380" type="corporate" vocab="viaf">National Museum of African Art</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
-       <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
-           </inscription>
-       </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository">
+               <refid type="accession">89-9-14</refid>
+               <name refid="147531380" type="corporate" vocab="viaf">National Museum of African Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation">
+               <name refid="1000169" type="geographic" vocab="tgn" extent="nation">Kenya</name>
+               <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <display>wood with copper alloys and other metal</display>
+           <material refid="300011914" type="medium" vocab="aat">wood</material>
+           <material refid="300010942" type="medium" vocab="aat">copper alloy</material>
+           <material refid="300010900" type="medium" vocab="aat">metal</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm">13.7</measurements>
+           <measurements type="width" unit="cm">24.8</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex104_decoutil_AfricanStool"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex104_decoutil_AfricanStool">general view</relation>
        </relationSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_104_african_stool</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 104: African stool.</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">https://africa.si.edu/collections/view/objects/asitem/Objects@13911/6/</refid>
+               <name type="electronic">Smithsonian National Museum of African Art</name>
            </source>
        </sourceSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300038418" vocab="aat" type="descriptiveTopic">stools</term>
+           </subject>
+           <subject>
+               <term refid="300037769" vocab="aat" type="descriptiveTopic">seating furniture</term>
+           </subject>
+           <subject>
+               <term refid="300404591" vocab="aat" type="descriptiveTopic">utilitarian objects</term>
+           </subject>
+           <subject source="National Museum of African Art">
+               <term refid="300404584" vocab="aat" type="descriptiveTopic">household accessories</term>
+           </subject>
+           <subject source="National Museum of African Art">
+               <term refid="300417329" vocab="aat" type="conceptTopic">status symbols</term>
+           </subject>
+           <subject source="National Museum of African Art">
+               <term refid="300025928" vocab="aat" type="conceptTopic">men</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300053149" vocab="aat" source="HRA">carving</technique>
+           <technique refid="300053946" vocab="aat" source="HRA">metalworking</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title type="repository">Stool</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300038418" vocab="aat">stools</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex104_decoutil_AfricanStool" href="">
+    <image id="i_Ex104_decoutil_AfricanStool" href="http://ids.si.edu/ids/deliveryService?id=NMAfA-D20000047">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                <name refid="147531380" type="corporate" vocab="viaf">National Museum of African Art</name>
+                <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex104_decoutil_AfricanStool">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="copyrighted">
+                <rightsHolder>National Museum of African Art</rightsHolder>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">https://africa.si.edu/collections/view/objects/asitem/Objects@13911/6/</refid>
+                <name type="electronic">National Museum of African Art</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Stool</title>
         </titleSet>
     </image>
 </vra>

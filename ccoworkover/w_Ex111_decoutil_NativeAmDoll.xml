@@ -3,24 +3,21 @@
    <work id="w_Ex111_decoutil_NativeAmDoll" refid="c_CCO_Examples">
        <agentSet>
            <agent>
-               <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
-               </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="100633772" type="personal" vocab="viaf">unknown Hopi</name>
+               <role type="code" vocab="marcrelator">cre</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300017763">Hopi</culturalContext>
        </culturalContextSet>
        <dateSet>
+	   <display>19th century</display>
            <date type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1800</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1899</date>
                </latestDate>
            </date>
            <date type="exhibition" source="">
@@ -33,13 +30,16 @@
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description source="Native American Art in the Collections of the Ethnological Museum Berlin. Berlin: G &amp; H Verlag Berlin, 1999. Page: 118">
+               <text>The figure of Palhikwmana (“liquid-drinking girl” or “corn-grinding girl”) wears an extravagant headdress, crowned by cloud terrace and originally included feathers. She is dressed in real clothing, imitating the ceremonial clothing of a Palhikwmana dancer.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                </author>
            </description>
+	   <description source="Ethnologisches Museum">
+		<text xml:lang="">Diese Figur einer Palhikwmana ("Flüssigkeit trinkendes Mädchen" oder auch "Mais mahlendes Mädchen") ist eine der schönsten Kachinas der Berliner Sammlung. Der aufwendig gestaltete und bemalte Kopfaufsatz wird von Wolkenterrassen gekrönt. Die Bekleidung aus Stoff und Wollfäden entspricht dem Zeremonialgewand von Palhikwmana. Die Figur zu den Kachinas der älteren Hopisammlung, die 1991 aus Leipzig zurückkehrten. Trotz aufwendiger Restaurierung hat das russische Exil bleibende Spuren hinterlassen: Die Bemalung am Kinn und an der Stirn ist abgeschabt, ein Teil des linken Fußes und der gelben Blüte rechts am Kopfaufsatz sind abgebrochen, die ursprünglich am Kopfaufsatz befestigten Federn sind nicht mehr vorhanden.</text>
+	   </description>
        </descriptionSet>
        <inscriptionSet>
            <inscription>
@@ -49,17 +49,30 @@
            </inscription>
        </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository">
+		<refid type="accession">IV B 5106</refid>
+		<name refid="150002086" type="corporate" vocab="viaf">Ethnologisches Museum Berlin</name>
+		<name refid="7003712" type="geographic" vocab="tgn" extent="inhabited place">Berlin</name>
+		<name refid="7003670" type="geographic" vocab="tgn" extent="state">Berlin</name>
+		<name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="creation">
+		<name refid="7006451" type="geographic" vocab="tgn" extent="state">Arizona</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300011914" type="medium" vocab="aat">wood</material>
+           <material refid="300162391" type="medium" vocab="aat">cloth</material>
+           <material refid="300011809" type="medium" vocab="aat">feather</material>
+           <material refid="300243430" type="medium" vocab="aat" source="CONA">wool</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm" source="Ethnologisches Museum">41.5</measurements>
+           <measurements type="width" unit="cm" source="Ethnologisches Museum">34</measurements>
+           <measurements type="depth" unit="cm" source="Ethnologisches Museum">9</measurements>
        </measurementsSet>
        <relationSet>
            <relation type="imageIs" relids="i_Ex111_decoutil_NativeAmDoll"></relation>
@@ -67,27 +80,56 @@
        </relationSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_111_native_american_doll/</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 111: Native American doll.</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=154512&viewType=detailView</refid>
+               <name type="electronic">Ethnologisches Museum der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz</name>
+           </source>
+           <source>
+               <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000147</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
+           </subject>
+           <subject>
+               <term refid="300211037" vocab="aat" type="descriptiveTopic">toys</term>
+           </subject>
+           <subject>
+               <term refid="300211087" vocab="aat" type="descriptiveTopic">dolls</term>
+           </subject>
+           <subject>
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
+           </subject>
+           <subject>
+               <term refid="300189557" vocab="aat" type="conceptTopic">female</term>
+           </subject>
+           <subject>
+               <term refid="300054144" vocab="aat" type="conceptTopic">dance</term>
+           </subject>
+           <subject>
+               <term refid="300250904" vocab="aat" type="conceptTopic">storytelling</term>
+           </subject>
+           <subject>
+               <term refid="901000063" vocab="icon" type="iconographicTopic">Palhikwmana</term>
+           </subject>
+           <subject source="CONA">
+               <term refid="300069657" vocab="aat" type="conceptTopic">games</term>
            </subject>
        </subjectSet>
        <techniqueSet>
            <technique refid="" vocab=""></technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title type="repository">Palhikwmana</title>
+	   <title type="descriptive">Palhikwmana-Kachina Figure</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300211323" vocab="aat">kachina dolls</worktype>
        </worktypeSet>
    </work>
     <image id="i_Ex111_decoutil_NativeAmDoll" href="">

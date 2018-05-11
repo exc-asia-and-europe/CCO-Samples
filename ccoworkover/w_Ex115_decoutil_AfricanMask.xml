@@ -3,117 +3,156 @@
    <work id="w_Ex115_decoutil_AfricanMask" refid="c_CCO_Examples">
        <agentSet>
            <agent>
-               <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
-               </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="100630665" type="personal" vocab="viaf">unknown Chokwe</name>
+               <role type="code" vocab="marcrelator">cre</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300016282">Chokwe</culturalContext>
        </culturalContextSet>
        <dateSet>
+           <display>early 20th century</display>
            <date type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1900</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
-               </latestDate>
-           </date>
-           <date type="exhibition" source="">
-               <earliestDate>
-                   <date circa="false"></date>
-               </earliestDate>
-               <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1933</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="National Museum of African Art online. www.nmafa.si.edu (accessed 06 July 2007)">
+               <text>Collected in Democratic Republic of the Congo; probably from Angola. In Chokwe villages masks are worn by men in dances to invoke ancestral spirits, to represent spirits found in nature, or to represent men and women or wild animals in a narrative story. The original Chokwe name (pwo) referred to an adult woman who had given birth. The more recent name, mwana pwo, probably adopted under European influence, emphasizes youthful, feminine beauty.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="CONA">
+               <text> This mask represents a beautiful young woman adorned with tattoos, earrings and an elaborate coiffure. The original Chokwe name (pwo) referred to an adult woman who had given birth. The more recent name, mwana pwo, probably adopted under European influence, emphasizes youthful, feminine beauty. The artist carved this mask with very delicate, even, thin walls from the wood of Alstonia (probably A. congensis). The surface is a rich, reddish brown color, probably obtained from a mixture of red clay and oil, and has a beautiful patina, a sign of long use. The half-closed eyes placed in large, concave sockets are covered with white clay (kaolin). The eyes, slender nose, elliptical mouth and hemispherical ears are delicately carved on a face delineated by a softly modeled forehead and concave chin. The major components of the fiber coiffure are a braided headband and a heavy fringe at the rear. Chokwe women typically wore a hairstyle entirely coated with red earth and known as tota. Description: Dark brown oval shaped female face mask with a broad forehead. The eyes are horizontal slits placed within large eye sockets coated with white pigment, the nose is long with pierced nostrils and the mouth is long and cut horizontally to form the lips. The back of the head is covered with a knotted, corded fiber coiffure.</text>
+               <author>
+                   <name refid="156706556" type="corporate" vocab="viaf">J. Paul Getty Trust</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="National Museum of African Art">
+               <text>This mask represents a beautiful young woman adorned with tattoos, earrings and an elaborate coiffure. The original Chokwe name (pwo) referred to an adult woman who had given birth. The more recent name, mwana pwo, probably adopted under European influence, emphasizes youthful, feminine beauty. The artist carved this mask with very delicate, even, thin walls from the wood Alstonia (probably congensis). The surface is a rich, reddish brown color, probably obtained from a mixture of red clay and oil, and has a beautiful patina, a sign of long use. The half-closed eyes placed in large, concave sockets are covered with white clay (kaolin). The eyes, slender nose, elliptical mouth and hemispherical ears are delicately carved on a face delineated by a softly modeled forehead and concave chin. The major components of the fiber coiffure are a braided headband and a heavy fringe at the rear. Chokwe women typically wore a hairstyle entirely coated with red earth and known as tota. The artist carved several different representations of tattoos on the mask. On the left cheek and forehead are the triangles of the tattoo known as cingelyengelye. Originally, cingelyengelye occurred as a necklace in the form of a cross, cut from tin plate and worn by the Chokwe as an amulet. During the 17th century, Capuchin monks from the Order of Christ of Portugal had distributed medals in the form of a cross throughout Chokwe country, and this cross was probably the prototype for cingelyengelye. On the right cheek of the mask is the tattoo known as cijingo, in combination with a cross. Cijingo denotes a spiral brass bracelet. On the forehead and extending to the temples is the tattoo known as mitelumuna, or "knitted eyebrows," an allusion to discontentedness or arrogance. Under the eyes are tattoos known as masoji, signifying tears. Pwo or mwana pwo is one the most popular dancing masks among the Chokwe. Because they follow matrilineal descent, the Chokwe dance pwo to honor the founding female ancestor of the lineage. A male dancer is dressed like a woman in a costume of braided fiber that completely covers his body and hides his identity. He wears a loincloth, carries a fan and moves in slow, precise steps to emulate a woman. When the mask becomes unusable, it is discarded. When a masquerader dies, the mask is buried with the dancer.</text>
+               <author>
+                   <name refid="147531380" type="corporate" vocab="viaf">National Museum of African Art</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
-       <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
-           </inscription>
-       </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository">
+               <refid type="accession">85-15-20</refid>
+               <name refid="147531380" type="corporate" vocab="viaf">National Museum of African Art</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation">
+               <name refid="1000149" type="geographic" vocab="tgn" extent="nation">Angola</name>
+               <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
+           </location>
+           <location pref="false" type="discovery">
+               <name refid="1000159" type="geographic" vocab="tgn" extent="nation">Democratic Republic of the Congo</name>
+               <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300011914" type="medium" vocab="aat">wood</material>
+           <material refid="300014051" type="medium" vocab="aat">raffia</material>
+           <material refid="300010900" type="medium" vocab="aat">metal</material>
+           <material refid="300010445" type="medium" vocab="aat">kaolin</material>
+           <material refid="300010942" type="medium" vocab="aat">copper alloy</material>
+           <material refid="300417449" type="medium" vocab="aat" source="CONA">Alstonia congensis</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm">31.9</measurements>
+           <measurements type="width" unit="cm">21.3</measurements>
+           <measurements type="depth" unit="cm">23.5</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_Ex115_decoutil_AfricanMask"></relation>
-           <relation></relation>
+           <relation type="imageIs" relids="i_Ex115_decoutil_AfricanMask">general view</relation>
        </relationSet>
        <sourceSet>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_115_african_mask/</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 115: African mask.</name>
            </source>
            <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+               <!-- As of the moment of writing, there is no permanent link available to the object. -->
+               <refid type="URI">https://africa.si.edu/collections/view/objects/asitem/search@/0?t:state:flow=4a3c5f43-138e-4192-b057-a93321630949</refid>
+               <name type="electronic">National Museum of African Art, Smithsonian Institution</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000126</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300266702" vocab="aat" source="CONA">Muzamba</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
+           </subject>
+           <subject>
+               <term refid="300178802" vocab="aat" type="descriptiveTopic">costume</term>
+           </subject>
+           <subject>
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
+           </subject>
+           <subject>
+               <term refid="300251798" vocab="aat" type="descriptiveTopic">faces</term>
+           </subject>
+           <subject>
+               <term refid="300234117" vocab="aat" type="descriptiveTopic">ceremonial objects</term>
+           </subject>
+           <subject source="HRA">
+               <term refid="300262834" vocab="aat" type="descriptiveTopic">face masks</term>
            </subject>
        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300053149" vocab="aat" source="CONA">carving</technique>
+           <technique refid="300053026" vocab="aat" source="CONA">tying</technique>
+           <technique refid="300053012" vocab="aat" source="CONA">gluing</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title type="repository">Face Mask (pwo)</title>
+           <title type="other">Pwo Mask</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300138758" vocab="aat">masks</worktype>
+           <worktype refid="300404773" vocab="aat" source="CONA">pwo masks</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex115_decoutil_AfricanMask" href="">
+    <image id="i_Ex115_decoutil_AfricanMask" href="http://ids.si.edu/ids/deliveryService?id=NMAfA-D20000299">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                <name refid="147531380" type="corporate" vocab="viaf">National Museum of African Art</name>
+                <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_Ex115_decoutil_AfricanMask">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="copyrighted">
+                <rightsHolder>National Museum of African Art</rightsHolder>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">https://africa.si.edu/collections/view/objects/asitem/search@/0?t:state:flow=4a3c5f43-138e-4192-b057-a93321630949</refid>
+                <name type="electronic">National Museum of African Art</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">Face mask (pwo)</title>
         </titleSet>
     </image>
 </vra>

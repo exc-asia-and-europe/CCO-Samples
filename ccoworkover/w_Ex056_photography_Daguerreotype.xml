@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_Ex056_photography_Daguerreotype" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="100626577" type="personal" vocab="viaf">unknown American</name>
+               <role type="code" vocab="marcrelator">pht</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300107956">American</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <display>ca. 1840</display>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">1835</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1845</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description>
+               <text>Quarter-plate daguerreotype of a young mother, wearing a fancy plaid dress, and her daughter, both with gilt detail on their earrings and necklaces, without a seal, in a leather case. There are some light tarnish spots, especially noticeable in the background, giving it a faintly mottled look. There is a small accretion in the lower left portion of the image on the mother’s dress, and another smaller one to the right of the young girl’s arm. There are two intertwining tarnish lines across the lower right corner (which is probably due to being housed with a cracked piece of cover glass for long period of time). The case is generally worn and its hinge has been replaced.</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+            <notes>private collection, unknown number</notes>
+           <location/>
+       </locationSet>
+       <materialSet>
+           <display>quarter-plate daguerreotype; leather case; red velvet silk lining</display>
+           <material refid="300011845" type="medium" vocab="aat">leather</material>
+           <material refid="300243428" type="medium" vocab="aat">silk</material>
+       </materialSet>
+       <measurementsSet>
+           <display>quarter-plate, 10.79 x 16.51 cm (including case) (4 1/4 x 6 1/2 inches)</display>
+           <measurements type="height" unit="cm">10.79</measurements>
+           <measurements type="width" unit="cm">16.51</measurements>
+       </measurementsSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_56_photograph_daguerreotype_in_case/</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 56: Photograph, daguerreotype in case.</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300015637" vocab="aat" type="descriptiveTopic">portraits</term>
+           </subject>
+           <subject>
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
+           </subject>
+           <subject>
+               <term refid="300025943" vocab="aat" type="descriptiveTopic">women (female humans)</term>
+           </subject>
+           <subject>
+               <term refid="300025932" vocab="aat" type="descriptiveTopic">mothers</term>
+           </subject>
+           <subject>
+               <term refid="300025945" vocab="aat" type="descriptiveTopic">children</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="300053530" vocab="aat">daguerreotype</technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="descriptive">A Young Mother with Her Daughter</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300127181" vocab="aat">daguerreotypes</worktype>
+       </worktypeSet>
+   </work>
+</vra>

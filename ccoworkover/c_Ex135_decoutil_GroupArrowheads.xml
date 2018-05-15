@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <collection id="w_Ex135_decoutil_GroupArrowheads" refid="c_CCO_Examples">
+       <agentSet>
+           <agent source="CONA">
+               <name refid="869150323770409971031" type="personal" vocab="viaf">unknown Woodland Tradition</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300016660">Archaic (North American)</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <display>Archaic period (7,500 to 400 before present) (CCO) /  Late Woodland (500-1000 CE) (CONA) / ca. 7,500 BCE-400 BCE (creation) (VRA)</display>
+           <date pref="true" type="creation">
+               <earliestDate>
+                   <date circa="false">-5500</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">-0400</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="creation" source="CONA">
+               <earliestDate>
+                   <date circa="false">500</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1000</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="creation" source="VRA">
+               <earliestDate>
+                   <date circa="false">-7500</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">-0400</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true" source="Ahler, Stanley A. Knife River Flint Quarries: Excavations at Site 32DU508. Bismarck: State Historical Society of North Dakota, 1986.">
+               <text>20MR51.02: Kirk point, vitric tuff, corner-notched stemmed, distal portion missing</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="VRA; Wikipedia; http://en.wikipedia.org/wiki/Main_Page (accessed 5/31/2009)">
+               <text>In the sequence of North American pre-Columbian cultural stages first proposed by Gordon Willey and Philip Phillips in 1958, the Archaic period was the second period of human occupation in the Americas, from around 8000 BCE to 1000 BCE although as its ending is defined by the adoption of sedentary farming, this date can vary significantly across the Americas. The Woodland period of North American pre-Columbian cultures refers to the time period from roughly 1000 BCE to 1000 CE in the eastern part of North America. The term "Woodland" was coined in the 1930s and refers to prehistoric sites between the Archaic period and the Mississippian cultures. Some Woodland peoples continued to use spears and atlatls until the end of the period, when they were replaced by bows and arrows. This collection has 56 items, lengths range 36 mm to 64 mm (1 3/8 to 2 1/2 inches).</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location type="repository">
+               <refid type="accession" source="CONA">20MR51.02</refid>
+               <name refid="131863738" type="corporate" vocab="viaf">University of Michigan. Museum of Anthropology.</name>
+               <name type="geographic" vocab="TGN" refid="7013304" extent="inhabited place">Ann Arbor</name>
+               <name type="geographic" vocab="TGN" refid="7007520" extent="state">Michigan</name>
+               <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+               <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+           </location>
+           <location type="discovery" source="VRA">
+               <name type="geographic" vocab="TGN" refid="8711561" extent="archaeological site">Bannerstone Site</name>
+               <name type="geographic" vocab="TGN" refid="1002679" extent="county">Monroe (county)</name>
+               <name type="geographic" vocab="TGN" refid="7007520" extent="state">Michigan</name>
+               <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+               <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <display>flint, vitric tuff, and rhyolite</display>
+           <material refid="300011143" type="medium" vocab="aat">flint</material>
+           <material refid="300011264" type="medium" vocab="aat">tuff</material>
+           <material refid="300011211" type="medium" vocab="aat">rhyolite</material>
+       </materialSet>
+       <measurementsSet>
+           <display>56 items, lengths range 36 mm to 64 mm (1 3/8 to 2 1/2 inches)</display>
+           <measurements type="count" unit="item">56</measurements>
+           <measurements type="length" unit="mm" extent="smallest">36</measurements>
+           <measurements type="length" unit="mm" extent="largest">64</measurements>
+       </measurementsSet>
+       <sourceSet>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_135_group_of_arrowheads</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 135: Group of arrowheads.</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://www.core.vraweb.org/examples/html/example013_full_xml.html</refid>
+               <name type="electronic">VRA Core 4 Example 13: Group of arrowheads</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700008621</refid>
+               <name type="electronic">CONA</name>
+           </source>
+       </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300404767" vocab="aat">Late Woodland</stylePeriod>
+           <stylePeriod vocab="AAT" refid="300017442" source="VRA">Native North American</stylePeriod>
+           <stylePeriod vocab="AAT" refid="300016619" source="VRA">Pre-Columbian (American)</stylePeriod>
+       </stylePeriodSet>
+       <subjectSet>
+           <subject>
+               <term refid="300404591" vocab="aat" type="descriptiveTopic">utilitarian objects</term>
+           </subject>
+           <subject>
+               <term refid="300239666" vocab="aat" type="conceptTopic">hunting</term>
+           </subject>
+           <subject>
+               <term refid="300055314" vocab="aat" type="conceptTopic">wars</term>
+           </subject>
+           <subject source="VRA">
+               <term refid="300137540" vocab="aat" type="conceptTopic">armed forces</term>
+           </subject>
+       </subjectSet>
+       <titleSet>
+           <title pref="true" type="popular">Group of Points from Bannerstone Site (20 MR 52)</title>
+           <title pref="false" type="descriptive" source="VRA">Collection of points [arrowheads] from Bannerstone site</title>
+           <title pref="false" type="repository" source="VRA">Netting and Kirk points from the Bannerstone Site</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300024861" vocab="aat">arrowheads</worktype>
+           <worktype refid="300404768" vocab="aat">Kirk points</worktype>
+           <worktype refid="300230818" vocab="aat">nets</worktype>
+           <worktype refid="300024860" vocab="aat" source="CONA">projectile points</worktype>
+       </worktypeSet>
+   </collection>
+</vra>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_Ex097_decoutil_Humidor" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="Q30597964" type="personal" vocab="wikidata">Theodore B. Starr</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300107956">American (North American)</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <display>early 1900s, before 1924</display>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">1900</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1924</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description>
+               <text>The date is surmised based on the fact that Theodore B. Starr was in business from 1900 to 1924. The company was then taken over by Reed &amp; Barton. The rectangular hammered copper case mounted with silver whiplash stylized strapwork at the rims and corners continuing to scrolling strapwork feet, the cover mounted with a stylized possible monogram, the brass interior fitted with two side-by-side rectangular compartments, the interior edge with a slender central compartment, the sides pierced with stars.</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription>
+               <author refid="Q30597964" vocab="wikidata">Theodore B. Starr</author>
+               <position>bottom</position>
+               <text type="text">Theodore b. Starr pat.</text>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <notes>in private collection</notes>
+           <location/>
+       </locationSet>
+       <materialSet>
+           <display>copper with silver and brass; American sterling grade silver</display>
+           <material refid="300010942" type="medium" vocab="aat">copper alloy</material>
+           <material refid="300010977" type="medium" vocab="aat">sterling silver</material>
+       </materialSet>
+       <measurementsSet>
+           <display>30.1 x 22.7 x 27 cm (11 7/8 x 8 7/8 x 10 5/8 inches)</display>
+           <measurements type="height" unit="cm">30.1</measurements>
+           <measurements type="width" unit="cm">22.7</measurements>
+           <measurements type="depth" unit="cm">27</measurements>
+       </measurementsSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_97_humidor</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 97: Humidor.</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300404591" vocab="aat" type="descriptiveTopic">utilitarian objects</term>
+           </subject>
+           <subject source="HRA">
+               <term refid="300198898" vocab="aat" type="descriptiveTopic">humidors</term>
+           </subject>
+       </subjectSet>
+       <titleSet>
+           <title type="descriptive">Copper and Silver Humidor</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300198898" vocab="aat">humidors</worktype>
+       </worktypeSet>
+   </work>
+</vra>

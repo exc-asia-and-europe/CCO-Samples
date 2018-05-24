@@ -747,10 +747,6 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
                 <refid type="URI">https://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
-            <source pref="false">
-                <refid type="URI">http://www.getty.edu/art/collection/objects/1364/unknown-maker-sacramentary-ottonian-about-1025-1050/?artview=dor23747</refid>
-                <name type="electronic">J. Paul Getty Museum</name>
-            </source>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_64_illuminated_manuscript</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 64: Illuminated manuscript.</name>
@@ -779,7 +775,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
         </techniqueSet>
         <titleSet>
             <title pref="true" type="repository">Sacramentary</title>
-            <title pref="false" type="other">Christ in Majesty</title>
+            <title pref="false" type="other" source="J. Paul Getty Museum">Christ in Majesty</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300192160" vocab="aat">sacramentaries</worktype>
@@ -797,7 +793,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex64_manuscripts_IlluminatedManuscript">attachment</relation>
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain" dataDate="2016-08-09">
@@ -825,7 +821,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex64_manuscripts_IlluminatedManuscript">attachment</relation>
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain">
@@ -853,7 +849,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex64_manuscripts_IlluminatedManuscript">attachment</relation>
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain">
@@ -881,7 +877,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex64_manuscripts_IlluminatedManuscript">attachment</relation>
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain">
@@ -909,7 +905,7 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_Ex64_manuscripts_IlluminatedManuscript">attachment</relation>
+                   relids="w_Ex064_manuscripts_IlluminatedManuscript">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights type="publicDomain" dataDate="2016-08-09">

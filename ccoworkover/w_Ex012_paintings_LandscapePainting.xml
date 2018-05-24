@@ -126,6 +126,10 @@ The J. Paul Getty Collection (June 29 to September 3, 1972): The Minneapolis Ins
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_12_landscape_painting_two_artists</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 12: Landscape painting, two artists.</name>
             </source>
+	    <source pref="false">
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_2-CreatorInformation.pdf#page=24</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 100. Figure 14. Work Record Linked to a Personal and Corporate Name Authority Record: Oil Painting.</name>
+	    </source>
         </sourceSet>
         <subjectSet>
             <subject dataDate="2015-04-29-15-29-40">

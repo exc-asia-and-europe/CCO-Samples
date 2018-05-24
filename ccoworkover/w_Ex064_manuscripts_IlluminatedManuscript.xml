@@ -751,6 +751,10 @@ Give and Ye Shall Receive: Gift Giving in the Middle Ages (December 12, 2014 to 
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_64_illuminated_manuscript</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 64: Illuminated manuscript.</name>
             </source>
+	    <source pref="false">
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=24</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 179. Figure 22. Work Record Linked to an Authority Record for Culture: Ottonian Manuscript.</name>
+	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020766" vocab="aat">Ottonian</stylePeriod>

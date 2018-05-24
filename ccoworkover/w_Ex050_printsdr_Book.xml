@@ -80,6 +80,10 @@
                <refid type="URI">http://primo.getty.edu/GRI:GETTY_ALMA21132893560001551</refid>
                <name type="electronic">Getty Research Institute</name>
            </source>
+	    <source pref="false">
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=24</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 232. Figure 35. Work Record with Geographic Subject: Book of Maps.</name>
+	    </source>
        </sourceSet>
        <subjectSet>
            <subject>

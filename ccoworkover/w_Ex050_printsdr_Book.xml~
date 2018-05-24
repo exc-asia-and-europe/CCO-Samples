@@ -191,6 +191,10 @@
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_49_print_map_part_of_a_volume</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 49: Print, map, part of a volume.</name>
+	    <source pref="false">
+		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=24</refid>
+		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 232. Figure 35. Work Record with Geographic Subject: Book of Maps.</name>
+	    </source>
             </source>
         </sourceSet>
         <subjectSet>

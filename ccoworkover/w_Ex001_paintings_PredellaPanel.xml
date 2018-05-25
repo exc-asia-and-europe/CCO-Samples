@@ -3,12 +3,12 @@
     <work id="w_Ex001_paintings_PredellaPanel" refid="c_CCO_Examples">
         <agentSet>
 	    <display>Giovanni di Paolo (Sienese, active by 1426, died 1482)</display>
-            <agent dataDate="2016-04-12-12-41-06">
+        <agent dataDate="2016-04-12-12-41-06">
                 <culture>Sienese</culture>
-		<dates type="life">
-		    <earliestDate circa="true">1403</earliestDate>
-		    <latestDate circa="false">1482</latestDate>
-		</dates>
+		        <dates type="life">
+		             <earliestDate circa="true">1403</earliestDate>
+		             <latestDate circa="false">1482</latestDate>
+		        </dates>
                 <dates type="activity">
                     <earliestDate circa="false">1426</earliestDate>
                     <latestDate circa="false">1482</latestDate>
@@ -25,19 +25,19 @@
             <display>ca. 1445</display>
             <date pref="true" type="creation" dataDate="2016-04-12-12-41-41">
                 <earliestDate>
-			<date circa="false">1440</date>
-		</earliestDate>
+			         <date circa="false">1440</date>
+		        </earliestDate>
                 <latestDate>
-			<date circa="false">1450</date>
-		</latestDate>
+			         <date circa="false">1450</date>
+		        </latestDate>
             </date>
             <date pref="false" type="creation">
                 <earliestDate>
-			<date circa="true" type="about">1445</date>
-		</earliestDate>
+			         <date circa="true" type="about">1445</date>
+		        </earliestDate>
                 <latestDate>
-			<date circa="true" type="about">1445</date>
-		</latestDate>
+			         <date circa="true" type="about">1445</date>
+		        </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
@@ -68,7 +68,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
         <locationSet>
             <location pref="false" type="creation" source="Metropolitan Museum of Art">
                 <refid type="other">This panel was originally part of the predella (the lowermost horizontal component) of Giovanni di Paolo's "Guelfi Altarpiece," formerly in the Church of San Domenico in Siena (now Galleria degli Uffizi, Florence).</refid>
-		<name refid="153654719" type="geographic" vocab="viaf">San Domenico (Church : Siena, Italy)</name>
+		        <name refid="153654719" type="geographic" vocab="viaf">San Domenico (Church : Siena, Italy)</name>
                 <name refid="7011179" vocab="tgn" type="geographic" extent="inhabited place">Siena</name>
                 <name refid="7009760" type="geographic" vocab="tgn" extent="region">Tuscany</name>
                 <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
@@ -76,7 +76,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             </location>
             <location pref="true" type="repository" dataDate="2016-04-12-12-52-04">
                 <refid type="accession">1975.1.31</refid>
- 		<name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+ 		        <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
                 <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
                 <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
@@ -87,6 +87,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <material refid="300014657" type="support" vocab="aat">panels</material>
             <material refid="300264831" type="medium" vocab="aat">gold leaf</material>
             <material refid="300015062" type="medium" vocab="aat">tempera</material>
+            <material refid="300379350" type="medium" vocab="aat" source="CONA">gilding</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="false" source="Metropolitan Museum of Art" type="height" unit="in">18 1/4</measurements>
@@ -96,7 +97,8 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex001_paintings_PredellaPanel">general view</relation>
-	        <relation type="formerlyPartOf" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700009239" refid="700009239" source="CONA">Guelfi Altarpiece</relation>
+            <relation type="formerlyPartOf" href="http://vocab.getty.edu/page/cona/700009239" refid="700009239" source="CONA">Guelfi Altarpiece</relation>
+            <relation type="relatedTo" href="http://vocab.getty.edu/page/cona/700000180" refid="700000180" source="CONA">Paradise</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="Metropolitan Museum of Art">
@@ -112,6 +114,10 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <source pref="false">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/458971</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000179</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -150,20 +156,15 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <technique refid="300054216" vocab="aat">painting</technique>
             <technique refid="300178675" vocab="aat">panel painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-04-12-12-23-22">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000179</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="false" type="other">The Creation and the Expulsion of Adam and Eve from Paradise</title>
             <title pref="true" source="Metropolitan Museum of Art" type="repository">The Creation of the World and the Expulsion from Paradise</title>
+            <title pref="false" source="CONA" type="descriptive">Predella Panel</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033656" vocab="aat">panel paintings</worktype>
             <worktype refid="300033618" vocab="aat">paintings</worktype>
-	    <worktype refid="300003745" vocab="aat">predellas</worktype>
+	        <worktype refid="300003745" vocab="aat">predellas</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex001_paintings_PredellaPanel"

@@ -270,6 +270,10 @@ L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism
                 <refid type="URI">http://www.getty.edu/art/collection/objects/824/pontormo-jacopo-carucci-portrait-of-a-halberdier-francesco-guardi-italian-florentine-1528-1530/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000103</refid>
+                <name type="electronic">CONA</name>
+            </source>
             <source pref="true" dataDate="2016-04-19-13-29-34">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_6_mannerist_portrait_with_former_title</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 6: Mannerist portrait, with former title.</name>
@@ -291,20 +295,17 @@ L'Officina della `Maniera': Varietà e Fierezza Nell'arte Fiorentino / Mannerism
             <subject>
             	<term refid="27073465" vocab="viaf" type="personalName">Guardi, Francesco</term>
             </subject>
+            <subject source="CONA">
+                <term refid="500125867" vocab="ulan" type="personalName">Cosimo I de' Medici</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-04-21-11-00-43">
-                <name type="electronic">CONA</name>
-                <refid type="other">700002210</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" type="repository">Portrait of a Halberdier (Francesco Guardi?)</title>
             <title pref="false" type="former">Portrait of Cosimo I de’Medici</title>
-	    <title pref="false" type="other" source="J. Paul Getty Museum">Portrait of a Halberdier (probably Francesco Guardi)</title>
+	        <title pref="false" type="other" source="J. Paul Getty Museum">Portrait of a Halberdier (probably Francesco Guardi)</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033618" vocab="aat">paintings</worktype>

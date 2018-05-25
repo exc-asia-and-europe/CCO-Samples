@@ -23,12 +23,12 @@
                     <date circa="false">1646</date>
                 </latestDate>
             </date>
-	    <date type="exhibition" source="National Gallery of Art Washington">
-		<earliestDate>
-		    <date circa="false">1937</date>
-		</earliestDate>
-		<latestDate>
-		    <date circa="false">1937</date>
+	        <date type="exhibition" source="National Gallery of Art Washington">
+		        <earliestDate>
+		            <date circa="false">1937</date>
+		        </earliestDate>
+		        <latestDate>
+		            <date circa="false">1937</date>
 		</latestDate>
 	    </date>
 	    <date type="exhibition" source="National Gallery of Art Washington">
@@ -249,7 +249,7 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex008_paintings_PaintingOfArchitecture">general view</relation>
-	    <relation type="depicts" refid="700000175" vocab="CONA" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000175">Cathedral of Saint John at 's-Hertogenbosch</relation>
+            <relation type="depicts" refid="700000175" vocab="CONA" href="http://vocab.getty.edu/page/cona/700000175">Cathedral of Saint John at 's-Hertogenbosch</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="National Gallery of Art Washington">
@@ -261,6 +261,10 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             <source pref="false">
                 <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.46132.html</refid>
                 <name type="electronic">National Gallery of Art Washington</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000171</refid>
+                <name type="electronic">CONA</name>
             </source>
             <source pref="true" dataDate="2016-04-26-08-48-04">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_8_painting_of_architecture_related_work</refid>
@@ -325,12 +329,6 @@ Paint was applied in transparent washes, glazes, and fine brushwork that leave t
             <technique refid="300054216" vocab="aat">painting</technique>
             <technique refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-04-21-10-52-03">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000171</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title type="repository">Cathedral of Saint John at's-Hertogenbosch</title>
         </titleSet>

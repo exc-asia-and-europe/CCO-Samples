@@ -135,7 +135,11 @@ The J. Paul Getty Collection (June 29 to September 3, 1972): The Minneapolis Ins
             </source>
             <source pref="true" dataDate="2016-04-12-14-20-53">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_4_polyptych</refid>
-                <name type="serial">Cataloging Cultural Objects Commons. Example 4: Polyptych.</name>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 4: Polyptych.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000132</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <subjectSet>
@@ -151,56 +155,50 @@ The J. Paul Getty Collection (June 29 to September 3, 1972): The Minneapolis Ins
             <subject>
                 <term refid="300150555" vocab="aat" type="iconographicTopic">saints</term>
             </subject>
-	    <subject>
-		<term refid="11F4" vocab="iconclass" type="iconographicTopic">Madonna; i.e. Mary with the Christ-child</term>
-	    </subject>
-	    <subject>
-		<term refid="11H(JAMES THE GREAT)" vocab="iconclass" type="iconographicTopic">the apostle James the Great</term>
-	    </subject>
-	    <subject>
-		<term refid="11D" vocab="iconclass" type="iconographicTopic">Christ</term>
-	    </subject>
-	    <subject>
-		<term refid="11HH(MARY MAGDALENE)" vocab="iconclass" type="iconographicTopic">the penitent harlot Mary Magdalene</term>
-	    </subject>
-	    <subject>
-		<term refid="11F" vocab="iconclass" type="iconographicTopic">the Virgin Mary</term>
-	    </subject>
-	    <subject>
-		<term refid="11H(BARTHOLOMEW)" vocab="iconclass" type="iconographicTopic">the apostle Bartholomew</term>
-	    </subject>
-	    <subject>
-		<term refid="11H(PETER)" vocab="iconclass" type="iconographicTopic">the apostle Peter</term>
-	    </subject>
-	    <subject>
-		<term refid="11HH(CATHERINE)" vocab="iconclass" type="iconographicTopic">the virgin martyr Catherine of Alexandria</term>
-	    </subject>
-	    <subject>
-		<term refid="11H(JOHN THE BAPTIST)" vocab="iconclass" type="iconographicTopic">John the Baptist</term>
-	    </subject>
-	    <subject>
-		<term refid="11H(JOHN)" vocab="iconclass" type="iconographicTopic">the apostle John the Evangelist</term>
-	    </subject>
-	    <subject>
-		<term refid="11HH(APOLLONIA)" vocab="iconclass" type="iconographicTopic">the virgin martyr Apollonia of Alexandria</term>
-	    </subject>
-	    <subject>
-		<term refid="11HH(URSULA)" vocab="iconclass" type="iconographicTopic">the virgin martyr Ursula of Cologne</term>
-	    </subject>
-	    <subject>
-		<term refid="11HH(LUCY)" vocab="iconclass" type="iconographicTopic">the virgin martyr Lucy (Lucia) of Syracuse</term>
-	    </subject>
+       	    <subject>
+       		   <term refid="11F4" vocab="iconclass" type="iconographicTopic">Madonna; i.e. Mary with the Christ-child</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11H(JAMES THE GREAT)" vocab="iconclass" type="iconographicTopic">the apostle James the Great</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11D" vocab="iconclass" type="iconographicTopic">Christ</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11HH(MARY MAGDALENE)" vocab="iconclass" type="iconographicTopic">the penitent harlot Mary Magdalene</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11F" vocab="iconclass" type="iconographicTopic">the Virgin Mary</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11H(BARTHOLOMEW)" vocab="iconclass" type="iconographicTopic">the apostle Bartholomew</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11H(PETER)" vocab="iconclass" type="iconographicTopic">the apostle Peter</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11HH(CATHERINE)" vocab="iconclass" type="iconographicTopic">the virgin martyr Catherine of Alexandria</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11H(JOHN THE BAPTIST)" vocab="iconclass" type="iconographicTopic">John the Baptist</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11H(JOHN)" vocab="iconclass" type="iconographicTopic">the apostle John the Evangelist</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11HH(APOLLONIA)" vocab="iconclass" type="iconographicTopic">the virgin martyr Apollonia of Alexandria</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11HH(URSULA)" vocab="iconclass" type="iconographicTopic">the virgin martyr Ursula of Cologne</term>
+       	    </subject>
+       	    <subject>
+       		   <term refid="11HH(LUCY)" vocab="iconclass" type="iconographicTopic">the virgin martyr Lucy (Lucia) of Syracuse</term>
+       	    </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054216" vocab="aat">painting</technique>
             <technique refid="300178675" vocab="aat">panel painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-04-12-13-38-52">
-                <name type="electronic">CONA</name>
-                <refid type="other">700006257</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" type="repository">Polyptych with Saint James Major, Madonna and Child, and Saints</title>
             <title pref="false" source="J. Paul Getty Museum" type="other">Saint James Major, the Madonna and Child, and Various Saints</title>

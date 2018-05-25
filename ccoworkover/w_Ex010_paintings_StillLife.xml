@@ -57,6 +57,13 @@ Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture 
                     <role type="code" vocab="marcrelator">rps</role>
                 </author>
             </description>
+            <description pref="false" source="CONA, 700000101">
+                <text>The subject is a still life of flowers spilling onto a ledge, some decaying and being eaten by insects. It represents the senses of sight and smell; the decay and broken stems symbolize the transient nature of life, youth, and beauty; the ledge pushed up to the picture plane resembles the ledge seen in posthumous portraits, thus symbolizing death. The crown of thorns flower at the top symbolizes the Passion of Christ. van Huysum included flowers from all seasons of the year--roses, anemones, hyacinths, tulips, and more--and painted them directly from life. Included is a white-and-red variety of tulip that was so highly valued in the "tulip mania" speculative phenomenon of the previous century. The Dutch fascination with nature is described in a riotous display of beautiful and exotic flowers. The bouquet is ordered in a loose pyramidal shape, with flowers and greenery almost bursting to be free of the vase. Butterflies and other insects fly or crawl amongst the arrangement, and drops of water are visible on leafs and shiny petals. Van Huysum painstakingly applied layer upon layer of thin oil glazes to capture the brilliant colors and delicate textures of the blossoms. Because each flower could only be painted while in season, it sometimes took the artist several years to complete a single painting.</text>
+                <author>
+                    <name refid="156706556" type="corporate" vocab="viaf">J. Paul Getty trust</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
 	    <description source="J. Paul Getty Museum">
 		<text>Provenance.
 1800
@@ -136,7 +143,7 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles)</text>
             <location type="repository" dataDate="2016-04-21-11-23-05">
                 <refid type="accession">82.PB.70</refid>
                 <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+		        <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
                 <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
                 <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
@@ -180,17 +187,26 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles)</text>
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_10_still_life_painting</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 10: Still Life painting.</name>
             </source>
-	    <source>
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=35</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 35. Figure 4. Work Record for a Single Work: Baroque Painting.</name>
-	    </source>
-	    <source>
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=14</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 220. Figure 29. Still Life: Flowers.</name>
-	    </source>
+       	    <source>
+          		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=35</refid>
+          		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 35. Figure 4. Work Record for a Single Work: Baroque Painting.</name>
+       	    </source>
+       	    <source>
+          		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=14</refid>
+          		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 220. Figure 29. Still Life: Flowers.</name>
+       	    </source>
+            <source>
+                <refid type="URI">http://vocab.getty.edu/page/cona/700002125</refid>
+                <name type="electronic">CONA, 700002125</name>
+            </source>
+            <source>
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000101</refid>
+                <name type="electronic">CONA, 700000101</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021155" vocab="aat">Rococo</stylePeriod>
+            <stylePeriod refid="300021147" vocab="aat" source="CONA, 700002125">Baroque</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject dataDate="2015-04-29-14-25-35">
@@ -240,8 +256,8 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles)</text>
             </subject>
             <subject dataDate="2016-04-21-11-27-38">
                 <term refid="300055137" vocab="aat" type="conceptTopic">senses</term>
-	    </subject>
-	    <subject source="Figure 29">
+	        </subject>
+	        <subject source="Figure 29">
                 <term refid="300179388" vocab="aat" type="conceptTopic">odors</term>
             </subject>
             <subject>
@@ -250,147 +266,143 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles)</text>
             <subject source="Figure 29">
                 <term refid="300265049" vocab="aat" type="iconographicTopic">pronk still lifes</term>
             </subject>
-	    <subject>
-		<term refid="sh88022967" vocab="lcsh" type="descriptiveTopic">Christthorn</term>
-	    </subject>
-	    <subject>
-		<term refid="73D" vocab="iconclass" type="iconographicTopic">Passion of Christ</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="sh00005833" vocab="lcsh" type="descriptiveTopic">eggs</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="sh85131179" vocab="lcsh" type="descriptiveTopic">Sweet peas</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="sh85035058" vocab="lcsh" type="descriptiveTopic">Cyclamen</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="sh85035383" vocab="lcsh" type="descriptiveTopic">Daffodils</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="sh85106708" vocab="lcsh" type="descriptiveTopic">Primroses</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="ssh85076964" vocab="lcsh" type="descriptiveTopic">Lilies</term>
-	    </subject>
-	    <subject source="Figure 29">
-		<term refid="sh85143541" vocab="lcsh" type="descriptiveTopic">Violets</term>
-	    </subject>
+       	    <subject>
+       		    <term refid="sh88022967" vocab="lcsh" type="descriptiveTopic">Christthorn</term>
+       	    </subject>
+       	    <subject>
+       		    <term refid="73D" vocab="iconclass" type="iconographicTopic">Passion of Christ</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="sh00005833" vocab="lcsh" type="descriptiveTopic">eggs</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="sh85131179" vocab="lcsh" type="descriptiveTopic">Sweet peas</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="sh85035058" vocab="lcsh" type="descriptiveTopic">Cyclamen</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="sh85035383" vocab="lcsh" type="descriptiveTopic">Daffodils</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="sh85106708" vocab="lcsh" type="descriptiveTopic">Primroses</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="ssh85076964" vocab="lcsh" type="descriptiveTopic">Lilies</term>
+       	    </subject>
+       	    <subject source="Figure 29">
+       		    <term refid="sh85143541" vocab="lcsh" type="descriptiveTopic">Violets</term>
+       	    </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054216" vocab="aat">painting</technique>
             <technique refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
         <textrefSet>
-            <textref dataDate="2016-04-21-11-10-12">
-                <name type="electronic">CONA</name>
-                <refid type="other">700002104</refid>
-            </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="catalog">Smith, John. A Catalogue Raisonné of the Works of the Most Eminent Dutch, Flemish, and French Painters [...]. 9 vols. (London: Smith and Son, 1829-42), vol. 6 (1835)</name>
-		<refid type="citation">p. 479, no. 69.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Gower, Ronald. A Pocket Guide to the Public and Private Galleries of Holland and Belgium (London: S. Low, Marsten and Searle, 1875)</name>
-		<refid type="citation">p. 135.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Davis, C. A Description of the Works of Art Forming the Collection of Alfred de Rothschild (London: Chiswick Press, 1884) vol. 1</name>
-		<refid type="citation">unpaginated, no. 17, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Hofstede de Groot, Cornelis. Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten holländischen Maler des XVII. Jahrhunderts. 10 vols. (Esslingen am Neckar: Paul Neff Verlag, 1907-28)</name>
-		<refid type="citation">p. 351, no. 62.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="catalog">Dutch Pictures 1450-1750: Winter Exhibition, 1952-53, exh. cat. 4th ed. (London: Royal Academy of Arts, 1952)</name>
-		<refid type="citation">p. 104, no. 568.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="catalog">Grant, M.H. Jan van Huysum 1682-1749, Including a Catalogue Raisonné of the Artist's Fruit and Flower Paintings (Leigh-on-Sea: F. Lewis, Ltd., 1954)</name>
-		<refid type="citation">pp. 18, 28, no. 22, fig. 6.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="serial">Beal, Jack. "Sight and Sense: Studying Pictorial Composition." American Artist (February 1986)</name>
-		<refid type="citation">pp. 54-55, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Sutton, Peter C. A Guide to Dutch Art in America (Grand Rapids, MI: Wm. B. Eerdmans, 1986)</name>
-		<refid type="citation">p. 143, fig. 208.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Reinewald, Chris. "Musea en Galeries in Amerika: Het Getty Museum; Een Romeinse villa aan de Pacific Coast."</name>
-		<refid type="citation">Tableau 9, no. 4 (February 1987), pp. 65, 67.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Fredericksen, Burton B. Masterpieces of Painting in the J. Paul Getty Museum. Rev. ed. (Malibu: J. Paul Getty Museum, 1988)</name>
-		<refid type="citation">unpaginated, no. 29, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="catalog">Sutton, Peter C. "Recent Patterns of Public and Private Collecting of Dutch Art." In Great Dutch Paintings from America, exh. cat. Ben Broos, et al., eds. (The Hague: Mauritshuis, with Waanders, 1990)</name>
-		<refid type="citation">p. 107.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Carr, Dawson W., and Mark Leonard. Looking at Paintings: A Guide to Technical Terms (Malibu: J. Paul Getty Museum, with British Museum Press, 1992)</name>
-		<refid type="citation">p. 33, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Fredericksen, Burton B., et al. Masterpieces of Painting in the J. Paul Getty Museum. 3rd ed. (Malibu: J. Paul Getty Museum, 1995)</name>
-		<refid type="citation">unpaginated, no. 29, ill., entry by Burton B. Fredericksen.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum" href="http://www.getty.edu/publications/virtuallibrary/0892364815.html">
-		<name type="book">Jaffé, David. Summary Catalogue of European Paintings in the J. Paul Getty Museum (Los Angeles: J. Paul Getty Museum, 1997)</name>
-		<refid type="citation">p. 62, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Fredericksen, Burton B., et al. Masterpieces of the J. Paul Getty Museum: Paintings (Los Angeles: J. Paul Getty Museum, 1997)</name>
-		<refid type="citation">pp. 70-71, no. 38, ill., entry by Burton B. Fredericksen.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="serial">Priem, Ruud. "The 'most excellent collection' of Lucretia Johanna van Winter: the years 1809-22, with a catalogue of the works purchased." Simiolus 25, no. 2/3 (1997)</name>
-		<refid type="citation">pp. 118, 122, 220 (no. 81), fig. 26.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="serial">Dik, Joris and Arie Wallert. "Two Still Life Paintings by Jan van Huysum: An Examination of Painting Technique in Relation to Documentary and Technical Evidence." Leids kunsthistorisch jaarboek 11 (1998)</name>
-		<refid type="citation">pp. 391-414, fig. 1.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">The J. Paul Getty Museum Handbook of the Collections. 6th ed. (Los Angeles: J. Paul Getty Museum, 2001)</name>
-		<refid type="citation">p. 125, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum" href="http://www.getty.edu/publications/virtuallibrary/0892364289.html">
-		<name type="book">Allen, Denise, et al. Masterpieces of Painting in the J. Paul Getty Museum. Rev. ed. (Los Angeles: J. Paul Getty Museum, with Thames &amp; Hudson, 2003)</name>
-		<refid type="citation">pp. 66-67, no. 35, ill., entry by Burton B. Fredericksen.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Kammen, Michael. A Time to Every Purpose: The Four Seasons in American Culture (Chapel Hill: University of North Carolina Press, 2004)</name>
-		<refid type="citation">p. 101, plate, 6.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="catalog">Segal, Sam, Mariët Ellens, and Joris Dik. The Temptations of Flora: Jan van Huysum, 1682-1749, exh. cat. (Delft: Het Prinsenhof, with Waanders, 2007)</name>
-		<refid type="citation">pp. 69, 71, 73, 74, 174-78, cat. F11 ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">The J. Paul Getty Museum Handbook of the Collections. 7th ed. (Los Angeles: J. Paul Getty Museum, 2007)</name>
-		<refid type="citation">p. 120, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Helvey, Jennifer. Irises: Vincent van Gogh in the Garden (Los Angeles: J. Paul Getty Museum, 2009)</name>
-		<refid type="citation">pp. 57-58, fig. 31.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Woollett, Anne T. Miraculous Bouquets: Flower and Fruit Paintings by Jan van Huysum (Los Angeles: J. Paul Getty Museum, 2011)</name>
-		<refid type="citation">unpaginated, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="book">Chansigaud, Valérie. Une histoire des fleurs: Entre nature et culture (Paris: Delachaux et Niestlé, 2014)</name>
-		<refid type="citation">p. 139, ill.</refid>
-	    </textref>
-	    <textref source="J. Paul Getty Museum">
-		<name type="catalog">Padilla, Carmella, and Barbara Anderson, eds. A Red Like No Other, exh. cat. (New York: Skira Rizzoli, 2015)</name>
-		<refid type="citation">pp. 227, 230-31, fig. 25.10.</refid>
-	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="catalog">Smith, John. A Catalogue Raisonné of the Works of the Most Eminent Dutch, Flemish, and French Painters [...]. 9 vols. (London: Smith and Son, 1829-42), vol. 6 (1835)</name>
+       		<refid type="citation">p. 479, no. 69.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Gower, Ronald. A Pocket Guide to the Public and Private Galleries of Holland and Belgium (London: S. Low, Marsten and Searle, 1875)</name>
+       		<refid type="citation">p. 135.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Davis, C. A Description of the Works of Art Forming the Collection of Alfred de Rothschild (London: Chiswick Press, 1884) vol. 1</name>
+       		<refid type="citation">unpaginated, no. 17, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Hofstede de Groot, Cornelis. Beschreibendes und kritisches Verzeichnis der Werke der hervorragendsten holländischen Maler des XVII. Jahrhunderts. 10 vols. (Esslingen am Neckar: Paul Neff Verlag, 1907-28)</name>
+       		<refid type="citation">p. 351, no. 62.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="catalog">Dutch Pictures 1450-1750: Winter Exhibition, 1952-53, exh. cat. 4th ed. (London: Royal Academy of Arts, 1952)</name>
+       		<refid type="citation">p. 104, no. 568.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="catalog">Grant, M.H. Jan van Huysum 1682-1749, Including a Catalogue Raisonné of the Artist's Fruit and Flower Paintings (Leigh-on-Sea: F. Lewis, Ltd., 1954)</name>
+       		<refid type="citation">pp. 18, 28, no. 22, fig. 6.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="serial">Beal, Jack. "Sight and Sense: Studying Pictorial Composition." American Artist (February 1986)</name>
+       		<refid type="citation">pp. 54-55, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Sutton, Peter C. A Guide to Dutch Art in America (Grand Rapids, MI: Wm. B. Eerdmans, 1986)</name>
+       		<refid type="citation">p. 143, fig. 208.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Reinewald, Chris. "Musea en Galeries in Amerika: Het Getty Museum; Een Romeinse villa aan de Pacific Coast."</name>
+       		<refid type="citation">Tableau 9, no. 4 (February 1987), pp. 65, 67.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Fredericksen, Burton B. Masterpieces of Painting in the J. Paul Getty Museum. Rev. ed. (Malibu: J. Paul Getty Museum, 1988)</name>
+       		<refid type="citation">unpaginated, no. 29, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="catalog">Sutton, Peter C. "Recent Patterns of Public and Private Collecting of Dutch Art." In Great Dutch Paintings from America, exh. cat. Ben Broos, et al., eds. (The Hague: Mauritshuis, with Waanders, 1990)</name>
+       		<refid type="citation">p. 107.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Carr, Dawson W., and Mark Leonard. Looking at Paintings: A Guide to Technical Terms (Malibu: J. Paul Getty Museum, with British Museum Press, 1992)</name>
+       		<refid type="citation">p. 33, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Fredericksen, Burton B., et al. Masterpieces of Painting in the J. Paul Getty Museum. 3rd ed. (Malibu: J. Paul Getty Museum, 1995)</name>
+       		<refid type="citation">unpaginated, no. 29, ill., entry by Burton B. Fredericksen.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum" href="http://www.getty.edu/publications/virtuallibrary/0892364815.html">
+       		<name type="book">Jaffé, David. Summary Catalogue of European Paintings in the J. Paul Getty Museum (Los Angeles: J. Paul Getty Museum, 1997)</name>
+       		<refid type="citation">p. 62, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Fredericksen, Burton B., et al. Masterpieces of the J. Paul Getty Museum: Paintings (Los Angeles: J. Paul Getty Museum, 1997)</name>
+       		<refid type="citation">pp. 70-71, no. 38, ill., entry by Burton B. Fredericksen.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="serial">Priem, Ruud. "The 'most excellent collection' of Lucretia Johanna van Winter: the years 1809-22, with a catalogue of the works purchased." Simiolus 25, no. 2/3 (1997)</name>
+       		<refid type="citation">pp. 118, 122, 220 (no. 81), fig. 26.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="serial">Dik, Joris and Arie Wallert. "Two Still Life Paintings by Jan van Huysum: An Examination of Painting Technique in Relation to Documentary and Technical Evidence." Leids kunsthistorisch jaarboek 11 (1998)</name>
+       		<refid type="citation">pp. 391-414, fig. 1.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">The J. Paul Getty Museum Handbook of the Collections. 6th ed. (Los Angeles: J. Paul Getty Museum, 2001)</name>
+       		<refid type="citation">p. 125, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum" href="http://www.getty.edu/publications/virtuallibrary/0892364289.html">
+       		<name type="book">Allen, Denise, et al. Masterpieces of Painting in the J. Paul Getty Museum. Rev. ed. (Los Angeles: J. Paul Getty Museum, with Thames &amp; Hudson, 2003)</name>
+       		<refid type="citation">pp. 66-67, no. 35, ill., entry by Burton B. Fredericksen.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Kammen, Michael. A Time to Every Purpose: The Four Seasons in American Culture (Chapel Hill: University of North Carolina Press, 2004)</name>
+       		<refid type="citation">p. 101, plate, 6.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="catalog">Segal, Sam, Mariët Ellens, and Joris Dik. The Temptations of Flora: Jan van Huysum, 1682-1749, exh. cat. (Delft: Het Prinsenhof, with Waanders, 2007)</name>
+       		<refid type="citation">pp. 69, 71, 73, 74, 174-78, cat. F11 ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">The J. Paul Getty Museum Handbook of the Collections. 7th ed. (Los Angeles: J. Paul Getty Museum, 2007)</name>
+       		<refid type="citation">p. 120, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Helvey, Jennifer. Irises: Vincent van Gogh in the Garden (Los Angeles: J. Paul Getty Museum, 2009)</name>
+       		<refid type="citation">pp. 57-58, fig. 31.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Woollett, Anne T. Miraculous Bouquets: Flower and Fruit Paintings by Jan van Huysum (Los Angeles: J. Paul Getty Museum, 2011)</name>
+       		<refid type="citation">unpaginated, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="book">Chansigaud, Valérie. Une histoire des fleurs: Entre nature et culture (Paris: Delachaux et Niestlé, 2014)</name>
+       		<refid type="citation">p. 139, ill.</refid>
+       	    </textref>
+       	    <textref source="J. Paul Getty Museum">
+       		<name type="catalog">Padilla, Carmella, and Barbara Anderson, eds. A Red Like No Other, exh. cat. (New York: Skira Rizzoli, 2015)</name>
+       		<refid type="citation">pp. 227, 230-31, fig. 25.10.</refid>
+       	    </textref>
         </textrefSet>
         <titleSet>
             <title type="repository">Vase of Flowers</title>

@@ -113,6 +113,10 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/458971</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/458971</refid>
+                <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020786" vocab="aat">International Gothic</stylePeriod>
@@ -150,12 +154,6 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
             <technique refid="300054216" vocab="aat">painting</technique>
             <technique refid="300178675" vocab="aat">panel painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-04-12-12-23-22">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000179</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="false" type="other">The Creation and the Expulsion of Adam and Eve from Paradise</title>
             <title pref="true" source="Metropolitan Museum of Art" type="repository">The Creation of the World and the Expulsion from Paradise</title>
@@ -166,7 +164,7 @@ Albin Chalandon, Paris; Georges Chalandon, Paris; Camille Benoît, Paris (see M.
 	    <worktype refid="300003745" vocab="aat">predellas</worktype>
         </worktypeSet>
     </work>
-    <image id="i_Ex001_paintings_PredellaPanel"
+   <image id="i_Ex001_paintings_PredellaPanel"
           href="https://images.metmuseum.org/CRDImages/rl/web-large/DT707.jpg">
       <agentSet>
          <agent dataDate="2016-04-12-13-05-37">

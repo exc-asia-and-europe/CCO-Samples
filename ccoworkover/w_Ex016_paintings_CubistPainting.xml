@@ -81,18 +81,18 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
         </descriptionSet>
         <locationSet>
             <location pref="true" type="repository" dataDate="2015-05-04-09-44-54">
-		<refid type="accession">333.1939</refid> 
+		        <refid type="accession">333.1939</refid> 
                 <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
-		<name refid="7007567" vocab="tgn" type="geographic" extent="inhabited place">New York</name>
-		<name refid="7007568" vocab="tgn" type="geographic" extent="state">New York</name>
-		<name refid="7012149" vocab="tgn" type="geographic" extent="nation">United States</name>
-		<name refid="1000001" vocab="tgn" type="geographic" extent="continent">North and Central America</name>
+          		<name refid="7007567" vocab="tgn" type="geographic" extent="inhabited place">New York</name>
+          		<name refid="7007568" vocab="tgn" type="geographic" extent="state">New York</name>
+          		<name refid="7012149" vocab="tgn" type="geographic" extent="nation">United States</name>
+          		<name refid="1000001" vocab="tgn" type="geographic" extent="continent">North and Central America</name>
             </location>
             <location pref="false" type="creation" source="Museum of Modern Art, NY">
-		<refid type="other">Picasso unveiled the monumental painting in his Paris studio after months of revision.</refid>
+		        <refid type="other">Picasso unveiled the monumental painting in his Paris studio after months of revision.</refid>
                 <name refid="7008038" vocab="tgn" type="geographic" extent="inhabited place">Paris</name>
-		<name refid="1000070" vocab="tgn" type="geographic" extent="nation">France</name>
-		<name refid="1000003" vocab="tgn" type="geographic" extent="continent">Europe</name>
+          		<name refid="1000070" vocab="tgn" type="geographic" extent="nation">France</name>
+          		<name refid="1000003" vocab="tgn" type="geographic" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
@@ -108,18 +108,18 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
         <relationSet>
             <relation type="imageIs" relids="i_Ex016_paintings_CubistPainting">general view</relation>
         </relationSet>
-	<rightsSet>
-	    <display>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York; Acquired through the Lillie P. Bliss Bequest (by exchange)  </display>
-	    <rights type="copyrighted">
-		<rightsHolder>Estate of Pablo Picasso</rightsHolder>
-		<rightsHolder>Artists Rights Society (ARS)</rightsHolder>
-		<text>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York </text>
-	    </rights>
-	    <rights type="other">
-		<rightsHolder>Museum of Modern Art, NY</rightsHolder>
-		<text>Acquired through the Lillie P. Bliss Bequest (by exchange)</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <display>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York; Acquired through the Lillie P. Bliss Bequest (by exchange)  </display>
+       	    <rights type="copyrighted">
+          		<rightsHolder>Estate of Pablo Picasso</rightsHolder>
+          		<rightsHolder>Artists Rights Society (ARS)</rightsHolder>
+          		<text>© 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York </text>
+       	    </rights>
+       	    <rights type="other">
+          		<rightsHolder>Museum of Modern Art, NY</rightsHolder>
+          		<text>Acquired through the Lillie P. Bliss Bequest (by exchange)</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="false">
                 <refid type="URI">http://www.moma.org/collection/object.php?object_id=79766</refid>
@@ -128,6 +128,10 @@ The Museum of Modern Art, New York. Purchased from Seligmann, through the Lillie
             <source pref="true" dataDate="2015-05-04-09-58-49">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_4_paintings/example_16_cubist_painting</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 16: Cubist painting.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000104</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

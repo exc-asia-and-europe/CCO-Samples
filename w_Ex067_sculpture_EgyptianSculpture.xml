@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_Ex067_sculpture_EgyptianSculpture" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="100632070" type="personal" vocab="viaf">unknown Eighteenth Dynasty</name>
+               <role type="code" vocab="marcrelator">scl</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300020251">Egyptian (ancient)</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <display>ca. 1350 BCE (New Kingdom)</display>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">-1355</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">-1345</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <locationSet>
+           <location type="repository">
+               <refid type="accession">unavailable</refid>
+               <name refid="123996097" type="corporate" vocab="viaf">Matḥaf al-miṣrī</name>
+               <name refid="7001215" type="geographic" vocab="tgn" extent="inhabited place">Cairo</name>
+               <name refid="1001091" type="geographic" vocab="tgn" extent="governorate">Cairo</name>
+               <name refid="7016833" type="geographic" vocab="tgn" extent="nation">Egypt</name>
+               <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="" type="medium" vocab="aat"></material>
+           <material refid="" type="support" vocab="aat"></material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm"></measurements>
+           <measurements type="width" unit="cm"></measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids=""></relation>
+           <relation></relation>
+       </relationSet>
+       <sourceSet>
+           <source>
+               <refid type="URI"></refid>
+               <name type="electronic"></name>
+           </source>
+           <source>
+               <refid type="URI"></refid>
+               <name type="electronic"></name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="" vocab="" type=""></term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="" vocab=""></technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="descriptive">Colossal Head of Akhenaten</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="" vocab="aat"></worktype>
+       </worktypeSet>
+   </work>
+</vra>

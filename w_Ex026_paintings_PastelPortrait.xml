@@ -94,25 +94,25 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles), October 20, 2015 to 
             <location pref="true" type="repository" dataDate="2016-04-26-13-33-29">
                 <refid type="accession">83.PC.273</refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
-		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+          		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+          		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+          		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+          		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Tentoonstelling van pastels uit drie eeuwen (1934) </refid>
                 <name refid="125479734" type="corporate" vocab="viaf">Museum Willet-Holthuysen</name>
-		<name refid="7006952" type="geographic" vocab="tgn" extent="inhabited place">Amsterdam</name>
-		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
-		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+          		<name refid="7006952" type="geographic" vocab="tgn" extent="inhabited place">Amsterdam</name>
+          		<name refid="7016845" type="geographic" vocab="tgn" extent="nation">Netherlands</name>
+          		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
             <location pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <refid type="other">Jean-Étienne Liotard: A Cosmopolitan Artist (October 20, 2015 to April 24, 2016) </refid>
                 <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
-		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
-		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+          		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+          		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+          		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+          		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <materialSet>
@@ -137,7 +137,14 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles), October 20, 2015 to 
                 <refid type="URI">http://www.getty.edu/art/collection/objects/714/jean-etienne-liotard-portrait-of-maria-frederike-van-reede-athlone-at-seven-years-of-age-swiss-1755-1756/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700002139</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300021155" vocab="aat" source="CONA">Rococo</stylePeriod>
+        </stylePeriodSet>
         <subjectSet>
             <subject pref="false" dataDate="2015-05-06-14-25-34">
                 <term refid="300015637" vocab="aat" type="descriptiveTopic">portraits</term>
@@ -154,19 +161,13 @@ The J. Paul Getty Museum at the Getty Center (Los Angeles), October 20, 2015 to 
             <subject pref="false" dataDate="2016-04-26-13-37-57">
                 <term refid="300250130" vocab="aat" type="descriptiveTopic">Canis familiaris (species)</term>
             </subject>
-	    <subject>
-		<term refid="173081343" vocab="viaf" type="personalName">Reede-Athlone, Maria Frederike van</term>
-	    </subject>
+       	    <subject>
+       		    <term refid="173081343" vocab="viaf" type="personalName">Reede-Athlone, Maria Frederike van</term>
+       	    </subject>
         </subjectSet>
         <techniqueSet>
             <technique pref="false" refid="300053412" vocab="aat">stumping</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref pref="false" dataDate="2016-04-26-13-26-38">
-                <name type="electronic">CONA</name>
-                <refid type="other">700002139</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" type="repository">Portrait of Maria Frederike van Reede-Athlone at Seven Years of Age</title>
             <title pref="false" type="other" source="J. Paul Getty Museum">Baroness Maria Frederike van Reede-Athlone, at Age Seven</title>

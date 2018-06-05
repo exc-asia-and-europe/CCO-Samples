@@ -22,7 +22,7 @@
            </date>
        </dateSet>
        <locationSet>
-           <location type="repository">
+           <location pref="true" type="repository">
                <refid type="accession">unavailable</refid>
                <name refid="123996097" type="corporate" vocab="viaf">Matḥaf al-miṣrī</name>
                <name refid="7001215" type="geographic" vocab="tgn" extent="inhabited place">Cairo</name>
@@ -30,42 +30,62 @@
                <name refid="7016833" type="geographic" vocab="tgn" extent="nation">Egypt</name>
                <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
            </location>
+           <location pref="false" type="discovery">
+               <name refid="700008936" type="corporate" vocab="cona">Great Temple of the Aten</name>
+               <name refid="7764757" type="geographic" vocab="tgn" extent="deserted settlement">Karnak</name>
+               <name refid="7528226" type="geographic" vocab="tgn" extent="governorate">Al Uqşur</name>
+               <name refid="7016833" type="geographic" vocab="tgn" extent="nation">Egypt</name>
+               <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
+           </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <material refid="300011286" type="medium" vocab="aat">limestone</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm">153</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids=""></relation>
-           <relation></relation>
+           <relation type="contextIs" href="http://vocab.getty.edu/page/cona/700008936" source="CONA">Great Temple of the Aten</relation>
        </relationSet>
        <sourceSet>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_67_egyptian_sculpture_unknown_artist</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 67: Egyptian sculpture, unknown artist.</name>
            </source>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700008625</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300020355" vocab="aat">Eighteenth Dynasty (Egyptian)</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="500121983" vocab="ulan" type="personalName">Akhenaton, King of Egypt</term>
+           </subject>
+           <subject>
+               <term refid="300404138" vocab="aat" type="descriptiveTopic">single-sitter portraits</term>
+           </subject>
+           <subject>
+               <term refid="300374809" vocab="aat" type="conceptTopic">power</term>
+           </subject>
+           <subject source="CONA">
+               <term refid="300047469" vocab="aat" type="descriptiveTopic">half figures</term>
+           </subject>
+           <subject source="CONA">
+               <term refid="300073708" vocab="aat" type="conceptTopic">religions</term>
+           </subject>
+           <subject source="CONA">
+               <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
            </subject>
        </subjectSet>
-       <techniqueSet>
-           <technique refid="" vocab=""></technique>
-       </techniqueSet>
        <titleSet>
            <title type="descriptive">Colossal Head of Akhenaten</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300047090" vocab="aat">sculpture</worktype>
+           <worktype refid="300047453" vocab="aat">colossi</worktype>
        </worktypeSet>
    </work>
 </vra>

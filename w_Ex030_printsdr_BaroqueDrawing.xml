@@ -340,6 +340,10 @@ Rubens: The Power of Transformation (October 17, 2017 to May 21, 2018)
                 <refid type="URI">http://www.getty.edu/art/collection/objects/58/peter-paul-rubens-man-in-korean-costume-flemish-about-1617/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700002058</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021147" vocab="aat">Baroque</stylePeriod>
@@ -358,12 +362,6 @@ Rubens: The Power of Transformation (October 17, 2017 to May 21, 2018)
         <techniqueSet>
             <technique refid="300054196" vocab="aat">drawing</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-04-28-17-38-41">
-                <name type="electronic">CONA</name>
-                <refid type="other">700002058</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="false" type="other">Korean Man</title>
             <title pref="true" type="repository">Man in Korean Costume</title>

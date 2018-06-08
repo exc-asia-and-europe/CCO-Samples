@@ -278,6 +278,10 @@ Luminous Paper: British Watercolors and Drawings (July 19 to October 23, 2011)
                 <refid type="URI">http://www.getty.edu/art/collection/objects/447/joseph-mallord-william-turner-conway-castle-north-wales-british-1798/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000060</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300172863" vocab="aat">Romantic</stylePeriod>
@@ -306,6 +310,9 @@ Luminous Paper: British Watercolors and Drawings (July 19 to October 23, 2011)
             </subject>
             <subject dataDate="2016-05-18-10-29-47">
                 <term refid="300117546" vocab="aat" type="descriptiveTopic">seascapes</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="700000063" vocab="cona" type="builtworkPlace">Conway Castle</term>
             </subject>
         </subjectSet>
         <techniqueSet>

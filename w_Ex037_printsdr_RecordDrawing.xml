@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex037_printsdr_RecordDrawing" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="283150323704409970028" type="personal" vocab="viaf">Prosser, W. G.</name>
+               <role type="code" vocab="marcrelator">drm</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300111159">British (modern)</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <display>mid-20th century</display>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">1930</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1970</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description>
+               <text>Commissioned by the Royal Commission on Historical Monuments (RCHM) to record this threatened building.</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription>
+               <author refid="283150323704409970028" vocab="viaf">Prosser, W. G.</author>
+               <position/>
+               <text type="text">scale: 2 1/2 in. = 10 feet</text>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <location type="repository" source="Historic England Archive" href="http://archive.historicengland.org.uk/SingleResult/Print.aspx?id=957369">
+               <refid type="accession">MD64/00259</refid>
+               <name refid="145308002" type="corporate" vocab="viaf">English heritage</name>
+               <name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+               <name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+               <name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="300015012" type="medium" vocab="aat">ink</material>
+           <material refid="300014109" type="support" vocab="aat">paper</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm">240</measurements>
+           <measurements type="width" unit="cm">260</measurements>
+           <measurements type="scale">numeric</measurements>
+           <measurements type="base" unit="in">2.5</measurements>
+           <measurements type="target" unit="feet">10</measurements>
+       </measurementsSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_37_record_drawing</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 37: Record drawing.</name>
+           </source>
+           <source>
+               <refid type="URI">http://vocab.getty.edu/page/cona/700008581</refid>
+               <name type="electronic">CONA</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="700009026" vocab="cona" type="builtworkPlace">Davington Court</term>
+           </subject>
+           <subject>
+               <term refid="300054156" vocab="aat" type="descriptiveTopic">architecture</term>
+           </subject>
+           <subject>
+               <term refid="300004900" vocab="aat" type="descriptiveTopic">barns</term>
+           </subject>
+           <subject>
+               <term refid="300034223" vocab="aat" type="descriptiveTopic">sections</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="300054196" vocab="aat">drawing</technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="descriptive">Sections and Details of the Barn at Davington Court, Faversham, Kent</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300079749" vocab="aat">record drawings</worktype>
+           <worktype refid="300034395" vocab="aat">measured drawings</worktype>
+           <worktype refid="300034787" vocab="aat" source="CONA">architectural drawings</worktype>
+       </worktypeSet>
+   </work>
+</vra>

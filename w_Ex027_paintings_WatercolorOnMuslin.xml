@@ -135,6 +135,10 @@ The exhibition combines personal stories of Americans with audio-visual presenta
                 <refid type="URI">http://collections.theautry.org/mwebcgi/mweb.exe?request=record;id=M49018;type=101</refid>
                 <name type="electronic">The Autry's Collection Online</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000080</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <subjectSet>
             <subject dataDate="2016-04-28-16-04-35">
@@ -193,12 +197,6 @@ The exhibition combines personal stories of Americans with audio-visual presenta
             <technique pref="false" refid="300054216" vocab="aat">painting</technique>
             <technique pref="false" refid="300389895" vocab="aat">watercolor painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref pref="false" dataDate="2016-04-28-16-46-12">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000080</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="false" type="descriptive">Battle of Little Big Horn</title>
             <title pref="false" type="other">Custer’s Last Stand</title>

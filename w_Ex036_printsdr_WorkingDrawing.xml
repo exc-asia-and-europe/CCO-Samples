@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex036_printsdr_WorkingDrawing" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <dates type="life">
+                   <earliestDate circa="false">1843</earliestDate>
+                   <latestDate circa="false">1896</latestDate>
+               </dates>
+               <name refid="72239369" type="personal" vocab="viaf">Edbrooke, Willoughby J.</name>
+               <role type="code" vocab="marcrelator">arc</role>
+           </agent>
+           <agent>
+               <name refid="96424335" type="personal" vocab="viaf">Graham, Chauncey G.</name>
+               <role type="code" vocab="marcrelator">drm</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300107956">American</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">1892</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1892</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description>
+               <text>The purpose of this drawing was to convey basic construction information, but the draftsman has created a thing of beauty.</text>
+               <author>
+                   <name refid="131347215"  type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription>
+               <author refid="96424335" vocab="viaf">Graham, Chauncey G.</author>
+               <position/>
+               <text type="text">scale: 3/4 in = 1 ft.</text>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <location type="repository">
+               <refid type="accession">unavailable</refid>
+               <name refid="132254586" type="corporate" vocab="viaf">United States. National Archives and Records Administration</name>
+               <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+               <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="300015012" type="medium" vocab="aat">ink</material>
+           <material refid="300011051" type="medium" vocab="aat">wash</material>
+           <material refid="300014184" type="support" vocab="aat" source="CONA">laid paper</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm">59.44</measurements>
+           <measurements type="width" unit="cm">91.44</measurements>
+           <measurements type="scale">numeric</measurements>
+           <measurements type="base" unit="in">.75</measurements>
+           <measurements type="target" unit="foot">1</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="depicts" href="http://vocab.getty.edu/page/cona/700000139">U.S. Post Office, Cedar Rapids</relation>
+       </relationSet>
+       <sourceSet>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_36_working_drawing</refid>
+               <name type="electronic">Cataloging Cultural Objects. Example 36: Working drawing.</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000084</refid>
+               <name type="electronic">CONA</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300054156" vocab="aat" type="descriptiveTopic">architecture</term>
+           </subject>
+           <subject>
+               <term refid="300034223" vocab="aat" type="descriptiveTopic">sections</term>
+           </subject>
+           <subject>
+               <term refid="300034104" vocab="aat" type="descriptiveTopic">plans</term>
+           </subject>
+           <subject>
+               <term refid="700000139" vocab="cona" type="builtworkPlace">U.S. Courthouse and Post Office</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="300054196" vocab="aat">drawing</technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="descriptive">Plan and Sections of Concrete Foundation for the U.S. Post Office, Cedar Rapids, Iowa</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300034471" vocab="aat">working drawings</worktype>
+       </worktypeSet>
+   </work>
+</vra>

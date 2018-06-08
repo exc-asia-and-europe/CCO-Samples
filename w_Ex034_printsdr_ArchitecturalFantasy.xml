@@ -291,6 +291,7 @@ The Lure of Italy: Artists' Views (May 9 to July 30, 2017)
             <material refid="300011051" type="medium" vocab="aat">wash</material>
             <material refid="300080058" type="medium" vocab="aat">black chalk</material>
             <material refid="300080064" type="medium" vocab="aat">red chalk</material>
+            <material refid="300014109" type="support" vocab="aat" source="CONA">paper</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="true" source="J. Paul Getty Museum" type="height" unit="cm">38.4</measurements>
@@ -311,6 +312,10 @@ The Lure of Italy: Artists' Views (May 9 to July 30, 2017)
                 <refid type="URI">http://www.getty.edu/art/collection/objects/238/giovanni-battista-piranesi-an-ancient-port-italian-1749-1750/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000094</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <subjectSet>
             <subject dataDate="2015-11-02-12-55-32">
@@ -325,6 +330,9 @@ The Lure of Italy: Artists' Views (May 9 to July 30, 2017)
             <subject dataDate="2016-05-18-14-00-45">
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300343855" vocab="aat" type="descriptiveTopic">architectural fantasies (depictions)</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300053431" vocab="aat">squaring</technique>
@@ -335,6 +343,7 @@ The Lure of Italy: Artists' Views (May 9 to July 30, 2017)
         </titleSet>
         <worktypeSet>
             <worktype refid="300033973" vocab="aat">drawings</worktype>
+            <worktype refid="300068293" vocab="aat" source="CONA">preparatory drawings</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex034_printsdr_ArchitecturalFantasy"

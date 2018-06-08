@@ -74,14 +74,18 @@
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_35_architectural_drawing/</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 35: Architectural drawing.</name>
             </source>
-	    <source pref="false">
-		<refid type="URI">http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0131027&posizione=1&numImmagini=1&prmset=on&ANDOR=and&xesearch=0131027&ricerca_s=0131027&SC_PROV=RR&SC_Lang=ita&Sort=8</refid>
-		<name type="electronic">Scala Archives</name>
-	    </source>
-	    <source pref="false">
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=19</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 19.</name>
-	    </source>
+    	    <source pref="false">
+    	        <refid type="other">Code: 0131027</refid>
+    		    <name type="electronic">Scala Archives</name>
+    	    </source>
+    	    <source pref="false">
+          		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=19</refid>
+          		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 19.</name>
+    	    </source>
+	        <source pref="false">
+	            <refid type="URI">http://vocab.getty.edu/page/cona/700000165</refid>
+	            <name type="electronic">CONA</name>
+	        </source>
         </sourceSet>
 	<stylePeriodSet>
 	    <stylePeriod source="Scala Archives" vocab="aat" refid="300021144">Mannerist</stylePeriod>
@@ -98,6 +102,9 @@
             </subject>
             <subject dataDate="2015-11-02-14-03-25">
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="700000158" vocab="CONA" type="builtworkPlace">Pantheon</term>
             </subject>
         </subjectSet>
         <techniqueSet>
@@ -129,7 +136,7 @@
       </rightsSet>
       <sourceSet>
          <source>
-            <refid type="URI">http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0131027&posizione=1&numImmagini=1&prmset=on&ANDOR=and&xesearch=0131027&ricerca_s=0131027&SC_PROV=RR&SC_Lang=ita&Sort=8</refid>
+             <refid type="other">Code: 0131027</refid>
             <name type="electronic">Scala Archives</name>
          </source>
       </sourceSet>

@@ -80,6 +80,7 @@
             <material refid="300015012" type="medium" vocab="aat">ink</material>
             <material refid="300015045" type="medium" vocab="aat">watercolor</material>
             <material refid="300014109" type="support" vocab="aat">paper</material>
+            <material refid="300014184" type="support" vocab="aat" source="CONA 700000082">laid paper</material>
         </materialSet>
         <measurementsSet>
             <measurements extent="sheet" pref="true" source="LoC" type="height" unit="cm">41</measurements>
@@ -104,6 +105,14 @@
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_38_design_drawing</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 38: Design drawing.</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000082</refid>
+                <name type="electronic">CONA 700000082</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008594</refid>
+                <name type="electronic">CONA 700008594</name>
+            </source>
         </sourceSet>
         <subjectSet>
             <subject source="LoC" dataDate="2015-11-05-14-09-06">
@@ -115,9 +124,13 @@
             <subject dataDate="2016-05-18-14-20-39">
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
+            <subject source="CONA 700008594">
+                <term refid="300004145" vocab="aat" type="descriptiveTopic">porticoes</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054196" vocab="aat">drawing</technique>
+            <technique refid="300182748" vocab="aat" source="CONA 700008594">wash technique</technique>
         </techniqueSet>
 	<textrefSet>
 	    <textref source="LoC">
@@ -130,6 +143,8 @@
             <title pref="false" source="LoC" type="other">Elevation of the south front of the President's house.</title>
             <title pref="true" source="LoC" type="repository">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
             <title pref="false" type="descriptive">Design for the Addition of Porticoes on the North and South Fronts of the President’s House</title>
+            <title pref="false" type="descriptive" source="CONA 700000082">View of the East Front of the President's House</title>
+            <title pref="false" type="descriptive" source="CONA 700000082">View of the east front of the President's House, with the addition of the north and south porticos</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033973" vocab="aat">drawings</worktype>
@@ -165,4 +180,172 @@
          <title type="generalView">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
       </titleSet>
    </image>
+    <work id="w_Ex153_architecture_GeorgianBuilding" refid="c_CCO_Examples">
+    <agentSet>
+        <agent>
+            <culture>American</culture>
+            <dates type="life">
+                <earliestDate circa="true" type="about">1762</earliestDate>
+                <latestDate circa="false">1831</latestDate>
+            </dates>
+            <name refid="305409608" type="personal" vocab="viaf">Hoban, James</name>
+            <role type="code" vocab="marcrelator">arc</role>
+        </agent>
+    </agentSet>
+    <dateSet>
+        <display> 1793 to 1801, burned 1814, porticoes 1824 to 1829</display>
+        <date pref="false" type="creation">
+            <earliestDate>
+                <date circa="false">1793</date>
+            </earliestDate>
+            <latestDate>
+                <date circa="false">1801</date>
+            </latestDate>
+        </date>
+        <date pref="false" type="destruction">
+            <earliestDate>
+                <date circa="false">1814</date>
+            </earliestDate>
+        </date>
+        <date extent="porticoes" pref="false" type="creation">
+            <earliestDate>
+                <date circa="false">1824</date>
+            </earliestDate>
+            <latestDate>
+                <date circa="false">1829</date>
+            </latestDate>
+        </date>
+    </dateSet>
+    <descriptionSet>
+        <description pref="true" dataDate="2016-03-08-18-00-31">
+            <text>The White House is the residence of the American president. Design was the result of a public competition in 1792. Among the entrants was Thomas Jefferson, later president of the United States. James Hoban won the commission with a plan for a Georgian mansion in the Palladian style.</text>
+            <author>
+                <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                <role type="code" vocab="marcrelator">edt</role>
+            </author>
+        </description>
+        <description pref="false" source="White House website" href="https://www.whitehouse.gov/about-the-white-house/the-white-house/" dataDate="2018-04-13">
+            <text>Our first president, George Washington, selected the site for the White House in 1791. The cornerstone was laid in 1792 and a competition design submitted by Irish-born architect James Hoban was chosen. After eight years of construction, President John Adams and his wife, Abigail, moved into the unfinished house in 1800. During the War of 1812, the British set fire to the President’s House in 1814. James Hoban was appointed to rebuild the house, and President James Monroe moved into the building in 1817. During Monroe’s administration, the South Portico was constructed in 1824, and Andrew Jackson oversaw the addition of the North Portico in 1829. During the late 19th century, various proposals were made to significantly expand the President’s House or to build an entirely new house for the president, but these plans were never realized.</text>
+            <author>
+                <name refid="155235437" type="corporate" vocab="viaf">White House</name>
+                <role type="code" vocab="marcrelator">aut</role>
+            </author>
+        </description>
+    </descriptionSet>
+    <locationSet>
+        <location type="site">
+            <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+            <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+            <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+            <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+        </location>
+    </locationSet>
+    <materialSet>
+        <material refid="300015332" type="medium" vocab="aat">masonry</material>
+    </materialSet>
+    <measurementsSet>
+        <display>3 stories, over 100 rooms, White House and the grounds occupy 7.2 hectares (18 acres)</display>
+        <measurements pref="false" type="count" unit="stories">3</measurements>
+        <measurements pref="false" type="count" unit="rooms">104</measurements>
+        <measurements pref="true" type="area" unit="hectares">7.2</measurements>
+        <measurements pref="false" type="area" unit="acres">18</measurements>
+    </measurementsSet>
+    <relationSet>
+        <relation type="imageIs" relids="i_Ex153_architecture_GeorgianBuilding">general view</relation>
+        <relation type="depictedIn" relids="w_Ex038_printsdr_DesignDrawing">Design for the Addition of Porticoes on the North and South Fronts of the President’s House</relation>
+    </relationSet>
+    <sourceSet>
+        <source dataDate="2016-03-08-18-17-23">
+            <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_153_georgian_building</refid>
+            <name type="electronic">Cataloging Cultural Objects Commons. Example 153: Georgian building.</name>
+        </source>
+        <source>
+            <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=26</refid>
+            <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 181. Figure 24. Work Record Linked to Authority Records: Neoclassical Building.</name>
+        </source>
+    </sourceSet>
+    <stylePeriodSet>
+        <stylePeriod refid="300021048" vocab="aat">Georgian</stylePeriod>
+        <stylePeriod refid="300021477" vocab="aat">Neoclassical</stylePeriod>
+        <stylePeriod refid="300385938" vocab="aat">Palladian Revival</stylePeriod>
+    </stylePeriodSet>
+    <subjectSet>
+        <subject>
+            <term refid="300001571" vocab="aat" type="descriptiveTopic">columns (architectural elements)</term>
+        </subject>
+        <subject>
+            <term refid="300004145" vocab="aat" type="descriptiveTopic">porticoes</term>
+        </subject>
+        <subject>
+            <term refid="300025470" vocab="aat" type="otherTopic">presidents</term>
+        </subject>
+        <subject>
+            <term refid="300374809" vocab="aat" type="conceptTopic">power</term>
+        </subject>
+        <subject>
+            <term refid="300379767" vocab="aat" type="descriptiveTopic">presidential residences</term>
+        </subject>
+        <subject>
+            <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture (object genre)</term>
+        </subject>
+    </subjectSet>
+    <techniqueSet>
+        <technique refid="300054608" vocab="aat">construction</technique>
+        <technique refid="300386948" vocab="aat">stonemasonry</technique>
+        <technique refid="300002557" vocab="aat">bearing walls</technique>
+        <technique refid="300070045" vocab="aat">dimension stone</technique>
+    </techniqueSet>
+    <textrefSet>
+        <textref dataDate="2016-03-08-17-58-27">
+            <name type="electronic">CONA</name>
+            <refid type="other">700000083</refid>
+        </textref>
+    </textrefSet>
+    <titleSet>
+        <title pref="true" type="popular">The White House</title>
+        <title pref="false" type="descriptive">Executive Mansion</title>
+        <title pref="false" type="descriptive">President’s House</title>
+    </titleSet>
+    <worktypeSet>
+        <worktype refid="300379767" vocab="aat">presidential residences</worktype>
+        <worktype refid="300071272" vocab="aat">mansions</worktype>
+    </worktypeSet>
+    </work>
+    <image id="i_Ex153_architecture_GeorgianBuilding"
+        href="https://upload.wikimedia.org/wikipedia/commons/5/57/Executive_Mansion2.JPG">
+        <agentSet>
+            <agent dataDate="2016-03-08-17-54-11">
+                <name refid="137022054" type="corporate" vocab="viaf">Wikimedia Foundation</name>
+                <role type="code" vocab="marcrelator">col</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-03-08-17-54-39">
+                <earliestDate>
+                    <date>2007-07-16</date>
+                </earliestDate>
+            </date>
+        </dateSet>
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_Ex153_architecture_GeorgianBuilding">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights href="https://creativecommons.org/licenses/by-sa/3.0/deed.en"
+                type="copyrighted"
+                dataDate="2016-03-08-17-53-07">
+                <rightsHolder>Ad Meskens</rightsHolder>
+                <text>CC BY-SA 3.0</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source dataDate="2016-03-08-17-53-28">
+                <refid type="URI">https://commons.wikimedia.org/wiki/File:Executive_Mansion2.JPG</refid>
+                <name type="electronic">Wikimedia Commons</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">South facade of the White House, Washington DC, as seen from the Washington Monument.</title>
+        </titleSet>
+    </image>
 </vra>

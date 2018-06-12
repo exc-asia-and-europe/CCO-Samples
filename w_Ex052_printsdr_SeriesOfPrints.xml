@@ -125,9 +125,13 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
             <relation pref="false" type="componentIs">View from the Other Side of Fuji from the Minobu River (Additional, n.10)</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2015-11-12-12-07-57">
+            <source pref="true" dataDate="2015-11-12-12-07-57">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_52_series_of_prints</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 52: Series of prints.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000093</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -154,12 +158,6 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
             <technique refid="300053319" vocab="aat">printing</technique>
             <technique refid="300053296" vocab="aat">woodcut</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-06-06-11-32-48">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000093</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
 <!-- This titleSet applies and sets as preferred the title given to the work in its original cultural context using the Cluster extension, which allows for specification of script and transliteration systems, based on ISO standards. -->
             <title lang="eng" pref="false" type="other">Thirty-six Views of Mount Fuji: First Series</title>
@@ -367,6 +365,410 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
       </sourceSet>
       <titleSet>
          <title type="partialView">冨嶽三十六景　本所立川 Tatekawa in Honjō</title>
+      </titleSet>
+   </image>
+       <work id="w_Ex051_printsdr_PrintInASeries" refid="c_CCO_Examples">
+        <agentSet>
+            <agent pref="true" dataDate="2016-06-02-10-56-04">
+                <culture>Japanese</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1760</earliestDate>
+                    <latestDate circa="false">1849</latestDate>
+                </dates>
+                <name refid="69033717" type="personal" vocab="viaf">Katsushika, Hokusai</name>
+                <role type="code" vocab="marcrelator">prm</role>
+            </agent>
+            <agent pref="false" dataDate="2016-06-02-10-56-19">
+                <culture>Japanese</culture>
+                <name refid="173788257" type="corporate" vocab="viaf">Nishimura Eijudo</name>
+                <role type="code" vocab="marcrelator">pbl</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300018519">Japanese (culture or style)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value more specifically. -->
+	    <display>created ca. 1831-1833 (CCO) / ca. 1830-31 (Met)</display>
+            <date pref="false" type="creation" dataDate="2016-06-02-10-57-21">
+                <earliestDate>
+                    <date circa="false">1828</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1836</date>
+                </latestDate>
+            </date>
+            <date pref="true" type="creation" source="Metropolitan Museum of Art" dataDate="2015-11-11-16-26-01">
+                <earliestDate>
+                    <date circa="true" type="about">1830</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="true" type="about">1832</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1976-03-01</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1976-06-30</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1976-08-01</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1976-10-31</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1980-02-14</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1980-03-02</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1991-11-15</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1992-02-09</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1992-05-24</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1992-07-19</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1995-04-14</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1995-05-28</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">1999-10-01</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2000-01-09</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">2002-05-08</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2002-09-08</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">2003-03-01</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2003-09-21</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">2008-12-18</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2009-05-31</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <earliestDate>
+                    <date circa="false">2012-03-24</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2012-06-17</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" source="Metropolitan Museum of Art" dataDate="2016-06-02-11-05-59">
+                <text>The breathtaking composition of this woodblock print, said to have inspired Debussy’s La Mer (The Sea) and Rilke’s Der Berg (The Mountain), ensures its reputation as an icon of world art. Hokusai cleverly played with perspective to make Japan’s grandest mountain appear as a small triangular mound within the hollow of the cresting wave. The artist became famous for his landscapes created using a palette of indigo and imported Prussian blue.</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="Metropolitan Museum of Art">
+                <text>Provenance.
+Mrs. H. O. (Louisine W.) Havemeyer , New York (until d. 1929; bequeathed to MMA).</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="Metropolitan Museum of Art">
+                <text>Exhibition History
+Houston. Institute for the Fine Arts, Rice University. "Art Nouveau," March 1, 1976–June 30, 1976.
+
+Art Institute of Chicago. "Art Nouveau," August 1, 1976–October 31, 1976.
+
+Sarasota Springs. Skidmore College. "A Survey of Japanese Prints: Moronobu to Nensho," February 14, 1980–March 2, 1980.
+
+London. Royal Academy of Arts. "Katsushika Hokusai," November 15, 1991–February 9, 1992.
+
+Dallas Museum of Art. "Katsushika Hokusai," May 24, 1992–July 19, 1992.
+
+Nagoya City Museum. "Ukiyo-e from the Metropolitan Museum of Art," April 14, 1995–May 28, 1995.
+
+Milan. Palazzo Reale. "Hokusai: Il Vecchio Pazzo per la Pittura," October 1, 1999–January 9, 2000.
+
+New York. The Metropolitan Museum of Art. "A Sense of Place: Landscape in Japanese Art," May 8, 2002–September 8, 2002.
+
+New York. The Metropolitan Museum of Art. "Great Waves: Chinese Themes in the Arts of Korea and Japan I," March 1, 2003–September 21, 2003.
+
+New York. The Metropolitan Museum of Art. "Poetry and Travel in Japanese Art," December 18, 2008–May 31, 2009.
+
+Washington, DC. Freer Gallery of Art and Arthur M. Sackler Gallery, Smithsonian Institution. "Hokusai: Thirty-Six Views of Mount Fuji," March 24, 2012–June 17, 2012.</text>
+                <author>
+                    <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="true" dataDate="2015-11-11-16-26-42">
+                <text>The large wave dominates the scene, with the small mountain in the background. It is said to have inspired both Debussy’s “La Mer” and Rilke’s “Der Berg.”</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+<!-- This inscriptionSet applies a Cluster extension which allows for specification of script and transliteration systems, based on ISO standards. -->
+            <inscription source="Metropolitan Museum of Art" dataDate="2016-06-02-11-11-16">
+                <author refid="69033717" vocab="viaf">Katsushika, Hokusai</author>
+                <position>top left</position>
+                <text lang="jpn" script="Jpan" type="signature">前北斎為一筆</text>
+                <text lang="jpn" script="Latn" transliteration="unspecified" type="signature">Zen Hokusai Iitsu hitsu</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-06-02-11-01-28">
+                <refid type="accession">JP1847</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="creation" source="CONA">
+                <name refid="1000120" type="geographic" vocab="tgn" extent="nation">Japan</name>
+                <name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
+            </location>
+            <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Art Nouveau," March 1, 1976–June 30, 1976.</refid>
+                <name refid="131284154" type="corporate" vocab="viaf">Rice University. Institute for the Arts</name>
+		<name refid="7013727" type="geographic" vocab="tgn" extent="inhabited place">Houston</name>
+		<name refid="7007826" type="geographic" vocab="tgn" extent="state">Texas</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Art Nouveau," August 1, 1976–October 31, 1976.</refid>
+                <name refid="131375374" type="corporate" vocab="viaf">Art Institute of Chicago</name>
+		<name refid="7013596" type="geographic" vocab="tgn" extent="inhabited place">Chicago</name>
+		<name refid="7007251" type="geographic" vocab="tgn" extent="state">Illinois</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"A Survey of Japanese Prints: Moronobu to Nensho," February 14, 1980–March 2, 1980.</refid>
+                <name refid="126678521" type="corporate" vocab="viaf">Skidmore College</name>
+		<name refid="7014485" type="geographic" vocab="tgn" extent="inhabited place">Saratoga Springs</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Katsushika Hokusai," November 15, 1991–February 9, 1992.</refid>
+                <name refid="153543255" type="corporate" vocab="viaf">Royal Academy of Arts</name>
+		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Katsushika Hokusai," May 24, 1992–July 19, 1992.</refid>
+                <name refid="144444875" type="corporate" vocab="viaf">Dallas Museum of Art</name>
+		<name refid="7013503" type="geographic" vocab="tgn" extent="inhabited place">Dallas</name>
+		<name refid="7007826" type="geographic" vocab="tgn" extent="state">Texas</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Ukiyo-e from the Metropolitan Museum of Art," April 14, 1995–May 28, 1995.</refid>
+                <name refid="122932660" type="corporate" vocab="viaf">Nagoya City Museum.</name>
+		<name refid="7004736" type="geographic" vocab="tgn" extent="inhabited place">Nagoya</name>
+		<name refid="1000120" type="geographic" vocab="tgn" extent="nation">Japan</name>
+		<name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Hokusai: Il Vecchio Pazzo per la Pittura," October 1, 1999–January 9, 2000.</refid>
+                <name refid="144072977" type="corporate" vocab="viaf">Palazzo Reale</name>
+		<name refid="7005903" type="geographic" vocab="tgn" extent="inhabited place">Milan</name>
+		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"A Sense of Place: Landscape in Japanese Art," May 8, 2002–September 8, 2002.</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Great Waves: Chinese Themes in the Arts of Korea and Japan I," March 1, 2003–September 21, 2003.</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Poetry and Travel in Japanese Art," December 18, 2008–May 31, 2009.</refid>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+		<name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+		<name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>            
+	    <location pref="false" type="exhibition" source="Metropolitan Museum of Art">
+                <refid type="other">"Hokusai: Thirty-Six Views of Mount Fuji," March 24, 2012–June 17, 2012.</refid>
+                <name refid="311378280" type="corporate" vocab="viaf">Freer and Sackler Galleries.</name>
+		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+	    <display>woodcut, polychrome ink and color on paper</display>
+            <material refid="300015012" type="medium" vocab="aat">ink</material>
+            <material refid="300264870" type="medium" vocab="aat">color</material>
+            <material refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="height" unit="cm">25.7</measurements>
+            <measurements pref="true" source="Metropolitan Museum of Art" type="width" unit="cm">37.9</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="height" unit="in">10 1/8</measurements>
+            <measurements pref="false" source="Metropolitan Museum of Art" type="width" unit="in">14 15/16</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="w_Ex052_printsdr_SeriesOfPrints" type="partOf">1st in series: Katsushika Hokusai (Japanese, 1760-1849); Thirty-six Views of Mount Fuji: First Series; 1827-1837</relation>
+            <relation pref="true" relids="i_Ex051_printsdr_PrintInASeries" type="imageIs">general view</relation>
+        </relationSet>
+	<rightsSet>
+	    <rights type="other" source="Metropolitan Museum of Art">
+		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+		<text>H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929</text>
+	    </rights>
+	</rightsSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-11-16-44-28">
+                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/45434</refid>
+                <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_51_print_in_a_series</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 51: Print in a series.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000091</refid>
+                <name type="electronic">CONA</name>
+            </source>
+        </sourceSet>
+        <stateEditionSet>
+            <stateEdition count="36" num="1" type="other" dataDate="2016-06-02-11-17-24">
+                <description>1st in series of 36</description>
+            </stateEdition>
+        </stateEditionSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300106643" vocab="aat">Edo</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject dataDate="2016-06-02-10-58-06">
+                <term refid="300178749" vocab="aat" type="descriptiveTopic">boats</term>
+            </subject>
+            <subject dataDate="2015-11-11-16-31-28">
+                <term refid="300025608" vocab="aat" type="descriptiveTopic">fishermen</term>
+            </subject>
+            <subject>
+                <term refid="300343616" vocab="aat" type="descriptiveTopic">waves</term>
+            </subject>
+            <subject dataDate="2016-06-02-10-57-58">
+                <term refid="300117546" vocab="aat" type="descriptiveTopic">seascapes</term>
+            </subject>
+	    <subject>
+                <term refid="1107685" type="geographicPlace" vocab="tgn">Fuji-san</term>
+            </subject>
+	    <subject>
+                <term refid="7016696" type="geographicPlace" vocab="tgn">Kanagawa-ken</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053319" vocab="aat">printing</technique>
+            <technique refid="300053296" vocab="aat">woodcut</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref dataDate="2016-06-06-11-29-59">
+                <name type="electronic">CONA</name>
+                <refid type="other">700000091</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+<!-- This titleSet applies and sets as preferred the title given to the work in its original cultural context using the Cluster extension, which allows for specification of script and transliteration systems, based on ISO standards. -->
+            <title pref="false" type="other">Great Wave at Kanagawa</title>
+            <title pref="false" type="other">In the Hollow of a Wave off the Coast at Kanagawa</title>
+            <title lang="jpn" pref="true" script="Jpan" source="Metropolitan Museum of Art" type="creator">富嶽三十六景　神奈川沖浪裏</title>
+            <title lang="jpn" pref="false" script="Latn" source="Metropolitan Museum of Art" transliteration="hepburn" type="other">Fugaku sanjūrokkei Kanagawa oki nami ura</title>
+            <title lang="eng" pref="false" script="Latn" source="Metropolitan Museum of Art" type="translated">Thirty-six Views of Mount Fuji Under the Wave off Kanagawa</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300041273" vocab="aat">prints</worktype>
+            <worktype refid="300041412" vocab="aat">color woodcuts</worktype>
+        </worktypeSet>
+    </work>
+   <image id="i_Ex051_printsdr_PrintInASeries"
+          href="https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg">
+      <agentSet>
+         <agent dataDate="2015-11-11-16-10-15">
+            <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+            <role type="code" vocab="marcrelator">cre</role>
+         </agent>
+      </agentSet>
+      <relationSet>
+         <relation type="imageOf"
+                   relids="w_Ex051_printsdr_PrintInASeries">attachment</relation>
+      </relationSet>
+      <rightsSet>
+         <rights type="publicDomain" dataDate="2015-11-11-16-17-07">
+            <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+            <text>This object is part of The Met's Open Access for Scholarly Content initiative. www.metmuseum.org</text>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <source dataDate="2015-11-11-16-17-31">
+            <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/45434</refid>
+            <name type="electronic">The Metropolitan Museum of Art</name>
+         </source>
+      </sourceSet>
+      <titleSet>
+         <title type="generalView">富嶽三十六景　神奈川沖浪裏</title>
       </titleSet>
    </image>
 </vra>

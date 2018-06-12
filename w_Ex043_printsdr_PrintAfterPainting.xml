@@ -45,13 +45,18 @@
             </description>
         </descriptionSet>
         <locationSet>
-            <location type="repository" dataDate="2016-05-19-13-26-40">
+            <location pref="true" type="repository" dataDate="2016-05-19-13-26-40">
                 <refid type="accession">2000.PR.2</refid>
                 <name refid="259514696" type="corporate" vocab="viaf">Getty Research Institute, Special Collections</name>
 		<name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
 		<name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
 		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
 		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="publication" source="CONA 700001325">
+                <name refid="7003138" type="geographic" vocab="tgn" extent="province">Roma</name>
+                <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
@@ -82,6 +87,14 @@
 		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_3-PhysicalCharacteristics.pdf#page=50</refid>
 		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 150. Figure 17. Work Record Linked to a Concept Authority Record: Engraving.</name>
 	    </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000105</refid>
+                <name type="electronic">CONA 700000105</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700001325</refid>
+                <name type="electronic">CONA 700001325</name>
+            </source>
         </sourceSet>
         <stateEditionSet>
 	    <display>v: Lafreri's name erased, but sometimes still visible. This state is distinguishable from state iii by the scratch described in state iv. Impressions show considerable wear. Source: Boorsch, Suzanne; Lewis, Michal; Lewis, R.E. The Engravings of Giorgio Ghisi. New York, NY: Metropolitan Museum of Art, 1985. P. 135.</display>
@@ -120,19 +133,21 @@
             <subject>
                 <term refid="315188387" vocab="viaf" type="iconographicTopic">Ovid, 43 B.C.-17 A.D. or 18 A.D. | Metamorphoses. Liber 11. | Latin | (Murphy)</term>
             </subject>
+            <subject source="CONA 700000105">
+                <term refid="901000109" vocab="cona" type="iconographicTopic">Apollo</term>
+            </subject>
+            <subject source="CONA 700000105">
+                <term refid="901001072" vocab="cona" type="iconographicTopic">Pan</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300053319" vocab="aat">printing</technique>
             <technique refid="300190531" vocab="aat">copper engraving</technique>
         </techniqueSet>
         <textrefSet>
-            <textref pref="false" dataDate="2016-05-19-13-24-42">
+            <textref dataDate="2016-05-19-13-24-42">
                 <name type="book">Ovid, Metamorphoses</name>
                 <refid type="citation">XI: 146-171</refid>
-            </textref>
-            <textref pref="true" dataDate="2016-05-19-13-06-43">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000105</refid>
             </textref>
         </textrefSet>
         <titleSet>
@@ -142,6 +157,7 @@
             <worktype refid="300041273" vocab="aat">prints</worktype>
             <worktype refid="300041341" vocab="aat">copper engravings</worktype>
             <worktype refid="300041340" vocab="aat">engravings</worktype>
+            <worktype refid="300041569" vocab="aat" source="CONA 700001325">reproductive prints</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex043_printsdr_PrintAfterPainting"

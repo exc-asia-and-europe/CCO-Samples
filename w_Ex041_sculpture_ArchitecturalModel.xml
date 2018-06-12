@@ -88,21 +88,26 @@
             <measurements pref="false" type="depth" unit="ft">1' 7''</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700000162" refid="700000163" vocab="CONA" type="studyFor">San Lorenzo, Florence, Italy</relation>
+            <relation pref="false" href="http://vocab.getty.edu/page/cona/700000163" refid="700000163" vocab="CONA" type="studyFor">San Lorenzo, Florence, Italy</relation>
             <relation pref="true" relids="i_Ex041_sculpture_ArchitecturalModel" type="imageIs">general view</relation>
+            <relation pref="false" href="http://vocab.getty.edu/page/cona/700009294" type="modelFor" source="CONA">Unbuilt Façade of San Lorenzo</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2016-05-19-10-40-43">
+            <source pref="true" dataDate="2016-05-19-10-40-43">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_41_architectural_model</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 41: Architectural model.</name>
             </source>
-            <source>
+            <source pref="false">
             	<refid type="URI">http://core.vraweb.org/examples/html/example004_full.html</refid>
             	<name type="electronic">VRA Core 4 Example 4: Architectural model. CCO Example 41.</name>
             </source>
-            <source>
+            <source pref="false">
             	<refid type="URI">http://www.casabuonarroti.it/it/collezioni/opere-michelangelo/modello-per-la-facciata-di-san-lorenzo/</refid>
-            	<name>Casa Buonarroti. Modello per la facciata di San Lorenzo.</name>
+            	<name type="electronic">Casa Buonarroti. Modello per la facciata di San Lorenzo.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000162</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

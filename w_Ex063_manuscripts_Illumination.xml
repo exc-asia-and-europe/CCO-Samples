@@ -152,6 +152,8 @@ A.H. 1039 [May 21, 1630 A.D.]. Painted by the humble Riza-yi ‘Abbasi</text>
             <material refid="300015012" source="Metropolitan Museum of Art" type="medium" vocab="aat">ink</material>
             <material refid="300011021" source="Metropolitan Museum of Art" type="medium" vocab="aat">gold</material>
             <material refid="300015045" source="Metropolitan Museum of Art" type="medium" vocab="aat">watercolor</material>
+            <material refid="300015062" source="CONA" type="medium" vocab="aat">tempera</material>
+            <material refid="300070114" source="CONA" type="medium" vocab="aat">gouache</material>
             <material refid="300014109" source="Metropolitan Museum of Art" type="support" vocab="aat">paper</material>
         </materialSet>
         <measurementsSet>
@@ -178,13 +180,17 @@ A.H. 1039 [May 21, 1630 A.D.]. Painted by the humble Riza-yi ‘Abbasi</text>
 	    </rights>
 	</rightsSet>
         <sourceSet>
-            <source pref="false">
+            <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_3_manuscripts/example_63_illumination</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 63: Illumination.</name>
             </source>
-            <source pref="true">
+            <source pref="false">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/451023</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000067</refid>
+                <name type="electronic">CONA</name>
             </source>
 	    <source pref="false">
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_2-CreatorInformation.pdf#page=25</refid>

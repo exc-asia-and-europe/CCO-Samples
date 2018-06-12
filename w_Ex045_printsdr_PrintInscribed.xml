@@ -60,18 +60,18 @@
             <location pref="true" type="repository" dataDate="2016-05-19-15-01-33">
                 <refid type="accession">1942.9.2261</refid>
                 <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+          		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+          		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+          		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+          		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location pref="false" type="exhibition"  source="National Gallery of Art, Washington">
                 <refid type="other">Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France, National Gallery of Art, Washington, 2003-2004, no. 58a, as Le Menuet de la marieé (The Bride's Minuet).</refid>
                 <name refid="192403070" type="corporate" vocab="viaf">National Gallery of Art (Washington, D.C.)</name>
-		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
-		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
-		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
-		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+          		<name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+          		<name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+          		<name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+          		<name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <materialSet>
@@ -89,12 +89,12 @@
             <relation type="imageIs" relids="i_Ex045_printsdr_PrintInscribed" pref="true">general view</relation>
             <relation type="relatedTo" refid="1958.8.87" pref="false" source="Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France. Exh. cat. National Gallery of Art, Washington, 2003-2004: no. 58a. P. 114.">Le Menuet de la mariée (The Bride's Minuet), State v/vi, National Gallery of Art</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="National Gallery of Art, Washington">
-		<rightsHolder>National Gallery of Art, Washington D.C.</rightsHolder>
-		<text>Widener Collection</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <rights type="other" source="National Gallery of Art, Washington">
+       		<rightsHolder>National Gallery of Art, Washington D.C.</rightsHolder>
+       		<text>Widener Collection</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="false" dataDate="2015-11-11-11-38-02">
                 <refid type="URI">http://www.nga.gov/content/ngaweb/Collection/art-object-page.2892.html#</refid>
@@ -107,6 +107,10 @@
             <source pref="false">
                 <refid type="URI">https://babel.hathitrust.org/cgi/pt?id=mdp.39015057596234;view=1up;seq=130</refid>
                 <name type="book">Colorful Impressions: The Printmaking Revolution in Eighteenth-Century France. Exh. cat. National Gallery of Art, Washington, 2003-2004: no. 58a. P. 114.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000086</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stateEditionSet>
@@ -132,16 +136,17 @@
             </subject>
         </subjectSet>
         <techniqueSet>
-            <technique pref="false" refid="300053329" vocab="aat">color printing</technique>
-            <technique pref="false" refid="300053225" vocab="aat">engraving</technique>
-            <technique pref="false" refid="300053241" vocab="aat">etching</technique>
+            <technique refid="300053329" vocab="aat">color printing</technique>
+            <technique refid="300053225" vocab="aat">engraving</technique>
+            <technique refid="300053241" vocab="aat">etching</technique>
+            <technique refid="300379419" vocab="aat" source="CONA">wash manner</technique>
         </techniqueSet>
-	<textrefSet>
-	    <textref source="National Gallery of Art, Washington">
-		<name type="catalog">Fenaille, Maurice. L'Oeuvre grave de P.L. Debucourt (1755-1832). Paris: Librairie Damascene Morgand, 1899.</name>
-		<refid type="citation">no. 8, State iv/vi</refid>
-	    </textref>
-	</textrefSet>
+       	<textrefSet>
+       	    <textref source="National Gallery of Art, Washington">
+       		<name type="catalog">Fenaille, Maurice. L'Oeuvre grave de P.L. Debucourt (1755-1832). Paris: Librairie Damascene Morgand, 1899.</name>
+       		<refid type="citation">no. 8, State iv/vi</refid>
+       	    </textref>
+       	</textrefSet>
         <titleSet>
             <title pref="false" type="other" xml:lang="fr">Menuet de la Mariée</title>
             <title pref="false" type="translated" xml:lang="en">Minuet of the Bride</title>

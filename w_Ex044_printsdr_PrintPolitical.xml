@@ -92,6 +92,10 @@
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_44_print_political_cartoon</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 44: Print, political cartoon.</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008624</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <subjectSet>
             <subject dataDate="2015-11-11-13-16-56">
@@ -102,6 +106,9 @@
             </subject>
             <subject>
                 <term refid="300000476" vocab="aat" type="descriptiveTopic">military camps</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300000835" vocab="aat" type="descriptiveTopic">battlefields</term>
             </subject>
             <subject>
                 <term refid="300015636" vocab="aat" type="descriptiveTopic">landscapes</term>
@@ -114,6 +121,9 @@
             </subject>
             <subject>
                 <term refid="300054394" vocab="aat" type="conceptTopic">history</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300251297" vocab="aat" type="conceptTopic">satires</term>
             </subject>
             <subject>
                 <term refid="sh85017942" vocab="lcsh" type="iconographicTopic">Bull Run, 1st Battle of, Va., 1861</term>
@@ -133,6 +143,7 @@
         <worktypeSet>
             <worktype refid="300041273" vocab="aat">prints</worktype>
             <worktype refid="300041379" vocab="aat">lithographs</worktype>
+            <worktype refid="300123224" vocab="aat" source="CONA">political cartoons</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex044_printsdr_PrintPolitical"

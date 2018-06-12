@@ -157,7 +157,14 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_57_photograph_of_architecture</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 57: Photograph of architecture.</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008614</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300264407" vocab="aat" source="CONA">belle époque</stylePeriod>
+        </stylePeriodSet>
         <subjectSet>
             <subject dataDate="2016-10-27-11-47-00">
                 <term refid="700000116" vocab="cona" type="builtworkPlace">Eiffel Tower</term>
@@ -214,4 +221,131 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
          <title type="generalView">Exposition universelle de 1889 / État d'avancement</title>
       </titleSet>
    </image>
+    <work id="w_f19_19thCenturyTower" refid="c_CCO_Examples">
+        <agentSet>
+            <agent>
+                <dates type="life">
+                    <earliestDate circa="false">1832</earliestDate>
+                    <latestDate circa="false">1923</latestDate>
+                </dates>
+                <name refid="44407671" type="personal" vocab="viaf">Eiffel, Gustave</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300020656">European</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2015-04-22-10-59-54">
+                <earliestDate>
+                    <date circa="false">1887</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1889</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description dataDate="2016-03-22-10-00-56">
+                <text>Commission was awarded by competition; the competition sought a plan for a monument for the International Exposition of 1889, celebrating the centenary of the French Revolution. The tower is built almost entirely of open-lattice wrought iron. It was the entrance gateway to the exposition.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <!-- This locationSet demonstrates the Cluster point extension, which helps specify locations. -->
+            <location type="site" dataDate="2016-03-22-10-03-51">
+                <name refid="7008038" type="geographic" vocab="tgn">Paris</name>
+                <point epsg="4326">
+                    <lat>48.858352</lat>
+                    <long>2.294460</long>
+                </point>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300011010" type="medium" vocab="aat">structural iron</material>
+            <material refid="300011012" type="medium" vocab="aat">wrought iron</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements pref="true" type="height" unit="m">300</measurements>
+            <measurements pref="false" type="height" unit="ft">984</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageIs" relids="i_f19_19thCenturyTower">general view</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="true" dataDate="2015-04-22-11-21-19">
+                <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_3-PhysicalCharacteristics.pdf#page=52</refid>
+                <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 152. Figure 19. Work Record Linked to a Concept Authority Record: 19th-Century Tower.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000116</refid>
+                <name type="electronic">CONA</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300264407" vocab="aat">belle époque</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <subject>
+                <term refid="136694484" vocab="viaf" type="otherTopic">Exposition universelle de 1889</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300343797" vocab="viaf" type="otherTopic">observation</term>
+            </subject>
+            <subject dataDate="2015-04-22-11-06-06">
+                <term refid="300054779" vocab="aat" type="otherTopic">industrial expositions</term>
+            </subject>
+            <subject>
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300310589" vocab="aat">exposed frame construction</technique>
+        </techniqueSet>
+        <titleSet>
+            <title pref="false" type="creator">Tour Eiffel</title>
+            <title pref="true" type="translated">Eiffel Tower</title>
+            <title pref="false" type="other">Three-Hundred-Metre Tower</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300263552" vocab="aat">architecture</worktype>
+            <worktype refid="300134522" vocab="aat" source="CONA">watchtowers</worktype>
+        </worktypeSet>
+    </work>
+    <image id="i_f19_19thCenturyTower"
+        href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg">
+        <agentSet>
+            <agent>
+                <name refid="215150747071016302186" type="corporate" vocab="viaf">Wikimedia Foundation. Wikimedia Commons.</name>
+                <role type="code" vocab="marcrelator">rps</role>
+            </agent>
+            <agent>
+                <name>Benh LIEU SONG</name>
+                <role type="code" vocab="marcrelator">pht</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_f19_19thCenturyTower">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights
+                type="copyrighted">
+                <rightsHolder>Benh LIEU SONG</rightsHolder>
+                <text>This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg</refid>
+                <name type="electronic">File:Tour Eiffel Wikimedia Commons.jpg</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Eiffel Tower, seen from the champ de Mars, Paris, France</title>
+        </titleSet>
+    </image>
 </vra>

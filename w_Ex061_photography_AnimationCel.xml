@@ -61,10 +61,10 @@ Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</tex
 		<refid type="other">The original paintings on celluloid by Walt Disney and his collaborators for the film "Snow White and the Seven Dwarfs" 1938. November Cat. no. 687.</refid>
                 <refid type="accession">38-265</refid>
                 <name refid="172337797" type="corporate" vocab="viaf">Leicester Galleries.</name>
-		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
-		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
-		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
-		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+          		<name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+          		<name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+          		<name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+          		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
@@ -91,6 +91,10 @@ Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</tex
                 <refid type="URI">http://hwalther.home.xs4all.nl/snowwhite.htm</refid>
                 <name type="electronic">Hans Walther's Animation Art Collection</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000095</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <subjectSet>
             <subject>
@@ -114,6 +118,9 @@ Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</tex
             <subject>
                 <term refid="300249395" vocab="aat" type="descriptiveTopic">Animalia</term>
             </subject>
+            <subject source="CONA">
+                <term refid="901000059" vocab="cona" type="conceptTopic">Snow White</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300053160" vocab="aat">animation</technique>
@@ -121,10 +128,13 @@ Laserdisc-frames: A-31256 (turtle and chipmunk) and A-31307 (water-effect).</tex
             <technique refid="300263516" vocab="aat">courvoisiers</technique>
         </techniqueSet>
         <titleSet>
-            <title type="descriptive">Turtle and Chipmunk</title>
+            <title pref="true" type="descriptive">Turtle and Chipmunk</title>
+            <title pref="false" type="other" source="CONA">Turtle and Chipmunk Washing</title>
+            <title pref="false" type="other" source="CONA">Turtle Washing</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300263511" vocab="aat">animation cels</worktype>
+            <worktype refid="300263516" vocab="aat" source="CONA">courvoisiers</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex061_photography_AnimationCel"

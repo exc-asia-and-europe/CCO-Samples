@@ -13,38 +13,45 @@
             </agent>
         </agentSet>
         <dateSet>
+            <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
             <display>ca. 1889</display>
-            <date type="creation">
+            <date pref="true" type="creation">
                 <earliestDate>
-                    <date circa="true" type="about">1884</date>
+                    <date circa="false">1884</date>
                 </earliestDate>
                 <latestDate>
-                    <date circa="true" type="about">1894</date>
+                    <date circa="false">1894</date>
                 </latestDate>
+            </date>
+            <date pref="false" type="creation">
+                <earliestDate>
+                    <date circa="true" type="about">1889</date>
+                </earliestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description dataDate="2016-06-06-13-50-53">
-                <text>Mounted souvenir views of Paris and environs issued by Neurdein Frères for visitors to the 1889 Exposition universelle. Collection includes panoramas of Paris and views of its main avenues and monuments as well as views of Versailles and the Parc de Saint-Cloud. These images were probably printed from existing ones in the Neurdein Frères inventory. Six views of the Exposition universelle include a panoramic view taken from the Trocadero, a view of the Parc du Champ de Mars, and an exterior view of the Algerian pavilion. Captions in French, printed on mount above and below image.</text>
+            <description source="Getty Research Institute">
+                <text>Mounted souvenir views of Paris and environs issued by Neurdein Frères for visitors to the 1889 Exposition universelle. Collection includes panoramas of Paris and views of its main avenues and monuments as well as views of Versailles and the Parc de Saint-Cloud. These images were probably printed from existing ones in the Neurdein Frères inventory. Six views of the Exposition universelle include a panoramic view taken from the Trocadero, a view of the Parc du Champ de Mars, and an exterior view of the Algerian pavilion. 
+                    Captions in French, printed on mount above and below image.
+                    Most images with negative number in negative and some with either ND. Phot. or X. Phot., two of the photo credits for Neurdein Frères. Title devised.</text>
                 <author>
-                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <name refid="125395425" type="corporate" vocab="viaf">Getty Research Institute. Research Library</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="site">
-                <name refid="1103061" type="geographic" vocab="tgn">Saint-Cloud, Parc de</name>
-            </location>
-            <location pref="false" type="site">
-                <name refid="1100363" type="geographic" vocab="tgn">Versailles, Château de</name>
-            </location>
             <location pref="true" type="repository">
-                <refid type="accession">93-F101</refid>
-                <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <refid type="accession"  source="Getty Research Institute">93-F101; 93.R.39</refid>
+                <name refid="125395425" type="corporate" vocab="viaf">Getty Research Institute. Research Library</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
-            <location pref="false" type="site">
-                <name refid="7008038" type="geographic" vocab="tgn">Paris</name>
+            <location pref="false" type="creation" source="CONA">
+                <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <measurementsSet>
@@ -59,25 +66,6 @@
             <measurements extent="sheet" pref="false" type="height" unit="in">7 1/2</measurements>
             <measurements extent="sheet" pref="false" type="width" unit="in">9 7/8</measurements>
         </measurementsSet>
-        <relationSet>
-            <relation pref="true" relids="i_Ex060_photography_CollectionOfAlbumen_1" type="imageIs">Eiffel Tower</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_2" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_3" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_4" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_5" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_6" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_7" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_8" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_9" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_10" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_11" type="imageIs">general view</relation>
-            <relation pref="false" relids="ii_Ex060_photography_CollectionOfAlbumen_12" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_13" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_14" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_15" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_16" type="imageIs">general view</relation>
-            <relation pref="false" relids="i_Ex060_photography_CollectionOfAlbumen_17" type="imageIs">general view</relation>
-        </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2015-11-16-12-15-17">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_6_photographs_film/example_60_collection_of_albumen_prints</refid>
@@ -87,40 +75,43 @@
                 <refid type="URI">http://primo.getty.edu/GRI:GETTY_ALMA21142930520001551</refid>
                 <name type="electronic">Getty Research Institute</name>
             </source>
-            <source pref="false" dataDate="2015-11-16-12-15-17">
-                <refid type="URI">http://www.loc.gov/pictures/collection/coll/item/2002724907/</refid>
-                <name type="electronic">Library of Congress</name>
-            </source>
 	    <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=27</refid>
                 <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 74. Figure 12. Work Record for a Collection of Works: Albumen Prints.</name>
             </source>
         </sourceSet>
         <subjectSet>
-            <subject refid="300128222" href="http://www.loc.gov/pictures/collection/coll/item/2002724907/" source="Library of Congress" vocab="aat" dataDate="2016-02-04-10-39-22">
-                <term type="descriptiveTopic" dataDate="2015-11-16-12-24-04">aerial photographs</term>
+            <subject dataDate="2015-11-16-12-24-04">
+                <term refid="300080094" vocab="aat" type="conceptTopic">travel</term>
             </subject>
-            <subject refid="300080094" vocab="aat" dataDate="2015-11-16-12-24-04">
-                <term type="conceptTopic" dataDate="2015-11-16-12-24-04">travel</term>
+            <subject>
+                <term refid="136694484" vocab="viaf" type="otherTopic">Exposition universelle de 1889</term>
             </subject>
-            <subject refid="008054789" vocab="gnd">
-                <term type="otherTopic" dataDate="2015-11-16-12-24-04">Universal Exhibition (1889 : Paris)</term>
+            <subject dataDate="2015-11-16-12-24-04">
+                <term refid="7008038" vocab="tgn" type="geographicPlace">Paris (inhabited place)</term>
             </subject>
-            <subject refid="7008038" vocab="tgn" dataDate="2015-11-16-12-24-04">
-                <term type="geographicPlace" dataDate="2015-11-16-12-24-04">Paris (inhabited place)</term>
+            <subject dataDate="2015-11-16-12-24-04">
+                <term refid="300015424" vocab="aat" type="descriptiveTopic">views</term>
             </subject>
-            <subject refid="300015424" vocab="aat" dataDate="2015-11-16-12-24-04">
-                <term type="descriptiveTopic" dataDate="2015-11-16-12-24-04">views</term>
+            <subject dataDate="2016-06-06-13-45-19">
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
-            <subject refid="300263552" vocab="aat" dataDate="2016-06-06-13-45-19">
-                <term type="descriptiveTopic" dataDate="2015-11-16-12-02-41">architecture</term>
+            <subject>
+                <term refid="700000350" vocab="cona" type="builtworkPlace">Château de Versailles</term>
+            </subject>
+            <subject>
+                <term refid="1103061" vocab="tgn" type="builtworkPlace">Saint-Cloud, Parc de</term>
+            </subject>
+            <subject>
+                <term refid="8711878" vocab="tgn" type="builtworkPlace">Champ-de-Mars, Parc du</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300133274" vocab="aat" dataDate="2015-11-16-12-22-47">albumen process</technique>
         </techniqueSet>
         <titleSet>
-            <title type="repository" dataDate="2015-11-16-11-02-04">Views of Paris and Environs and the Exposition Universelle</title>
+            <title pref="false" type="descriptive">Views of Paris and Environs and the Exposition Universelle</title>
+            <title pref="true" type="repository" source="Getty Research Institute">Views of Paris and environs and the Exposition universelle, 1889.</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300046300" vocab="aat" dataDate="2015-11-16-12-23-26">photographs</worktype>

@@ -3,9 +3,13 @@
     <work id="w_Ex066_sculpture_EgyptianRelief" refid="c_CCO_Examples">
         <agentSet>
             <display>Egyptian, reign of Nebheptere Mentuhotep</display>
-            <agent>
+            <agent pref="true">
                 <name refid="100627978" type="personal" vocab="viaf">unknown Ancient Egyptian</name>
                 <role type="code" vocab="marcrelator">scl</role>
+            </agent>
+            <agent pref="false" source="CONA">
+                <name refid="37711488" type="personal" vocab="viaf">Mentoehotep II</name>
+                <role type="code" vocab="marcrelator">pat</role>
             </agent>
         </agentSet>
         <culturalContextSet>
@@ -144,9 +148,14 @@ pA(w.t) r j(t).w=k nb n-aA-[mr.wt]</text>
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/548212</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000054</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020315" vocab="aat">Middle Kingdom</stylePeriod>
+            <stylePeriod refid="300020317" vocab="aat" source="CONA">Eleventh Dynasty</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject>
@@ -163,6 +172,12 @@ pA(w.t) r j(t).w=k nb n-aA-[mr.wt]</text>
             </subject>
             <subject>
                 <term refid="300073708" vocab="aat" type="descriptiveTopic">religions</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="901001394" vocab="cona" type="iconographicTopic">Hathor</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300189808" vocab="cona" type="descriptiveTopic">figures (representations)</term>
             </subject>
             <subject>
              	<term refid="96605231" type="personalName" vocab="viaf">Mentuhotep II</term>

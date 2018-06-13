@@ -26,6 +26,11 @@
                     <date circa="false">0140</date>
                 </latestDate>
             </date>
+            <date pref="false" type="discovery" source="CONA 700000081">
+                <earliestDate>
+                    <date circa="true" type="about">1790</date>
+                </earliestDate>
+            </date>
             <date pref="false" type="exhibition" source="J. Paul Getty Museum">
                 <earliestDate>
                     <date circa="false">1997-12-16</date>
@@ -153,15 +158,26 @@ Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
                 <refid type="URI">http://www.getty.edu/art/collection/objects/6549/unknown-maker-statue-of-hercules-lansdowne-herakles-roman-about-125/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000081</refid>
+                <name type="electronic">CONA 700000081</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700006478</refid>
+                <name type="electronic">CONA 700006478</name>
+            </source>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_72_roman_sculpture</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 72: Roman sculpture.</name>
             </source>
-	    <source>
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=25</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 231. Figure 34. Work Record Linked to a Subject Authority: Roman sculpture.</name>
-	    </source>
+       	    <source>
+             	<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=25</refid>
+             	<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 231. Figure 34. Work Record Linked to a Subject Authority: Roman sculpture.</name>
+       	    </source>
         </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300020541" vocab="aat" source="CONA 700006478">Imperial (Roman)</stylePeriod>
+        </stylePeriodSet>
         <subjectSet>
             <subject>
                 <term refid="300037206" vocab="aat" type="descriptiveTopic">clubs (weapons)</term>
@@ -191,12 +207,6 @@ Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
         <techniqueSet>
             <technique refid="300264383" vocab="aat">sculpting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-06-08-10-09-12">
-                <name type="electronic">CONA</name>
-                <refid type="other">700006478</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" source="J. Paul Getty Museum" type="repository">Statue of Hercules</title>
             <title pref="false" source="J. Paul Getty Museum" type="translated">El Heracles de Lansdowne</title>

@@ -95,6 +95,10 @@ Until 1948, collection of Joseph Brummer; September 14, 1948, purchased by Walte
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/255408</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000064</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020101" vocab="aat">Hellenistic</stylePeriod>
@@ -111,6 +115,9 @@ Until 1948, collection of Joseph Brummer; September 14, 1948, purchased by Walte
             </subject>
             <subject>
                 <term refid="300025943" vocab="aat" type="descriptiveTopic">women</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300046128" vocab="aat" type="descriptiveTopic">veils</term>
             </subject>
         </subjectSet>
         <techniqueSet>

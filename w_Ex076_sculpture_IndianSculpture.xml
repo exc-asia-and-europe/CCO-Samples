@@ -194,12 +194,12 @@ New York. The Metropolitan Museum of Art. "Bronze Sculptures from Asia," Februar
         <relationSet>
             <relation type="imageIs" relids="i_Ex076_sculpture_IndianSculpture" pref="true">general view</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="Metropolitan Museum of Art">
-		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
-		<text>Bequest of Cora Timken Burnett, 1956</text>
-	    </rights>
-	</rightsSet>
+    	<rightsSet>
+    	    <rights type="other" source="Metropolitan Museum of Art">
+    		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+    		<text>Bequest of Cora Timken Burnett, 1956</text>
+    	    </rights>
+    	</rightsSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_76_indian_sculpture</refid>
@@ -209,10 +209,14 @@ New York. The Metropolitan Museum of Art. "Bronze Sculptures from Asia," Februar
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/39325</refid>
                 <name type="electronic">Metropolitan Museum of Art, NY</name>
             </source>
-	    <source pref="false">
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_5-LocationGeography.pdf#page=22</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 204. Figure 26. Work Record Linked to Authority Record: Indian Sculpture.</name>
-	    </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000148</refid>
+                <name type="electronic">CONA</name>
+            </source>
+       	    <source pref="false">
+          		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_5-LocationGeography.pdf#page=22</refid>
+          		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 204. Figure 26. Work Record Linked to Authority Record: Indian Sculpture.</name>
+       	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300018913" vocab="aat">Chola</stylePeriod>

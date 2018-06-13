@@ -75,27 +75,27 @@ The Glory of the Golden Age (April 15 to September 17, 2000)
             <inscription dataDate="2016-03-10-13-25-38">
                 <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
                 <position>on the front</position>
-                <text type="text" xml:lang="lat">MEA SORTE CONTENTUS</text>
-                <text type="translation" xml:lang="eng" source="HRA">content with my lot</text>
+                <text type="text" lang="lat">MEA SORTE CONTENTUS</text>
+                <text type="translation" lang="eng" source="HRA">content with my lot</text>
             </inscription>
             <inscription>
                 <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
                 <position>on the left</position>
-                <text type="signature" xml:lang="lat">R. Verhulst fec.</text>
-                <text type="translation" xml:lang="eng" source="HRA">made by R. Verhulst</text>
+                <text type="signature" lang="lat">R. Verhulst fec.</text>
+                <text type="translation" lang="eng" source="HRA">made by R. Verhulst</text>
             </inscription>
             <inscription>
                 <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
                 <position>on the right</position>
-                <text type="date" xml:lang="lat">Anno 1671</text>
-                <text type="translation" xml:lang="eng" source="HRA">In the year 1671</text>
+                <text type="date" lang="lat">Anno 1671</text>
+                <text type="translation" lang="eng" source="HRA">In the year 1671</text>
             </inscription>
             <inscription dataDate="2016-03-10-13-28-05">
                 <author refid="50280490" vocab="viaf">Verhulst, Rombout</author>
                 <position>on the back</position>
-                <text type="text" xml:lang="nld">DIT IS HET AFBEELTSEL VAN / IACOB VAN REIGERSBERGH. / GEBOREN IN MIDDELBURGH / DEN.X.APRIL.1625. / WEGENS DE PROVINTIE / VAN ZEELANT GEDEPUTEERDT / TER VERGADERINGH VAN / HAER HOOGH MOGENTHEDEN / DEN.17.7.BER DES IAERS 1663 / STURF DEN.29.APRIL.1675</text>
-                <text type="translation" xml:lang="eng" source="HRA">This is the likeness of Jacob van Reygersberg. Born in Middelburg on the tenth of April in 1625. Represented the province of Zeeland at the meeting of the State General on the 17th of the 7th month of the year 1663, died on the 29th of April, 1675.</text>
-                <text type="translation" xml:lang="ger" source="J. Paul Getty Museum, Peter Fusco, Peggy Fogelman, Marietta Cambereri, and Tobias Kommerell. 1998. Meisterwerke im J. Paul Getty Museum. p.68. Peggy Anne Fogelman.">Dies ist das Bildnis Jacob van Reygersbergs, am 10 April 1625 in Middelburg geboren. Repräsentant der Provinz Seeland in der Versammlung des Erhabenen [Generalstaats] am 17 September 1663[.] Verstorben am 29 April 1675.</text>
+                <text type="text" lang="nld">DIT IS HET AFBEELTSEL VAN / IACOB VAN REIGERSBERGH. / GEBOREN IN MIDDELBURGH / DEN.X.APRIL.1625. / WEGENS DE PROVINTIE / VAN ZEELANT GEDEPUTEERDT / TER VERGADERINGH VAN / HAER HOOGH MOGENTHEDEN / DEN.17.7.BER DES IAERS 1663 / STURF DEN.29.APRIL.1675</text>
+                <text type="translation" lang="eng" source="HRA">This is the likeness of Jacob van Reygersberg. Born in Middelburg on the tenth of April in 1625. Represented the province of Zeeland at the meeting of the State General on the 17th of the 7th month of the year 1663, died on the 29th of April, 1675.</text>
+                <text type="translation" lang="ger" source="J. Paul Getty Museum, Peter Fusco, Peggy Fogelman, Marietta Cambereri, and Tobias Kommerell. 1998. Meisterwerke im J. Paul Getty Museum. p.68. Peggy Anne Fogelman.">Dies ist das Bildnis Jacob van Reygersbergs, am 10 April 1625 in Middelburg geboren. Repräsentant der Provinz Seeland in der Versammlung des Erhabenen [Generalstaats] am 17 September 1663[.] Verstorben am 29 April 1675.</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
@@ -142,6 +142,10 @@ The Glory of the Golden Age (April 15 to September 17, 2000)
                 <refid type="URI">http://www.getty.edu/art/collection/objects/1060/rombout-verhulst-bust-of-jacob-van-reygersberg-1625-1675-dutch-1671/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000138</refid>
+                <name type="electronic">CONA</name>
+            </source>
             <source pref="true" dataDate="2016-03-10-17-24-25">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_74_baroque_bust</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 74: Baroque bust.</name>
@@ -157,20 +161,17 @@ The Glory of the Golden Age (April 15 to September 17, 2000)
             <subject>
                 <term refid="300015637" vocab="aat" type="descriptiveTopic">portraits</term>
             </subject>
-	    <subject>
+            <subject source="CONA">
+                <term refid="300404138" vocab="aat" type="descriptiveTopic">single-sitter portraits</term>
+            </subject>
+	        <subject>
                 <term refid="173081389" type="personalName" vocab="viaf">Reygersberg, Jacob van</term>
-	    </subject>
+	        </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300186211" vocab="aat">drillwork</technique>
             <technique refid="300053149" vocab="aat">carving</technique>
         </techniqueSet>
-	<textrefSet>
-	    <textref>
-		<name type="electronic">CONA 700000138</name>
-		<refid type="URI">http://vocab.getty.edu/page/cona/700000138</refid>
-	    </textref>
-	</textrefSet>
         <titleSet>
             <title pref="false" type="descriptive">Bust of Jacob van Reygersberg</title>
             <title pref="true" type="repository">Bust of Jacob van Reygersberg (1625 - 1675)</title>

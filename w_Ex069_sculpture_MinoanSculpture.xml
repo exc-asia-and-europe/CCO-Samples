@@ -66,6 +66,7 @@ Knossos – Temple Repositories, 1650-1550 BC.</text>
         <materialSet>
             <material refid="300265183" type="medium" vocab="aat">faience</material>
             <material refid="300010669" type="medium" vocab="aat">terracotta</material>
+            <material refid="300021170" type="medium" vocab="aat" source="CONA">maiolica</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="true" type="height" unit="cm">34.29</measurements>
@@ -85,7 +86,8 @@ Knossos – Temple Repositories, 1650-1550 BC.</text>
             </source>
         </sourceSet>
         <stylePeriodSet>
-            <stylePeriod pref="false" refid="300020229" vocab="aat">Middle Minoan</stylePeriod>
+            <stylePeriod refid="300020229" vocab="aat">Middle Minoan</stylePeriod>
+            <stylePeriod refid="300019278" vocab="aat" source="CONA">Late Bronze Age</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject>
@@ -103,11 +105,14 @@ Knossos – Temple Repositories, 1650-1550 BC.</text>
             <subject>
                 <term  refid="300343852" vocab="aat" type="descriptiveTopic">goddesses</term>
             </subject>
+            <subject source="CONA">
+                <term  refid="300412036" vocab="aat" type="descriptiveTopic">earth mothers</term>
+            </subject>
         </subjectSet>
         <titleSet>
             <title type="other" pref="true">Snake Goddess</title>
             <title type="descriptive" pref="false" source="CONA">Small snake goddess figurine</title>
-            <title type="cited" pref="false" source="CONA" lang="gre" script="grek">
+            <title type="cited" pref="false" source="CONA" lang="gre" script="Grek">
                 Ειδώλιο της μικρής "θεάς των όφεων"</title>
         </titleSet>
         <worktypeSet>

@@ -80,12 +80,12 @@
             <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_3" type="imageIs">Tomb Figure of a Bactrian Camel, facing right detail</relation>
             <relation pref="false" relids="i_Ex079_sculpture_ChineseFunerary_4" type="imageIs">Tomb Figure of a Bactrian Camel, facing left</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="Philadelphia Museum of Art">
-		<rightsHolder>Philadelphia Museum of Art</rightsHolder>
-		<text>Gift of Mrs. John Wintersteen, 1964</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <rights type="other" source="Philadelphia Museum of Art">
+       		<rightsHolder>Philadelphia Museum of Art</rightsHolder>
+       		<text>Gift of Mrs. John Wintersteen, 1964</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_79_chinese_funerary_sculpture</refid>
@@ -94,6 +94,10 @@
             <source pref="false">
                 <refid type="URI">http://www.philamuseum.org/collections/permanent/60272.html?mulR=1196404047</refid>
                 <name type="electronic">Philadelphia Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000134</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -124,9 +128,11 @@
         </subjectSet>
         <techniqueSet>
             <technique refid="300053914" vocab="aat">glazing</technique>
+            <technique refid="300018511" vocab="aat" source="CONA">Sancai</technique>
         </techniqueSet>
         <titleSet>
-            <title type="repository">Tomb Figure of a Bactrian Camel</title>
+            <title pref="true" type="repository">Tomb Figure of a Bactrian Camel</title>
+            <title pref="false" type="descriptive" source="CONA">Camel Made for a Tomb </title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300184644" vocab="aat">funerary sculpture</worktype>

@@ -142,12 +142,12 @@ New Haven. Yale University Art Gallery. "The Cosmic Dancer: Shiva Nataraja," Feb
         <relationSet>
             <relation pref="true" relids="i_Ex077_sculpture_IndianSculpture" type="imageIs" dataDate="2015-11-30-17-44-52">general view</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="Metropolitan Museum of Art">
-		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
-		<text>Gift of R. H. Ellsworth Ltd., in honor of Susan Dillon, 1987</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <rights type="other" source="Metropolitan Museum of Art">
+       		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+       		<text>Gift of R. H. Ellsworth Ltd., in honor of Susan Dillon, 1987</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_77_indian_sculpture</refid>
@@ -156,6 +156,10 @@ New Haven. Yale University Art Gallery. "The Cosmic Dancer: Shiva Nataraja," Feb
             <source pref="false">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/39328</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008623</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -170,6 +174,9 @@ New Haven. Yale University Art Gallery. "The Cosmic Dancer: Shiva Nataraja," Feb
             </subject>
             <subject>
                 <term refid="sh95009208" vocab="lcsh" type="iconographicTopic">Naṭarāja (Hindu deity)</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300386135" vocab="aat" type="iconographicTopic">abhaya mudra</term>
             </subject>
             <subject>
                 <term refid="300389779" vocab="aat" type="descriptiveTopic">dancing</term>

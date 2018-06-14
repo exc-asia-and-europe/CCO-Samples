@@ -12,6 +12,14 @@
                 <role type="code" vocab="marcrelator">scl</role>
             	<role type="code" vocab="marcrelator">dsr</role>
             </agent>
+            <agent source="CONA">
+                <name refid="81057038" type="personal" vocab="viaf">Miller, Joseph Irwin</name>
+                <role type="code" vocab="marcrelator">pat</role>
+            </agent>
+            <agent source="CONA">
+                <name refid="81057086" type="personal" vocab="viaf">Miller, Xenia S.</name>
+                <role type="code" vocab="marcrelator">pat</role>
+            </agent>
         </agentSet>
         <dateSet>
 	    <display>installed in 1971, dedicated May 16, 1971</display>
@@ -50,6 +58,13 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
                 <author>
                     <name refid="129948349" type="corporate" vocab="viaf">The Henry Moore Foundation</name>
                     <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="CONA">
+                <text>Abstract bronze sculpture of an arch created by Henry Moore. Facture: sandcast in 50 sections and then assembled on site; the surface of the sculpture is smooth with little evidence of the joins. The surface of the sculpture was originally patinated green, and was expected to change very little with age, although some areas turned bluish over time. The shape of the sculpture suggests human hip and leg bones, while the negative space on the interior of the arch suggests an abstracted human torso with head. I.M. Pei had the idea of a large work of art to sit in the Fifth Street public plaza that would pull together the space between his newly built Cleo Rogers Memorial Library, the Irwin Gardens by Henry A. Phillips (just east of the library) and the First Christian Church by Eliel Saarinen (across the street).</text>
+                <author>
+                    <name refid="153149171" type="corporate" vocab="viaf">Getty Information Institute</name>
+                    <role type="code" vocab="marcrelator">edt</role>
                 </author>
             </description>
         </descriptionSet>
@@ -126,6 +141,10 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
                 <refid type="URI">https://en.wikipedia.org/wiki/Large_Arch</refid>
                 <name type="electronic">Large Arch</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000137</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300264736" vocab="aat">Modern</stylePeriod>
@@ -161,6 +180,7 @@ The sculpture is surrounded by a circular red-brick paved pedestrian plaza.</tex
         <worktypeSet>
             <worktype refid="300047090" vocab="aat">sculpture</worktype>
             <worktype refid="300047180" vocab="aat">outdoor sculpture</worktype>
+            <worktype refid="300400887" vocab="aat" source="CONA">monumental sculpture</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex087_sculpture_ModernSculpture"

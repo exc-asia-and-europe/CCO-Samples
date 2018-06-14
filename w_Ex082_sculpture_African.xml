@@ -37,6 +37,13 @@ Since the 1940s, low-fired ceramic figures and fragments such as this have been 
                    <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
+           <description source="CONA">
+               <text>Provenance: Kassim Sidibe, Mali, 1973-1974 (equestrian) Marie Ange Ciolkowska, Paris, 1973-1974 (horse's head) Karl Heinz Krieg, Neunkirchen, Germany, 1973-1974 (fragments) Emile M. Deletaille, Brussels, 1973-1974 to 1986</text>
+               <author>
+                   <name refid="153149171" type="corporate" vocab="viaf">Getty Information Institute</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
        </descriptionSet>
        <locationSet>
            <location pref="true" type="repository">
@@ -72,11 +79,18 @@ Since the 1940s, low-fired ceramic figures and fragments such as this have been 
                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_82_african_sculpture</refid>
                <name type="electronic">Cataloging Cultural Objects Commons. Example 82: African sculpture.</name>
            </source>
-           <source>
+           <source pref="false">
                <refid type="URI">https://africa.si.edu/collections/view/objects/asitem/search@/0?t:state:flow=f7908f02-a9dc-4228-b155-19e7e63ea8ad</refid>
                <name type="electronic">National Museum of African Art</name>
            </source>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700000098</refid>
+               <name type="electronic">CONA</name>
+           </source>
        </sourceSet>
+       <stylePeriodSet>
+           <stylePeriod refid="300015768" vocab="aat" source="CONA">ancient Inland Niger Delta styles</stylePeriod>
+       </stylePeriodSet>
        <subjectSet>
            <subject>
                <term refid="300404114" vocab="aat" type="descriptiveTopic">human figures</term>
@@ -93,6 +107,12 @@ Since the 1940s, low-fired ceramic figures and fragments such as this have been 
            <subject>
                <term refid="300234117" vocab="aat" type="descriptiveTopic">ceremonial objects</term>
            </subject>
+           <subject source="CONA">
+               <term refid="300188602" vocab="aat" type="descriptiveTopic">equestrians</term>
+           </subject>
+           <subject source="CONA">
+               <term refid="300025450" vocab="aat" type="descriptiveTopic">military personnel</term>
+           </subject>
            <subject>
                <term refid="300137540" vocab="aat" type="conceptTopic">armed forces</term>
            </subject>
@@ -105,6 +125,7 @@ Since the 1940s, low-fired ceramic figures and fragments such as this have been 
        </titleSet>
        <worktypeSet>
            <worktype refid="300047090" vocab="aat">sculpture</worktype>
+           <worktype refid="300047600" vocab="aat" source="CONA">statues</worktype>
        </worktypeSet>
    </work>
     <image id="i_Ex082_sculpture_African" href="http://ids.si.edu/ids/deliveryService?id=NMAfA-S20080005-000001">

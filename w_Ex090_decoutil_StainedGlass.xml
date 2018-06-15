@@ -101,6 +101,10 @@ From the nave aisle (?) of the cathedral of Notre-Dame, Rouen; Augustin Lambert,
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/469857</refid>
                 <name type="electronic">Metropolitan Museum of Art, NY</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000056</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020775" vocab="aat">Gothic</stylePeriod>

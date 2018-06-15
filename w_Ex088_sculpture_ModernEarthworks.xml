@@ -48,6 +48,7 @@ notes
             </description>
         </descriptionSet>
         <locationSet>
+            <!-- This locationSet demonstrates the Cluster point extension, which helps specify locations that are difficult to give with vocabularies. -->
             <location pref="true" source="Coordinates: Wikipedia, Otherwise: Dia Art Foundation" type="site">
                 <name refid="2632547" type="geographic" vocab="tgn" extent="peak">Rozel Point</name>
                 <name refid="7021126" type="geographic" vocab="tgn" extent="salt lake">Great Salt Lake</name>
@@ -100,6 +101,10 @@ notes
                 <refid type="URI">http://www.robertsmithson.com/earthworks/spiral_jetty.htm</refid>
                 <name type="electronic">Robert Smithson website</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000079</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300264736" vocab="aat">Modern</stylePeriod>
@@ -123,13 +128,10 @@ notes
             <subject>
                 <term refid="300134134" vocab="aat" type="descriptiveTopic">nonrepresentational art</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300004794" vocab="aat" type="descriptiveTopic">structures</term>
+            </subject>
         </subjectSet>
-        <textrefSet>
-            <textref source="HRA">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000079</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title type="creator">Spiral Jetty</title>
         </titleSet>

@@ -226,6 +226,7 @@ New York. The Metropolitan Museum of Art. "Balcony Calligraphy Exhibition," June
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex099_decoutil_IslamicLamp">general view</relation>
+            <relation type="partOf" href="http://vocab.getty.edu/page/cona/700009323" refid="700009323" vocab="CONA" source="CONA">Mausoleum of Amir Aydakin al-'Ala'i al-Bunduqdar</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="Metropolitan Museum of Art">
@@ -242,6 +243,10 @@ New York. The Metropolitan Museum of Art. "Balcony Calligraphy Exhibition," June
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/447000</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000136</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021601" vocab="aat">Mamluk</stylePeriod>
@@ -255,6 +260,9 @@ New York. The Metropolitan Museum of Art. "Balcony Calligraphy Exhibition," June
             </subject>
             <subject>
                 <term refid="300007544" vocab="aat" type="descriptiveTopic">mosques (buildings)</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300005891" vocab="aat" type="descriptiveTopic">mausoleums</term>
             </subject>
             <subject source="Metropolitan Museum of Art">
                 <term refid="300183126" vocab="aat" type="descriptiveTopic">mosque lamps</term>

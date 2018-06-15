@@ -111,6 +111,10 @@ In the 1700s, the Chinese produced large quantities of porcelain specifically fo
                 <refid type="URI">http://www.getty.edu/art/collection/objects/5936/unknown-maker-lidded-bowl-chinese-kangxi-porcelain-about-1662-1722-mounts-about-1722-1727/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000156</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
 	<stylePeriodSet>
 	   <stylePeriod vocab="AAT" refid="300018482" source="J. Paul Getty Museum">Kangxi</stylePeriod>

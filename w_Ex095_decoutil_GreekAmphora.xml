@@ -162,10 +162,14 @@ Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
                 <refid type="URI">https://www.getty.edu/art/collection/objects/31837/attributed-to-the-painter-of-the-wedding-procession-signed-by-nikodemos-panathenaic-prize-amphora-with-lid-greek-attic-363-362-bc/</refid>
                 <name type="electronic">J. Paul Getty Museum</name>
             </source>
-	    <source>
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=25</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 72. Figure 10. Work Record Linked to an Authority Record for Work Type: Ancient Greek Vessel.</name>
-	    </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700006921</refid>
+                <name type="electronic">CONA</name>
+            </source>
+       	    <source>
+         		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=25</refid>
+         		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 72. Figure 10. Work Record Linked to an Authority Record for Work Type: Ancient Greek Vessel.</name>
+       	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020118" vocab="aat">Attic</stylePeriod>
@@ -196,18 +200,24 @@ Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
             <subject extent="Side B">
                 <term refid="92D5" vocab="iconclass" type="iconographicTopic">(story of) Nike</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300265202" vocab="aat" type="descriptiveTopic">boxers</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300374825" vocab="aat" type="descriptiveTopic">boxing</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="901002020" vocab="cona" type="iconographicTopic">Athena Promachos</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300374819" vocab="aat" type="conceptTopic">Panathenaia</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300053158" vocab="aat">turning</technique>
             <technique refid="300263295" vocab="aat">sintering</technique>
             <technique refid="300343820" vocab="aat">vase painting</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref>
-                <name type="electronic">CONA</name>
-                <refid type="other">700006921</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" source="J. Paul Getty Museum" type="repository">Panathenaic Prize Amphora with Lid</title>
             <title pref="false" type="descriptive">Panathenaic Prize Amphora and Lid</title>
@@ -217,6 +227,7 @@ Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
         <worktypeSet>
             <worktype refid="300200366" vocab="aat" source="Figure 10">Panathenaic amphorae</worktype>
             <worktype refid="300151343" vocab="aat">ceramics</worktype>
+            <worktype refid="300045712" vocab="aat" source="CONA">lids</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex095_decoutil_GreekAmphora_1"

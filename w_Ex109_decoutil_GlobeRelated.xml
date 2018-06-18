@@ -198,6 +198,10 @@ Paris: Life &amp; Luxury (April 26, 2011 to January 2, 2012)
                 <refid type="URI">http://www.getty.edu/art/collection/objects/5933/globe-designed-and-assembled-by-jean-antoine-nollet-map-engraved-by-louis-borde-lacquer-decoration-attributed-to-the-workshop-of-guillaume-martin-et-al-terrestrial-globe-globe-terrestre-french-about-1728/?artview=dor66544</refid>
                 <name type="electronic">The J. Paul Getty Museum</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000145</refid>
+                <name type="electronic">CONA</name>
+            </source>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_109_globe_related_work</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 109: Globe, related work.</name>
@@ -220,12 +224,14 @@ Paris: Life &amp; Luxury (April 26, 2011 to January 2, 2012)
             <subject>
                 <term refid="300054168" vocab="aat" type="descriptiveTopic">decorative arts</term>
             </subject>
+            <subject source="CONA">
+                <term refid="7030638" vocab="tgn" type="conceptTopic">Earth</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300263109" vocab="aat" type="conceptTopic">planets</term>
+            </subject>
         </subjectSet>
         <textrefSet>
-            <textref dataDate="2016-06-15-15-27-56">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000145</refid>
-            </textref>
             <textref>
                 <name type="catalog">J. Paul Getty Museum, Catherine Hess, and Gillian Wilson. 2002. Summary catalogue of European decorative arts in the J. Paul Getty Museum. Los Angeles, Calif: J. Paul Getty Museum.</name>
                 <refid type="citation">146. P. 147.</refid>
@@ -235,6 +241,7 @@ Paris: Life &amp; Luxury (April 26, 2011 to January 2, 2012)
             <title pref="true" source="J. Paul Getty Museum" type="repository">Terrestrial Globe (Globe terrestre)</title>
             <title pref="false" source="J. Paul Getty Museum" type="other">Pair of Globes</title>
             <title pref="false" type="descriptive">Terrestrial Globe</title>
+            <title pref="false" source="CONA" type="descriptive" lang="fre">Globe terrestre</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300122283" vocab="aat">scientific instruments</worktype>

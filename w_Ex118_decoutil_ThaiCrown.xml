@@ -50,6 +50,7 @@
             <material refid="300011021" type="medium" vocab="aat">gold</material>
             <material refid="300011082" type="medium" vocab="aat">ruby</material>
             <material refid="300010797" type="medium" vocab="aat">glass</material>
+            <material refid="300011827" type="medium" vocab="aat" source="CONA">pearl</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="false" source="Philadelphia Museum of Art online collection" type="height" unit="in">7 1/2</measurements>
@@ -62,12 +63,12 @@
         <relationSet>
             <relation type="imageIs" relids="i_Ex118_decoutil_ThaiCrown">general view</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="Philadelphia Museum of Art online collection">
-		<rightsHolder>Philadelphia Museum of Art</rightsHolder>
-		<text>Purchased with the Far Eastern Art Revolving Fund, 1982</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <rights type="other" source="Philadelphia Museum of Art online collection">
+       		<rightsHolder>Philadelphia Museum of Art</rightsHolder>
+       		<text>Purchased with the Far Eastern Art Revolving Fund, 1982</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_118_thai_crown</refid>
@@ -76,6 +77,10 @@
             <source pref="false">
                 <refid type="URI">http://www.philamuseum.org/collections/permanent/75580.html?mulR=518863629|1</refid>
                 <name type="electronic">Philadelphia Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000159</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

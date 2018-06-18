@@ -105,14 +105,14 @@ Art of Alchemy (October 11, 2016 to February 12, 2017)
 	   <inscription>
 		<author refid="100627156" vocab="viaf">unknown Czech</author>
 		<position>obverse</position>
-                <text type="text" xml:lang="lat">RVDOLPHVS II ROM IMP AVG REX HVNG BOE</text>
-		<text type="translation" xml:lang="eng">Rudolf the Supreme Emperor of the Romans, King of Hungary and Bohemia</text>
+                <text type="text" lang="lat">RVDOLPHVS II ROM IMP AVG REX HVNG BOE</text>
+		<text type="translation" lang="eng">Rudolf the Supreme Emperor of the Romans, King of Hungary and Bohemia</text>
 	   </inscription>
 	   <inscription>
 		<author refid="100627156" vocab="viaf">unknown Czech</author>
 		<position>reverse</position>
-                <text type="text" xml:lang="lat">ASTRVM FLVGET CAES</text>
-		<text type="translation" xml:lang="eng">The Emperor’s Star Shines Brightly</text>
+                <text type="text" lang="lat">ASTRVM FLVGET CAES</text>
+		<text type="translation" lang="eng">The Emperor’s Star Shines Brightly</text>
 	   </inscription>
 	</inscriptionSet>
         <locationSet>
@@ -202,6 +202,14 @@ Art of Alchemy (October 11, 2016 to February 12, 2017)
 		<refid type="URI">http://www.core.vraweb.org/examples/html/example010_full_xml.html</refid>
 		<name type="electronic">VRA Core 4 Example 10: Medal [complex record]</name>
 	   </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700002294</refid>
+                <name type="electronic">CONA 700002294</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000150</refid>
+                <name type="electronic">CONA 700000150</name>
+            </source>
 	</sourceSet>
         <stylePeriodSet>
             <display>Early Baroque; Seventeenth century</display>
@@ -209,39 +217,45 @@ Art of Alchemy (October 11, 2016 to February 12, 2017)
             <stylePeriod vocab="AAT" refid="300021149" source="VRA Core">Early Baroque</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-	   <subject>
-		<term refid="300054168" vocab="aat" type="conceptTopic">decorative arts</term>
-	   </subject>
-	   <subject>
-        	<term vocab="AAT" refid="300400705" type="descriptiveTopic">laurel wreath</term>
-	   </subject>
-	   <subject>
-		<term refid="300260027" vocab="aat" type="conceptTopic">peace</term>
-	   </subject>
-	   <subject>
-		<term refid="300169872" vocab="aat" type="iconographicTopic">Capricorn symbols</term>
-	   </subject>
-	   <subject>
-		<term refid="300374810" vocab="aat" type="conceptTopic">victories</term>
-	   </subject>
-	   <subject>
-		<term refid="300374809" vocab="aat" type="conceptTopic">power</term>
-	   </subject>
-	   <subject>
-		<term refid="300054419" vocab="aat" type="descriptiveTopic">numismatics</term>
-	   </subject>
-	   <subject>
-		<term refid="14909824" vocab="viaf" type="personalName">Rudolf II</term>
-	   </subject>
+    	   <subject>
+    		<term refid="300054168" vocab="aat" type="conceptTopic">decorative arts</term>
+    	   </subject>
+    	   <subject>
+            	<term vocab="AAT" refid="300400705" type="descriptiveTopic">laurel wreath</term>
+    	   </subject>
+    	   <subject>
+    		<term refid="300260027" vocab="aat" type="conceptTopic">peace</term>
+    	   </subject>
+    	   <subject>
+    		<term refid="300169872" vocab="aat" type="iconographicTopic">Capricorn symbols</term>
+    	   </subject>
+    	   <subject>
+    		<term refid="300374810" vocab="aat" type="conceptTopic">victories</term>
+    	   </subject>
+    	   <subject>
+    		<term refid="300374809" vocab="aat" type="conceptTopic">power</term>
+    	   </subject>
+    	   <subject>
+    		<term refid="300054419" vocab="aat" type="descriptiveTopic">numismatics</term>
+    	   </subject>
+    	   <subject>
+    		<term refid="14909824" vocab="viaf" type="personalName">Rudolf II</term>
+    	   </subject>
             <subject>
                 <term type="familyName" vocab="LCSAF" refid="sh 85058164" source="VRA Core">Habsburg, House of</term>
             </subject>
             <subject>
                 <term type="descriptiveTopic" vocab="LCSAF" refid="n 82120497" source="VRA Core">Order of the Golden Fleece</term>
             </subject>
-	   <subject>
-		<term refid="18013086" vocab="viaf" type="personalName">Caesar Augustus</term>
-	   </subject>
+    	   <subject>
+    		<term refid="18013086" vocab="viaf" type="personalName">Caesar Augustus</term>
+    	   </subject>
+            <subject source="CONA 700000150">
+                <term vocab="AAT" refid="300117363" type="descriptiveTopic">three-quarter views</term>
+            </subject>
+            <subject source="CONA 700000150">
+                <term vocab="AAT" refid="300404138" type="descriptiveTopic">single-sitter portraits</term>
+            </subject>
 	</subjectSet>
         <techniqueSet>
 	   <technique refid="300053869" vocab="aat">burnishing</technique>

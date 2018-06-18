@@ -118,15 +118,15 @@ Traditionally, it is believed that this yoroi was donated to the Shinomura Hachi
         <relationSet>
             <relation pref="true" relids="i_Ex113_decoutil_JapaneseArmor_1" type="imageIs">Three-quarter left view of an armor (14.100.121b–e) and helmet (14.100.121a)</relation>
             <relation pref="false" relids="i_Ex113_decoutil_JapaneseArmor_2" type="imageIs">Detail view of armor</relation>
-	<relation pref="false" href="https://www.metmuseum.org/art/collection/search/22506" type="componentIs">Armor (Yoroi) 14.100.121b–e</relation>
-	<relation pref="false" href="https://www.metmuseum.org/art/collection/search/27272">Helmet 14.100.121a</relation>
+           	<relation pref="false" href="https://www.metmuseum.org/art/collection/search/22506" type="componentIs">Armor (Yoroi) 14.100.121b–e</relation>
+           	<relation pref="false" href="https://www.metmuseum.org/art/collection/search/27272">Helmet 14.100.121a</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="Metropolitan Museum of Art">
-		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
-		<text>Gift of Bashford Dean, 1914</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <rights type="other" source="Metropolitan Museum of Art">
+       		<rightsHolder>Metropolitan Museum of Art</rightsHolder>
+       		<text>Gift of Bashford Dean, 1914</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_113_japanese_armor</refid>
@@ -135,6 +135,10 @@ Traditionally, it is believed that this yoroi was donated to the Shinomura Hachi
             <source pref="false">
                 <refid type="URI">https://www.metmuseum.org/art/collection/search/35694</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000151</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -163,6 +167,7 @@ Traditionally, it is believed that this yoroi was donated to the Shinomura Hachi
         <techniqueSet>
             <technique refid="300053789" vocab="aat">gilding</technique>
             <technique refid="300053433" vocab="aat">stenciling</technique>
+            <technique refid="300053660" vocab="aat" source="CONA">stitching</technique>
         </techniqueSet>
         <titleSet>
             <title type="repository">Armor (Yoroi)</title>

@@ -2,7 +2,7 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
     <work id="w_Ex107_decoutil_SideChair" refid="c_CCO_Examples">
         <agentSet>
-            <agent>
+            <agent pref="true">
                 <attribution>attributed to</attribution>
                 <culture>American</culture>
                 <dates type="life">
@@ -11,6 +11,15 @@
                 </dates>
                 <name refid="3683166" type="personal" vocab="viaf">McIntire, Samuel</name>
                 <role type="code" vocab="marcrelator">dsr</role>
+            </agent>
+            <agent pref="false" source="CONA">
+                <culture>American</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1739</earliestDate>
+                    <latestDate circa="false">1799</latestDate>
+                </dates>
+                <name refid="62957955" type="personal" vocab="viaf">Derby, Elias Hasket</name>
+                <role type="code" vocab="marcrelator">pat</role>
             </agent>
         </agentSet>
         <culturalContextSet>
@@ -74,6 +83,7 @@ Elias Hasket Derby, Salem, Massachusetts, died 1799; descended in the Derby fami
             <material refid="300164025" type="medium" vocab="aat">ash</material>
             <material refid="300012055" type="medium" vocab="aat">ebony</material>
             <material refid="300012221" type="medium" vocab="aat">mahogany</material>
+            <material refid="300012746" type="medium" vocab="aat" source="CONA">Norway spruce</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="true" type="height" unit="cm">96.2</measurements>
@@ -111,6 +121,10 @@ Elias Hasket Derby, Salem, Massachusetts, died 1799; descended in the Derby fami
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/1674</refid>
                 <name type="electronic">Metropolitan Museum of Art</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000089</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021219" vocab="aat">Hepplewhite</stylePeriod>
@@ -130,6 +144,9 @@ Elias Hasket Derby, Salem, Massachusetts, died 1799; descended in the Derby fami
             </subject>
             <subject>
                 <term refid="300037772" vocab="aat" type="descriptiveTopic">chairs</term>
+            </subject>
+            <subject>
+                <term refid="300256744" vocab="aat" type="descriptiveTopic">vase-shaped</term>
             </subject>
         </subjectSet>
         <titleSet>

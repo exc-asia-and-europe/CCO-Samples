@@ -30,7 +30,7 @@
                </author>
            </description>
 	   <description pref="false" source="Ethnologisches Museum">
-		<text xml:lang="ger">Diese Figur einer Palhikwmana ("Flüssigkeit trinkendes Mädchen" oder auch "Mais mahlendes Mädchen") ist eine der schönsten Kachinas der Berliner Sammlung. Der aufwendig gestaltete und bemalte Kopfaufsatz wird von Wolkenterrassen gekrönt. Die Bekleidung aus Stoff und Wollfäden entspricht dem Zeremonialgewand von Palhikwmana. Die Figur zu den Kachinas der älteren Hopisammlung, die 1991 aus Leipzig zurückkehrten. Trotz aufwendiger Restaurierung hat das russische Exil bleibende Spuren hinterlassen: Die Bemalung am Kinn und an der Stirn ist abgeschabt, ein Teil des linken Fußes und der gelben Blüte rechts am Kopfaufsatz sind abgebrochen, die ursprünglich am Kopfaufsatz befestigten Federn sind nicht mehr vorhanden.</text>
+		<text lang="ger">Diese Figur einer Palhikwmana ("Flüssigkeit trinkendes Mädchen" oder auch "Mais mahlendes Mädchen") ist eine der schönsten Kachinas der Berliner Sammlung. Der aufwendig gestaltete und bemalte Kopfaufsatz wird von Wolkenterrassen gekrönt. Die Bekleidung aus Stoff und Wollfäden entspricht dem Zeremonialgewand von Palhikwmana. Die Figur zu den Kachinas der älteren Hopisammlung, die 1991 aus Leipzig zurückkehrten. Trotz aufwendiger Restaurierung hat das russische Exil bleibende Spuren hinterlassen: Die Bemalung am Kinn und an der Stirn ist abgeschabt, ein Teil des linken Fußes und der gelben Blüte rechts am Kopfaufsatz sind abgebrochen, die ursprünglich am Kopfaufsatz befestigten Federn sind nicht mehr vorhanden.</text>
 	       <author>
 	           <name refid="150002086" type="corporate" vocab="viaf">Ethnologisches Museum Berlin</name>
 	           <role type="code" vocab="marcrelator">aut</role>
@@ -72,7 +72,8 @@
                <name type="electronic">Cataloging Cultural Objects Commons. Example 111: Native American doll.</name>
            </source>
            <source>
-               <refid type="URI">http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=154512&viewType=detailView</refid>
+               <!-- Please note that the following URI has been modified to allow validation - please replace &amp; with ampersand when visiting the site. -->
+               <refid type="URI">http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=154512&amp;viewType=detailView</refid>
                <name type="electronic">Ethnologisches Museum der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz</name>
            </source>
            <source>
@@ -117,7 +118,7 @@
            <worktype refid="300211323" vocab="aat">kachina dolls</worktype>
        </worktypeSet>
    </work>
-    <image id="i_Ex111_decoutil_NativeAmDoll" href="http://www.smb-digital.de/eMuseumPlus?service=DynamicAsset&sp=SU5mxm4Yx%2FVbg9LVP7MZLDqo6z5lhONBxez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV1b%0AfnOjhdzPJCrGy%2BOIZxfXys9Yi8S8yOJKactEretqedZB9DZfvgZw&sp=Simage%2Fjpeg">
+    <image id="i_Ex111_decoutil_NativeAmDoll" href="http://www.smb-digital.de/eMuseumPlus?service=DynamicAsset&amp;sp=SU5mxm4Yx%2FVbg9LVP7MZLDqo6z5lhONBxez%2FYx5EhVSCZjU0bcvvsnPxkoLiFJnF9QzRY98OZwV1b%0AfnOjhdzPJCrGy%2BOIZxfXys9Yi8S8yOJKactEretqedZB9DZfvgZw&amp;sp=Simage%2Fjpeg"><!-- Please note that the above URI has been modified to allow validation - please replace &amp; with ampersand when visiting the site. -->
         <agentSet>
             <agent>
                 <name>Dietrich Graf</name>
@@ -135,7 +136,8 @@
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI">http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=154512&viewType=detailView</refid>
+                <!-- Please note that the following URI has been modified to allow validation - please replace &amp; with ampersand when visiting the site. -->
+                <refid type="URI">http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=154512&amp;viewType=detailView</refid>
                 <name type="electronic">Ethnologisches Museum der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz</name>
             </source>
         </sourceSet>

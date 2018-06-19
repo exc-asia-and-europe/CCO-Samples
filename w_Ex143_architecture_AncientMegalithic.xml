@@ -82,6 +82,7 @@ Since the 12th century when Stonehenge was considered one of the wonders of the 
             <material refid="300011734" type="medium" vocab="aat">earth</material>
             <material refid="300011386" type="medium" vocab="aat">bluestone</material>
             <material refid="300011672" type="medium" vocab="aat">sarsen</material>
+            <material refid="300011376" type="medium" vocab="aat" source="CONA">sandstone</material>
         </materialSet>
         <measurementsSet>
 	    <display>tallest: 6.7 m high (22 feet), weighing up to 41 metric tons each (45.2 tons)</display>
@@ -110,6 +111,10 @@ Since the 12th century when Stonehenge was considered one of the wonders of the 
             <source pref="false">
             	 <refid type="URI">http://whc.unesco.org/en/list/373</refid>
             	 <name type="electronic">UNESCO World Heritage Centre. Stonehenge, Avebury and Associated Sites.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008421</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -141,6 +146,9 @@ Since the 12th century when Stonehenge was considered one of the wonders of the 
             <subject>
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture (object genre)</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300266755" vocab="aat" type="descriptiveTopic">cemeteries</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054608" vocab="aat">construction</technique>
@@ -155,6 +163,9 @@ Since the 12th century when Stonehenge was considered one of the wonders of the 
             <worktype refid="300007680" vocab="aat">observatories</worktype>
             <worktype refid="300007595" vocab="aat">temples</worktype>
             <worktype refid="300006985" vocab="aat">menhirs</worktype>
+            <worktype refid="300120486" vocab="aat" source="CONA">henges</worktype>
+            <worktype refid="300263063" vocab="aat" source="CONA">World Heritage Sites</worktype>
+            <worktype refid="300404840" vocab="aat" source="CONA">rebuilding sites</worktype>
         </worktypeSet>
     </work>
    <image id="i_Ex143_architecture_AncientMegalithic"

@@ -95,12 +95,12 @@ Identical inscriptions are woven into each of the carpets: "Except for thy haven
             <relation pref="false" href="http://collections.vam.ac.uk/item/O54307/the-ardabil-carpet-carpet-unknown/" refid="272-1893" source="Victoria and Albert Museum, London" type="partnerInSetWith">Ardabil Carpet, Victoria and Albert Museum</relation>
             <relation pref="true" relids="i_Ex126_decoutil_PersianCarpet" type="imageIs">general view</relation>
         </relationSet>
-	<rightsSet>
-	    <rights type="other" source="Los Angeles County Museum of Art">
-		<rightsHolder>Los Angeles County Museum of Art</rightsHolder>
-		<text>Gift of J. Paul Getty</text>
-	    </rights>
-	</rightsSet>
+       	<rightsSet>
+       	    <rights type="other" source="Los Angeles County Museum of Art">
+       		<rightsHolder>Los Angeles County Museum of Art</rightsHolder>
+       		<text>Gift of J. Paul Getty</text>
+       	    </rights>
+       	</rightsSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_2_decorative_arts_and_utilitarian_objects/example_126_persian_carpet</refid>
@@ -109,6 +109,10 @@ Identical inscriptions are woven into each of the carpets: "Except for thy haven
             <source pref="false">
                 <refid type="URI">http://collections.lacma.org/node/230372</refid>
                 <name type="electronic">Los Angeles County Museum of Art</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000129</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>

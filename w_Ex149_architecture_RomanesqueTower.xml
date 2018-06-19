@@ -111,6 +111,7 @@
             <display>bearing masonry, cut stone construction, round plan, white marble inlaid on the exterior with colored marble</display>
             <material refid="300011443" type="medium" vocab="aat">marble</material>
             <material refid="300011571" type="medium" vocab="aat">white marble</material>
+            <material refid="300070045" type="medium" vocab="aat" source="CONA">dimension stone</material>
         </materialSet>
         <measurementsSet>
             <measurements pref="true" type="count" unit="stories">8</measurements>
@@ -120,8 +121,8 @@
             <measurements extent="inclination; off the perpendicular" pref="false" type="other" unit="ft">16</measurements>
         </measurementsSet>
         <relationSet>
-            <relation href="http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002011" pref="false" refid="700002011" type="partOf">Cathedral of Pisa</relation>
-            <relation pref="true" relids="i_61d3251f-bdc5-4142-8d68-c2f39cbded36" type="imageIs">general view</relation>
+            <relation href="http://vocab.getty.edu/page/cona/700002011" pref="false" refid="700002011" vocab="CONA" type="partOf">Piazza dei Miracoli complex</relation>
+            <relation pref="true" relids="i_Ex149_architecture_RomanesqueTower" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="true">
@@ -132,14 +133,19 @@
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_8-Description.pdf#page=13</refid>
                 <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 257. Figure 41. Work Record with a Description: Romanesque Tower.</name>
             </source>
-	    <source pref="false">
-		<refid type="URI">https://www.britannica.com/topic/Leaning-Tower-of-Pisa</refid>
-		<name type="electronic">'Leaning Tower of Pisa.' Encyclopædia Britannica.</name>
-	    </source>
-	    <source pref="false">
-		<refid type="URI">http://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=2604&context=icchge</refid>
-		<name type="serial">Burland, J. B., "The Leaning Tower of Pisa Revisited" (2004). International Conference on Case Histories in Geotechnical Engineering. 3. http://scholarsmine.mst.edu/icchge/5icchge/session00f/3</name>
-	    </source>
+       	    <source pref="false">
+          		<refid type="URI">https://www.britannica.com/topic/Leaning-Tower-of-Pisa</refid>
+          		<name type="electronic">'Leaning Tower of Pisa.' Encyclopædia Britannica.</name>
+       	    </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000100</refid>
+                <name type="electronic">CONA</name>
+            </source>
+           	<source pref="false">
+           	    <!-- Please note that the following URI has been edited to allow for validation. When visiting the site, please change the ampersand. -->
+           		<refid type="URI">http://scholarsmine.mst.edu/cgi/viewcontent.cgi?article=2604&amp;context=icchge</refid>
+       		    <name type="serial">Burland, J. B., "The Leaning Tower of Pisa Revisited" (2004). International Conference on Case Histories in Geotechnical Engineering. 3. http://scholarsmine.mst.edu/icchge/5icchge/session00f/3</name>
+       	    </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300020768" vocab="aat">Romanesque</stylePeriod>
@@ -162,12 +168,6 @@
             <technique refid="300070045" vocab="aat">dimension stone</technique>
             <technique refid="300343664" vocab="aat">circular plan</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-03-03-17-08-57">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000100</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" type="popular">Leaning Tower of Pisa</title>
             <title pref="false" type="other">Campanile</title>

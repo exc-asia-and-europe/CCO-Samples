@@ -3,12 +3,16 @@
     <work id="w_Ex138_decoutil_Automobile" refid="c_CCO_Examples">
         <agentSet>
             <agent>
-		<dates type="life">
+		        <dates type="life">
                     <earliestDate circa="false">1895</earliestDate>
                     <latestDate circa="false">1966</latestDate>
                 </dates>
                 <name refid="37718109" type="personal" vocab="viaf">Pininfarina, Giovanni Battista</name>
                 <role type="code" vocab="marcrelator">dsr</role>
+            </agent>
+            <agent source="CONA">
+                <name refid="201648524" type="corporate" vocab="viaf">Carrozzeria Pininfarina</name>
+                <role type="code" vocab="marcrelator">mfr</role>
             </agent>
         </agentSet>
         <culturalContextSet>
@@ -43,7 +47,7 @@
         </descriptionSet>
         <locationSet>
             <location pref="false" type="creation">
-		<name refid="131137808" type="corporate" vocab="viaf">Carrozzeria Pininfarina</name>
+                <name refid="201648524" type="corporate" vocab="viaf">Carrozzeria Pininfarina</name>
                 <name refid="7005688" type="geographic" vocab="tgn" extent="inhabited place">Torino</name>
 		<name refid="7003154" type="geographic" vocab="tgn" extent="province">Torino</name>
 		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
@@ -87,6 +91,10 @@
             <source pref="false">
                 <refid type="URI">https://www.moma.org/collection/works/3498</refid>
                 <name type="electronic">Museum of modern art (New York, N.Y.)</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000107</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <subjectSet>

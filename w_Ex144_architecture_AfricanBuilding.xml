@@ -73,9 +73,13 @@ Scientific research has proved that Great Zimbabwe was founded in the 11th centu
             <relation pref="true" relids="i_Ex144_architecture_AfricanBuilding" type="imageIs">partial view</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2016-02-18-18-02-59">
+            <source pref="true" dataDate="2016-02-18-18-02-59">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_144_african_building_complexes</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 144: African building complexes.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000174</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <subjectSet>

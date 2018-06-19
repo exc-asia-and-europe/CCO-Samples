@@ -82,9 +82,12 @@ William L. Monical (1974-1982) ; Mrs. Paul (Maisie) W. Kohnstamm (until 1974) ; 
         </locationSet>
         <materialSet>
             <material refid="300011914" type="medium" vocab="aat">wood</material>
-	    <material source="Metropolitan Museum of Art" vocab="aat" refid="300343671">Picea (genus); spruce</material>
-	    <material source="Metropolitan Museum of Art" vocab="aat" refid="300374839">Diospyros (genus); ebony</material>
-	    <material source="Metropolitan Museum of Art" vocab="aat" refid="300375033">Acer (genus); maple</material>
+       	    <material source="Metropolitan Museum of Art" vocab="aat" refid="300343671">Picea (genus); spruce</material>
+       	    <material source="Metropolitan Museum of Art" vocab="aat" refid="300374839">Diospyros (genus); ebony</material>
+       	    <material source="Metropolitan Museum of Art" vocab="aat" refid="300375033">Acer (genus); maple</material>
+            <material source="CONA" vocab="aat" refid="300012726">spruce</material>
+            <material source="CONA" vocab="aat" refid="300012055">ebony</material>
+            <material source="CONA" vocab="aat" refid="300012236">maple</material>
         </materialSet>
         <measurementsSet>
 	    <display>Height: 46 1/16 in. (117 cm) Width (At lower bout): 14 3/4 in. (37.4 cm) Depth (At bottom block): 5 in. (12.7 cm)</display>
@@ -126,6 +129,10 @@ William L. Monical (1974-1982) ; Mrs. Paul (Maisie) W. Kohnstamm (until 1974) ; 
             <source pref="false">
                 <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/503219</refid>
                 <name type="electronic">Metropolitan Museum of Art. Viola da Gamba.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000119</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <subjectSet>

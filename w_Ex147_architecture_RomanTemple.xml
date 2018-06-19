@@ -95,16 +95,20 @@ It is the only ancient Roman building that has remained practically intact throu
         <relationSet>
             <relation pref="true" type="imageIs" relids="i_Ex147_architecture_RomanTemple_1">Panoramic view of the Pantheon in Rome (interior)</relation>
             <relation pref="false" type="imageIs" relids="i_Ex147_architecture_RomanTemple_2">View of the portico by night</relation>
-	    <relation pref="false" type="depictedIn" relids="w_Ex035_printsdr_ArchitecturalDrawing">Sectional perspective of Pantheon n. 2509 A</relation>
+	        <relation pref="false" type="depictedIn" relids="w_Ex035_printsdr_ArchitecturalDrawing">Sectional perspective of Pantheon n. 2509 A</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2016-03-01-15-59-44">
+            <source pref="true" dataDate="2016-03-01-15-59-44">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_147_roman_temple</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 147: Roman Temple.</name>
             </source>
-            <source dataDate="2018-04-12">
+            <source pref="false" dataDate="2018-04-12">
                 <refid type="URI">http://www.pantheonroma.com/en/the-pantheon.html</refid>
                 <name type="electronic">The Pantheon. Basilica di Sancta Maria ad Martyres. Official website.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000158</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <subjectSet>
@@ -126,6 +130,12 @@ It is the only ancient Roman building that has remained practically intact throu
             <subject>
                 <term refid="11F" vocab="iconclass" type="conceptTopic">the Virgin Mary</term>
             </subject>
+            <subject source="CONA">
+                <term refid="901001456" vocab="icon" type="conceptTopic">Queen of Martyrs</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="901002019" vocab="icon" type="conceptTopic">Roman Planetary Gods</term>
+            </subject>
             <subject>
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture (object genre)</term>
             </subject>
@@ -144,7 +154,7 @@ It is the only ancient Roman building that has remained practically intact throu
             <worktype refid="300007595" vocab="aat">temples</worktype>
         </worktypeSet>
     </work>
-   <image id="i__Ex147_architecture_RomanTemple_1"
+   <image id="i_Ex147_architecture_RomanTemple_1"
           href="https://upload.wikimedia.org/wikipedia/commons/2/2a/Einblick_Panorama_Pantheon_Rom.jpg">
       <agentSet>
          <agent>
@@ -179,7 +189,7 @@ It is the only ancient Roman building that has remained practically intact throu
          <title type="partialView">Panoramic view of the Pantheon in Rome</title>
       </titleSet>
    </image>
-   <image id="i__Ex147_architecture_RomanTemple_2"
+   <image id="i_Ex147_architecture_RomanTemple_2"
           href="https://upload.wikimedia.org/wikipedia/commons/b/bd/Rom%2C_Pantheon_bei_Nacht.jpg">
       <agentSet>
          <agent>
@@ -259,13 +269,13 @@ It is the only ancient Roman building that has remained practically intact throu
             <location pref="true" type="repository" dataDate="2015-11-02-13-58-39">
                 <refid type="accession">2509 A</refid>
                 <name refid="131952597" type="corporate" vocab="viaf">Gabinetto disegni e stampe degli Uffizi</name>
-		<name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florence</name>
-		<name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
-		<name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+                <name refid="7000457" type="geographic" vocab="tgn" extent="inhabited place">Florence</name>
+                <name refid="1000080" type="geographic" vocab="tgn" extent="nation">Italy</name>
+                <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
             </location>
         </locationSet>
         <materialSet>
-	    <display> brown ink and brown wash over black chalk underdrawing on white laid paper, with squaring, for an engraving</display>
+            <display> brown ink and brown wash over black chalk underdrawing on white laid paper, with squaring, for an engraving</display>
             <material refid="300014184" type="support" vocab="aat">laid paper</material>
             <material refid="300080058" type="medium" vocab="aat">black chalk</material>
             <material refid="300011051" type="medium" vocab="aat">wash</material>
@@ -280,26 +290,30 @@ It is the only ancient Roman building that has remained practically intact throu
         <relationSet>
             <relation pref="false" type="derivedFrom">Lafréry, Antonio (French, 1512-1577); Speculum romanae magnificentiae; published 1545-1577.</relation>
             <relation pref="false" type="prepatoryFor" source="Baca p.19">Giovanni Battista de’ Cavalieri (Italian, ca. 1525-1601); Urbis Romae aedificiorum illustrium, published 1569; plate 7.</relation>
-            <relation pref="false" type="depicts" source="Baca p.19" relids="w_Ex147_architecture_RomanTemple">Pantheon (Rome, Italy); Roman; 128 CE.</relation>
+            <relation pref="false" type="depicts" source="Baca p.19">Pantheon (Rome, Italy); Roman; 128 CE.</relation>
             <relation pref="true" relids="i_Ex035_printsdr_ArchitecturalDrawing" type="imageIs">general view</relation>
         </relationSet>
-	<sourceSet>
+        <sourceSet>
             <source pref="true" dataDate="2016-04-12-13-12-18">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_35_architectural_drawing/</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 35: Architectural drawing.</name>
             </source>
-	    <source pref="false">
-		<refid type="URI">http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0131027&posizione=1&numImmagini=1&prmset=on&ANDOR=and&xesearch=0131027&ricerca_s=0131027&SC_PROV=RR&SC_Lang=ita&Sort=8</refid>
-		<name type="electronic">Scala Archives</name>
-	    </source>
-	    <source pref="false">
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=19</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 19.</name>
-	    </source>
+            <source pref="false">
+                <refid type="other">Code: 0131027</refid>
+                <name type="electronic">Scala Archives</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=19</refid>
+                <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 19.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000165</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
-	<stylePeriodSet>
-	    <stylePeriod source="Scala Archives" vocab="aat" refid="300021144">Mannerist</stylePeriod>
-	</stylePeriodSet>
+        <stylePeriodSet>
+            <stylePeriod source="Scala Archives" vocab="aat" refid="300021144">Mannerist</stylePeriod>
+        </stylePeriodSet>
         <subjectSet>
             <subject dataDate="2015-11-02-14-03-08">
                 <term refid="300034223" vocab="aat" type="descriptiveTopic">sections</term>
@@ -313,6 +327,9 @@ It is the only ancient Roman building that has remained practically intact throu
             <subject dataDate="2015-11-02-14-03-25">
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
+            <subject source="CONA">
+                <term refid="700000158" vocab="CONA" type="builtworkPlace">Pantheon</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054196" vocab="aat">drawing</technique>
@@ -322,33 +339,33 @@ It is the only ancient Roman building that has remained practically intact throu
         </techniqueSet>
         <titleSet>
             <title pref="false" type="descriptive">Perspective Cutaway of the Pantheon, Viewed from the Northwest</title>
-	    <title pref="true" source="Scala Archives" type="repository">Sectional perspective of Pantheon n. 2509 A</title>
+            <title pref="true" source="Scala Archives" type="repository">Sectional perspective of Pantheon n. 2509 A</title>
         </titleSet>
         <worktypeSet>
             <worktype pref="false" refid="300033973" vocab="aat">drawings</worktype>
             <worktype pref="false" refid="300068293" vocab="aat">preparatory drawings</worktype>
         </worktypeSet>
     </work>
-   <image id="i_Ex035_printsdr_ArchitecturalDrawing"
-          href="http://www.scalarchives.com/scalapic/270605/c/0131027c.jpg">
-      <relationSet>
-         <relation type="imageOf"
-                   relids="w_Ex035_printsdr_ArchitecturalDrawing">attachment</relation>
-      </relationSet>
-      <rightsSet>
-         <rights type="publicDomain">
-            <rightsHolder>Scala</rightsHolder>
-	    <text>Photo Scala, Florence - courtesy of the Ministero Beni e Att. Culturali e del Turismo </text>
-         </rights>
-      </rightsSet>
-      <sourceSet>
-         <source>
-            <refid type="URI">http://www.scalarchives.com/web/dettaglio_immagine.asp?idImmagine=0131027&posizione=1&numImmagini=1&prmset=on&ANDOR=and&xesearch=0131027&ricerca_s=0131027&SC_PROV=RR&SC_Lang=ita&Sort=8</refid>
-            <name type="electronic">Scala Archives</name>
-         </source>
-      </sourceSet>
-      <titleSet>
-         <title type="generalView">Sectional perspective of Pantheon n. 2509 A</title>
-      </titleSet>
-   </image>
+    <image id="i_Ex035_printsdr_ArchitecturalDrawing"
+        href="http://www.scalarchives.com/scalapic/270605/c/0131027c.jpg">
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_Ex035_printsdr_ArchitecturalDrawing">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <rightsHolder>Scala</rightsHolder>
+                <text>Photo Scala, Florence - courtesy of the Ministero Beni e Att. Culturali e del Turismo </text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="other">Code: 0131027</refid>
+                <name type="electronic">Scala Archives</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Sectional perspective of Pantheon n. 2509 A</title>
+        </titleSet>
+    </image>
 </vra>

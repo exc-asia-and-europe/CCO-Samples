@@ -11,10 +11,15 @@
                 <name refid="305409608" type="personal" vocab="viaf">Hoban, James</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
+            <agent source="CONA">
+                <attribution>addition</attribution>
+                <name refid="69725462" type="personal" vocab="viaf">Latrobe, Benjamin Henry</name>
+                <role type="code" vocab="marcrelator">arc</role>
+            </agent>
         </agentSet>
         <dateSet>
 	    <display> 1793 to 1801, burned 1814, porticoes 1824 to 1829</display>
-            <date pref="false" type="creation">
+            <date pref="true" type="creation">
                 <earliestDate>
                     <date circa="false">1793</date>
                 </earliestDate>
@@ -62,6 +67,8 @@
         </locationSet>
         <materialSet>
             <material refid="300015332" type="medium" vocab="aat">masonry</material>
+            <material refid="300011914" type="medium" vocab="aat" source="CONA">wood</material>
+            <material refid="300011376" type="medium" vocab="aat" source="CONA">sandstone</material>
         </materialSet>
         <measurementsSet>
             <display>3 stories, over 100 rooms, White House and the grounds occupy 7.2 hectares (18 acres)</display>
@@ -72,21 +79,27 @@
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex153_architecture_GeorgianBuilding">general view</relation>
+            <relation type="depictedIn" relids="w_Ex038_printsdr_DesignDrawing">Design for the Addition of Porticoes on the North and South Fronts of the President’s House</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2016-03-08-18-17-23">
+            <source pref="true" dataDate="2016-03-08-18-17-23">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_153_georgian_building</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 153: Georgian building.</name>
             </source>
-	    <source>
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=26</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 181. Figure 24. Work Record Linked to Authority Records: Neoclassical Building.</name>
-	    </source>
+       	    <source pref="false">
+          		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=26</refid>
+          		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 181. Figure 24. Work Record Linked to Authority Records: Neoclassical Building.</name>
+       	    </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000083</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021048" vocab="aat">Georgian</stylePeriod>
             <stylePeriod refid="300021477" vocab="aat">Neoclassical</stylePeriod>
             <stylePeriod refid="300385938" vocab="aat">Palladian Revival</stylePeriod>
+            <stylePeriod refid="300107905" vocab="aat" source="CONA">Federal</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
             <subject>
@@ -107,6 +120,21 @@
             <subject>
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture (object genre)</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300005630" vocab="aat" type="descriptiveTopic">official residence</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300005433" vocab="aat" type="descriptiveTopic">houses</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300071272" vocab="aat" type="descriptiveTopic">mansions</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300008059" vocab="aat" type="descriptiveTopic">public buildings</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300055713" vocab="aat" type="conceptTopic">nationalization</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300054608" vocab="aat">construction</technique>
@@ -114,12 +142,6 @@
             <technique refid="300002557" vocab="aat">bearing walls</technique>
             <technique refid="300070045" vocab="aat">dimension stone</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-03-08-17-58-27">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000083</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" type="popular">The White House</title>
             <title pref="false" type="descriptive">Executive Mansion</title>
@@ -167,4 +189,184 @@
          <title type="generalView">South facade of the White House, Washington DC, as seen from the Washington Monument.</title>
       </titleSet>
    </image>
+    <work id="w_Ex038_printsdr_DesignDrawing" refid="c_CCO_Examples">
+        <agentSet>
+            <agent dataDate="2016-05-18-14-17-24">
+                <culture>British</culture>
+                <dates type="life">
+                    <earliestDate circa="false">1764</earliestDate>
+                    <latestDate circa="false">1820</latestDate>
+                </dates>
+                <name refid="69725462" type="personal" vocab="viaf">Latrobe, Benjamin Henry</name>
+                <role type="code" vocab="marcrelator">drm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation" dataDate="2016-05-18-14-17-49">
+                <earliestDate>
+                    <date circa="false">1807-01</date>
+                </earliestDate>
+            </date>
+            <date type="exhibition" source="LoC">
+                <earliestDate>
+                    <date circa="false">1997-05-05</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2007-08-18</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description pref="false" source="LoC" dataDate="2015-11-05-14-10-04">
+                <text>View of the South Portico as proposed by Latrobe, with axial stairway, later modified in construction. Exhibited: American Treasures of the Library of Congress.</text>
+                <author>
+                    <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="true" dataDate="2016-05-18-14-34-11">
+                <text>Latrobe worked with President Jefferson to transform the modest President’s House.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription source="LoC" dataDate="2016-05-18-14-33-12">
+                <text type="mark">T G &amp; Co.</text>
+            </inscription>
+            <inscription source="LoC">
+                <text type="text">"Elevation of the South front of the President's house, copied from the design as proposed to be altered in 1807"</text>
+            </inscription>
+            <inscription source="LoC">
+                <text type="text">"Je n'aime [...] ne courez pas."</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location pref="true" type="repository" dataDate="2016-05-18-14-23-23">
+                <refid source="LoC" type="accession">ADE - UNIT 2564, no. 3 (B size) (Cabinet A) [P&amp;P]</refid>
+                <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+                <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="LoC">
+                <refid type="other">American Treasures of the Library of Congress</refid>
+                <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
+                <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300011051" source="LoC" type="medium" vocab="aat">wash</material>
+            <material refid="300015012" type="medium" vocab="aat">ink</material>
+            <material refid="300015045" type="medium" vocab="aat">watercolor</material>
+            <material refid="300014109" type="support" vocab="aat">paper</material>
+            <material refid="300014184" type="support" vocab="aat" source="CONA 700000082">laid paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements extent="sheet" pref="true" source="LoC" type="height" unit="cm">41</measurements>
+            <measurements extent="sheet" pref="true" source="LoC" type="width" unit="cm">54</measurements>
+            <measurements pref="true" type="height" unit="cm">39.12</measurements>
+            <measurements pref="true" type="width" unit="cm">50.8</measurements>
+            <measurements pref="false" type="height" unit="in">15 3/8</measurements>
+            <measurements pref="false" type="width" unit="in">20</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation pref="false" relids="w_Ex153_architecture_GeorgianBuilding" type="depicts">The White House</relation>
+            <relation pref="true" relids="i_Ex038_printsdr_DesignDrawing" type="imageIs">general view</relation>
+            <relation pref="false" type="partOf">Latrobe, Benjamin Henry, 1764-1820. Architectural drawings for The White House ("President's House") Washington, D.C.</relation>
+        </relationSet>
+        <sourceSet>
+            <source pref="false" dataDate="2015-11-05-14-26-58">
+                <refid type="URI">https://www.loc.gov/item/2001698953/</refid>
+                <refid type="URI">https://lccn.loc.gov/2001698953</refid>
+                <name type="electronic">Library of Congress</name>
+            </source>
+            <source pref="true">
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_38_design_drawing</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 38: Design drawing.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000082</refid>
+                <name type="electronic">CONA 700000082</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008594</refid>
+                <name type="electronic">CONA 700008594</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject source="LoC" dataDate="2015-11-05-14-09-06">
+                <term refid="300005630" vocab="aat" type="descriptiveTopic">official residences</term>
+            </subject>
+            <subject dataDate="2015-11-05-14-07-38">
+                <term refid="300034065" vocab="aat" type="descriptiveTopic">elevations</term>
+            </subject>
+            <subject dataDate="2016-05-18-14-20-39">
+                <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
+            </subject>
+            <subject source="CONA 700008594">
+                <term refid="300004145" vocab="aat" type="descriptiveTopic">porticoes</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300054196" vocab="aat">drawing</technique>
+            <technique refid="300182748" vocab="aat" source="CONA 700008594">wash technique</technique>
+        </techniqueSet>
+        <textrefSet>
+            <textref source="LoC">
+                <name type="book">The architectural drawings of Benjamin Henry Latrobe / Jeffrey A. Cohen and Charles E. Brownell</name>
+                <refid type="citation">D79</refid>
+            </textref>
+        </textrefSet>
+        <titleSet>
+            <notes>Title devised by Library staff.</notes>
+            <title pref="false" source="LoC" type="other">Elevation of the south front of the President's house.</title>
+            <title pref="true" source="LoC" type="repository">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
+            <title pref="false" type="descriptive">Design for the Addition of Porticoes on the North and South Fronts of the President’s House</title>
+            <title pref="false" type="descriptive" source="CONA 700000082">View of the East Front of the President's House</title>
+            <title pref="false" type="descriptive" source="CONA 700000082">View of the east front of the President's House, with the addition of the north and south porticos</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300033973" vocab="aat">drawings</worktype>
+            <worktype source="LoC" refid="300034787" vocab="aat">architectural drawings</worktype>
+            <worktype refid="300069413" vocab="aat">design drawings</worktype>
+        </worktypeSet>
+    </work>
+    <image id="i_Ex038_printsdr_DesignDrawing"
+        href="https://cdn.loc.gov/service/pnp/ppmsca/09500/09502v.jpg">
+        <agentSet>
+            <agent dataDate="2015-11-05-13-49-59">
+                <name refid="151962300" type="corporate" vocab="viaf">Library of Congress</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_Ex038_printsdr_DesignDrawing">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="publicDomain" dataDate="2015-11-05-13-50-29">
+                <rightsHolder>Library of Congress</rightsHolder>
+                <text>No known restrictions on publication.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source dataDate="2015-11-05-13-51-36">
+                <refid type="URI">https://www.loc.gov/item/2001698953</refid>
+                <name type="electronic">Library of Congress</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">[The White House ("President's House") Washington, D.C. South front elevation] / Jan. 1817, B H Latrobe.</title>
+        </titleSet>
+    </image>
 </vra>

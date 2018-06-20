@@ -226,6 +226,7 @@ Use Restriction(s): Unrestricted</text>
         <locationSet>
             <!-- This locationSet demonstrates the Cluster point extension, which helps specify locations. -->
             <location pref="false" type="site">
+                <name refid="7015727" type="geographic" vocab="tgn" extent="park" source="CONA">National Mall</name>
                 <name refid="7013962" type="geographic" vocab="tgn" extent="inhabited place">Washington</name>
                 <name refid="7015717" type="geographic" vocab="tgn" extent="national district">District of Columbia</name>
                 <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
@@ -255,7 +256,8 @@ Use Restriction(s): Unrestricted</text>
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex155_architecture_NineteenthCentury">general view</relation>
-            <relation type="depictedIn" relids="w_Ex039_printsdr_CompetitionDrawing">Henry Bacon's Competition Proposal for a Monument to Abraham Lincoln</relation>
+            <relation type="largerContextFor" refid="700009030" vocab="CONA" href="http://vocab.getty.edu/page/cona/700009030" source="CONA">Statue of Abraham Lincoln</relation>
+            <relation type="basedOn" relids="w_Ex039_printsdr_CompetitionDrawing"></relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2015-03-23-15-42-06">
@@ -265,6 +267,10 @@ Use Restriction(s): Unrestricted</text>
             <source pref="false">
                 <refid type="URI">http://www.core.vraweb.org/examples/html/example006_full_xml.html</refid>
                 <name type="electronic">VRA Core 4 Example 6: Memorial building</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008524</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -358,4 +364,5 @@ Use Restriction(s): Unrestricted</text>
             <title type="generalView">The Lincoln Memorial</title>
         </titleSet>
     </image>
+    
 </vra>

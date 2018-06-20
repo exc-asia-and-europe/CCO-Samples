@@ -51,20 +51,24 @@
         <relationSet>
             <relation pref="true" type="imageIs" relids="i_Ex150_architecture_GothicChurch_1">exterior</relation>
             <relation pref="false" type="imageIs" relids="i_Ex150_architecture_GothicChurch_2">portal exterior</relation>
-	    <relation pref="false" type="largerContextFor" relids="w_Ex140_ArchitecturalSculpture" source="Figure 13">Tympanum, South Transept, Chartres</relation>
+	        <relation pref="false" type="largerContextFor" relids="w_Ex140_ArchitecturalSculpture" source="Figure 13">Tympanum, South Transept, Chartres</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2015-11-18-17-48-05">
+            <source pref="true" dataDate="2015-11-18-17-48-05">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_150_gothic_church</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 150: Gothic church.</name>
             </source>
-	    <source>
-		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=28</refid>
-		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 75. Figure 13. Work Record Linked to Another Work Record: Medieval Cathedral and Its Portal.</name>
-	    </source>
-            <source>
+       	    <source pref="false">
+          		<refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=28</refid>
+          		<name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 75. Figure 13. Work Record Linked to Another Work Record: Medieval Cathedral and Its Portal.</name>
+       	    </source>
+            <source pref="false">
                 <refid type="URI">http://www.core.vraweb.org/examples/html/example001_full_xml.html</refid>
                 <name type="electronic">VRA Core 4 Example 1: Gothic church</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000170</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -81,6 +85,9 @@
             <subject>
                 <term refid="300007501" vocab="aat" type="descriptiveTopic">cathedrals</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300007493" vocab="aat" type="descriptiveTopic">pilgrimage churches</term>
+            </subject>
             <subject>
                 <term refid="300056005" vocab="aat" type="conceptTopic">worship</term>
             </subject>
@@ -96,16 +103,16 @@
             <technique refid="300386948" vocab="aat">stonemasonry</technique>
             <technique refid="300002557" vocab="aat">bearing walls</technique>
         </techniqueSet>
-	<textrefSet>
-	    <textref href="http://www2.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=PA00096993">
-		<name type="other">Monuments historiques; Base Mérimée</name>
-		<refid type="other">PA00096993</refid>
-	    </textref>
-	</textrefSet>
+       	<textrefSet>
+       	    <textref>
+       		<name type="other">Monuments historiques; Base Mérimée</name>
+       		<refid type="other">PA00096993</refid>
+       	    </textref>
+       	</textrefSet>
         <titleSet>
             <title type="translated" pref="true">Chartres Cathedral</title>
             <title pref="false" type="translated">Cathedral of Notre-Dame</title>
-            <title pref="false" type="popular">Notre-Dame de Chartres</title>
+            <title pref="false" lang="fre" type="popular">Notre-Dame de Chartres</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300170443" vocab="aat">basilicas</worktype>
@@ -296,7 +303,7 @@
       </rightsSet>
       <sourceSet>
          <source>
-            <refid type="URI">https://www.wga.hu/cgi-bin/highlight.cgi?file=html/zgothic/1romanes/po-13c/0f5_1202.html&find=chartres</refid>
+             <refid type="URI">https://www.wga.hu/frames-e.html?/html/zgothic/1romanes/po-13c/0f5_1202.html</refid>
             <name type="electronic">Web Gallery of Art</name>
          </source>
       </sourceSet>

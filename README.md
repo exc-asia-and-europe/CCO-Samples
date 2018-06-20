@@ -20,6 +20,10 @@ As there is currently no separate set for provenance, or a type in the DateSet t
 
 The subject types in the CCO examples, like in Example 11, have not been incorporated because of VRA Core's own types for subjects. 
 
+### Relation
+
+The relation of architectural to those earlier constructs they had replaced could not be properly expressed. (Example 152)
+
 ### Textref
 
 Fortunately, many institutions give the visitor ample information on textual sources concerning the cultural object in their care. However, these have most often proven to be too much information for this project, and as such, their incorporation was more often than not neglected.
@@ -51,16 +55,3 @@ Currently there is no proper place to note styles of writing or calligraphy for 
 ### Dating of description texts
 
 As the dataDate global attribute refers only to the date when information was entered into the record, there is no method of assigning dates to the creation of information being incorporated, such as when a catalogue entry was written by an author.
-
-# CCO-Samples
-
-To "clean up" the data files you can use ant (with build.xml for "data_old" or build_new.xml for "data_new") with the default target or run the xslt-files in the following order:
-
-1. cleanup-basic.xsl
-1. cleanup-types.xsl
-1. cleanup-source.xsl
-1. cleanup-sort.xsl
-1. cleanup-dates.xsl
-1. cleanup-sets.xsl
-1. cleanup-empty.xsl
-1. cleanup-basic.xsl

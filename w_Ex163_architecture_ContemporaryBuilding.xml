@@ -105,20 +105,25 @@ The architecture requires to be seen, fully experienced again and again, while v
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex163_architecture_ContemporaryBuilding">general view</relation>
+            <relation type="relatedTo" href="http://vocab.getty.edu/page/cona/700001995" refid="700001995" vocab="cona" source="CONA">Getty Villa</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2016-03-17-16-37-46">
+            <source pref="true" dataDate="2016-03-17-16-37-46">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_163_contemporary_building_complex</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 163: Contemporary building complex.</name>
             </source>
-            <source>
+            <source pref="false">
                 <refid type="URI">http://www.richardmeier.com/?projects=the-getty-center</refid>
                 <name type="electronic">The Getty Center &#8211; Richard Meier &amp; Partners Architects</name>
             </source>
-	    <source>
-		<refid type="URI">http://www.reed.edu/getty/getty_old/Introduction.html</refid>
-		<name type="electronic">Architecture of the Getty Center by Charles S. Rhyne at Reed College</name>
-	    </source>
+       	    <source pref="false">
+          		<refid type="URI">http://www.reed.edu/getty/getty_old/Introduction.html</refid>
+          		<name type="electronic">Architecture of the Getty Center by Charles S. Rhyne at Reed College</name>
+       	    </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700001994</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <subjectSet>
             <subject>
@@ -148,10 +153,6 @@ The architecture requires to be seen, fully experienced again and again, while v
             <technique refid="300015341" vocab="aat">steel frame construction</technique>
         </techniqueSet>
         <textrefSet>
-            <textref dataDate="2016-03-17-16-33-28">
-                <name type="electronic">CONA</name>
-                <refid type="URI">http://www.getty.edu/cona/CONAFullSubject.aspx?subid=700001994</refid>
-            </textref>
             <textref>
             	<name type="electronic">Architecture of the Getty Center. Publications about the Architecture.</name>
             	<refid type="URI">http://www.reed.edu/getty/architecture.html</refid>

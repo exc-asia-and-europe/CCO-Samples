@@ -147,6 +147,10 @@ The Martin house was part of a larger complex, which ultimately included the Bar
             	<refid type="URI">http://www.darwinmartinhouse.org/timeline.cfm</refid>
             	<name type="electronic">Martin House Restoration Corporation. Timeline.</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000062</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300264736" vocab="aat">Modern</stylePeriod>
@@ -171,13 +175,8 @@ The Martin house was part of a larger complex, which ultimately included the Bar
         </subjectSet>
         <techniqueSet>
             <technique refid="300111619" vocab="aat">frame construction</technique>
+            <technique refid="300266342" vocab="aat" source="CONA">concrete slabs</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-03-17-16-37-04">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000062</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
             <title pref="true" type="descriptive">Darwin D. Martin House</title>
             <title pref="false" type="other">Darwin D. Martin Residence</title>

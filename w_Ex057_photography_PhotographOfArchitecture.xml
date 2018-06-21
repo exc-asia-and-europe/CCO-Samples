@@ -274,6 +274,7 @@ In Focus: Architecture (October 15, 2013 to March 2, 2014)
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_f19_19thCenturyTower">general view</relation>
+            <relation type="depictedIn" relids="w_Ex057_photography_PhotographOfArchitecture">Eiffel Tower: State of the Construction</relation>
         </relationSet>
         <sourceSet>
             <source pref="true" dataDate="2015-04-22-11-21-19">

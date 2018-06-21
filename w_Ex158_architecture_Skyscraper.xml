@@ -113,17 +113,21 @@ In July 2009, U.S. Equities Realty led the design and construction of a multi-mi
 	    <relation type="formerlyLargerContextFor" source="The Chicago Tribune" href="http://www.chicagotribune.com/news/ct-calder-mobile-willis-tower-met-0328-20170327-story.html">The Universe by Alexander Calder</relation>
         </relationSet>
         <sourceSet>
-            <source dataDate="2016-03-17-15-32-44">
+            <source pref="true" dataDate="2016-03-17-15-32-44">
                 <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_1_architecture/example_158_skyscraper</refid>
                 <name type="electronic">Cataloging Cultural Objects Commons. Example 158: Skyscraper.</name>
             </source>
-            <source>
+            <source pref="false">
                 <refid type="URI">https://structurae.net/structures/willis-tower</refid>
                 <name type="electronic">Willis Tower at structurae.net</name>
             </source>
-            <source>
+            <source pref="false">
                 <refid type="URI">http://www.willistower.com/history-and-facts</refid>
                 <name type="electronic">Official website of the Willis tower</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000053</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <stylePeriodSet>
@@ -154,10 +158,6 @@ In July 2009, U.S. Equities Realty led the design and construction of a multi-mi
             <technique refid="300002563" vocab="aat">curtain walls</technique>
         </techniqueSet>
         <textrefSet>
-            <textref dataDate="2016-03-17-15-35-04">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000053</refid>
-            </textref>
             <textref>
                 <name type="electronic">structurae.net</name>
                 <refid type="other">20000065</refid>

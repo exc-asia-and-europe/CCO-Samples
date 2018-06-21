@@ -2,9 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_38af9154-705e-4427-b317-a2497cf10568"
-          href="i_38af9154-705e-4427-b317-a2497cf10568.jpg"
-          source="Tamboti">
+   <image id="i_f20_EgyptianJewelry"
+      href="https://collectionapi.metmuseum.org/api/collection/v1/iiif/544232">
       <agentSet>
          <agent pref="true" dataDate="2016-03-22-10-48-29">
             <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art (New York, N.Y.)</name>
@@ -13,8 +12,7 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_3dc7bbbb-bec1-45a6-bab4-ba89b7c5a6c7"
-                   source="Tamboti">attachment</relation>
+            relids="w_f20_EgyptianJewelry">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights pref="true" type="publicDomain" dataDate="2015-04-22-12-22-47">
@@ -29,7 +27,7 @@
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_fig020-1--CCO_online_not_yet.jpg</title>
+         <title type="generalView">Pectoral and Necklace of Sithathoryunet with the Name of Senwosret II</title>
       </titleSet>
    </image>
 </vra>

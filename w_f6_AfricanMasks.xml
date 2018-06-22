@@ -79,11 +79,11 @@ The mask is a sensitive, idealized portrait, depicting its subject with softly m
             <measurements type="depth" unit="cm" source="Metropolitan Museum of Art">8.3</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" relids="i_f6_AfricanMasks_2" type="imageIs">black and white photo of inside</relation>
-            <relation pref="false" relids="i_f6_AfricanMasks_3" type="imageIs">side view</relation>
-            <relation pref="false" relids="i_f6_AfricanMasks_4" type="imageIs">side view</relation>
-            <relation pref="true" relids="i_f6_AfricanMasks_1" type="imageIs">front view</relation>
-            <relation pref="false" relids="w_f6r_AfricanMasks" type="pendantOf">Ivory Mask; unknown Benin; probably 16th century; British Museum (London, England), Ethno 1910.5-13.1</relation>
+            <relation relids="i_f6_AfricanMasks_2" type="imageIs">black and white photo of inside</relation>
+            <relation relids="i_f6_AfricanMasks_3" type="imageIs">side view</relation>
+            <relation relids="i_f6_AfricanMasks_4" type="imageIs">side view</relation>
+            <relation relids="i_f6_AfricanMasks_1" type="imageIs">front view</relation>
+            <relation relids="w_f6r_AfricanMasks" type="pendantOf">Ivory Mask; unknown Benin; probably 16th century; British Museum (London, England), Ethno 1910.5-13.1</relation>
         </relationSet>
         <rightsSet>
             <rights type="other">
@@ -341,6 +341,10 @@ The mask is a sensitive, idealized portrait, depicting its subject with softly m
             <measurements type="width" unit="cm" source="British Museum">12.5</measurements>
             <measurements type="depth" unit="cm" source="British Museum">6</measurements>
         </measurementsSet>
+        <relationSet>
+            <relation type="pendantOf" relids="w_f6_AfricanMasks">Queen Mother Pendant Mask: Iyoba</relation>
+            <relation type="imageIs" relids="i_f6r_AfricanMasks_1">Full: front</relation>
+        </relationSet>
         <sourceSet>
             <source pref="true">
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartOne_GeneralGuidelines.pdf#page=37</refid>
@@ -397,31 +401,32 @@ The mask is a sensitive, idealized portrait, depicting its subject with softly m
         </worktypeSet>
     </work>
     <image id="i_f6r_AfricanMasks_1"
-        href="https://images.metmuseum.org/CRDImages/ao/web-large/DP242940.jpg">
+        href="http://www.britishmuseum.org/collectionimages/AN00499/AN00499817_001_l.jpg">
         <agentSet>
             <agent>
-                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                <name refid="134857252" type="corporate" vocab="viaf">British Museum</name>
                 <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf"
-                relids="w_f6_AfricanMasks">attachment</relation>
+                relids="w_f6r_AfricanMasks">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="publicDomain">
-                <rightsHolder>Metropolitan Museum of Art</rightsHolder>
-                <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+            <rights type="copyrighted">
+                <rightsHolder>British Museum</rightsHolder>
+                <text>© The Trustees of the British Museum</text>
             </rights>
         </rightsSet>
         <sourceSet>
+            <!-- Please note that the following URI has been modified to allow for validation. When visiting the link, please replace ampersands. -->
             <source pref="false">
-                <refid type="URI">http://www.metmuseum.org/collection/the-collection-online/search/318622</refid>
-                <name type="electronic">Metropolitan Museum of Art</name>
+                <refid type="URI">http://www.britishmuseum.org/research/collection_online/collection_object_details/collection_image_gallery.aspx?assetId=499817001&amp;objectId=621190&amp;partId=1</refid>
+                <name type="electronic">British Museum</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView">side view</title>
+            <title type="generalView">Full:front</title>
         </titleSet>
     </image>
 </vra>

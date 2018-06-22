@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+   <work id="w_f11_NativeAmericanFiddle" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="100628532" type="personal" vocab="viaf">unknown Athabaskan</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+           <agent source="CONA">
+               <name refid="100628235" type="personal" vocab="viaf">unknown Apache</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300016773">Athapaskan</culturalContext>
+           <culturalContext vocab="aat" refid="300017724" source="The Metropolitan Museum of Art">Apache</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">1800</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1899</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true" source="Metropolitan Museum of Art online. http://www.metmuseum.org (accessed February 1, 2004)">
+               <text>Possibly created in the White Mountain Reservation. This two-stringed bowed zither was used for personal enjoyment or to entertain at home with songs and dances. The hollowed agave stalk body is decorated with traditional designs, and the strings attached to the ends of the tube are of horsehair.</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="The Metropolitan Museum of Art">
+               <text>The Apache name for this two-stringed bowed zither means "wood that sings." Held against the chest or stomach and bowed like European fiddles, it is used for personal enjoyment or to entertain at home with songs and dances. The hollowed agave stalk body is decorated with traditional designs, and the strings attached to the ends of the tube are of horsehair. As it is the only Native-American bowed instrument, it remains unclear as to whether it is indigenous or of European derivation. </text>
+               <author>
+                   <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="The Metropolitan Museum of Art">
+               <text>Provenance
+                   Mary Elizabeth Adams Brown </text>
+               <author>
+                   <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location pref="true" type="repository">
+               <refid type="accession">89.4.2631a,b</refid>
+               <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+               <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+               <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation">
+               <!-- White Mountain Apache Tribe of the Fort Apache Reservation -->
+               <name refid="2335132" type="geographic" vocab="tgn" extent="Native American reservation">Fort Apache Indian Reservation</name>
+               <name refid="7006451" type="geographic" vocab="tgn" extent="state">Arizona</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="300301749" type="medium" vocab="aat">Agave</material>
+           <material refid="300011904" type="medium" vocab="aat">stalk</material>
+           <material refid="300011914" type="medium" vocab="aat">wood</material>
+           <material refid="300015029" type="medium" vocab="aat">paint</material>
+           <material refid="300011819" type="medium" vocab="aat">horsehair</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm" source="The Metropolitan Museum of Art" extent="Tsii'edo'a'tl">44</measurements>
+           <measurements type="width" unit="cm" source="The Metropolitan Museum of Art" extent="Tsii'edo'a'tl">13.3</measurements>
+           <measurements type="depth" unit="cm" source="The Metropolitan Museum of Art" extent="Tsii'edo'a'tl">9.5</measurements>
+           <measurements type="height" unit="cm" source="The Metropolitan Museum of Art" extent="bow">7.9</measurements>
+           <measurements type="width" unit="cm" source="The Metropolitan Museum of Art" extent="bow">1.6</measurements>
+           <measurements type="depth" unit="cm" source="The Metropolitan Museum of Art" extent="bow">53.3</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_f11_NativeAmericanFiddle">general view</relation>
+       </relationSet>
+       <rightsSet>
+           <rights type="other">
+               <rightsHolder>The Metropolitan Museum of Art</rightsHolder>
+               <text>The Crosby Brown Collection of Musical Instruments, 1889</text>
+           </rights>
+       </rightsSet>
+       <sourceSet>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_1-ObjectNaming.pdf#page=26</refid>
+               <name type="electronic">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 73. Figure 11. Work Record Linked to an Authority Record for Work Type: Native American Fiddle.</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700009378</refid>
+               <name type="electronic">CONA</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">https://www.metmuseum.org/art/collection/search/502761</refid>
+               <name type="electronic">The Metropolitan Museum of Art</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300404591" vocab="aat" type="descriptiveTopic">utilitarian objects</term>
+           </subject>
+           <subject>
+               <term refid="300054146" vocab="aat" type="descriptiveTopic">music</term>
+           </subject>
+           <subject>
+               <term refid="300137564" vocab="aat" type="descriptiveTopic">entertaining</term>
+           </subject>
+       </subjectSet>
+       <titleSet>
+           <title type="repository"></title>
+           <title pref="false" type="descriptive">Tzii'edo' a 'tl (Apache Fiddle)</title>
+           <title pref="false" type="other">Kízh kízh díhí</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300214839" vocab="aat">kízh kízh díhís</worktype>
+           <worktype refid="300041620" vocab="aat">musical instruments</worktype>
+           <worktype refid="300211800" vocab="aat" source="The Metropolitan Museum of Art">lutelike chordophones: bowed</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_f11_NativeAmericanFiddle" href="https://images.metmuseum.org/CRDImages/mi/web-large/DP302737.jpg">
+        <agentSet>
+            <agent>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f11_NativeAmericanFiddle">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder>Metropolitan Museum of Art</rightsHolder>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://www.metmuseum.org/art/collection/search/502761</refid>
+                <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">General view</title>
+        </titleSet>
+    </image>
+</vra>

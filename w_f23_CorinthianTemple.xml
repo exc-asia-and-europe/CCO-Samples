@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_5d3ed68b-2230-49b4-8bf3-8002d0ff668a" source="Kurs" refid="c_e9a85c14-56c4-4251-b151-9d5a3a73b01a">
+    <work id="w_f23_CorinthianTemple" refid="c_CCO_Examples">
         <agentSet>
             <agent pref="false" dataDate="2015-04-22-13-57-46">
                 <dates type="life">
@@ -34,7 +34,7 @@
         <dateSet>
             <date pref="false" type="creation" dataDate="2015-04-22-13-48-26">
                 <earliestDate>
-                    <date>-0016</date>
+                    <date circa="false">-0016</date>
                 </earliestDate>
             </date>
         </dateSet>
@@ -84,7 +84,7 @@ A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and wi
             <measurements pref="false" type="width" unit="ft">40</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_41beb9d1-0528-4fab-a030-8dbcb807e4f5" pref="true">general view</relation>
+            <relation type="imageIs" relids="i_f23_CorinthianTemple" pref="true">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2016-03-24-09-06-33">
@@ -100,11 +100,11 @@ A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and wi
             <stylePeriod pref="false" refid="300020110" vocab="aat">Corinthian</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject pref="false" refid="300020580" vocab="aat" dataDate="2015-04-22-14-11-20">
-                <term type="iconographicTopic">Gallo-Roman</term>
+            <subject pref="false" dataDate="2015-04-22-14-11-20">
+                <term refid="300020580" vocab="aat" type="iconographicTopic">Gallo-Roman</term>
             </subject>
-            <subject pref="false" refid="300070045" vocab="aat" dataDate="2015-04-22-14-04-59">
-                <term type="descriptiveTopic">dimension stone</term>
+            <subject pref="false" dataDate="2015-04-22-14-04-59">
+                <term  refid="300070045" vocab="aat" type="descriptiveTopic">dimension stone</term>
             </subject>
             <subject pref="false" refid="300002557" vocab="aat">
                 <term type="descriptiveTopic">bearing walls</term>
@@ -133,4 +133,37 @@ A large door (6.87 m high by 3.27 m wide) leads to the surprisingly small and wi
             <worktype pref="false" refid="300005768" vocab="aat">museums</worktype>
         </worktypeSet>
     </work>
+    <image id="i_f23_CorinthianTemple"
+        href="https://upload.wikimedia.org/wikipedia/commons/e/ec/Maison_carree_side.jpg">
+        <agentSet>
+            <agent pref="false">
+                <name
+                    refid="137022054"
+                    type="corporate"
+                    vocab="viaf">Wikimedia Foundation</name>
+                <role type="code" vocab="marcrelator">col</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_f23_CorinthianTemple">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights href="http://creativecommons.org/licenses/by-sa/3.0/deed.en"
+                pref="false"
+                type="copyrighted">
+                <rightsHolder>ChrisO</rightsHolder>
+                <text>CC BY-SA 3.0</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source pref="false">
+                <refid type="URI">https://commons.wikimedia.org/wiki/File:Maison_carree_side.jpg</refid>
+                <name type="electronic">File:Maison carree side.jpg</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Nîmes, Maison Carrée, view from the side</title>
+        </titleSet>
+    </image>
 </vra>

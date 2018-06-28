@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_daf117f2-d7dd-47fb-b318-61b4fbf3c1e5" source="Kurs" refid="c_70311af2-d3de-4606-9d17-64b373800ce2">
+    <work id="w_f27_19thCentury" refid="c_CCO_Examples">
         <agentSet>
             <agent dataDate="2015-04-22-14-22-17">
                 <culture>Irish-American</culture>
@@ -11,27 +11,34 @@
                 <name refid="96560529" type="personal" vocab="viaf">Hodgson, Isaac</name>
                 <role type="code" vocab="marcrelator">arc</role>
             </agent>
+            <agent source="CONA">
+                <name refid="884150323703009970426" type="corporate" vocab="viaf">McCormack and Sweeny</name>
+                <role type="code" vocab="marcrelator">ctr</role>
+            </agent>
         </agentSet>
+        <culturalContextSet>
+            <culturalContext refid="300107956" vocab="aat" source="CONA">American</culturalContext>
+        </culturalContextSet>
         <dateSet>
             <display> ground broken in 1871, completed in 1874</display>
             <date type="creation" dataDate="2016-03-24-09-15-30">
                 <earliestDate>
-                    <date>1871</date>
+                    <date circa="false">1871</date>
                 </earliestDate>
                 <latestDate>
-                    <date>1874</date>
+                    <date circa="false">1874</date>
                 </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description href="http://pdfhost.focus.nps.gov/docs/NRHP/Text/79000031.pdf" source="National Register of Historic Places" pref="false" dataDate="2015-04-22-14-37-37">
+            <description source="National Register of Historic Places" pref="false" dataDate="2015-04-22-14-37-37">
                 <text>The Bartholomew County Courthouse is the only surviving example of the French Second Empire style in the county. It was designed "by noted Indiana architect Isaac Kodgson of Indianapolis and completed in 1874.
 The building is an ell-shaped mall, with the intersection of its legs at the northeast corner of Washington and Third Street. The extreme ends of the wings extend behind to the south and west; the apis thus formed on the south-west contains a grandstaircase. The bays at the ends of the wings are projected to form corner pavilions, as are those at the intersection of the  wings, which form the base of the clocktower. All elements are crowned by steeply inclined mansard roofs; those of the corner pavilions and tower additionally have roof curbs exaggerated into modillionated cornices with panelled friezework and elaborate roof cresting.
-The red pressed brick walls are trimmed in white limestone and stand on a plinth and watertable of smooth rusticated blue limestone. This polychrome effect is 'used to emphasize openings .and horizontals, since the lines of the sills, spandrels, sash,
+The red pressed brick walls are trimmed in white limestone and stand on a plinth and watertable of smooth rusticated blue limestone. This polychrome effect is used to emphasize openings and horizontals, since the lines of the sills, spandrels, sash,
 and arch imposts are continued as ashlar coursing set flush with the face brick and continuous over openings. The same device is used to emphasize vertical lines on the corner pavilions and the slightly projecting central bay of the east elevation, each of which have smooth rusticated quoins and central window bays enframed by pilasters and variously capped with pediments or round arches with panelled spandrels. On the main (east) elevation, the entrance is within an arcade of segmental arches let into the recess formed by the corner pavilions; the arches and the Corinthian columns from which they directly spring, as well as the open balustrade above, are all constructed of limestone. The slightly projecting central bay behind this arcade extends above the principal cornice line and is capped with a broken pediment flanked by finials. The central window of the bay is enframed by pilasters and volute buttresses and surmounted by a commemorative inscription whose segmental cap-mould breaks the pediment.
 On the north elevation, a centrally placed entrance is beneath a distyle Corinthian portico whose design echoes the arcade on the east facade. Directly above the portico is a round-arched window bay whose panelled surround marches 'that of the
 central bay of the east facade.
-The clocktower is the other principal feature'of'tlie exterior; it extends three stories above the cornice line. The elevations of the fourth and fifth floor levels are composed of a central elongated window bay, with a panelled apron, narrow sidelights separated from the bay by the enframing pilasters, and a round arch at the top with panelled spandrel and flanking oculi. On the sixth level each facade has five arcaded, louvred openings for the belfry, and is surmounted by a broad Corinthian entablature. Above this there is a broad curb at the base of the vertically elongated mansard. The clockfaces above are iron framings with white glass infill; they are mounted directly onto the roofing, without decorative surrounds.
+The clocktower is the other principal feature of the exterior; it extends three stories above the cornice line. The elevations of the fourth and fifth floor levels are composed of a central elongated window bay, with a panelled apron, narrow sidelights separated from the bay by the enframing pilasters, and a round arch at the top with panelled spandrel and flanking oculi. On the sixth level each facade has five arcaded, louvred openings for the belfry, and is surmounted by a broad Corinthian entablature. Above this there is a broad curb at the base of the vertically elongated mansard. The clockfaces above are iron framings with white glass infill; they are mounted directly onto the roofing, without decorative surrounds.
 The appearance of the roofline has been altered substantially. In 1953 the original slate roof was replaced with the present standing-seam copper; at that time dormers and cresting were also removed. The wrought iron cresting has since been
 reproduced with an alloy facsimile.</text>
                 <author>
@@ -39,13 +46,22 @@ reproduced with an alloy facsimile.</text>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
+            <description pref="true" source="National Register of Historic Places online (accessed February 4, 2005). Columbus Indiana: A Look At Architecture (1980); Page: 18">
+                <text>Replaced an earlier courthouse located in the middle of Central Square. This new structure was noted for being heated with steam, lighted with gas chandeliers, and being fireproof: fireproofing included the original slate roof (now copper) and a method of using dirt and sand to fill the joist space between floor and ceiling.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
         </descriptionSet>
         <locationSet>
-            <location pref="false" type="site" dataDate="2016-03-24-09-17-45">
-                <name refid="7013644" type="geographic" vocab="tgn">Columbus</name>
-            </location>
+            <!-- This locationSet demonstrates the Cluster point extension, which helps specify locations. -->
             <location pref="true" type="site" dataDate="2015-04-22-14-39-51">
-                <name type="geographic">234 Washington St, Columbus, IN 47201, USA</name>
+                <refid type="other">234 Washington St, Columbus, IN 47201, USA</refid>
+                <name refid="7013644" type="geographic" vocab="tgn" extent="inhabited place">Columbus</name>
+                <name refid="7007252" type="geographic" vocab="tgn" extent="state">Indiana</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
                 <point epsg="4326">
                     <lat>39.201071</lat>
                     <long>-85.921403</long>
@@ -55,13 +71,13 @@ reproduced with an alloy facsimile.</text>
         <materialSet>
             <material refid="300010540" type="medium" vocab="aat">face brick</material>
             <material refid="300011286" type="medium" vocab="aat">limestone</material>
+            <material refid="300011002" type="medium" vocab="aat" source="CONA">iron</material>
         </materialSet>
         <measurementsSet>
             <measurements type="count" unit="stories">2</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_e139cc13-fecb-4adc-9a64-7067518a2442" pref="true">general view</relation>
-            <relation type="imageIs" relids="i_bfd2e88b-6aff-4143-8fb4-9e2429f25744" pref="false">general view</relation>
+            <relation type="imageIs" relids="i_f27_19thCentury">general view</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2015-04-22-14-38-06">
@@ -72,14 +88,15 @@ reproduced with an alloy facsimile.</text>
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_5-LocationGeography.pdf#page=23</refid>
                 <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 205. Figure 27. Work Record Linked to Authority Record: 19th-Century Building.</name>
             </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700000168</refid>
+                <name type="electronic">CONA</name>
+            </source>
         </sourceSet>
         <stylePeriodSet>
             <stylePeriod refid="300021279" vocab="aat">Second Empire</stylePeriod>
         </stylePeriodSet>
         <subjectSet>
-            <subject dataDate="2015-04-22-14-44-39">
-                <term refid="300001892" vocab="aat" type="otherTopic">trusses</term>
-            </subject>
             <subject>
                 <term refid="300055499" vocab="aat" type="conceptTopic">government</term>
             </subject>
@@ -89,18 +106,20 @@ reproduced with an alloy facsimile.</text>
             <subject dataDate="2016-03-24-09-20-14">
                 <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
             </subject>
+            <subject source="CONA">
+                <term refid="300069665" vocab="aat" type="conceptTopic">trial</term>
+            </subject>
+            <subject source="CONA">
+                <term refid="300404732" vocab="aat" type="conceptTopic">historic status</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300386948" vocab="aat">stonemasonry</technique>
+            <technique refid="300001892" vocab="aat">trusses</technique>
+            <technique refid="300002557" vocab="aat" source="CONA">bearing walls</technique>
         </techniqueSet>
-        <textrefSet>
-            <textref dataDate="2016-03-24-09-10-25">
-                <name type="electronic">CONA</name>
-                <refid type="other">700000168</refid>
-            </textref>
-        </textrefSet>
         <titleSet>
-            <title pref="false" type="popular">Bartholomew County Courthouse</title>
+            <title pref="false" type="repository" source="National Register">Bartholomew County Courthouse</title>
             <title pref="true" type="popular">Columbus Courthouse</title>
         </titleSet>
         <worktypeSet>
@@ -108,4 +127,53 @@ reproduced with an alloy facsimile.</text>
             <worktype refid="300263552" vocab="aat">architecture</worktype>
         </worktypeSet>
     </work>
+    <image id="i_f27_19thCentury"
+        href="https://upload.wikimedia.org/wikipedia/commons/d/d2/Bartholomew_County_Courthouse.jpeg">
+        <agentSet>
+            <agent dataDate="2016-03-24-09-13-59">
+                <name extent="photographer: Richard McCoy"
+                    refid="137022054"
+                    type="corporate"
+                    vocab="viaf">Wikimedia Foundation</name>
+                <role type="code" vocab="marcrelator">col</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <date type="creation" dataDate="2015-04-22-14-16-49">
+                <earliestDate>
+                    <date>2013-07-08</date>
+                </earliestDate>
+            </date>
+        </dateSet>
+        <locationSet>
+            <location type="creation" dataDate="2015-04-22-14-18-09">
+                <name type="geographic">234 Washington St # 303, Columbus, IN 47201 United States</name>
+                <point epsg="4326">
+                    <lat>39.201333</lat>
+                    <long>-85.921167</long>
+                </point>
+            </location>
+        </locationSet>
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_f27_19thCentury">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights href="http://creativecommons.org/licenses/by-sa/3.0/deed.en"
+                type="copyrighted"
+                dataDate="2015-04-22-14-18-47">
+                <rightsHolder>Richard McCoy</rightsHolder>
+                <text>CC BY-SA 3.0</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source dataDate="2015-04-22-14-19-10">
+                <refid type="URI">http://commons.wikimedia.org/wiki/File:Bartholomew_County_Courthouse.jpeg</refid>
+                <name type="electronic">File:Bartholomew County Courthouse.jpeg</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Looking at the southwest.</title>
+        </titleSet>
+    </image>
 </vra>

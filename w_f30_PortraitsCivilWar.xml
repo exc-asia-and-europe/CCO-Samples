@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-    <work id="w_9e7cdcbe-ef97-4a17-ad01-6e18813dd55e" source="Kurs" refid="c_845365a1-ee74-46ed-a521-ed51af55dfe5">
+    <work id="w_f30_PortraitsCivilWar" refid="c_CCO_Examples">
         <agentSet>
             <agent pref="true" dataDate="2015-04-22-15-27-24">
                 <dates type="life">
@@ -53,6 +53,13 @@
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
+            <description>
+                <text>President Abraham Lincoln on the Antietam battlefield, with Major Allan Pinkerton, chief of the Secret Service, and Major John McClernand.</text>
+                <author>
+                    <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
         </descriptionSet>
         <inscriptionSet>
             <inscription dataDate="2016-04-12-10-30-01" href="http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/" source="J. Paul Getty Museum">
@@ -100,42 +107,42 @@
             </source>
         </sourceSet>
         <subjectSet>
-            <subject refid="300189710" vocab="aat" dataDate="2015-04-22-15-35-22">
-                <term type="conceptTopic">officers</term>
+            <subject dataDate="2015-04-22-15-35-22">
+                <term refid="300189710" vocab="aat" type="conceptTopic">officers</term>
             </subject>
-            <subject refid="300046113" vocab="aat" dataDate="2015-04-22-15-35-07">
-                <term type="descriptiveTopic">top hats</term>
+            <subject dataDate="2015-04-22-15-35-07">
+                <term refid="300046113" vocab="aat" type="descriptiveTopic">top hats</term>
             </subject>
-            <subject refid="300038482" vocab="aat" dataDate="2015-04-22-15-34-36">
-                <term type="descriptiveTopic">campstools</term>
+            <subject dataDate="2015-04-22-15-34-36">
+                <term refid="300038482" vocab="aat" type="descriptiveTopic">campstools</term>
             </subject>
-            <subject refid="300005694" vocab="aat" dataDate="2015-04-22-15-34-27">
-                <term type="descriptiveTopic">tents</term>
+            <subject dataDate="2015-04-22-15-34-27">
+                <term refid="300005694" vocab="aat" type="descriptiveTopic">tents</term>
             </subject>
-            <subject refid="300164117" vocab="aat" dataDate="2015-04-22-15-34-14">
-                <term type="descriptiveTopic">army camps</term>
+            <subject dataDate="2015-04-22-15-34-14">
+                <term refid="300164117" vocab="aat" type="descriptiveTopic">army camps</term>
             </subject>
-            <subject refid="300185678" vocab="aat" dataDate="2015-04-22-15-33-20">
-                <term type="conceptTopic">soldiers</term>
+            <subject dataDate="2015-04-22-15-33-20">
+                <term refid="300185678" vocab="aat" type="conceptTopic">soldiers</term>
             </subject>
-            <subject refid="300055314" vocab="aat">
-                <term type="conceptTopic">wars</term>
+            <subject>
+                <term refid="300055314" vocab="aat" type="conceptTopic">wars</term>
             </subject>
-            <subject refid="300025470" vocab="aat">
-                <term type="conceptTopic">presidents</term>
+            <subject>
+                <term refid="300025470" vocab="aat" type="conceptTopic">presidents</term>
             </subject>
-            <subject refid="300015637" vocab="aat">
-                <term type="descriptiveTopic">portraits</term>
+            <subject>
+                <term refid="300015637" vocab="aat" type="descriptiveTopic">portraits</term>
             </subject>
-            <subject refid="300124525" vocab="aat" dataDate="2016-04-12-10-32-26">
-                <term type="descriptiveTopic">group portraits</term>
+            <subject dataDate="2016-04-12-10-32-26">
+                <term refid="300124525" vocab="aat" type="descriptiveTopic">group portraits</term>
             </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300133274" vocab="aat">albumen process</technique>
         </techniqueSet>
         <titleSet>
-            <title pref="false" type="creator">Lincoln on the Battlefield of Antietam, Maryland</title>
+            <title pref="false" type="descriptive">Lincoln on the Battlefield of Antietam, Maryland</title>
             <title pref="true" type="repository">President Lincoln, United States Headquarters, Army of the Potomac, near Antietam</title>
         </titleSet>
         <worktypeSet>

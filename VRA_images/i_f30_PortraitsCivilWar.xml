@@ -2,9 +2,8 @@
 <vra xmlns="http://www.vraweb.org/vracore4.htm"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
-   <image id="i_8721de29-1996-4db3-9149-5d966f9f2258"
-          href="i_8721de29-1996-4db3-9149-5d966f9f2258.jpg"
-          source="Tamboti">
+   <image id="i_f30_PortraitsCivilWar"
+      href="http://www.getty.edu/museum/media/images/web/download/06718801.jpg">
       <agentSet>
          <agent pref="true" dataDate="2016-04-12-10-38-38">
             <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
@@ -13,8 +12,7 @@
       </agentSet>
       <relationSet>
          <relation type="imageOf"
-                   relids="w_9e7cdcbe-ef97-4a17-ad01-6e18813dd55e"
-                   source="Tamboti">attachment</relation>
+            relids="w_f30_PortraitsCivilWar">attachment</relation>
       </relationSet>
       <rightsSet>
          <rights pref="false" type="publicDomain" dataDate="2015-04-22-15-24-42">
@@ -29,7 +27,7 @@
          </source>
       </sourceSet>
       <titleSet>
-         <title type="generalView">Image record CCO_fig030-1--CCO_online_not_yet.jpg</title>
+         <title type="generalView">President Lincoln, United States Headquarters, Army of the Potomac, near Antietam</title>
       </titleSet>
    </image>
 </vra>

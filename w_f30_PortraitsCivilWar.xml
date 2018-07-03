@@ -10,50 +10,133 @@
                 <name refid="57416946" type="personal" vocab="viaf">Gardner, Alexander</name>
                 <role type="code" vocab="marcrelator">pht</role>
             </agent>
-            <agent pref="false" dataDate="2015-04-22-15-26-41">
-                <dates type="life">
-                    <earliestDate circa="false">1809</earliestDate>
-                    <latestDate circa="false">1865</latestDate>
-                </dates>
-                <name refid="76349832" type="personal" vocab="viaf">Lincoln, Abraham</name>
-                <role type="code" vocab="marcrelator">dpc</role>
-            </agent>
-            <agent pref="false">
-                <dates type="life">
-                    <earliestDate circa="false">1812</earliestDate>
-                    <latestDate circa="false">1900</latestDate>
-                </dates>
-                <name refid="33643697" type="personal" vocab="viaf">McClernand, John A.</name>
-                <role type="code" vocab="marcrelator">dpc</role>
-            </agent>
-            <agent pref="false">
-                <dates type="life">
-                    <earliestDate circa="false">1819</earliestDate>
-                    <latestDate circa="false">1884</latestDate>
-                </dates>
-                <name refid="3266095" type="personal" vocab="viaf">Pinkerton, Allan</name>
-                <role type="code" vocab="marcrelator">dpc</role>
-            </agent>
         </agentSet>
         <culturalContextSet>
-            <culturalContext vocab="AAT" refid="300107956">American (North American)</culturalContext>
+            <culturalContext vocab="AAT" refid="300107956" source="J. Paul Getty Museum">American (North American)</culturalContext>
         </culturalContextSet>
         <dateSet>
-            <date type="creation" dataDate="2015-04-22-15-27-59">
+            <date pref="false" type="creation">
                 <earliestDate>
-                    <date>1862-10-04</date>
+                    <date circa="false">1862-10-02</date>
                 </earliestDate>
+            </date>
+            <date pref="true" type="creation" source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1862-10-04</date>
+                </earliestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1989-04-11</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1989-06-25</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1992-01-14</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1992-03-29</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">1995-01-24</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1995-04-02</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">2009-01-27</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2009-06-14</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">2012-04-03</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2012-09-02</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">2016-03-15</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2016-07-31</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">2016-09-10</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2016-12-11</date>
+                </latestDate>
+            </date>
+            <date pref="false" type="exhibition"  source="J. Paul Getty Museum">
+                <earliestDate>
+                    <date circa="false">2017-02-13</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">2017-05-07</date>
+                </latestDate>
             </date>
         </dateSet>
         <descriptionSet>
-            <description dataDate="2015-04-22-15-29-10">
-                <text>Lincoln stands tall, front and center in his stovepipe hat, his erect and commanding posture emphasized by the tent pole that seems to be an extension of his spine. The other men stand slightly apart in deference to their leader, in postures of allegiance with their hands covering their hearts. The reclining figure of the man at left and the shirt hanging from the tree are a reminder that, although this is a formally posed picture, Lincoln's presence did not halt the camp's activity, and no attempts were made to isolate him from the ordinary circumstances surrounding the continuing military conflict.</text>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Twenty-six thousand soldiers were killed or wounded in the Battle of Antietam on September 17, 1862, after which Confederate General Robert E. Lee was forced to retreat to Virginia. Just two weeks after the victory, President and Commander-in-Chief Abraham Lincoln conferred with General McClernand and Allan Pinkerton, Chief of the nascent Secret Service, who had organized espionage missions behind Confederate lines.
+                    
+                    Lincoln stands tall, front and center in his stovepipe hat, his erect and commanding posture emphasized by the tent pole that seems to be an extension of his spine. The other men stand slightly apart in deference to their leader, in postures of allegiance with their hands covering their hearts. The reclining figure of the man at left and the shirt hanging from the tree are a reminder that, although this is a formally posed picture, Lincoln's presence did not halt the camp's activity, and no attempts were made to isolate him from the ordinary circumstances surrounding the continuing military conflict.</text>
                 <author>
                     <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
                     <role type="code" vocab="marcrelator">aut</role>
                 </author>
             </description>
-            <description>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Provenance
+                    1984 -
+                    
+                    Samuel Wagstaff, Jr., American, 1921 - 1987</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="false" source="J. Paul Getty Museum">
+                <text>Exhibitions
+                    Experimental Photography: The First Golden Age 1851 - 1889 (April 11 to June 25, 1989)
+                    The J. Paul Getty Museum (Malibu), April 11 to June 25, 1989
+                    
+                    Grave Testimony: Photographs of the Civil War (January 14 to March 29, 1992)
+                    The J. Paul Getty Museum (Malibu), January 14 to March 29, 1992
+                    
+                    Arrows of Time: Photographs from the J. Paul Getty Museum (January 24 to April 2, 1995)
+                    Armand Hammer Museum of Art and Cultural Center at UCLA (Los Angeles), January 24 to April 2, 1995
+                    
+                    In Focus: The Portrait (January 27 to June 14, 2009)
+                    The J. Paul Getty Museum at the Getty Center (Los Angeles), January 27 to June 14, 2009
+                    
+                    Portraits of Renown: Photography and the Cult of Celebrity (April 3 to September 2, 2012)
+                    The J. Paul Getty Museum at the Getty Center (Los Angeles), April 3 to September 2, 2012
+                    
+                    The Thrill of the Chase: The Wagstaff Collection of Photographs at the J. Paul Getty Museum (March 15, 2016 to May 7, 2017)
+                    The J. Paul Getty Museum at the Getty Center (Los Angeles), March 15 to July 31, 2016
+                    Wadsworth Atheneum (Hartford), September 10 to December 11, 2016
+                    Portland Museum of Art (Portland), February 13 to May 7, 2017</text>
+                <author>
+                    <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+            <description pref="true">
                 <text>President Abraham Lincoln on the Antietam battlefield, with Major Allan Pinkerton, chief of the Secret Service, and Major John McClernand.</text>
                 <author>
                     <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
@@ -62,11 +145,13 @@
             </description>
         </descriptionSet>
         <inscriptionSet>
-            <inscription dataDate="2016-04-12-10-30-01" href="http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/" source="J. Paul Getty Museum">
+            <inscription dataDate="2016-04-12-10-30-01" source="J. Paul Getty Museum">
+                <author/>
                 <position>Verso, mount</position>
                 <text type="mark">two wet stamps: "T.H. Bartlett, 5 Oxford Terrace, Back Bay P.O., Boston - Mass."</text>
             </inscription>
-            <inscription dataDate="2015-04-22-15-38-47" href="http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/" source="J. Paul Getty Museum">
+            <inscription dataDate="2015-04-22-15-38-47" source="J. Paul Getty Museum">
+                <author/>
                 <position>Recto, mount</position>
                 <text type="text">inscribed in ink: "No 16"</text>
             </inscription>
@@ -74,27 +159,96 @@
         <locationSet>
             <location pref="false" type="creation">
                 <name refid="7017423" type="geographic" vocab="tgn">Antietam National Battlefield Site</name>
-                <point epsg="4326">
-                    <lat>39.473194</lat>
-                    <long>-77.744694</long>
-                </point>
+                <name refid="7014501" type="geographic" vocab="tgn" extent="inhabited place">Sharpsburg</name>
+                <name refid="7007516" type="geographic" vocab="tgn" extent="state">Maryland</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
             <location pref="true" type="repository" dataDate="2016-04-12-10-15-01">
                 <refid type="accession">84.XM.482.1</refid>
                 <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Experimental Photography: The First Golden Age 1851 - 1889 (April 11 to June 25, 1989)</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Grave Testimony: Photographs of the Civil War (January 14 to March 29, 1992)</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7013987" type="geographic" vocab="tgn" extent="inhabited place">Malibu</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Arrows of Time: Photographs from the J. Paul Getty Museum (January 24 to April 2, 1995) </refid>
+                <name refid="129451824" type="corporate" vocab="viaf">Armand Hammer Museum of Art and Cultural Center</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">In Focus: The Portrait (January 27 to June 14, 2009)</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">Portraits of Renown: Photography and the Cult of Celebrity (April 3 to September 2, 2012)</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">The Thrill of the Chase: The Wagstaff Collection of Photographs at the J. Paul Getty Museum (March 15, 2016 to May 7, 2017)</refid>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">The Thrill of the Chase: The Wagstaff Collection of Photographs at the J. Paul Getty Museum (March 15, 2016 to May 7, 2017)</refid>
+                <name refid="134223398" type="corporate" vocab="viaf">Wadsworth Atheneum Museum of Art</name>
+                <name refid="7013695" type="geographic" vocab="tgn" extent="inhabited place">Hartford</name>
+                <name refid="7007159" type="geographic" vocab="tgn" extent="state">Connecticut</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+            <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+                <refid type="other">The Thrill of the Chase: The Wagstaff Collection of Photographs at the J. Paul Getty Museum (March 15, 2016 to May 7, 2017)</refid>
+                <name refid="140727053" type="corporate" vocab="viaf">Portland Museum of Art</name>
+                <name refid="7014273" type="geographic" vocab="tgn" extent="inhabited place">Portland</name>
+                <name refid="7007708" type="geographic" vocab="tgn" extent="state">Oregon</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
             </location>
         </locationSet>
         <materialSet>
             <material refid="300011802" type="medium" vocab="aat">albumen</material>
         </materialSet>
         <measurementsSet>
-            <measurements pref="true" type="height" unit="cm">21.9</measurements>
+            <measurements pref="true" type="height" unit="cm" source="J. Paul Getty Museum">21.9</measurements>
             <measurements pref="true" type="width" unit="cm">19.7</measurements>
             <measurements pref="false" type="height" unit="in">8 5/8</measurements>
             <measurements pref="false" type="width" unit="in">7 3/4</measurements>
         </measurementsSet>
         <relationSet>
-            <relation type="imageIs" relids="i_8721de29-1996-4db3-9149-5d966f9f2258">general view</relation>
+            <relation type="imageIs" relids="i_f30_PortraitsCivilWar">general view</relation>
+            <relation type="relatedTo" href="http://vocab.getty.edu/page/cona/700008966" refid="84.XO.1232.1.23">President Lincoln on Battlefield of Antietam</relation>
         </relationSet>
         <sourceSet>
             <source pref="false" dataDate="2016-04-12-10-30-16">
@@ -104,6 +258,10 @@
             <source pref="true" dataDate="2015-04-22-15-45-36">
                 <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=14</refid>
                 <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 220f. Figure 30. Albumen Print: Portraits, Civil War.</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/ia/901001348</refid>
+                <name type="electronic">CONA</name>
             </source>
         </sourceSet>
         <subjectSet>
@@ -137,18 +295,72 @@
             <subject dataDate="2016-04-12-10-32-26">
                 <term refid="300124525" vocab="aat" type="descriptiveTopic">group portraits</term>
             </subject>
+            <subject>
+                <term refid="901001348" vocab="icon" type="conceptTopic">Battle of Antietam (American Civil War, 1862)</term>
+            </subject>
+            <subject>
+                <term refid="135579316" vocab="viaf" type="corporateName">United States. Army</term>
+            </subject>
+            <subject>
+                <term refid="3266095" vocab="viaf" type="personalName">Pinkerton, Allan</term>
+            </subject>
+            <subject>
+                <term refid="33643697" vocab="viaf" type="personalName">McClernand, John A.</term>
+            </subject>
+            <subject>
+                <term refid="76349832" vocab="viaf" type="personalName">Lincoln, Abraham</term>
+            </subject>
+            <subject>
+                <term refid="300386045" vocab="aat" type="conceptTopic">histories (visual works)</term>
+            </subject>
+            <subject>
+                <term refid="7014716" vocab="tgn" type="geographicPlace">Antietam (battlefield)</term>
+            </subject>
         </subjectSet>
         <techniqueSet>
             <technique refid="300133274" vocab="aat">albumen process</technique>
         </techniqueSet>
         <titleSet>
             <title pref="false" type="descriptive">Lincoln on the Battlefield of Antietam, Maryland</title>
-            <title pref="true" type="repository">President Lincoln, United States Headquarters, Army of the Potomac, near Antietam</title>
+            <title pref="true" type="repository" source="J. Paul Getty Museum">President Lincoln, United States Headquarters, Army of the Potomac, near Antietam</title>
+            <title pref="false" type="other" source="J. Paul Getty Museum">The President, Maj. Gen. McClernand, and E. J. Allen Chief of S. S. U. S. at Secret Service Department, Headquarters Army of the Potomac, near Antietam</title>
+            <title pref="false" type="other" source="J. Paul Getty Museum">President Lincoln on the Battlefield of Antietam, Maryland, with Major General McClernand and Allan Pinkerton, Chief of the Secret Service</title>
+            <title pref="false" type="other" source="J. Paul Getty Museum">President Lincoln, United States Headquarters, Army of the Potomac, near Antietam</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300041273" vocab="aat">prints</worktype>
             <worktype refid="300127121" vocab="aat">albumen prints</worktype>
-            <worktype href="http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/" refid="300046300" source="J. Paul Getty Museum" vocab="aat">photographs</worktype>
+            <worktype refid="300127104" vocab="aat" source="CONA">photographic print</worktype>
+            <worktype refid="300046300" vocab="aat" source="CONA">photograph</worktype>
+            <worktype refid="300127121" vocab="aat" source="CONA">albumen silver print</worktype>
         </worktypeSet>
     </work>
+    <image id="i_f30_PortraitsCivilWar"
+        href="http://www.getty.edu/museum/media/images/web/download/06718801.jpg">
+        <agentSet>
+            <agent pref="true" dataDate="2016-04-12-10-38-38">
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf"
+                relids="w_f30_PortraitsCivilWar">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="publicDomain" dataDate="2015-04-22-15-24-42">
+                <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+                <text>Digital image courtesy of the Getty's Open Content Program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source dataDate="2015-04-22-15-23-56">
+                <refid type="URI">http://www.getty.edu/art/collection/objects/60676/alexander-gardner-president-lincoln-united-states-headquarters-army-of-the-potomac-near-antietam-american-october-4-1862/</refid>
+                <name type="electronic">The J. Paul Getty Museum Online Collection</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">President Lincoln, United States Headquarters, Army of the Potomac, near Antietam</title>
+        </titleSet>
+    </image>
 </vra>

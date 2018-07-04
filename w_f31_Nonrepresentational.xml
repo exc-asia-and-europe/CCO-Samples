@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_f31_Nonrepresentational" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <dates type="life">
+                   <earliestDate circa="false">1890</earliestDate>
+                   <latestDate circa="false">1976</latestDate>
+               </dates>
+               <name refid="7396101" type="personal" vocab="viaf">Man Ray</name>
+               <role type="code" vocab="marcrelator">pht</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300107956" source="The J. Paul Getty Museum">American</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date pref="true" type="creation">
+               <earliestDate>
+                   <date circa="false">1927</date>
+               </earliestDate>
+           </date>
+           <date pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">1998-04-28</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1998-06-29</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">1998-10-27</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1999-01-17</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2000-04-02</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2000-06-25</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2000-07-13</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2000-10-08</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2013-09-15</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2013-12-08</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2018-05-02</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2018-10-14</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true">
+               <text>The objects used by Man Ray to create this image are not apparent; the rapid alternation of light and dark on the page stimulates the eye; the stippled spots of black interact with the texture of the paper to activate the surface of the print and suggest positive and negative space.</text>
+               <author>
+                   <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="The J. Paul Getty Museum">
+               <text>The elements Man Ray used to create this image are not readily evident, but the rapid alternation of light and dark on the page stimulate the eye. The stippled spots of black interact with the texture of the paper to activate the surface of the print and suggest positive and negative space.</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="The J. Paul Getty Museum">
+               <text>Provenance
+                   before 1973 Man Ray, American, 1890 - 1976, sold to Arnold Crane, before 1973.
+                   before 1973 - 1984 Arnold Crane, American, 1932 - 2014, sold to the J. Paul Getty Museum, 1984.</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="The J. Paul Getty Museum">
+               <text>Exhibitions
+                   Man Ray (Paris) (April 28 to June 29, 1998)
+                   Centre Georges Pompidou (Paris), April 28 to June 29, 1998
+                   
+                   A Practical Dreamer: The Photographs of Man Ray (October 27, 1998 to October 8, 2000)
+                   The J. Paul Getty Museum at the Getty Center (Los Angeles), October 27, 1998 to January 17, 1999
+                   Walker Art Center (Minneapolis), April 2 to June 25, 2000
+                   Art Gallery of Ontario (Toronto), July 13 to October 8, 2000
+                   
+                   On the Look-out for Light -- Man Ray's Photography in Surrealist Paris (September 15 to December 8, 2013)
+                   Max Ernst Museum Brühl des LVR (Brühl), September 15 to December 8, 2013
+                   
+                   The Shape of Light (May 2 to October 14, 2018)
+                   Tate (London), May 2 to October 14, 2018</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription source="The J. Paul Getty Museum">
+               <author/>
+               <position>Inscribed verso print in pencil</position>
+               <text type="text">Orignal rayograph</text>
+           </inscription>
+           <inscription source="The J. Paul Getty Museum">
+               <author/>
+               <position>wet stamp verso print</position>
+               <text type="text">Man Ray/31bis...Paris</text>
+           </inscription>
+           <inscription source="The J. Paul Getty Museum">
+               <author/>
+               <position>Signed &amp; dated verso &amp; recto print in pencil &amp; recto print in ink.</position>
+               <text/>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <location pref="true" type="repository">
+               <refid type="accession">84.XM.1000.153</refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <refid type="other">Man Ray (Paris) (April 28 to June 29, 1998)</refid>
+               <name refid="159020814" type="corporate" vocab="viaf">Centre Georges Pompidou</name>
+               <name refid="7008038" type="geographic" vocab="tgn" extent="inhabited place">Paris</name>
+               <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <refid type="other">A Practical Dreamer: The Photographs of Man Ray (October 27, 1998 to October 8, 2000)</refid>
+               <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <refid type="other">A Practical Dreamer: The Photographs of Man Ray (October 27, 1998 to October 8, 2000)</refid>
+               <name refid="155994293" type="corporate" vocab="viaf">Walker Art Center</name>
+               <name refid="7014080" type="geographic" vocab="tgn" extent="inhabited place">Minneapolis</name>
+               <name refid="7007521" type="geographic" vocab="tgn" extent="state">Minnesota</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <refid type="other">A Practical Dreamer: The Photographs of Man Ray (October 27, 1998 to October 8, 2000)</refid>
+               <name refid="151879312" type="corporate" vocab="viaf">Art Gallery of Ontario</name>
+               <name refid="7013284" type="geographic" vocab="tgn" extent="inhabited place">Toronto</name>
+               <name refid="7013154" type="geographic" vocab="tgn" extent="province">Ontario</name>
+               <name refid="7005685" type="geographic" vocab="tgn" extent="nation">Canada</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <refid type="other">On the Look-out for Light -- Man Ray's Photography in Surrealist Paris (September 15 to December 8, 2013)</refid>
+               <name refid="142257005" type="corporate" vocab="viaf">Max Ernst Museum Brühl</name>
+               <name refid="7012417" type="geographic" vocab="tgn" extent="inhabited place">Brühl</name>
+               <name refid="7003677" type="geographic" vocab="tgn" extent="state">North Rhine-Westphalia</name>
+               <name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="exhibition" source="The J. Paul Getty Museum">
+               <refid type="other">The Shape of Light (May 2 to October 14, 2018)</refid>
+               <name refid="290709151" type="corporate" vocab="viaf">Tate Gallery</name>
+               <name refid="7011781" type="geographic" vocab="tgn" extent="inhabited place">London</name>
+               <name refid="7002445" type="geographic" vocab="tgn" extent="country">England</name>
+               <name refid="7008591" type="geographic" vocab="tgn" extent="nation">United Kingdom</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+       </locationSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm" source="The J. Paul Getty Museum">25.2</measurements>
+           <measurements type="width" unit="cm" source="The J. Paul Getty Museum">30.2</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_f31_Nonrepresentational">General view</relation>
+       </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder>Man Ray Trust ARS-ADAGP</rightsHolder>
+                <text>© Man Ray Trust ARS-ADAGP</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=15</refid>
+               <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 221. Figure 31. Abstract, Rayograph.</name>
+           </source>
+           <source>
+               <refid type="URI">http://www.getty.edu/art/collection/objects/46836/man-ray-untitled-american-1927/</refid>
+               <name type="electronic">The J. Paul Getty Museum</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300134134" vocab="aat" type="descriptiveTopic">nonrepresentational art</term>
+           </subject>
+           <subject>
+               <term refid="300311037" vocab="aat" type="descriptiveTopic">light</term>
+           </subject>
+           <subject>
+               <term refid="300311040" vocab="aat" type="descriptiveTopic">dark</term>
+           </subject>
+           <subject>
+               <term refid="300400862" vocab="aat" type="descriptiveTopic">texture</term>
+           </subject>
+           <subject>
+               <term refid="300010145" vocab="aat" type="descriptiveTopic">dots</term>
+           </subject>
+           <subject>
+               <term refid="300056295" vocab="aat" type="descriptiveTopic">negative space</term>
+           </subject>
+       </subjectSet>
+       <titleSet>
+           <title pref="true" type="repository" source="The J. Paul Getty Museum">Untitled</title>
+           <title pref="false" type="other" source="The J. Paul Getty Museum">Rayografie</title>
+           <title pref="false" type="descriptive">Untitled Rayograph (Light Patterns)</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300128695" vocab="aat">gelatin silver prints</worktype>
+           <worktype refid="300127296" vocab="aat">photograms</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_f31_Nonrepresentational" href="http://media.getty.edu/museum/images/web/enlarge/05334201.jpg">
+        <agentSet>
+            <agent>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f31_Nonrepresentational">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder>Man Ray Trust ARS-ADAGP</rightsHolder>
+                <text>© Man Ray Trust ARS-ADAGP</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">http://www.getty.edu/art/collection/objects/46836/man-ray-untitled-american-1927/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Untitled</title>
+        </titleSet>
+    </image>
+</vra>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_f32_FrenchCarpet" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="41145857933623022244" type="corporate" vocab="viaf">Savonnerie Manufactory</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+           <agent>
+               <attribution>Made in the Chaillot Workshops of</attribution>
+               <name refid="96262755" type="personal" vocab="viaf">Lourdet, Philippe</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+           <agent source="J. Paul Getty Museum">
+               <attribution>Made in the Chaillot Workshops of</attribution>
+               <name refid="188150323792709972105" type="personal" vocab="viaf">Lourdet, Simon</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+           <agent source="CONA">
+               <name refid="790150323744209971353" type="corporate" vocab="viaf">Colline de Chaillot manufactory</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300111188" source="J. Paul Getty Museum">French</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="true" type="about">1666</date>
+               </earliestDate>
+           </date>
+           <date type="creation" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="true" type="about">1665</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="true" type="about">1667</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description>
+               <text>Strewn with flowers, vessels filled with fruit and flowers, and large acanthus leaf scrolls, the design of this large carpet centers on a prominent central sunflower, the symbol of the Sun King Louis XIV. Images of Chinese blue-and-white porcelain bowls decorate the border.</text>
+               <author>
+                   <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="J. Paul Getty Museum">
+               <text>Provenance
+                   by 1667 - before 1792
+                   
+                   French Crown, Garde-Meuble de la Couronne, lent to the Parisian church of Saint-André-des-Arts by 1769.
+                   - 1914
+                   
+                   Parguez-Perdreau, March 1914 [possibly Joseph François Gaston Parguez (about 1862-about 1936) who married Marie-Ernestine-Elisabeth-Charlotte Perdreau in 1899].
+                   Source: Sylvie Legrand-Rossi, "Les Dessins de Jean-Louis Prieur achetés par L'Union Centrale des Arts Décoratifs à la baronne Parguez en 1986," p. 4, note 7. www.lesartsdecoratifs.fr [accessed June 1, 2017]
+                   1914
+                   
+                   Arnold Seligmann, French, 1870 - 1932, March-June 1914.
+                   1914 - 1920
+                   
+                   George A. Kessler, American, 1863 - 1920, June 1914.
+                   - 1931
+                   
+                   Mortimer Leo Schiff, American, 1877 - 1931, by inheritance to his son, John M. Schiff, 1931.
+                   1931 - 1938
+                   
+                   John Mortimer Schiff, American, 1904 - 1987 [sold, Christie's, London, June 22, 1938, lot 59, to J. Paul Getty.]
+                   1938 - 1970
+                   
+                   J. Paul Getty, American, 1892 - 1976, donated to the J. Paul Getty Museum, 1970.</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location pref="true" type="repository">
+               <refid type="accession">70.DC.63</refid>
+               <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation" source="J. Paul Getty Museum">
+               <name refid="7008038" type="geographic" vocab="tgn" extent="inhabited place">Paris</name>
+               <name refid="1000070" type="geographic" vocab="tgn" extent="nation">France</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <display>Wool and linen; modern cotton lining</display>
+           <material refid="300014074" type="medium" vocab="aat">wool</material>
+           <material refid="300014069" type="medium" vocab="aat">linen</material>
+           <material refid="300183670" type="support" vocab="aat" source="CONA">cotton</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="width" unit="cm">428.8</measurements>
+           <measurements type="height" unit="cm">642.1</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_f32_FrenchCarpet">general view</relation>
+       </relationSet>
+        <rightsSet>
+            <rights type="other">
+                <rightsHolder>The J. Paul Getty Trust.</rightsHolder>
+                <text>Gift of J. Paul Getty. </text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_6-Subject.pdf#page=16</refid>
+               <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 222. Figure 302. French Carpet.</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://www.getty.edu/art/collection/objects/5392/</refid>
+               <name type="electronic">J. Paul Getty Museum</name>
+           </source>
+            <source pref="false">
+                <refid type="URI">http://vocab.getty.edu/page/cona/700008609</refid>
+                <name type="electronic">CONA</name>
+            </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300404591" vocab="aat" type="descriptiveTopic">utilitarian objects</term>
+           </subject>
+           <subject>
+               <term refid="300185756" vocab="aat" type="descriptiveTopic">carpet</term>
+           </subject>
+           <subject>
+               <term refid="300011868" vocab="aat" type="descriptiveTopic">fruit</term>
+           </subject>
+           <subject>
+               <term refid="300375563" vocab="aat" type="descriptiveTopic">flower</term>
+           </subject>
+           <subject>
+               <term refid="300203596" vocab="aat" type="descriptiveTopic">bowls</term>
+           </subject>
+           <subject>
+               <term refid="300404749" vocab="aat" type="descriptiveTopic">Helianthus</term>
+           </subject>
+           <subject>
+               <term refid="300164902" vocab="aat" type="descriptiveTopic">acanthus</term>
+           </subject>
+           <subject>
+               <term refid="300010104" vocab="aat" type="descriptiveTopic">leaf scrolls</term>
+           </subject>
+           <subject>
+               <term refid="300387409" vocab="aat" type="descriptiveTopic">Chinese export porcelain</term>
+           </subject>
+           <subject>
+               <term refid="268675767" vocab="viaf" type="personalName">Louis XIV, King of France</term>
+           </subject>
+       </subjectSet>
+       <titleSet>
+           <title type="repository">Carpet</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300386843" vocab="aat" source="J. Paul Getty Museum">textile art</worktype>
+           <worktype refid="300185756" vocab="aat" source="CONA">carpet</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_f32_FrenchCarpet" href="http://www.getty.edu/museum/media/images/web/download/00609701.jpg">
+        <agentSet>
+            <agent>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f32_FrenchCarpet">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+                <text>Digital image courtesy of the Getty's Open Content Program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">http://www.getty.edu/art/collection/objects/5392/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Carpet</title>
+        </titleSet>
+    </image>
+</vra>

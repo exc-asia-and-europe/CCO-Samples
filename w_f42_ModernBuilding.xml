@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_f42_ModernBuilding" refid="c_CCO_Examples">
+       <agentSet>
+           <agent pref="true">
+               <dates type="life">
+                   <earliestDate circa="false">1906</earliestDate>
+                   <latestDate circa="false">2005</latestDate>
+               </dates>
+               <name refid="108419418" type="personal" vocab="viaf">Johnson, Philip</name>
+               <role type="code" vocab="marcrelator">arc</role>
+           </agent>
+           <agent pref="false" source="Dumbarton Oaks">
+               <name refid="96245661" type="personal" vocab="viaf">Zetlin, Lev</name>
+               <role type="code" vocab="marcrelator">eng</role>
+           </agent>
+       </agentSet>
+       <dateSet>
+           <display>designed in 1957; completed in 1960</display>
+           <date pref="false" type="commission" source="Dumbarton Oaks">
+               <earliestDate>
+                   <date circa="false">1955</date>
+               </earliestDate>
+           </date>
+           <date pref="true" type="creation">
+               <earliestDate>
+                   <date circa="false">1957</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">1960</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true" source="Philip Johnson - Alan Ritchie, Architects. [online] http://www.pjar.com (accessed July 14, 2004)">
+               <text>The Institute illustrates Johnson's appreciation of Mies van der Rohe's single-span structures. It is a granite-clad cube supported by monumental bronze girders. The ground level is recessed, glazed, and hidden in a surrounding moat. The central atrium is the focus for the interior.</text>
+               <author>
+                   <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="Munson Williams Proctor Arts Institute" href="https://www.mwpai.org/about/history/philip-johnson-building/" dataDate="2018-07-10">
+               <text>Johnson’s design for the Munson-Williams-Proctor Arts Institute is elegant in its simplicity. The façade is a dark granite box that floats unexpectedly on a glass pedestal surrounded by a dry moat. The visitor enters through one of two avenues, from the staircase at the Genesee Street front entrance or via the parking lot entry at the rear. In each case, there is a dramatic change in scale from low ceiling to the triumphant Edward Wales Root Sculpture Court, a two-story sky lit atrium. Here, one arrives at the uplifting heart of the Museum. Johnson designed the Sculpture Court to be the orienting center, to which gallery-goers can return for the refreshment of natural light. He found an interesting engineering solution to achieve this vast expanse of space: the building’s structural frame is comprised of eight ferroconcrete piers that support four intersecting posttensioned concrete beams, all sheathed in bronze panels, from which the museum’s second-floor gallery and exterior walls hang.</text>
+               <author>
+                   <name refid="144240547" type="corporate" vocab="viaf">Munson-Williams-Proctor Institute</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Dumbarton Oaks">
+               <text>Although Johnson’s design for the Munson-Williams-Proctor Museum of Art was structurally similar to that of Ludwig Mies van der Rohe’s Crown Hall at the Illinois Institute of Technology (1950–1956), the Museum’s design also signaled Johnson’s first movement away from the influence of Mies and the International Style. The opaque stone-clad walls, the use of the luxuriant materials such as granite and statuary bronze, and the balance and symmetry of the design were all harbingers of Johnson’s growing new interest in neoclassical typologies, or what came to be called New Formalism in modern architecture.</text>
+               <author>
+                   <name refid="93537426" type="personal" vocab="viaf">Carder, James Nelson</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location type="site">
+               <name refid="7014679" type="geographic" vocab="tgn" extent="inhabited place">Utica</name>
+               <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <display>steel frame construction, granite faced, bronze girders</display>
+           <material refid="300011183" type="medium" vocab="aat">granite</material>
+           <material refid="300010957" type="medium" vocab="aat">bronze</material>
+       </materialSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_f42_ModernBuilding">general view</relation>
+       </relationSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_9-ViewInformation.pdf#page=17</refid>
+               <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 275. Figure 42. Image Record Linked to Work and Authority Records: Modern Building.</name>
+           </source>
+           <source>
+               <refid type="URI">https://www.doaks.org/resources/philip-johnson/the-munson-williams-proctor-museum-of-art</refid>
+               <name type="electronic">Dumbarton Oaks</name>
+           </source>
+       </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod>New Formalism</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+           <subject>
+               <term refid="300263552" vocab="aat" type="descriptiveTopic">architecture</term>
+           </subject>
+           <subject>
+               <term refid="300005138" vocab="aat" type="descriptiveTopic">art centers</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="300015341" vocab="aat">steel frame construction</technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="owner">Munson-Williams-Proctor Institute</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300263552" vocab="aat">architecture</worktype>
+           <worktype refid="300005138" vocab="aat">art centers</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_f42_ModernBuilding" href="https://c2.staticflickr.com/6/5529/10206151574_29ea085973_b.jpg">
+        <agentSet>
+            <agent>
+                <name>Onasill ~ Bill Badzo</name>
+                <role type="code" vocab="marcrelator">pht</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f42_ModernBuilding">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder>Onasill ~ Bill Badzo</rightsHolder>
+                <text>Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0) </text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://www.flickr.com/photos/onasill/10206151574</refid>
+                <name type="electronic">Flickr</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">"Munson-Williams-Proctor Arts Institute ~ Utica Ny ~ Historical Building ~ Register</title>
+        </titleSet>
+    </image>
+</vra>

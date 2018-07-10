@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_f43_EgyptianMonument" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="100627978" type="personal" vocab="viaf">unknown Ancient Egyptian</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300020251">Egyptian (ancient)</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+           <display>Fourth Dynasty, reign of King Khafre (ca. 2575-ca. 2465 BCE)</display>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="false">-2585</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">-2555</date>
+               </latestDate>
+           </date>
+           <date type="creation">
+               <earliestDate>
+                   <date circa="true" type="after">-2575</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="true" type="before">-2465</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true" source="Janson, H. W., History of Art. 3rd ed. New York: Harry N. Abrams, Inc., 1986; Page: 60 ff">
+               <text>The sphinx is an embodiment of kingship, placed to the south of the Great Pyramid at Giza. It is probably intended to represent King Khafre, although later generations believed that it was the Sun God.</text>
+               <author>
+                   <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="Wikipedia">
+               <text>The Sphinx is a monolith carved into the bedrock of the plateau, which also served as the quarry for the pyramids and other monuments in the area. The nummulitic limestone of the area consists of layers which offer differing resistance to erosion (mostly caused by wind and windblown sand), leading to the uneven degradation apparent in the Sphinx's body. The lowest part of the body, including the legs, is solid rock. The body of the lion up to its neck is fashioned from softer layers that have suffered considerable disintegration. The layer in which the head was sculpted is much harder.</text>
+               <author>
+                   <name refid="220417855" type="corporate" vocab="viaf">Wikipedia</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location type="site">
+               <name refid="7001337" type="geographic" vocab="tgn" extent="monument">Abū al Hawl</name>
+               <name refid="1001418" type="geographic" vocab="tgn" extent="governorate">Maţrūḩ</name>
+               <name refid="7016833" type="geographic" vocab="tgn" extent="nation">Egypt</name>
+               <name refid="7001242" type="geographic" vocab="tgn" extent="continent">Africa</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="300011286" type="medium" vocab="aat">limestone</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="m">20</measurements>
+           <measurements type="length" unit="m">73</measurements>
+           <measurements type="width" unit="m" source="Wikipedia">19</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_f43_EgyptianMonument"></relation>
+       </relationSet>
+       <sourceSet>
+           <source>
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_9-ViewInformation.pdf#page=18</refid>
+               <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 276. Figure 43. Image Record Linked to Work and Authority Records: Egyptian Monument.</name>
+           </source>
+           <source>
+               <refid type="URI">https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza</refid>
+               <name type="electronic">Wikipedia</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300400835" vocab="aat" type="conceptTopic">Egyptian religion</term>
+           </subject>
+           <subject>
+               <term refid="300015637" vocab="aat" type="descriptiveTopic">portrait</term>
+           </subject>
+           <subject>
+               <term refid="300375739" vocab="aat" type="descriptiveTopic">sphinxes</term>
+           </subject>
+           <subject>
+               <term refid="50019346" vocab="viaf" type="personalName">Khafrea, ancient Egyptian pharaoh of 4th dynasty</term>
+           </subject>
+           <subject>
+               <term refid="300150507" vocab="aat" type="descriptiveTopic">pharaohs</term>
+           </subject>
+           <subject>
+               <term refid="300374809" vocab="aat" type="conceptTopic">power</term>
+           </subject>
+           <subject>
+               <term refid="901001275" vocab="icon" type="conceptTopic">Ra</term>
+           </subject>
+       </subjectSet>
+       <techniqueSet>
+           <technique refid="300008031" vocab="aat">rock-cut architecture</technique>
+       </techniqueSet>
+       <titleSet>
+           <!-- This titleSet applies and sets as preferred the title given to the work in its original cultural context using the Cluster extension, which allows for specification of script and transliteration systems. -->
+           <title pref="false" type="popular">Great Sphinx</title>
+           <title pref="true" type="popular" lang="ara" script="Arab" source="Wikipedia">أبو الهول</title>
+           <title pref="false" type="popular" lang="ara" script="Latn" transliteration="ala-lc" source="Wikipedia">ʼabu alhawl</title>
+           <title pref="false" type="translated" lang="eng" source="Wikipedia">The Terrifying One; literally: Father of Dread</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300047090" vocab="aat">sculpture</worktype>
+           <worktype refid="300263552" vocab="aat">architecture</worktype>
+           <worktype refid="300047453" vocab="aat">colossi</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_f43_EgyptianMonument" href="https://c1.staticflickr.com/3/2381/3588906922_0e5241ebbb_b.jpg">
+        <agentSet>
+            <agent>
+                <name refid="75528343" type="personal" vocab="viaf">Béchard, Henri</name>
+                <role type="code" vocab="marcrelator">pht</role>
+            </agent>
+            <agent>
+                <name refid="168337623" type="corporate" vocab="viaf">National Media Museum</name>
+                <role type="code" vocab="marcrelator">rps</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f43_EgyptianMonument">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <rightsHolder>National Media Museum</rightsHolder>
+                <text>We're happy for you to share this digital image within the spirit of The Commons.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://www.flickr.com/photos/26808453@N03/3588906922/</refid>
+                <name type="electronic">Flickr</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">'Le Sphinx Armachis, Caire' (The Sphinx Armachis, Cairo)</title>
+        </titleSet>
+    </image>
+</vra>

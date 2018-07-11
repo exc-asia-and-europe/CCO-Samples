@@ -4,115 +4,254 @@
        <agentSet>
            <agent>
                <dates type="life">
-                   <earliestDate circa="false"></earliestDate>
-                   <latestDate circa="false"></latestDate>
+                   <earliestDate circa="false">1711</earliestDate>
+                   <latestDate circa="false">1793</latestDate>
                </dates>
-               <name refid="" type="personal" vocab="viaf"></name>
-               <role type="code" vocab="marcrelator"></role>
+               <name refid="42004058" type="personal" vocab="viaf">Roentgen, Abraham</name>
+               <role type="code" vocab="marcrelator">cre</role>
            </agent>
        </agentSet>
        <culturalContextSet>
-           <culturalContext vocab="aat" refid=""></culturalContext>
+           <culturalContext vocab="aat" refid="300111192" source="J. Paul Getty Museum">German</culturalContext>
        </culturalContextSet>
        <dateSet>
-           <date type="creation">
+           <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+           <display>ca. 1760 (CCO) / about 1760-1765 (J. Paul Getty Museum)</display>
+           <date pref="true" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1755</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="false">1765</date>
                </latestDate>
            </date>
-           <date type="exhibition" source="">
+           <date pref="false" type="creation">
                <earliestDate>
-                   <date circa="false"></date>
+                   <date circa="true" type="about">1760</date>
+               </earliestDate>
+           </date>
+           <date pref="false" type="creation" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="true" type="about">1760</date>
                </earliestDate>
                <latestDate>
-                   <date circa="false"></date>
+                   <date circa="true" type="about">1765</date>
+               </latestDate>
+           </date>
+           <date pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <earliestDate>
+                   <date circa="false">2012-10-30</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="false">2013-01-27</date>
                </latestDate>
            </date>
        </dateSet>
        <descriptionSet>
-           <description>
-               <text></text>
+           <description pref="true" source="J. Paul Getty Museum. Handbook of the Collections. Los Angeles: J. Paul Getty Museum, 1991; Page: 102.">
+               <text>When closed, this stand appears to be in the form of a table, yet it extends andopens in a complex manner to serve several functions. In the center of the writing surface is the coat-of-arms of Johann Philipp von Walderdorff, Elector and Archbishop of Trier.</text>
                <author>
-                   <name refid="" type="" vocab=""></name>
-                   <role type="code" vocab="marcrelator"></role>
+                   <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="false" source="J. Paul Getty Museum">
+               <text>When closed, this stand appears to be in the form of a table, yet it extends and opens in a complex manner to serve several functions. The height and angle of the upper section can be raised or lowered to form a reading stand, while narrow drawers pop open from the sides. The lower section has two hinged compartments, each containing eight small drawers.
+                   
+                   The stand is covered with a pattern of geometric parquetry and inlaid with ivory and mother-of pearl. In the center of the writing surface is the coat-of-arms of Johann Philipp von Walderdorff, Elector and Archbishop of Trier. Walderdorff filled his palace with elegant furniture, commissioning more than twenty pieces from the maker of this stand, Abraham Roentgen.</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="J. Paul Getty Museum">
+               <text>Exhibitions
+                   Extravagant Inventions: The Princely Furniture of the Roentgens (October 30, 2012 to January 27, 2013)
+                   The Metropolitan Museum of Art (New York), October 30, 2012 to January 27, 2013</text>
+               <author>
+                   <name refid="147804499" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                   <role type="code" vocab="marcrelator">aut</role>
                </author>
            </description>
        </descriptionSet>
        <inscriptionSet>
-           <inscription>
-               <author refid="" vocab=""></author>
-               <position></position>
-               <text type="text"></text>
+           <display>Markings: The tabletop bears the archepiscopal coat of arms and the monogram "JPC" for Johann Philipp Churfurst von Walderdorff.</display>
+           <inscription source="J. Paul Getty Museum">
+               <author refid="42004058" vocab="viaf">Roentgen, Abraham</author>
+               <position>tabletop</position>
+               <text type="mark">archepiscopal coat of arms</text>
+               <text type="text">monogram "JPC"</text>
            </inscription>
        </inscriptionSet>
        <locationSet>
-           <location type="repository">
-               <refid type="accession"></refid>
+           <location pref="true" type="repository">
+               <refid type="accession">85.DA.216</refid>
+               <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+               <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+               <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation" source="J. Paul Getty Museum">
+               <name refid="7005100" type="geographic" vocab="tgn" extent="inhabited place">Neuwied</name>
+               <name refid="7003682" type="geographic" vocab="tgn" extent="state">Rhineland Palatinate</name>
+               <name refid="7000084" type="geographic" vocab="tgn" extent="nation">Germany</name>
+               <name refid="1000003" type="geographic" vocab="tgn" extent="continent">Europe</name>
+           </location>
+           <location pref="false" type="exhibition" source="J. Paul Getty Museum">
+               <refid type="other">Extravagant Inventions: The Princely Furniture of the Roentgens (October 30, 2012 to January 27, 2013)</refid>
+               <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+               <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+               <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
            </location>
        </locationSet>
        <materialSet>
-           <material refid="" type="medium" vocab="aat"></material>
-           <material refid="" type="support" vocab="aat"></material>
+           <display>oak veneered with palisander, alder, rosewood, ivory, and mother-of-pearl; parquetry decoration</display>
+           <material refid="300012264" type="medium" vocab="aat">oak</material>
+           <material refid="300011918" type="medium" vocab="aat">alder</material>
+           <material refid="300012424" type="medium" vocab="aat">rosewood</material>
+           <material refid="300011857" type="medium" vocab="aat">ivory</material>
+           <material refid="300011835" type="medium" vocab="aat">mother of pearl</material>
+           <material refid="300012620" type="medium" vocab="aat" source="J. Paul Getty Museum">pine</material>
+           <material refid="300012476" type="medium" vocab="aat" source="J. Paul Getty Museum">walnut</material>
+           <material refid="300375333" type="medium" vocab="aat" source="J. Paul Getty Museum">palisander</material>
+           <material refid="300012055" type="medium" vocab="aat" source="J. Paul Getty Museum">ebony</material>
+           <material refid="300379350" type="medium" vocab="aat" source="J. Paul Getty Museum">gilding</material>
+           <material refid="300012855" type="medium" vocab="aat" source="CONA">veneer</material>
+           <material refid="300010900" type="medium" vocab="aat" source="CONA">metal</material>
        </materialSet>
        <measurementsSet>
-           <measurements type="height" unit="cm"></measurements>
-           <measurements type="width" unit="cm"></measurements>
+           <measurements type="height" unit="cm">77.47</measurements>
+           <measurements type="length" unit="cm">71.75</measurements>
+           <measurements type="depth" unit="cm" source="J. Paul Getty Museum">48.9</measurements>
        </measurementsSet>
        <relationSet>
-           <relation type="imageIs" relids="i_f44_GermanDesk">general view</relation>
+           <relation type="imageIs" relids="i_f44_GermanDesk_1">3/4 left all open</relation>
+           <relation type="imageIs" relids="i_f44_GermanDesk_2">Inlayed coat of arms</relation>
        </relationSet>
        <sourceSet>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_9-ViewInformation.pdf#page=19</refid>
+               <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 277. Figure 44. Image Record Linked to Work and Authority Records: German Desk.</name>
            </source>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
+           <source pref="false">
+               <refid type="URI">http://www.getty.edu/art/collection/objects/5880</refid>
+               <name type="electronic">J. Paul Getty Museum</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">http://vocab.getty.edu/page/cona/700006469</refid>
+               <name type="electronic">CONA</name>
            </source>
        </sourceSet>
-       <subjectSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300021155" vocab="aat" source="CONA">Rococo</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
            <subject>
-               <term refid="" vocab="" type=""></term>
+               <term refid="300343813" vocab="aat" type="conceptTopic">studying</term>
            </subject>
-       </subjectSet>
+           <subject>
+               <term refid="300248178" vocab="aat" type="conceptTopic">reading</term>
+           </subject>
+           <subject>
+               <term refid="300054698" vocab="aat" type="conceptTopic">writing</term>
+           </subject>
+           <subject>
+               <term refid="300126352" vocab="aat" type="descriptiveTopic">coat of arms</term>
+           </subject>
+           <subject>
+               <term refid="64802215" vocab="viaf" type="personalName">Walderdorff, Johann Philipp von</term>
+           </subject>
+            <subject source="CONA">
+               <term refid="300164527" vocab="aat" type="descriptiveTopic">writing stands</term>
+            </subject>
+        </subjectSet>
        <techniqueSet>
-           <technique refid="" vocab=""></technique>
+           <technique refid="300053607" vocab="aat">cabinetmaking</technique>
+           <technique refid="300053858" vocab="aat">parquetry</technique>
+           <technique refid="300053878" vocab="aat">veneering</technique>
+           <technique refid="300053789" vocab="aat" source="CONA">gilding</technique>
        </techniqueSet>
        <titleSet>
-           <title type="repository"></title>
+           <title pref="true" type="repository">Reading and Writing Stand</title>
        </titleSet>
        <worktypeSet>
-           <worktype refid="" vocab="aat"></worktype>
+           <worktype refid="300037680" vocab="aat">furniture</worktype>
+           <worktype refid="300411641" vocab="aat">decorative art</worktype>
+           <worktype refid="300039414" vocab="aat">reading desk</worktype>
+           <worktype refid="300039548" vocab="aat">tables</worktype>
+           <worktype refid="300039767" vocab="aat" source="CONA">stand</worktype>
        </worktypeSet>
    </work>
-    <image id="i_f44_GermanDesk" href="">
+    <image id="i_f44_GermanDesk_1" href="http://www.getty.edu/museum/media/images/web/download/00674001.jpg">
         <agentSet>
             <agent>
-                <name></name>
-                <role></role>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
             </agent>
         </agentSet>
         <relationSet>
             <relation type="imageOf" relids="w_f44_GermanDesk">attachment</relation>
         </relationSet>
         <rightsSet>
-            <rights type="">
-                <rightsHolder></rightsHolder>
-                <text></text>
+            <rights type="publicDomain">
+                <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+                <text>Digital image courtesy of the Getty's Open Content Program.</text>
             </rights>
         </rightsSet>
         <sourceSet>
             <source>
-                <refid type="URI"></refid>
-                <name type="electronic"></name>
+                <refid type="URI">http://www.getty.edu/art/collection/objects/5880/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
             </source>
         </sourceSet>
         <titleSet>
-            <title type="generalView"></title>
+            <title type="generalView">3/4 left all open</title>
+        </titleSet>
+    </image>
+    <image id="i_f44_GermanDesk_2" href="http://www.getty.edu/museum/media/images/web/download/00674001.jpg">
+        <agentSet>
+            <agent>
+                <name refid="133364221" type="corporate" vocab="viaf">J. Paul Getty Museum</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <descriptionSet>
+            <description>
+                <text>detail of the desktop with inlaid coat of arms</text>
+                <author>
+                    <name refid="314377300" type="personal" vocab="viaf">Baca, Murtha</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f44_GermanDesk">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="publicDomain">
+                <rightsHolder>The J. Paul Getty Museum</rightsHolder>
+                <text>Digital image courtesy of the Getty's Open Content Program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">http://www.getty.edu/art/collection/objects/5880/</refid>
+                <name type="electronic">J. Paul Getty Museum</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="300264741" vocab="aat" type="descriptiveTopic">detail views</term>
+            </subject>
+            <subject>
+                <term refid="300264740" vocab="aat" type="descriptiveTopic">overhead views</term>
+            </subject>
+        </subjectSet>
+        <titleSet>
+            <title type="partialView">Inlayed coat of arms</title>
         </titleSet>
     </image>
 </vra>

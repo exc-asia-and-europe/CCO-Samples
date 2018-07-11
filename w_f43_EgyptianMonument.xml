@@ -140,6 +140,11 @@
                 <name type="electronic">Flickr</name>
             </source>
         </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="300015503" vocab="aat" type="descriptiveTopic">oblique views</term>
+            </subject>
+        </subjectSet>
         <titleSet>
             <title type="generalView">'Le Sphinx Armachis, Caire' (The Sphinx Armachis, Cairo)</title>
         </titleSet>

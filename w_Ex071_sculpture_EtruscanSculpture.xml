@@ -53,13 +53,9 @@
            <measurements type="length" unit="cm">18.41</measurements>
        </measurementsSet>
        <sourceSet>
-           <source pref="true">
+           <source>
                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_71_etruscan_sculpture</refid>
                <name type="electronic">Cataloging Cultural Objects Commons. Example 71: Etruscan sculpture.</name>
-           </source>
-           <source>
-               <refid type="URI"></refid>
-               <name type="electronic"></name>
            </source>
        </sourceSet>
        <subjectSet>

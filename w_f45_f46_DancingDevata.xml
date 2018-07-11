@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_f45_f46_DancingDevata" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <name refid="100626803" type="personal" vocab="viaf">unknown Indian</name>
+               <role type="code" vocab="marcrelator">scl</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300018863">Indian</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <display>early 12th century</display>
+           <date pref="false" type="creation">
+               <earliestDate>
+                   <date circa="true" type="after">1100</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="true" type="before">1200</date>
+               </latestDate>
+           </date>
+           <date pref="true" type="creation" source="Metropolitan Museum of Art">
+               <earliestDate>
+                   <date circa="true" type="after">1100</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="true" type="before">1150</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="true" source="Metropolitan Museum of Art">
+               <text>Imagine posing as a model for this dancing female figure. You'll soon realize that this striking pose is anatomically impossible. Yet the sculptor has captured the essence of continuous, whirling motion.
+                   
+                   This 12th-century figure ornamented a north Indian Hindu temple, in what's now Uttar Pradesh. She represents one of many celestial or semidivine attendants, dancing reverently for the main deity of the temple. Some temples kept troops of real women who danced for the god to please him.
+                   
+                   You can see a stylistic shift away from the plain surfaces of the Gupta era. The eye-catching jewelry and costume emphasize surface ornament-especially as a contrast to the smooth, abundant flesh. The exaggerated pose focuses attention on the figure's lively contours. The spikes on the crown, the swaying necklace, and tassels around the waist amplify the impression of rhythmic, dancing movement, and lend verisimilitude to the abstract body. </text>
+               <author>
+                   <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art.</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+           <description pref="false" source="Metropolitan Museum of Art">
+               <text>Provenance
+                   The work was acquired by Florence and Herbert Irving in two parts, bust and lower torso, and joined by MMA in 1992. Bust: [Th. Hustinx, The Hague, until 1986, sold to the Irvings]; Florence and Herbert Irving, New York (1986–2015, on loan to MMA 1992–2015; donated to MMA); Lower torso: [Art of the Past, Inc., New York, until 1992, sold to the Irvings]; Florence and Herbert Irving, New York (1992–2015, on loan to MMA 1992–2015; donated to MMA) Exhibition history: The work has been on loan to and on display at The Metropolitan Museum of Art since 1993. Publication Information: Kossak, Steven M. and Martin Lerner, "The Arts of South and Southeast Asia." The Metropolitan Museum of Art Bulletin 51 (Spring 1994), pp. 49–51, fig. 44, cover image; Kossak, Steven M. "The Arts of South and Southeast Asia: New Galleries at the Metropolitan Museum." Minerva 5, no. 4: pp. 10, fig. 4; Hearn, Maxwell K. "Introduction: The Florence and Herbert Irving Collection at the Metropolitan Museum of Art." Arts of Asia, November-December 2015: pp. 67–75, fig. 10.
+                   
+                   Bust: [ Th. Hustinx , The Hague, until 1986, sold to the Irvings]; Florence and Herbert Irving , New York (1986–2015, on loan to MMA 1992–2015; donated to MMA); Lower torso: [ Art of the Past, Inc. , New York, until 1992, sold to the Irvings]; Florence and Herbert Irving , New York (1992–2015, on loan to MMA 1992–2015; donated to MMA) </text>
+               <author>
+                   <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art.</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <locationSet>
+           <location pref="true" type="repository">
+               <refid type="accession">2015.500.4.14</refid>
+               <name refid="126238294" type="corporate" vocab="viaf">Metropolitan Museum of Art</name>
+               <name refid="7007567" type="geographic" vocab="tgn" extent="inhabited place">New York</name>
+               <name refid="7007568" type="geographic" vocab="tgn" extent="state">New York</name>
+               <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+               <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+           </location>
+           <location pref="false" type="creation">
+               <name refid="7016722" type="geographic" vocab="tgn" extent="state">Uttar Pradesh</name>
+               <name refid="7000198" type="geographic" vocab="tgn" extent="nation">India</name>
+               <name refid="1000004" type="geographic" vocab="tgn" extent="continent">Asia</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <material refid="300011176" type="medium" vocab="aat">stone</material>
+           <material refid="300011376" type="medium" vocab="aat" source="Metropolitan Museum of Art">sandstone</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm">85.1</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_f45_f46_DancingDevata">general view</relation>
+       </relationSet>
+        <rightsSet>
+            <rights type="other">
+                <rightsHolder>Metropolitan Museum of Art</rightsHolder>
+                <text>Gift of Florence and Herbert Irving, 2015</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/downloads/PartThree_A1-PersonalCorporateName.pdf#page=3</refid>
+               <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 281. Figure 45. Unknown Artist’s Appellation Constructed for End Users. Figure 46. Unknown Artist’s Appellation Stored in Authority File.</name>
+           </source>
+           <source pref="false">
+               <refid type="URI">https://www.metmuseum.org/art/collection/search/38153</refid>
+               <name type="electronic">Metropolitan Museum of Art</name>
+           </source>
+       </sourceSet>
+       <subjectSet>
+           <subject>
+               <term refid="300400859" vocab="aat" type="descriptiveTopic">movement</term>
+           </subject>
+           <subject>
+               <term refid="300054144" vocab="aat" type="descriptiveTopic">dance</term>
+           </subject>
+           <subject>
+               <term>Devata</term>
+           </subject>
+       </subjectSet>
+       <titleSet>
+           <title pref="true" type="repository">Dancing Celestial Deity (Devata)</title>
+           <title pref="false" type="other">Dancing Devata</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300047090" vocab="aat">sculpture</worktype>
+           <worktype refid="300047600" vocab="aat">statues</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_f45_f46_DancingDevata" href="https://images.metmuseum.org/CRDImages/as/web-large/DP-1062-001.jpg">
+        <agentSet>
+            <agent>
+                <name refid="126238294" type="corporate" vocab="viaf">Metropolitan museum of art (New York, N.Y.)</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_f45_f46_DancingDevata">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights href="http://www.metmuseum.org/information/terms-and-conditions"
+                type="publicDomain">
+                <rightsHolder>The Metropolitan Museum of Art.</rightsHolder>
+                <text>Digital image courtesy of the Met's Open Access for Scholarly Content Program.</text>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://www.metmuseum.org/art/collection/search/38153</refid>
+                <name type="electronic">Metropolitan Museum of Art</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Dancing Celestial Deity (Devata)</title>
+        </titleSet>
+    </image>
+</vra>

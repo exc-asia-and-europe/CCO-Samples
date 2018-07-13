@@ -64,7 +64,7 @@
             <measurements extent="sheet" pref="true" source="Getty Research Institute" type="width" unit="cm">105</measurements>
         </measurementsSet>
         <relationSet>
-            <relation pref="false" refid="92-B27718" extent="plate 1" href="http://primo.getty.edu/GRI:GETTY_ALMA21132893560001551" type="partOf">Blaeu, Joan. Theatrum civitatum nec non admirandorum Neapolis et Siciliae regnorum; Amsterdam: Joan Blaeu, 1663.</relation>
+            <relation pref="false" relids="w_Ex050_printsdr_Book" type="partOf">Blaeu, Joan. Theatrum civitatum nec non admirandorum Neapolis et Siciliae regnorum; Amsterdam: Joan Blaeu, 1663.</relation>
             <relation pref="true" relids="i_Ex049_printsdr_PrintMap" type="imageIs">general view</relation>
         </relationSet>
         <sourceSet>
@@ -136,4 +136,124 @@
          <title type="generalView">Napoli</title>
       </titleSet>
    </image>
+    <work id="w_Ex050_printsdr_Book" refid="c_CCO_Examples">
+        <agentSet>
+            <display>Joan Blaeu (Dutch, 1596-1673), with Bastiaen Stopendaal (Dutch, 1637-before 1707)</display>
+            <agent>
+                <dates type="life">
+                    <earliestDate circa="false">1596</earliestDate>
+                    <latestDate circa="false">1673</latestDate>
+                </dates>
+                <name refid="41887929" type="personal" vocab="viaf">Joan Blaeu</name>
+                <role type="code" vocab="marcrelator">pbl</role>
+            </agent>
+            <agent>
+                <dates type="life">
+                    <earliestDate circa="false">1637</earliestDate>
+                    <latestDate circa="true" type="before">1707</latestDate>
+                </dates>
+                <name refid="27049976" type="personal" vocab="viaf">Stopendael, Bastiaenu</name>
+                <role type="code" vocab="marcrelator">prm</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext vocab="aat" refid="300111175">Dutch</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <date type="creation">
+                <earliestDate>
+                    <date circa="false">1663</date>
+                </earliestDate>
+                <latestDate>
+                    <date circa="false">1663</date>
+                </latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <description source="Getty Research Library, Special Collections database.">
+                <text>With the exception of 2 double folded leaves of plates, all etchings are on pages backed with text. There are 8 half page, 1 single and 22 double page etchings, all colored.</text>
+                <author>
+                    <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                    <role type="code" vocab="marcrelator">edt</role>
+                </author>
+            </description>
+            <description source="Getty Research Institute">
+                <text>Half title only, no t.p. Blaeu has signed the dedication Joannes Blaeu, Amstelædamensis after giving the title as: Theatrum civitatum et admirandorum Neapolis et Siciliae regnorum. Some duplicating of page nos. (e.g., 51, 52, 51b, 52, 51, 52b). With the exception of the two double folded leaves of plates, all etchings are on pages backed with text. There are 8 half page, 1 single and 22 double page etchings, all colored. The first, of Naples, is signed Bastiaen Stopendaal. Although paged separately, sections on Naples and Sicily have no separating half title or title page, or caption title. Complements the 2 vol. set published the same year: Theatrum civitatum et admirandorum Italiae. (SPECIAL OVERSIZE 85-B12691). Library's copy lacks final 2 p. including the ill. for Calaris.</text>
+                <author>
+                    <name refid="125395425" type="corporate" vocab="viaf">Getty Research Institute</name>
+                    <role type="code" vocab="marcrelator">aut</role>
+                </author>
+            </description>
+        </descriptionSet>
+        <locationSet>
+            <location type="repository">
+                <refid type="accession">92-B27718</refid>
+                <refid type="accession" source="Getty Research Institute">NA9203 .B631 1663</refid>
+                <refid type="accession" source="Getty Research Institute">48596256</refid>
+                <name refid="125395425" type="corporate" vocab="viaf">Getty Research Institute</name>
+                <name refid="7023900" type="geographic" vocab="tgn" extent="inhabited place">Los Angeles</name>
+                <name refid="7007157" type="geographic" vocab="tgn" extent="state">California</name>
+                <name refid="7012149" type="geographic" vocab="tgn" extent="nation">United States</name>
+                <name refid="1000001" type="geographic" vocab="tgn" extent="continent">North and Central America</name>
+            </location>
+        </locationSet>
+        <materialSet>
+            <material refid="300014109" type="support" vocab="aat">paper</material>
+        </materialSet>
+        <measurementsSet>
+            <measurements type="count" unit="page">78</measurements>
+            <measurements type="count" unit="folded leaf">2</measurements>
+        </measurementsSet>
+        <relationSet>
+            <relation type="largerContextFor" relids="w_Ex049_printsdr_PrintMap">View of Naples</relation>
+        </relationSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_7_prints_and_drawings/example_50_book</refid>
+                <name type="electronic">Cataloging Cultural Objects Commons. Example 50: Book.</name>
+            </source>
+            <source>
+                <refid type="URI">http://primo.getty.edu/GRI:GETTY_ALMA21132893560001551</refid>
+                <name type="electronic">Getty Research Institute</name>
+            </source>
+            <source pref="false">
+                <refid type="URI">http://cco.vrafoundation.org/downloads/PartTwo_4-StylisticCulturalChronological.pdf#page=24</refid>
+                <name type="book">Baca, Murtha et. al. Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images. Chicago: American Library Association, 2006, 232. Figure 35. Work Record with Geographic Subject: Book of Maps.</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="300015571" vocab="aat" type="descriptiveTopic">cityscapes</term>
+            </subject>
+            <subject>
+                <term refid="300015636" vocab="aat" type="descriptiveTopic">landscapes (representations)</term>
+            </subject>
+            <subject>
+                <term refid="300028094" vocab="aat" type="descriptiveTopic">maps</term>
+            </subject>
+            <subject>
+                <term refid="7594681" vocab="tgn" type="geographicPlace">Kingdom of Sicily</term>
+            </subject>
+            <subject>
+                <term refid="7003012" vocab="tgn" type="geographicPlace">Kingdom of Naples</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique refid="300053241" vocab="aat">etching</technique>
+            <technique refid="300053319" vocab="aat">printing</technique>
+            <technique refid="300133555" vocab="aat">hand coloring</technique>
+        </techniqueSet>
+        <titleSet>
+            <title type="repository">Theatrum civitatum nec non admirandorum Neapolis et Siciliae regnorum</title>
+            <title type="inscribed">Theatrvm civitatvm nec non admirandorvm Neapolis et Siciliæ regnorvm</title>
+            <title type="translated">Views of the Cities and Sights of the Realm of Naples and Sicily</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype refid="300028051" vocab="aat">books</worktype>
+            <worktype refid="300028094" vocab="aat">maps</worktype>
+            <worktype refid="300041365" vocab="aat">etchings</worktype>
+            <worktype refid="300263886" vocab="aat">plans</worktype>
+            <worktype refid="300015537" vocab="aat">panoramas</worktype>
+        </worktypeSet>
+    </work>
 </vra>

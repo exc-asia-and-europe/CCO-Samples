@@ -11,12 +11,15 @@
             <culturalContext vocab="AAT" refid="300019199">Thai</culturalContext>
         </culturalContextSet>
         <dateSet>
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
             <display>15th century</display>
             <date type="creation">
                 <earliestDate>
+                    <alternativeNotation>B.E. 1943</alternativeNotation>
                     <date circa="false">1400</date>
                 </earliestDate>
                 <latestDate>
+                    <alternativeNotation>B.E. 2042</alternativeNotation>
                     <date circa="false">1499</date>
                 </latestDate>
             </date>

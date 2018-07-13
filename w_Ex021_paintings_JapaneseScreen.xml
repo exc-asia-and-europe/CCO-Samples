@@ -16,6 +16,7 @@
         </culturalContextSet>
         <dateSet>
 <!-- This dateSet employs the Cluster extension for the creation date given by the repository in addition to the dates given in the CCO example to express more specifically the circa value. -->
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
             <display>probably done sometime between 1711 and 1716</display>
             <date type="creation" dataDate="2016-04-26-10-36-24">
                 <earliestDate>
@@ -28,6 +29,7 @@
             <date source="Metropolitan Museum of Art" type="creation" dataDate="2015-05-04-11-00-06">
                 <earliestDate>
                     <date circa="true" type="after">1709</date>
+                    <alternativeNotation>Hōei 6 (宝永６年)</alternativeNotation>
                 </earliestDate>
             </date>
 	    <date type="exhibition" source="Metropolitan Museum of Art">

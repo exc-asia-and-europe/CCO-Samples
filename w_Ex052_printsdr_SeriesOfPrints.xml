@@ -22,11 +22,14 @@
             <culturalContext vocab="AAT" refid="300018519">Japanese (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
             <date type="creation" dataDate="2016-06-02-11-38-39">
                 <earliestDate>
+                    <alternativeNotation>Bunsei 10 (文政１０年)</alternativeNotation>
                     <date circa="false">1827</date>
                 </earliestDate>
                 <latestDate>
+                    <alternativeNotation>Tenpō 8 (天保８年)</alternativeNotation>
                     <date circa="false">1837</date>
                 </latestDate>
             </date>
@@ -388,8 +391,9 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
             <culturalContext vocab="AAT" refid="300018519">Japanese (culture or style)</culturalContext>
         </culturalContextSet>
         <dateSet>
-<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value more specifically. -->
-	    <display>created ca. 1831-1833 (CCO) / ca. 1830-31 (Met)</display>
+            <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value more specifically. -->
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
+	        <display>created ca. 1831-1833 (CCO) / ca. 1830-31 (Met)</display>
             <date pref="false" type="creation" dataDate="2016-06-02-10-57-21">
                 <earliestDate>
                     <date circa="false">1828</date>
@@ -401,9 +405,11 @@ Hokusai was also a supreme observer of the natural environment. The artist frequ
             <date pref="true" type="creation" source="Metropolitan Museum of Art" dataDate="2015-11-11-16-26-01">
                 <earliestDate>
                     <date circa="true" type="about">1830</date>
+                    <alternativeNotation>Bunsei 13 / Tenpō 1 (天保元年)</alternativeNotation>
                 </earliestDate>
                 <latestDate>
                     <date circa="true" type="about">1832</date>
+                    <alternativeNotation>Tenpō 3 (天保３年)</alternativeNotation>
                 </latestDate>
             </date>
             <date pref="false" type="exhibition" source="Metropolitan Museum of Art">

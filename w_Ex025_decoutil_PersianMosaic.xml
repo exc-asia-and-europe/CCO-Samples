@@ -11,12 +11,15 @@
             <culturalContext vocab="AAT" refid="300019933">Persian (culture)</culturalContext>
         </culturalContextSet>
         <dateSet>
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
             <display>16th century</display>
             <date type="creation" dataDate="2016-04-26-13-07-42">
                 <earliestDate>
+                    <alternativeNotation>905 anno Hegirae</alternativeNotation>
                     <date circa="false">1500</date>
                 </earliestDate>
                 <latestDate>
+                    <alternativeNotation>1007 anno Hegirae</alternativeNotation>
                     <date circa="false">1599</date>
                 </latestDate>
             </date>

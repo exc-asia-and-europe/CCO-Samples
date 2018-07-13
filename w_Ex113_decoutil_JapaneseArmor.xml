@@ -20,7 +20,8 @@
             <culturalContext vocab="AAT" refid="300018519">Japanese</culturalContext>
         </culturalContextSet>
         <dateSet>
-<!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value specifically. -->
+            <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value specifically. -->
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
             <display>yoroi: early 14th century; helmet: mid-14th century (CCO) / early–mid-14th century (Met)</display>
             <date extent="yoroi" type="creation">
                 <earliestDate>
@@ -41,9 +42,11 @@
             <date type="creation" source="Metropolitan Museum of Art">
                 <earliestDate>
                     <date circa="true" type="after">1300</date>
+                    <alternativeNotation>Shōan 2 (正安２年)</alternativeNotation>
                 </earliestDate>
                 <latestDate>
                     <date circa="true" type="before">1375</date>
+                    <alternativeNotation>Ōan 8 / Eiwa 1 (永和元年)</alternativeNotation>
                 </latestDate>
             </date>
         </dateSet>

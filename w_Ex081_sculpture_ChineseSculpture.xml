@@ -13,6 +13,7 @@
         </culturalContextSet>
         <dateSet>
 <!-- This dateSet employs the Cluster extension in addition to the dates given in the CCO example to express the circa value. -->
+            <!-- This dateSet employs the Cluster extension to express a date in a non-Gregorian calendar. -->
 	    <display>Tang dynasty, ca. 700</display>
             <date pref="true" type="creation">
                 <earliestDate>

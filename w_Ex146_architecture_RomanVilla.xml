@@ -324,6 +324,7 @@ Ancient Art from the Permanent Collection (March 16, 1999 to May 23, 2004)
         </measurementsSet>
         <relationSet>
             <relation type="imageIs" relids="i_Ex072_sculpture_RomanSculpture">general view</relation>
+            <relation type="formerlyPartOf" relids="w_Ex146_architecture_RomanVilla">Hadrian's Villa</relation>
         </relationSet>
 	<rightsSet>
 	    <rights type="other" source="J. Paul Getty Museum">

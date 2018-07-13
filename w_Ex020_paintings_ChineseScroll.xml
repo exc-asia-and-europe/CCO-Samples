@@ -229,11 +229,12 @@ Written at the capital in the 27th year [1847], ninth month of the Tao-kuang rei
            <technique refid="300404638" vocab="aat" source="Cardscorporate">ink wash</technique>
        </techniqueSet>
        <titleSet>
+           <!-- We'd like to thank Ms. Mimi Huang and the other kind employees of the Saint Louis Art Museum for providing us with the Chinese title.-->
            <display>The title appears three times: the first as a paper label on the brocade mounting cover (baoshou) by Shao Zhang (d. 1954); second as five large Chinese characters at the beginning of the handscroll (ti) by Qi Junzao (1793–1866); and third as four characters on the painting by the artist Dai Xi (1801–1860).  Source: Description of the work based on the Categories for the Description of Works of Art</display>
            <title pref="false" type="repository">Viewing the Waterfall at Longqiu</title>
            <title pref="false" lang="chi" type="inscribed">Longqiu guanpo tu</title>
            <title pref="false" lang="chi" type="repository" source="private correspondence" transliteration="pinyin">Longqiu guan pu tu juan</title>
-           <title pref="true" lang="chi" type="repository" source="private correspondence" script="hant">龍湫觀瀑圖卷</title>
+           <title pref="true" lang="chi" type="repository" source="private correspondence" script="Hant">龍湫觀瀑圖卷</title>
        </titleSet>
        <worktypeSet>
            <worktype refid="300033618" vocab="aat">paintings (visual works)</worktype>

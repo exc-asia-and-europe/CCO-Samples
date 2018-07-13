@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://cluster-schemas.uni-hd.de/vra-strictCluster.xsd">
+    <work id="w_Ex084_sculpture_ModernMaquette" refid="c_CCO_Examples">
+       <agentSet>
+           <agent>
+               <culture>Latvian</culture>
+               <dates type="life">
+                   <earliestDate circa="false">1895</earliestDate>
+                   <latestDate circa="false">1938</latestDate>
+               </dates>
+               <name refid="103612525" type="personal" vocab="viaf">Klucis, Gustavs</name>
+               <role type="code" vocab="marcrelator" source="A Critical Look">dsr</role>
+           </agent>
+           <agent source="A Critical Look">
+               <name refid="100627125" type="personal" vocab="viaf">unknown</name>
+               <role type="code" vocab="marcrelator">cre</role>
+           </agent>
+       </agentSet>
+       <culturalContextSet>
+           <culturalContext vocab="aat" refid="300111276">Russian</culturalContext>
+           <culturalContext vocab="aat" refid="300386387">Latvian</culturalContext>
+       </culturalContextSet>
+       <dateSet>
+           <date pref="false" type="design" source="A Critical Look">
+               <earliestDate>
+                   <date circa="false">1922</date>
+               </earliestDate>
+           </date>
+           <date pref="true" type="creation" source="A Critical Look">
+               <earliestDate>
+                   <date circa="true" type="about">1950</date>
+               </earliestDate>
+               <latestDate>
+                   <date circa="true" type="about">1977</date>
+               </latestDate>
+           </date>
+       </dateSet>
+       <descriptionSet>
+           <description pref="false" source="Museum of Modern Art online. www.moma.org  Page: accessed 22 December 2006">
+               <text>Klucis made this maquette, or model, as a design for a “radio-announcer”-a street-based loudspeaker-to be placed at city intersections, where it was to broadcast a speech by Lenin on the fifth anniversary of the Russian Revolution. An architecture of struts and cables supports geometric panels and gaily painted loudspeakers. The work clearly announces its purpose: the name “Lenin” appears in large red letters on an arrangement of vanes.</text>
+               <author>
+                   <name refid="131347215" type="corporate" vocab="viaf">Visual Resources Association</name>
+                   <role type="code" vocab="marcrelator">edt</role>
+               </author>
+           </description>
+           <description pref="true" source="A Critical Look">
+               <text>Through these tests, I found that the pigment used on the Maquette was rutile titanium white, a pigment that was only available after Klutsis’s death in 1938. [...] Further analysis of the sculpture’s elements using microscopes and a variety of spectroscopic tools revealed that the Maquette includes both some materials available during Klutsis’s lifetime and many more available only after his death. Only two parts could possibly date from the early 1920s, when the Maquette was believed to have been made: one speaker and the small box on which it is glued. [...] While the papers used in the two speakers differ in age, both appear to have been glued up at the same time, later than the supposed date of the work. The border between the black-and-white graphic bursts emanating from the sound-driver inside each speaker has a coating of polyvinyl acetate (PVA), a material that was not available in 1922. [...] All of this suggests that the speakers were assembled some time after Klutsis’s death. Thus, even if some of the elements were made in the 1920s, they could not have existed as a three-dimensional structure at that time. When taking into account the date of the paper used for the construction of the antenna fins, the earliest date the work could have been assembled is 1950.</text>
+               <author>
+                   <name>Chris McGlinchey</name>
+                   <role type="code" vocab="marcrelator">aut</role>
+               </author>
+           </description>
+       </descriptionSet>
+       <inscriptionSet>
+           <inscription source="A Critical Look">
+               <author/>
+               <position>four antenna "fins"</position>
+               <text lang="rus" script="Cyrl" type="text">Ленин</text>
+               <text lang="eng" type="translation">“Lenin Voice”</text>
+           </inscription>
+       </inscriptionSet>
+       <locationSet>
+           <location type="repository">
+               <refid type="accession">unavailable</refid>
+               <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+               <name refid="7007567" vocab="tgn" type="geographic" extent="inhabited place">New York</name>
+               <name refid="7007568" vocab="tgn" type="geographic" extent="state">New York</name>
+               <name refid="7012149" vocab="tgn" type="geographic" extent="nation">United States</name>
+               <name refid="1000001" vocab="tgn" type="geographic" extent="continent">North and Central America</name>
+           </location>
+       </locationSet>
+       <materialSet>
+           <display>construction piece made of painted cardboard, paper, wood, thread, and metal brads</display>
+           <material refid="300014224" type="medium" vocab="aat">cardboard</material>
+           <material refid="300014109" type="medium" vocab="aat">paper</material>
+           <material refid="300011914" type="medium" vocab="aat">wood</material>
+           <material refid="300014250" type="medium" vocab="aat">thread</material>
+           <material refid="300036371" type="medium" vocab="aat">brads</material>
+           <material refid="300015029" type="medium" vocab="aat" source="A Critical Look">paint</material>
+       </materialSet>
+       <measurementsSet>
+           <measurements type="height" unit="cm">106.1</measurements>
+           <measurements type="width" unit="cm">36.8</measurements>
+           <measurements type="depth" unit="cm">36.8</measurements>
+       </measurementsSet>
+       <relationSet>
+           <relation type="imageIs" relids="i_Ex084_sculpture_ModernMaquette">general view</relation>
+       </relationSet>
+       <sourceSet>
+           <source pref="true">
+               <refid type="URI">http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/category_examples_8_sculpture/example_84_modern_maquette_construction</refid>
+               <name type="electronic">Cataloging Cultural Objects Commons. Example 84: Modern maquette, construction.</name>
+           </source>
+           <source>
+               <refid type="URI">https://stories.moma.org/a-critical-look-how-science-cast-doubt-on-a-sculpture-attributed-to-gustav-klutsis-f750dcd77b36</refid>
+               <name type="electronic">A Critical Look: How Science Cast Doubt on a Sculpture Attributed to Gustav Klutsis</name>
+           </source>
+       </sourceSet>
+        <stylePeriodSet>
+            <stylePeriod refid="300264736" vocab="aat">Modern</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+           <subject>
+               <term refid="300069193" vocab="aat" type="conceptTopic">didactic art</term>
+           </subject>
+            <subject>
+                <term refid="300055539" vocab="aat" type="conceptTopic">propaganda</term>
+            </subject>
+            <subject>
+                <term refid="300249989" vocab="aat" type="descriptiveTopic">radio</term>
+            </subject>
+            <subject>
+                <term refid="7393146" vocab="viaf" type="personalName">Lenin, Vladimir Ilʹič</term>
+            </subject>
+            <subject>
+                <term refid="sh85125808" vocab="lcsh" type="conceptTopic">Soviet Union--History--Revolution, 1917-1921</term>
+            </subject>
+            <subject>
+                <term refid="300250653" vocab="aat" type="descriptiveTopic">loudspeakers</term>
+            </subject>
+            <subject>
+                <term refid="300263294" vocab="aat" type="conceptTopic">protests</term>
+            </subject>
+        </subjectSet>
+       <techniqueSet>
+           <technique refid="300047195" vocab="aat">constructions (sculpture)</technique>
+       </techniqueSet>
+       <titleSet>
+           <title type="former" source="A Critical Look">Maquette for Radio-Announcer</title>
+           <title type="repository" source="A Critical Look">Maquette derived from Radio Announcer drawings by Gustav Klutsis.</title>
+       </titleSet>
+       <worktypeSet>
+           <worktype refid="300047090" vocab="aat">sculpture</worktype>
+           <worktype refid="300417460" vocab="aat">conceptual art</worktype>
+           <worktype refid="300047837" vocab="aat">maquettes</worktype>
+           <worktype refid="300047195" vocab="aat">constructions (sculpture)</worktype>
+       </worktypeSet>
+   </work>
+    <image id="i_Ex084_sculpture_ModernMaquette" href="https://cdn-images-1.medium.com/max/1000/1*Pb0xvz_naiOIs1QV0Sk8xw.jpeg">
+        <agentSet>
+            <agent>
+                <name refid="163771056" vocab="viaf" type="corporate">Museum of Modern Art, New York</name>
+                <role type="code" vocab="marcrelator">cre</role>
+            </agent>
+        </agentSet>
+        <relationSet>
+            <relation type="imageOf" relids="w_Ex084_sculpture_ModernMaquette">attachment</relation>
+        </relationSet>
+        <rightsSet>
+            <rights type="copyrighted">
+                <rightsHolder>Museum of Modern Art, New York</rightsHolder>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <source>
+                <refid type="URI">https://stories.moma.org/a-critical-look-how-science-cast-doubt-on-a-sculpture-attributed-to-gustav-klutsis-f750dcd77b36</refid>
+                <name type="electronic">A Critical Look: How Science Cast Doubt on a Sculpture Attributed to Gustav Klutsis</name>
+            </source>
+        </sourceSet>
+        <titleSet>
+            <title type="generalView">Formerly described as a work by Gustav Klutsis from 1922. “Maquette derived from Radio Announcer drawings by Gustav Klutsis.” Completed c. 1950–77</title>
+        </titleSet>
+    </image>
+</vra>

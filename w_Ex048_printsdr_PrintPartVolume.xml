@@ -49,20 +49,20 @@
            <inscription>
                <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
                <position>upper center</position>
-               <text xml:lang="fre" type="text">CABINET DES BEAUX ARTS</text>
-               <text xml:lang="eng" type="translation" source="HRA">Cabinet of fine arts</text>
+               <text lang="fre" type="text">CABINET DES BEAUX ARTS</text>
+               <text lang="eng" type="translation" source="HRA">Cabinet of fine arts</text>
            </inscription>
            <inscription>
                <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
                <position>lower left</position>
-               <text xml:lang="fre" type="text">LE GENIE</text>
-               <text xml:lang="eng" type="translation" source="HRA">the genius</text>
+               <text lang="fre" type="text">LE GENIE</text>
+               <text lang="eng" type="translation" source="HRA">the genius</text>
            </inscription>
            <inscription>
                <author refid="5199920" vocab="viaf">Lepautre, Pierre</author>
                <position>lower right</position>
-               <text xml:lang="fre" type="text">LE TREVAIL</text>
-               <text xml:lang="eng" type="translation" source="HRA">the work</text>
+               <text lang="fre" type="text">LE TREVAIL</text>
+               <text lang="eng" type="translation" source="HRA">the work</text>
            </inscription>
        </inscriptionSet>
        <locationSet>
@@ -124,7 +124,7 @@
            <technique refid="300053225" vocab="aat">engraving</technique>
        </techniqueSet>
        <titleSet>
-           <title pref="true" type="inscribed">Le Cabinet des Beaux Arts</title>
+           <title pref="true" type="inscribed" lang="fre">Le Cabinet des Beaux Arts</title>
            <title pref="false" type="descriptive">View through a Door into a Library</title>
        </titleSet>
        <worktypeSet>

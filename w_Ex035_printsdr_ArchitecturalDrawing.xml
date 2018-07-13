@@ -38,7 +38,7 @@
             <inscription dataDate="2015-11-02-14-06-07">
                 <author refid="100627125" vocab="viaf">Anonim</author>
                 <position>lower right</position>
-                <text type="text">il panteon detto la ritonda</text>
+                <text lang="ita" type="text">il panteon detto la ritonda</text>
             </inscription>
         </inscriptionSet>
         <locationSet>
@@ -207,8 +207,8 @@
             <inscription source="The Pantheon official website.">
                 <author refid="100628022" vocab="viaf">unknown Ancient Roman</author>
                 <position>portico</position>
-                <text xml:lang="lat" type="text">Marcus Agrippa Luci filius consul tertium fecit</text>
-                <text xml:lang="eng" type="translation">Marco Agrippa, son of Lucio, consulate for the third time, built</text>
+                <text lang="lat" type="text">Marcus Agrippa Luci filius consul tertium fecit</text>
+                <text lang="eng" type="translation">Marco Agrippa, son of Lucio, consulate for the third time, built</text>
             </inscription>
         </inscriptionSet>
         <locationSet>

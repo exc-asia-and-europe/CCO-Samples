@@ -220,8 +220,8 @@ After beginning outdoors, Monet reworked each painting in his studio to create t
             <technique refid="300178684" vocab="aat">oil painting</technique>
         </techniqueSet>
         <titleSet>
-            <title pref="false" type="repository" xml:lang="fr">Meules, Effet de Neige, Le Matin</title>
-            <title pref="true" type="translated" xml:lang="en">Wheatstacks, Snow Effect, Morning</title>
+            <title pref="false" type="repository" lang="fre">Meules, Effet de Neige, Le Matin</title>
+            <title pref="true" type="translated" lang="eng">Wheatstacks, Snow Effect, Morning</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300033618" vocab="aat">paintings</worktype>

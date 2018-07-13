@@ -210,8 +210,8 @@
         <inscriptionSet>
             <inscription extent="in pencil" source="J. Paul Getty Museum" dataDate="2015-11-12-14-31-35">
                 <position>print, recto, upper center</position>
-                <text type="text" xml:lang="fre">Panneau 18</text>
-                <text type="translation" xml:lang="eng">Panel 18</text>
+                <text type="text" lang="fre">Panneau 18</text>
+                <text type="translation" lang="eng">Panel 18</text>
             </inscription>
             <inscription extent="inscribed on the negative" source="J. Paul Getty Museum">
                 <position>negative, lower right</position>
@@ -223,8 +223,8 @@
             </inscription>
             <inscription extent="imprinted in black ink" source="J. Paul Getty Museum" dataDate="2016-06-06-12-31-02">
                 <position>mount, recto, upper center</position>
-                <text type="caption" xml:lang="fre">Exposition Universelle de 1889/Etat d'Avancement/Au 188 /G. Eiffel, Ingenieur et Constructeur</text>
-                <text type="translation" xml:lang="eng">Universal Exposition of 1889 / State of Progress / Au 188 / G. Eiffel, Ingenieur and Builder</text>
+                <text type="caption" lang="fre">Exposition Universelle de 1889/Etat d'Avancement/Au 188 /G. Eiffel, Ingenieur et Constructeur</text>
+                <text type="translation" lang="eng">Universal Exposition of 1889 / State of Progress / Au 188 / G. Eiffel, Ingenieur and Builder</text>
             </inscription>
         </inscriptionSet>
         <locationSet>

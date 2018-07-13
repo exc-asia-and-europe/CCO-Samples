@@ -148,8 +148,8 @@
        	    </textref>
        	</textrefSet>
         <titleSet>
-            <title pref="false" type="other" xml:lang="fr">Menuet de la Mariée</title>
-            <title pref="false" type="translated" xml:lang="en">Minuet of the Bride</title>
+            <title pref="false" type="other" lang="fre">Menuet de la Mariée</title>
+            <title pref="false" type="translated" lang="eng">Minuet of the Bride</title>
             <title pref="true" source="National Gallery of Art, Washington" type="repository">Le Menuet de la mariee (The Bride's Minuet)</title>
         </titleSet>
         <worktypeSet>

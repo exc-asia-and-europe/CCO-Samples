@@ -145,8 +145,8 @@
             </textref>
         </textrefSet>
         <titleSet>
-            <title pref="false" type="descriptive" xml:lang="en">Wooden Model for the Façade of San Lorenzo, Florence</title>
-	    <title pref="true" type="repository" xml:lang="it" source="Casa Buonarroti">Modello per la facciata di San Lorenzo</title>
+            <title pref="false" type="descriptive" lang="eng">Wooden Model for the Façade of San Lorenzo, Florence</title>
+	    <title pref="true" type="repository" lang="ita" source="Casa Buonarroti">Modello per la facciata di San Lorenzo</title>
         </titleSet>
         <worktypeSet>
             <worktype refid="300047753" vocab="aat">models</worktype>

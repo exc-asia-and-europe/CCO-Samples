@@ -2,7 +2,25 @@
 
 ## Aims
 
-This project aims to make available all Cataloging Cultural Objects examples ( http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/ ) in the data standard of VRA Core ( http://www.core.vraweb.org/index.html ).
+This project aims to make available all [Cataloging Cultural Objects examples](http://cco.vrafoundation.org/index.php/toolkit/index_of_examples/), including the figures in the book, in the data standard of [VRA Core](http://www.core.vraweb.org/index.html).
+
+A table of all finished records can be found [here](https://docs.google.com/spreadsheets/d/1ClChQ71BNv5MkGBhJx-_7XUzooTRJnspFxMBbYUy7nc/edit?usp=sharing), along with links to the examples on the CCO website, links to their CONA and VRA Core records if given, and their geographical areas, timeframes and repositories listed. Those examples not yet available on the website have also been noted.
+
+## General method
+
+If there is an image record, it is found within the file of the work record it is an image of for purposes of validation. Related work records have similiarly been attached. (Please see [relation](https://docs.google.com/spreadsheets/d/1ClChQ71BNv5MkGBhJx-_7XUzooTRJnspFxMBbYUy7nc/edit?usp=sharing) column for details.)
+
+Vocabularies and codes used:
+- [Getty Vocabularies:](http://www.getty.edu/research/tools/vocabularies/index.html)
+  - Art & Architecture Thesaurus® Online ("aat")
+  - Cultural Objects Name Authority® Online ("cona")
+  - Getty Thesaurus of Geographic Names® Online ("tgn")
+  - The Getty Iconography Authority (IA) ("icon")
+- [The Virtual International Authority File ("viaf")](https://viaf.org/)
+- [Iconclass ("iconclass")](http://www.iconclass.org/)
+- [Gemeinsame Normdatei ("gnd")](https://wiki.bsz-bw.de/doku.php?id=v-team:recherche:ognd:start)
+- [Library of Congress Subject Headings ("lcsh")](http://id.loc.gov/authorities/subjects.html)
+- [MARC Code List for Relators ("marcrelator")](https://www.loc.gov/marc/relators/relaterm.html)
 
 ## Problems
 
@@ -22,7 +40,7 @@ The subject types in the CCO examples, like in Example 11, have not been incorpo
 
 ### Relation
 
-The relation of architectural to those earlier constructs they had replaced could not be properly expressed. (Example 152)
+The relation of architectural works to those earlier constructs they had replaced could not be properly expressed. (Example 152)
 
 ### Textref
 
@@ -38,7 +56,7 @@ Identifiable depicted persons have been made part of the subjectSet, in line wit
 
 #### Depicted locations
 
-Although the relationSet allows for a notation of works being copied after or depicting other works, this misses the opportunity to include the location of buildings or general views. For the purposes of this project, these have been included in the locationSet as type="other".
+Currently there is no clearly defined way to include the location of buildings or general views. For the purposes of this project, these have been included in the locationSet as type="other".
 
 #### Former owners
 

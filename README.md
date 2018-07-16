@@ -22,7 +22,7 @@ Vocabularies and codes used:
 - [Library of Congress Subject Headings ("lcsh")](http://id.loc.gov/authorities/subjects.html)
 - [MARC Code List for Relators ("marcrelator")](https://www.loc.gov/marc/relators/relaterm.html)
 
-## Problems
+## Issues
 
 Wherever possible, this project aims to include all information from the repositories in addition to what is given in the Examples. This has led to some issues of uncertainty.
 
@@ -73,3 +73,7 @@ Currently there is no proper place to note styles of writing or calligraphy for 
 ### Dating of description texts
 
 As the dataDate global attribute refers only to the date when information was entered into the record, there is no method of assigning dates to the creation of information being incorporated, such as when a catalogue entry was written by an author.
+
+### Credit lines
+
+With some hesitation, credit lines have been incorporated into the RightsSet.
